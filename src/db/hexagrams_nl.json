@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "HET SCHEPPENDE",
+    "trigramas": {
+      "superior": "Ch’ien, Het Scheppende, De Hemel",
+      "inferior": "Ch’ien, Het Scheppende, De Hemel"
+    },
+    "juicio": "Het Scheppende bewerkt verheven welslagen, bevorderend door volharding. Wie deze uitspraak ontvangt, deelt in de oerkracht van het heelal; alles hangt ervan af volhardend het goede te bevorderen op de rechte weg.",
+    "imagen": "De beweging van de hemel is vol kracht. Zo maakt de edele zich sterk en onvermoeibaar."
+  },
+  {
+    "id": 2,
+    "nombre": "HET ONTVANGENDE",
+    "trigramas": {
+      "superior": "K’un, Het Ontvangende, De Aarde",
+      "inferior": "K’un, Het Ontvangende, De Aarde"
+    },
+    "juicio": "Het Ontvangende bewerkt verheven welslagen, bevorderend door de volharding van een merrie. Als de edele wil leiden, verdwaalt hij; volgt hij echter, dan vindt hij leiding. Rustige volharding brengt heil.",
+    "imagen": "De toestand der aarde is ontvangende overgave. Zo draagt de edele met ruim wezen de buitenwereld."
+  },
+  {
+    "id": 3,
+    "nombre": "DE BEGINMOEILIJKHEID",
+    "trigramas": {
+      "superior": "K’an, Het Afgronde, Het Water",
+      "inferior": "Chên, Het Opwekkende, De Donder"
+    },
+    "juicio": "Beginmoeilijkheid bewerkt verheven welslagen door volharding. Niets moet overijld worden ondernomen. Het is bevorderlijk helpers aan te stellen.",
+    "imagen": "Wolken en donder: het beeld van de beginmoeilijkheid. Zo ontwart en ordent de edele de verwarde overvloed."
+  },
+  {
+    "id": 4,
+    "nombre": "DE JEUGDDWAASHEID",
+    "trigramas": {
+      "superior": "Ken, Het Stilhouden, De Berg",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "Jeugddwaasheid heeft welslagen. Niet ik zoek de jonge dwaas, de jonge dwaas zoekt mij. Bij de eerste vraag geef ik uitsluitsel; vraagt hij twee-, driemaal, dan is het lastigvallen.",
+    "imagen": "Aan de voet van de berg ontspringt een bron: het beeld van de jeugd. Zo verzorgt de edele zijn karakter door grondigheid."
+  },
+  {
+    "id": 5,
+    "nombre": "HET WACHTEN (HET VOEDEN)",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "Het Wachten. Als je waarachtig bent, heb je licht en welslagen. Volharding brengt heil. Het is bevorderlijk het grote water over te steken.",
+    "imagen": "Wolken stijgen op aan de hemel: het beeld van het wachten. Zo eet en drinkt de edele, opgewekt en welgemoed."
+  },
+  {
+    "id": 6,
+    "nombre": "HET CONFLICT (DE STRIJD)",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "De Strijd. Bezinning halverwege brengt heil; doorzetten tot het uiterste brengt onheil. Het is bevorderlijk de grote man te zien.",
+    "imagen": "Hemel en water bewegen zich in tegengestelde richting: het beeld van de strijd. Zo overweegt de edele bij alle zaken het begin zorgvuldig."
+  },
+  {
+    "id": 7,
+    "nombre": "HET LEGER",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "Het Leger behoeft volharding en een ervaren man. Heil zonder blaam. Ware kracht berust op rechtvaardigheid en innerlijke tucht.",
+    "imagen": "In de schoot van de aarde rust water: het beeld van het leger. Zo vermeerdert de edele zijn kracht door edelmoedigheid jegens het volk."
+  },
+  {
+    "id": 8,
+    "nombre": "DE VERENIGING (HET SAMENHOUDEN)",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "Samenhouden brengt heil. Wie aarzelt sluit zich geleidelijk aan; wie te laat komt mist het geluk.",
+    "imagen": "Op de aarde vloeit het water: het beeld van de vereniging. De oude vorsten onderhielden vriendschappelijke banden ter wille van de eenheid."
+  },
+  {
+    "id": 9,
+    "nombre": "DE TEMMENDE KRACHT VAN HET KLEINE",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "De temmende kracht van het kleine heeft welslagen. Dichte wolken, geen regen uit onze westelijke streek. Geduld bereidt de victorie voor.",
+    "imagen": "De wind waait hoog aan de hemel: het beeld van de terughoudendheid. Zo verfijnt de edele de uiterlijke vorm van zijn wezen."
+  },
+  {
+    "id": 10,
+    "nombre": "HET OPTREDEN (HET TREDEN)",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "Treden op de staart van de tijger: hij bijt de mens niet. Welslagen. Kalme hoffelijkheid overwint gevaren zonder letsel.",
+    "imagen": "Boven de hemel, beneden het meer: het beeld van het optreden. Zo onderscheidt de edele hoog en laag en brengt vrede in de gemeenschap."
+  },
+  {
+    "id": 11,
+    "nombre": "DE VREDE",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "Het kleine wijkt, het grote nadert. Heil en welslagen. Hemel en aarde verenigen zich in harmonie.",
+    "imagen": "Hemel en aarde ontmoeten elkaar: het beeld van de vrede. Zo regelt de vorst de loop der tijden en zegent het volk."
+  },
+  {
+    "id": 12,
+    "nombre": "DE STILSTAND",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "De Stilstand. Het grote wijkt, het kleine nadert. De edele trekt zich terug in zijn innerlijke waardigheid en mijdt corruptie.",
+    "imagen": "Hemel en aarde ontmoeten elkaar niet: het beeld van de stilstand. De wijze bewaart zijn deugd in de stilte."
+  },
+  {
+    "id": 13,
+    "nombre": "GEMEENSCHAP MET MENSEN",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "Gemeenschap met mensen in het open veld: welslagen. Het is bevorderlijk het grote water over te steken.",
+    "imagen": "Hemel en vuur trekken samen op: het beeld van gemeenschap. Zo ordent de edele de geledingen en verheldert de verhoudingen."
+  },
+  {
+    "id": 14,
+    "nombre": "HET GROTE BEZIT",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "Het grote bezit. Verheven welslagen. Innerlijke kracht gepaard aan helder inzicht brengt overvloed ten bate van allen.",
+    "imagen": "Vuur hoog aan de hemel: het beeld van het grote bezit. Zo onderdrukt de edele het kwade en bevordert het goede."
+  },
+  {
+    "id": 15,
+    "nombre": "DE BESCHEIDENHEID",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "Bescheidenheid brengt welslagen. De edele brengt zijn werk tot een goed einde. Het hemelse recht verlaagt wat vol is en vult het nederige.",
+    "imagen": "In de aarde rust de berg: het beeld van bescheidenheid. Zo vermindert de edele het teveel en vult het tekort aan."
+  },
+  {
+    "id": 16,
+    "nombre": "HET ENTHOUSIASME",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "Het Enthousiasme. Het is bevorderlijk helpers aan te stellen en heerscharen in beweging te zetten.",
+    "imagen": "De donder breekt weerklinkend uit de aarde: het beeld van enthousiasme. Zo schiepen de koningen muziek ter ere van het hoogste."
+  },
+  {
+    "id": 17,
+    "nombre": "HET VOLGEN",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "Het Volgen heeft verheven welslagen. Volharding is bevorderlijk; geen blaam. Wie leidt, moet eerst kunnen dienen.",
+    "imagen": "De donder rust midden in het meer: het beeld van het volgen. Zo keert de edele des avonds in tot rust en bezinning."
+  },
+  {
+    "id": 18,
+    "nombre": "HET WERK AAN HET BEDORVENE",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "Sun, De Wind"
+    },
+    "juicio": "Het werk aan het bedorvene heeft verheven welslagen. Drie dagen voor het begin, drie dagen na het begin: bezonnenheid heelt oude fouten.",
+    "imagen": "De wind waait aan de voet van de berg: het beeld van het bedorvene. Zo schudt de edele de mensen wakker en sterkt hun geest."
+  },
+  {
+    "id": 19,
+    "nombre": "DE NADERING",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "De Nadering heeft verheven welslagen. Volharding is bevorderlijk. In de achtste maand volgt neergang: wees voorbereid.",
+    "imagen": "Boven het meer ligt de aarde: het beeld van de nadering. De edele is onuitputtelijk in zijn wil tot onderrichten en beschermen."
+  },
+  {
+    "id": 20,
+    "nombre": "HET BESCHOUWEN",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "Het Beschouwen. De wassing is volbracht, doch nog niet het offer. Vol vertrouwen blikt men opwaarts.",
+    "imagen": "De wind waait over de wijde aarde: het beeld van het beschouwen. De oude koningen reisden rond om het volk te leren."
+  },
+  {
+    "id": 21,
+    "nombre": "HET DOORBIJTEN",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "Het Doorcrossen heeft welslagen. Het is bevorderlijk recht te doen gelden en hindernissen vastberaden weg te nemen.",
+    "imagen": "Donder en bliksem: het beeld van het doorbijten. Zo vestigden de wijze heersers de wetten met heldere vonnissen."
+  },
+  {
+    "id": 22,
+    "nombre": "DE SIERLIJKHEID (DE VORM)",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "Sierlijkheid brengt welslagen. In kleine zaken is handelen bevorderlijk; uiterlijke schoonheid siert, doch diepgang beslist.",
+    "imagen": "Aan de voet van de berg brandt vuur: het beeld van sierlijkheid. Zo verheldert de edele de lopende zaken."
+  },
+  {
+    "id": 23,
+    "nombre": "HET UITEENVALLEN",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "Het Uiteenvallen. Het is niet bevorderlijk ergens heen te gaan. De wijze bewaart rust in afwachting van betere tijden.",
+    "imagen": "De berg rust op de aarde: het beeld van het uiteenvallen. De oversten beveiligen hun positie door edelmoedigheid."
+  },
+  {
+    "id": 24,
+    "nombre": "DE TERUGKEER (HET KEERPUNT)",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "De Terugkeer. Welslagen. Uitgaan en ingaan zonder fout. Op de zevende dag sluit zich de kringloop van het licht.",
+    "imagen": "De donder rust diep in de aarde: het beeld van de terugkeer. De vorsten sloten op de zonnewendedag de grenzen ter inkeer."
+  },
+  {
+    "id": 25,
+    "nombre": "DE ONBEVLEKTHEID (HET ONVERWACHTE)",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "De Onbevlektheid. Verheven welslagen door zuiver, oprecht handelen zonder berekende eigenbaat.",
+    "imagen": "Onder de hemel beweegt de donder: het beeld van onbevlektheid. De heersers verzorgden alle wezens in harmonie met het seizoen."
+  },
+  {
+    "id": 26,
+    "nombre": "DE TEMMENDE KRACHT VAN HET GROTE",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "De temmende kracht van het grote. Niet thuis eten brengt heil; oversteken van het grote water is bevorderlijk.",
+    "imagen": "De hemel rust in de berg: het beeld van verzamelde kracht. De edele leert van de ouden om zijn deugd te sterken."
+  },
+  {
+    "id": 27,
+    "nombre": "DE MONDHOEKEN (HET VOEDEN)",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "De Mondhoeken. Volharding brengt heil. Let op wat gij tot u neemt en waarmee gij anderen voedt.",
+    "imagen": "Onder de berg klinkt de donder: het beeld van voeding. De edele waakt over zijn woorden en matigt zich in spijs en drank."
+  },
+  {
+    "id": 28,
+    "nombre": "HET OVERWICHT VAN HET GROTE",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "Sun, Het Hout, De Wind"
+    },
+    "juicio": "Het Overwicht. De nokbalk buigt door. Welslagen door veerkracht en behoedzame overgang.",
+    "imagen": "Het water stijgt boven de bomen uit: het beeld van overgewicht. De edele staat onwrikbaar, zelfs al blijft hij alleen."
+  },
+  {
+    "id": 29,
+    "nombre": "HET AFGRONDELIJKE (HET WATER)",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "Het Afgrondelijke herhaald. Met een oprecht hart heb je welslagen in alles wat je onderneemt.",
+    "imagen": "Water vloeit gestaag en bereikt zijn doel: het beeld van het afgrondelijke. Zo volhardt de edele in de deugd."
+  },
+  {
+    "id": 30,
+    "nombre": "HET HECHTENDE (HET VUUR)",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "Het Hechtende. Volharding brengt welslagen. Het verzorgen van de koe brengt heil.",
+    "imagen": "De vlam stijgt dubbel op: het beeld van vuur. De edele verlicht de wereld door aanhoudende klaarheid."
+  },
+  {
+    "id": 31,
+    "nombre": "DE INWERKING (HET HOFMAKEN)",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "De Inwerking. Welslagen. Volharding is bevorderlijk. Wederzijdse ontvankelijkheid sticht duurzame vrede.",
+    "imagen": "Boven op de berg rust het meer: het beeld van inwerking. De edele ontvangt de mensen met een open gemoed."
+  },
+  {
+    "id": 32,
+    "nombre": "DE DUUR",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "Sun, De Wind"
+    },
+    "juicio": "De Duur. Welslagen zonder wroeging. Volharding brengt heil. Trouwe vernieuwing bewaart het wezenlijke.",
+    "imagen": "Donner en wind treden samen op: het beeld van duur. De edele staat vast en wijkt niet af van zijn koers."
+  },
+  {
+    "id": 33,
+    "nombre": "DE TERUGTOCHT",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "De Terugtocht. Welslagen. Voor de edele is volharding bevorderlijk. Tijdige terugtocht bewaart de krachten.",
+    "imagen": "Onder de hemel verheft zich de berg, doch de hemel wijkt omhoog: het beeld van terugtocht. De edele houdt het lage op afstand met waardigheid."
+  },
+  {
+    "id": 34,
+    "nombre": "DE MACHT VAN HET GROTE",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "De macht van het grote. Volharding is bevorderlijk. Ware grootheid blijft verbonden met rechtvaardigheid.",
+    "imagen": "De donder staat hoog aan de hemel: het beeld van de macht van het grote. Zo wandelt de edele niet op paden die tegen de orde indruisen."
+  },
+  {
+    "id": 35,
+    "nombre": "DE VOORUITGANG",
+    "trigramas": {
+      "superior": "Li, Het Vuur, De Zon",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "De Vooruitgang. De zon rijst boven de aarde. Zuivere toewijding brengt voorspoed.",
+    "imagen": "De zon gaat stralend op over de aarde: het beeld van vooruitgang. De edele doet zijn lichte gaven zelf schijnen."
+  },
+  {
+    "id": 36,
+    "nombre": "DE VERDUISTERING VAN HET LICHT",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "De Verduistering van het licht. In tijden van verdrukking is het bevorderlijk innerlijk standvastig te blijven.",
+    "imagen": "Het licht is in de aarde verzonken: het beeld van verduistering. De edele verhult zijn schittering en bewaart zijn helderheid in stilte."
+  },
+  {
+    "id": 37,
+    "nombre": "DE FAMILIE",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "De Familie. Vaste trouw en eerbied schragen het huis. Vrede in het gezin brengt zegen in de staat.",
+    "imagen": "De wind komt voort uit het vuur: het beeld van de familie. De edele legt gewicht in zijn woorden en duurzaamheid in zijn gedrag."
+  },
+  {
+    "id": 38,
+    "nombre": "DE TEGENSTELLING",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "De Tegenstelling. In kleine dingen heil. Polariteit schept het levensspel; geduld overbrugt verschillen.",
+    "imagen": "Boven het vuur, beneden het meer: het beeld van tegenstelling. De edele bewaart zijn eigenheid te midden van de gemeenschap."
+  },
+  {
+    "id": 39,
+    "nombre": "DE HINDERPAL (HET OBSTAKEL)",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "De Hinderpaal. Het zuidwesten is bevorderlijk. Zelfonderzoek sterkt het karakter.",
+    "imagen": "Water op de berg: het beeld van het obstakel. De edele keert in tot zichzelf en volmaakt zijn deugd."
+  },
+  {
+    "id": 40,
+    "nombre": "DE BEVRIJDING",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "De Bevrijding. Het zuidwesten is bevorderlijk. Spanning lost zich op zoals verkwikkende regen.",
+    "imagen": "Donder en regen zuiveren de lucht: het beeld van bevrijding. De edele vergeeft overtredingen en scheldt schuld kwijt."
+  },
+  {
+    "id": 41,
+    "nombre": "DE VERMINDERING",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "Vermindering met oprechtheid bewerkt verheven welslagen zonder blaam. Eenvoud verrijkt de geest.",
+    "imagen": "Aan de voet van de berg ligt het meer: het beeld van vermindering. De edele beteugelt toorn en matigt begeerten."
+  },
+  {
+    "id": 42,
+    "nombre": "DE VERMEERDERING",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "De Vermeerdering. Het is bevorderlijk het grote water over te steken wanneer welwillendheid heerst.",
+    "imagen": "Wind en donder versterken elkaar: het beeld van vermeerdering. Ziet de edele het goede, dan volgt hij het na; heeft hij fouten, dan legt hij ze af."
+  },
+  {
+    "id": 43,
+    "nombre": "DE DOORBRAAK",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "Ch’ien, De Hemel"
+    },
+    "juicio": "De Doorbraak. Vastberadenheid is vereist. Niet de wapens, maar heldere deugd overwint het kwaad.",
+    "imagen": "Het meer is ten hemel gestegen: het beeld van de doorbraak. De edele deelt zijn rijkdom uit naar beneden."
+  },
+  {
+    "id": 44,
+    "nombre": "DE ONTMOETING",
+    "trigramas": {
+      "superior": "Ch’ien, De Hemel",
+      "inferior": "Sun, De Wind"
+    },
+    "juicio": "De Ontmoeting. Het meisje is machtig; men moet haar niet huwen. Weer de eerste kwalijke invloeden.",
+    "imagen": "Onder de hemel waait de wind: het beeld van de ontmoeting. De vorst verkondigt zijn wetten naar alle windstreken."
+  },
+  {
+    "id": 45,
+    "nombre": "DE SAMENKOMST",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "K’un, De Aarde"
+    },
+    "juicio": "De Samenkomst. Welslagen. De koning nadert de tempel. Waardigheid verenigt de gemeenschap.",
+    "imagen": "Het meer rust op de aarde: het beeld van samenkomst. De edele wapent zich tegen het onverwachte."
+  },
+  {
+    "id": 46,
+    "nombre": "HET OPSTIJGEN",
+    "trigramas": {
+      "superior": "K’un, De Aarde",
+      "inferior": "Sun, Het Hout, De Wind"
+    },
+    "juicio": "Het Opstijgen heeft verheven welslagen. Gestage groei in harmonie met de tijd brengt voorspoed.",
+    "imagen": "Midden in de aarde wast de boom op: het beeld van opstijgen. De edele bouwt met kleine stappen aan het grote."
+  },
+  {
+    "id": 47,
+    "nombre": "DE BEDRUKTHEID",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "De Bedruktheid. Welslagen door volharding. Zelfs in nood blijft de edele trouw aan zichzelf.",
+    "imagen": "Het meer is leeggelopen: het beeld van uitputting. De edele waagt zijn leven om zijn doel trouw te blijven."
+  },
+  {
+    "id": 48,
+    "nombre": "DE PUT",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "Sun, De Wind, Het Hout"
+    },
+    "juicio": "De Put. Steden veranderen, maar de bron van het leven blijft onveranderlijk stromen.",
+    "imagen": "Water boven het hout: het beeld van de put. De edele moedigt het volk aan tot eensgezindheid."
+  },
+  {
+    "id": 49,
+    "nombre": "DE WENTELING (DE REVOLUTIE)",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "De Wenteling. Eerst op de bestemde dag vindt men geloof. Grote hervormingen moeten rijpen met de tijd.",
+    "imagen": "In het meer laait vuur: het beeld van omwenteling. De edele ordent de tijd en verheldert de seizoenen."
+  },
+  {
+    "id": 50,
+    "nombre": "DE KETEL",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "Sun, Het Hout"
+    },
+    "juicio": "De Ketel. Hoogste heil. Welslagen. Geestelijke cultuur wijdt het leven en harmonieert met de kosmos.",
+    "imagen": "Boven het hout brandt het vuur: het beeld van de ketel. De edele bevestigt zijn bestemming door zijn juiste plaats in te nemen."
+  },
+  {
+    "id": 51,
+    "nombre": "HET OPWEKKENDE (DE DONDER)",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "Chên, De Donder"
+    },
+    "juicio": "Het Opwekkende brengt welslagen. Schrik brengt vrees, doch de wijze laat de offerschaal niet vallen.",
+    "imagen": "Herhaalde donder: het beeld van het opwekkende. In ontzag ordent de edele zijn leven en toetst zijn geweten."
+  },
+  {
+    "id": 52,
+    "nombre": "HET STILHOUDEN (DE BERG)",
+    "trigramas": {
+      "superior": "Ken, De Berg",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "Stilhouden van de rug. Ware rust weet wanneer te zwijgen en wanneer te handelen.",
+    "imagen": "Aaneengeschakelde bergen: het beeld van stilhouden. De edele laat zijn gedachten niet buiten zijn toestand dwalen."
+  },
+  {
+    "id": 53,
+    "nombre": "DE GELEIDELIJKE VOORUITGANG",
+    "trigramas": {
+      "superior": "Sun, Het Hout, De Wind",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "De Geleidelijke Voortgang. Het meisje wordt ten huwelijk gegeven. Heil door geduldige orde.",
+    "imagen": "Op de berg groeit de boom: het beeld van geleidelijke wasdom. De edele veredelt de zeden door standvastigheid."
+  },
+  {
+    "id": 54,
+    "nombre": "HET HUWENDE MEISJE",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "Het huwende meisje. Ondernemingen brengen onheil. Kiesheid en tact wenden tweedracht af.",
+    "imagen": "De donder over het meer: het beeld van het huwende meisje. De edele beziet het vergankelijke in het licht van het eeuwige."
+  },
+  {
+    "id": 55,
+    "nombre": "DE OVERVLOED",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "Li, Het Vuur, Het Licht"
+    },
+    "juicio": "De Overvloed heeft welslagen. Wees als de middagzon: heers met gerechtigheid en vrijgevigheid.",
+    "imagen": "Donder en bliksem treden samen op: het beeld van overvloed. De edele beslecht geschillen met heldere rechtvaardigheid."
+  },
+  {
+    "id": 56,
+    "nombre": "DE ZWERVER",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "De Zwerver. Welslagen in het kleine. In den vreemde behoedt bescheidenheid voor rampspoed.",
+    "imagen": "Op de berg brandt vuur en trekt verder: het beeld van de zwerver. De edele is behoedzaam bij het opleggen van straffen."
+  },
+  {
+    "id": 57,
+    "nombre": "HET ZACHTE (HET INDRINGENDE)",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "Sun, De Wind"
+    },
+    "juicio": "Het Zachte. Welslagen door het kleine. Aanhoudende zachte invloed vormt de geesten ten diepste.",
+    "imagen": "Elkaar opvolgende winden: het beeld van het zachte. Zo verspreidt de edele zijn bevelen en voltooit zijn werken."
+  },
+  {
+    "id": 58,
+    "nombre": "HET BLIJE (HET MEER)",
+    "trigramas": {
+      "superior": "Tui, Het Meer",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "Het Blije. Welslagen door volharding. Oprechte hartelijkheid wint de harten.",
+    "imagen": "Meren in elkaars nabijheid: het beeld van vreugde. De edele komt met vrienden bijeen tot lering en oefening."
+  },
+  {
+    "id": 59,
+    "nombre": "DE ONTBINDING",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "De Ontbinding. Welslagen. Geestelijke eenheid smelt verharding en zelfzucht als ijs in de lente.",
+    "imagen": "De wind waait over het water: het beeld van ontbinding. De koningen wijdden tempels ter verzoening der zielen."
+  },
+  {
+    "id": 60,
+    "nombre": "DE MATIGING (DE GRENS)",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "De Matiging. Welslagen. Een bittere beperking moet niet krampachtig worden gehandhaafd.",
+    "imagen": "Boven het meer staat het water: het beeld van matiging. De edele schept maat en getal ter bepaling van deugd."
+  },
+  {
+    "id": 61,
+    "nombre": "INNERLIJKE WAARACHTIGHEID",
+    "trigramas": {
+      "superior": "Sun, De Wind",
+      "inferior": "Tui, Het Meer"
+    },
+    "juicio": "Innerlijke waarachtigheid raakt zelfs varkens en vissen. Heil door onbevangen oprechtheid.",
+    "imagen": "De wind rimpelt het meer: het beeld van innerlijke waarachtigheid. De edele oordeelt met clementie."
+  },
+  {
+    "id": 62,
+    "nombre": "HET OVERWICHT VAN HET KLEINE",
+    "trigramas": {
+      "superior": "Chên, De Donder",
+      "inferior": "Ken, De Berg"
+    },
+    "juicio": "Het overwicht van het kleine. Welslagen. Kleine dingen mag men doen, grote niet. Blijf nederig.",
+    "imagen": "De donder rommelt op de berg: het beeld van het kleine. De edele betoont eerbied in omgang en zuinigheid in uitgaven."
+  },
+  {
+    "id": 63,
+    "nombre": "NA DE VOLTOOIING",
+    "trigramas": {
+      "superior": "K’an, Het Water",
+      "inferior": "Li, Het Vuur"
+    },
+    "juicio": "Na de Voltooiing. Welslagen in het kleine. Waakzaamheid beveiligt tegen sluipend verval.",
+    "imagen": "Water kookt op het vuur: het beeld van na de voltooiing. De edele overweegt het onheil en wapent zich tijdig."
+  },
+  {
+    "id": 64,
+    "nombre": "VOOR DE VOLTOOIING",
+    "trigramas": {
+      "superior": "Li, Het Vuur",
+      "inferior": "K’an, Het Water"
+    },
+    "juicio": "Voor de Voltooiing. Welslagen. Behoedzaamheid tot aan de overkant leidt naar de victorie.",
+    "imagen": "Het vuur brandt hoog, het water stroomt laag: het beeld van voor de voleinding. De edele ordent de dingen zorgvuldig."
+  }
+]

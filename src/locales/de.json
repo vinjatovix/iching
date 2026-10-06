@@ -1,0 +1,53 @@
+{
+  "app": {
+    "themeToggleLight": "Zum hellen Modus wechseln",
+    "themeToggleDark": "Zum dunklen Modus wechseln",
+    "themeToggleAria": "Helles und dunkles Thema umschalten"
+  },
+  "clock": {
+    "ariaLabel": "Analoge Uhr",
+    "currentTime": "Aktuelle Uhrzeit:"
+  },
+  "oracle": {
+    "title": "I-Ging-Orakel",
+    "subtitle": "Bitte verwenden Sie dieses Orakel mit Respekt und Vorsicht.",
+    "note": "Stellen Sie Ihre Frage mit Aufrichtigkeit.",
+    "clearReadings": "Lesungen löschen",
+    "historyAria": "Verlauf der Abfragen",
+    "loading": "Das Orakel wird befragt..."
+  },
+  "form": {
+    "questionLabel": "Frage an das Orakel",
+    "placeholder": "Was beunruhigt Sie?",
+    "submit": "Befragen"
+  },
+  "reading": {
+    "readingFor": "Lesung für: \"{{question}}\"",
+    "initialHexagram": "Anfängliches Hexagramm",
+    "primaryHexagram": "Haupthexagramm",
+    "mutatesTo": "Wandelt sich in"
+  },
+  "card": {
+    "hexagram": "Hexagramm",
+    "superior": "Oberes",
+    "inferior": "Unteres",
+    "judgment": "Das Urteil",
+    "image": "Das Bild"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română",
+    "pt": "Português",
+    "de": "Deutsch",
+    "el": "Ελληνικά",
+    "nl": "Nederlands",
+    "pl": "Polski",
+    "sv": "Svenska"
+  }
+}

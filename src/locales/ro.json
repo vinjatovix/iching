@@ -1,0 +1,47 @@
+{
+  "app": {
+    "themeToggleLight": "Comută la modul luminos",
+    "themeToggleDark": "Comută la modul întunecat",
+    "themeToggleAria": "Comută între tema luminoasă și întunecată"
+  },
+  "clock": {
+    "ariaLabel": "Ceas analogic",
+    "currentTime": "Ora curentă:"
+  },
+  "oracle": {
+    "title": "Oracolul I Ching",
+    "subtitle": "Vă rugăm să folosiți acest oracol cu respect și prudență.",
+    "note": "Formulați-vă întrebarea cu sinceritate.",
+    "clearReadings": "Șterge citirile",
+    "historyAria": "Istoricul consultărilor",
+    "loading": "Se consultă oracolul..."
+  },
+  "form": {
+    "questionLabel": "Întrebare pentru oracol",
+    "placeholder": "Ce te frământă?",
+    "submit": "Consultă"
+  },
+  "reading": {
+    "readingFor": "Citire pentru: \"{{question}}\"",
+    "initialHexagram": "Hexagrama Inițială",
+    "primaryHexagram": "Hexagrama Principală",
+    "mutatesTo": "Se transformă în"
+  },
+  "card": {
+    "hexagram": "Hexagramă",
+    "superior": "Superior",
+    "inferior": "Inferior",
+    "judgment": "Judecata",
+    "image": "Imaginea"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română"
+  }
+}

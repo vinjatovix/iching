@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "O CRIATIVO",
+    "trigramas": {
+      "superior": "Ch’ien, o Criativo, o Céu",
+      "inferior": "Ch’ien, o Criativo, o Céu"
+    },
+    "juicio": "O Criativo opera com sucesso sublime, favorecido pela perseverança. Receberá uma participação do sucesso proveniente das profundezas subjacentes aos acontecimentos do universo, onde tudo depende de buscar a própria felicidade e a dos outros perseverando no caminho correto. Segundo o significado principal, os atributos (sublime, bem-sucedido, propício, persistente) movem-se em pares. Para quem obtém esta resposta do oráculo, significa que receberá uma participação do sucesso proveniente das profundezas cósmicas, e que tudo repousa na constância e na retidão. A palavra 'sublime' traduz a ideia de origem, cabeça e grandeza. Como afirma o comentário de Confúcio: 'Grande é o poder original do Criador; todos os seres devem a ele o seu princípio, e essa energia penetra todo o céu'. Este princípio primordial fecunda os demais atributos. O surgimento de todas as coisas repousa primeiro no plano das ideias para depois alcançar a manifestação tangível. Mas no Criativo já reside o poder formador: eis o sentido de 'bem-sucedido'. Este movimento assemelha-se às forças da natureza: 'As nuvens passam, a chuva opera e cada ser individual flui na sua forma própria'. No mundo humano, estes atributos ensinam ao homem nobre o rumo da realização maior: contemplando causas e efeitos com clareza, completa a seu tempo os seis graus da transformação e ascende aos céus no instante oportuno, como sobre seis dragões. O caminho do êxito é o reconhecimento e a realização do Tao universal.",
+    "imagen": "O movimento dos céus é vigoroso e infatigável. Assim, o homem nobre torna-se forte e perseverante. Como há apenas um céu, a repetição do signo Ch’ien indica o movimento contínuo da abóbada celeste. O ciclo perfeito dos astros constitui a medida do tempo. O sábio espelha-se nessa constância para dar durabilidade às suas realizações, fortalecendo o seu caráter e harmonizando os seus atos com o bom senso."
+  },
+  {
+    "id": 2,
+    "nombre": "O RECEPTIVO",
+    "trigramas": {
+      "superior": "K’un, o Receptivo, a Terra",
+      "inferior": "K’un, o Receptivo, a Terra"
+    },
+    "juicio": "O Receptivo engendra um sucesso sublime, favorecido pela perseverança de uma égua. Se o homem nobre tentar guiar, perderá o rumo; mas se aceitar ser guiado, encontrará a direção justa. É vantajoso buscar aliados no sudoeste e retirar-se dos do nordeste. A tranquilidade e a constância trazem boa fortuna. O Receptivo representa a realidade espacial que acolhe o impulso espiritual do Criativo. A égua simboliza tanto a agilidade quanto a docilidade e a devoção. Aplicado aos assuntos humanos, indica a sabedoria de agir em consonância com as circunstâncias: não buscando assumir a liderança à força, mas servindo com discernimento, acolhendo o destino com serenidade.",
+    "imagen": "A natureza da terra é a acolhida serena e generosa. Assim, o homem nobre, dotado de espírito amplo e nobreza de caráter, sustenta o mundo exterior. A terra carrega a todos com benevolência e sem distinções; de igual modo, o sábio educa o seu temperamento para ser amplo, paciente e firme, capaz de acolher e sustentar as pessoas e os acontecimentos."
+  },
+  {
+    "id": 3,
+    "nombre": "A DIFICULDADE INICIAL",
+    "trigramas": {
+      "superior": "K’an, o Abismo, a Água",
+      "inferior": "Chên, o Movimento, o Trovão"
+    },
+    "juicio": "A dificuldade inicial traz um sucesso sublime através da perseverança. Nada deve ser empreendido precipitadamente; convém nomear auxiliares. Os períodos de gestação e nascimento vêm acompanhados de incerteza. Diante do caos inicial, a ação desmedida produz fracasso, sendo necessário manter a calma, articular alianças sólidas e estruturar pacientemente o caminho antes de avançar.",
+    "imagen": "Nuvens e trovão: a imagem da dificuldade no início. Assim procede o homem nobre, desembaraçando os fios e colocando ordem no caos, como quem separa as meadas de seda com precisão e método."
+  },
+  {
+    "id": 4,
+    "nombre": "A INEXPERIÊNCIA JUVENIL",
+    "trigramas": {
+      "superior": "Ken, a Imobilidade, a Montanha",
+      "inferior": "K’an, o Abismo, a Água"
+    },
+    "juicio": "A inexperiência juvenil alcança o sucesso. Não sou eu quem busca o jovem ignorante, é o jovem quem deve buscar o mestre. Na primeira consulta, concedo orientação; se insistir de forma importuna ou leviana, não receberei a sua dúvida. A perseverança traz discernimento. A fraqueza da mocidade é natural, mas exige atitude humilde e respeitosa perante o saber autêntico para gerar frutos.",
+    "imagen": "Ao sopé da montanha brota uma fonte: imagem da juventude e do potencial em desabrochar. Assim, o homem nobre desenvolve o seu caráter com paciência e meticulosidade em cada ação, preenchendo todos os vazios ao longo do seu caminho."
+  },
+  {
+    "id": 5,
+    "nombre": "A ESPERA (A NUTRICAO)",
+    "trigramas": {
+      "superior": "K’an, o Abismo, a Água",
+      "inferior": "Ch’ien, o Criativo, o Céu"
+    },
+    "juicio": "A Espera. Com sinceridade e firmeza, alcança-se a clareza e o sucesso. A perseverança traz ventura; é favorável cruzar as grandes águas. Esperar não é desistir nem nutrir ilusões vazias, mas acumular vigor interior enquanto os acontecimentos amadurecem. Diante de perigos inevitáveis, o discernimento e a coragem lúcida preparam o momento certo de agir.",
+    "imagen": "As nuvens sobem aos céus: o prenúncio da chuva e a imagem da Espera. O homem nobre alimenta-se, descansa e mantém o espírito alegre e sereno, confiante de que o tempo certo chegará por si só."
+  },
+  {
+    "id": 6,
+    "nombre": "O CONFLITO",
+    "trigramas": {
+      "superior": "Ch’ien, o Céu",
+      "inferior": "K’an, a Água"
+    },
+    "juicio": "O Conflito. Mesmo tendo convicção interior, surgem resistências e oposições. Deter-se prudentemente a meio caminho traz boa sorte; levar a disputa até as últimas consequências traz desgraça. É vantajoso buscar a mediação de uma pessoa sábia e imparcial. Não convém atravessar as grandes águas em meio à discórdia.",
+    "imagen": "O céu move-se para o alto e a água corre para baixo: direções opostas que retratam a origem do Conflito. Por isso, o homem nobre pondera cuidadosamente os princípios e acordos desde o princípio de qualquer empreendimento."
+  },
+  {
+    "id": 7,
+    "nombre": "O EXÉRCITO",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "K’an, a Água"
+    },
+    "juicio": "O Exército requer disciplina, perseverança e liderança justa. Fortuna sem reprovação. Uma força coletiva necessita de propósito nobre e de um líder experiente que conquiste o coração e o entusiasmo do povo, evitando que a firmeza degenere em opressão injusta.",
+    "imagen": "No seio da terra oculta-se a água: a imagem do Exército. O homem nobre multiplica o seu poder sendo generoso e protetor com o povo, alicerçando a força coletiva na justiça social."
+  },
+  {
+    "id": 8,
+    "nombre": "A SOLIDARIEDADE (A UNIÃO)",
+    "trigramas": {
+      "superior": "K’an, a Água",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "A Solidariedade traz boa fortuna. Examine a si mesmo no oráculo para saber se possui a grandeza e a constância necessárias para ser o centro da união. Aqueles que hesitam acabam por aproximar-se; os que chegam tarde demais sofrem o infortúnio da exclusão.",
+    "imagen": "A água estende-se sobre a terra: a imagem da Solidariedade e da União mútua. Os sábios governantes cultivavam vínculos fraternos, compreendendo que a verdadeira autoridade nasce do interesse e benefício comuns."
+  },
+  {
+    "id": 9,
+    "nombre": "O PODER DOMINADOR DO PEQUENO",
+    "trigramas": {
+      "superior": "Sun, o Suave, o Vento",
+      "inferior": "Ch’ien, o Criativo, o Céu"
+    },
+    "juicio": "O poder domesticador do pequeno obtém sucesso. Nuvens densas, mas nenhuma chuva vinda da nossa região ocidental. A hora de uma transformação em grande escala ainda não despontou; os obstáculos no caminho exigem sutileza e paciência. Como nuvens que prometem orvalho à terra sem ainda descarregar a tempestade, o momento requer persuasão bondosa e medidas moderadas em raio circunscrito. A força interior unida à flexibilidade exterior prepara a vitória futura.",
+    "imagen": "O vento sopra no alto do céu: a imagem do poder contido do pequeno. Assim, o homem nobre aprimora a beleza e o refinamento do seu ser e cuida dos pormenores na sua conduta."
+  },
+  {
+    "id": 10,
+    "nombre": "A MARCHA (A CONDUTA)",
+    "trigramas": {
+      "superior": "Ch’ien, o Céu",
+      "inferior": "Tui, o Jubiloso, o Lago"
+    },
+    "juicio": "Pisar na cauda do tigre: ele não morde o homem. Sucesso. A situação exige extrema destreza ao lidar com forças poderosas ou personalidades difíceis. Se a abordagem for serena, respeitosa e alegre, mesmo diante de grandes perigos e temperamentos ariscos, alcança-se a meta sem ferimentos.",
+    "imagen": "O céu em cima e o lago em baixo: a imagem da Conduta correta. Assim, o homem nobre distingue as posições sociais e harmoniza as aspirações do povo, agindo com reverência e perfeita cortesia."
+  },
+  {
+    "id": 11,
+    "nombre": "A PAZ (A PROSPERIDADE)",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "Ch’ien, o Céu"
+    },
+    "juicio": "O pequeno vai e o grande vem. Boa fortuna e sucesso. O céu desce em direção à terra e a terra eleva-se ao encontro do céu: as suas virtudes unem-se em íntima harmonia. É tempo de florescimento, concórdia e cooperação mútua. Os homens sábios ocupam posições de influência, e os maus curvam-se perante o exemplo da retidão.",
+    "imagen": "Céu e terra unem as suas forças: a imagem da Paz. O soberano divide e conclui o curso das estações celestes e terrenas, distribuindo as bênçãos e favorecendo a abundância para todo o povo."
+  },
+  {
+    "id": 12,
+    "nombre": "A ESTAGNAÇÃO (O DECLÍNIO)",
+    "trigramas": {
+      "superior": "Ch’ien, o Céu",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "A Estagnação. Pessoas indignas não favorecem a perseverança do homem nobre. O grande parte e o pequeno aproxima-se. Céu e terra distanciam-se e nada frutifica. A desconfiança e o desgoverno dominam o meio exterior. O sábio recusa concessões fáceis, resguarda o seu valor em silêncio e retira-se da cena pública para proteger os seus princípios.",
+    "imagen": "Céu e terra não se encontram: a imagem do Estancamento. O homem nobre recolhe-se à sua dignidade interior para afastar-se do perigo, recusando benesses ou honrarias corruptas."
+  },
+  {
+    "id": 13,
+    "nombre": "A COMUNIDADE (A FRATERNIDADE)",
+    "trigramas": {
+      "superior": "Ch’ien, o Céu",
+      "inferior": "Li, o Fogo"
+    },
+    "juicio": "A união com os homens em plena praça pública traz sucesso. É favorável atravessar a grande corrente. A perseverança do homem nobre é benéfica. A verdadeira união humana funda-se em valores universais e não em conchavos sectários ou interesses egoístas. Sob a luz de um propósito nobre e de liderança lúcida, até as tarefas mais árduas são coroadas de vitória.",
+    "imagen": "O céu caminha junto ao fogo: a imagem da Fraternidade Universal. O homem nobre preserva a harmonia social estabelecendo distinções claras e orgânicas entre as funções de cada membro da comunidade."
+  },
+  {
+    "id": 14,
+    "nombre": "A GRANDE POSSE",
+    "trigramas": {
+      "superior": "Li, a Chama, o Fogo",
+      "inferior": "Ch’ien, o Criativo, o Céu"
+    },
+    "juicio": "Posse em grande abundância. Sucesso sublime. A força interior une-se à clareza exterior. A posse autêntica do homem nobre decorre do desapego e da benevolência desinteressada, canalizando a riqueza e o prestígio para o amparo de todos.",
+    "imagen": "O fogo brilha no alto do firmamento: a imagem da Grande Posse. O homem nobre reprime o mal, enaltece o bem e curva-se à generosa vontade do céu."
+  },
+  {
+    "id": 15,
+    "nombre": "A MODÉSTIA (A HUMILDADE)",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "A modéstia conduz ao sucesso. O homem nobre leva as suas obras a bom termo. A lei dos céus esvazia o excesso e preenche o humilde; assim como as águas esculpem as altas montanhas e enchem os vales, os homens reverenciam a simplicidade e repelem a jactância. O sábio atua com eficácia sem jamais alardear os seus méritos.",
+    "imagen": "No seio da terra ergue-se a montanha: a imagem da modéstia genuína. O homem nobre diminui o supérfluo, supre as carências e equilibra todas as medidas com perfeita equidade."
+  },
+  {
+    "id": 16,
+    "nombre": "O ENTUSIASMO",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "O entusiasmo. É favorável arregimentar forças e pôr os exércitos em movimento. Quando a liderança compreende os anseios do povo e ressoa em harmonia com as leis da vida, a cooperação desperta de modo voluntário e ardente, superando qualquer resistência.",
+    "imagen": "O trovão irrompe ressoando das entranhas da terra: a imagem do Entusiasmo. Assim, os reis antigos compunham música para celebrar as virtudes, oferecendo louvores magníficos ao Supremo e invocando a presença dos seus ancestrais."
+  },
+  {
+    "id": 17,
+    "nombre": "A SEGUIDA (A ADAPTAÇÃO)",
+    "trigramas": {
+      "superior": "Tui, o Jubiloso, o Lago",
+      "inferior": "Chên, o Despertar, o Trovão"
+    },
+    "juicio": "A Seguição alcança um sucesso sublime. A perseverança é favorável; sem reprovação. Para atrair seguidores e liderar com sabedoria, é preciso primeiro saber servir e adaptar-se aos ritmos do momento. A adesão nunca deve ser imposta pela coerção ou intriga, mas florescer livre e espontaneamente da confiança e da alegria mútua.",
+    "imagen": "O trovão descansa no meio do lago: a imagem da Seguição e do repouso oportuno. Assim, ao cair da noite, o sábio recolhe-se ao lar para restaurar as forças e descansar em paz."
+  },
+  {
+    "id": 18,
+    "nombre": "O TRABALHO SOBRE O DETERIORADO",
+    "trigramas": {
+      "superior": "Ken, a Montanha",
+      "inferior": "Sun, o Vento"
+    },
+    "juicio": "Trabalhar sobre o que se deteriorou traz supremo sucesso. É propício atravessar as grandes águas. Três dias antes do ponto de partida, três dias depois do ponto de partida. Aquilo que foi danificado por negligência humana pode ser corrigido com esforço lúcido. Convém examinar as causas do erro antes de iniciar a mudança e monitorar o rumo para consolidar a renovação sem recaídas.",
+    "imagen": "O vento sopra ao sopé da montanha: a imagem do Deteriorado. O homem nobre desperta o ânimo do povo e fortifica o seu espírito com integridade e retidão."
+  },
+  {
+    "id": 19,
+    "nombre": "A APROXIMAÇÃO",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "Tui, o Lago"
+    },
+    "juicio": "A Aproximação tem sucesso sublime. A perseverança é vantajosa. Quando chega o oitavo mês, sobrevém o declínio. É época de crescimento favorável e renovação primaveril. O entusiasmo aproxima os superiores dos subordinados, mas a sabedoria lembra que a abundância não dura para sempre; convém precaver-se contra os reveses futuros antes que o declínio se anuncie.",
+    "imagen": "Sobre o lago repousa a terra: a imagem da Aproximação. O homem nobre é inesgotável na sua vocação de ensinar e acolher o povo sem impor limites à sua compaixão."
+  },
+  {
+    "id": 20,
+    "nombre": "A CONTEMPLAÇÃO",
+    "trigramas": {
+      "superior": "Sun, o Vento",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "A Contemplação. Cumpriram-se as abluções rituais, mas ainda não as oferendas. Cheios de confiança e reverência, todos erguem o olhar para ele. O recolhimento interior solene e a visão das leis universais conferem à liderança moral um poder sagrado que inspira respeito espontâneo em toda a comunidade.",
+    "imagen": "O vento sopra sobre a vasta terra: a imagem da Contemplação. Os antigos reis percorriam as regiões do mundo, observando os costumes do povo e difundindo ensinamentos esclarecedores."
+  },
+  {
+    "id": 21,
+    "nombre": "MORDIDA PENETRANTE (A JUSTIÇA)",
+    "trigramas": {
+      "superior": "Li, o Fogo, a Luz",
+      "inferior": "Chên, o Trovão"
+    },
+    "juicio": "Morder através do obstáculo traz sucesso. É favorável exercer a justiça com determinação. Quando trapaças ou discórdias intencionais impedem a harmonia coletiva, a separação enérgica e o discernimento justo são imperativos. A firmeza da lei unida à clareza solar restabelece o equilíbrio e extirpa o dano.",
+    "imagen": "Trovão e relâmpago: a manifestação da clareza e da força judicial. Assim, os governantes justos estabeleciam leis límpidas e sanções firmes para salvaguardar a paz social."
+  },
+  {
+    "id": 22,
+    "nombre": "A GRAÇA (A BELEZA)",
+    "trigramas": {
+      "superior": "Ken, a Montanha",
+      "inferior": "Li, o Fogo"
+    },
+    "juicio": "A graça atinge o sucesso. Em pequenas coisas, é favorável empreender algo. A harmonia da forma e a elegância estética iluminam o cotidiano, mas não substituem a solidez das virtudes fundamentais. O ornamento embeleza, mas as grandes decisões exigem gravidade e substância moral.",
+    "imagen": "O fogo brilha ao sopé da montanha: a imagem da Graça. O homem nobre esclarece com leveza os assuntos correntes da vida, reservando a máxima prudência e gravidade para as causas essenciais."
+  },
+  {
+    "id": 23,
+    "nombre": "A DESAGREGAÇÃO (A RUPTURA)",
+    "trigramas": {
+      "superior": "Ken, a Montanha",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "A Desagregação. Não é vantajoso empreender qualquer viagem ou ação. As forças inferiores encontram-se temporariamente em ascensão, corroendo a ordem estabelecida. Não cabe ao sábio desgastar-se em resistências fúteis contra o curso inevitável da época; antes, deve recolher-se em serenidade e aguardar pacientemente.",
+    "imagen": "A montanha apoia-se sobre a terra: a imagem da Ruptura. Os governantes sustentam a sua posição amparando generosamente as classes humildes que compõem a base da sociedade."
+  },
+  {
+    "id": 24,
+    "nombre": "O RETORNO (O PONTO DE VIRAGEM)",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "Chên, o Trovão"
+    },
+    "juicio": "O Retorno. Sucesso. Ir e vir sem tropeço. Os amigos achegam-se sem censura. Ao sétimo dia consuma-se o retorno. É favorável ter aonde ir. Após um tempo de sombra e recolhimento, a luz seminal renasce do interior da terra. Este despertar é natural, espontâneo e livre de artifícios.",
+    "imagen": "O trovão vibra sob a terra: a imagem do solstício de inverno e do Retorno. Os reis antigos fechavam as fronteiras e suspendiam as viagens no momento da virada, permitindo que a energia primordial se restaurasse no repouso absoluto."
+  },
+  {
+    "id": 25,
+    "nombre": "A INOCÊNCIA (O INESPERADO)",
+    "trigramas": {
+      "superior": "Ch’ien, o Criativo, o Céu",
+      "inferior": "Chên, o Despertar, o Trovão"
+    },
+    "juicio": "A Inocência. Sucesso supremo. A perseverança é vantajosa. Se alguém se desviar da retidão natural, terá infortúnio e nada do que empreender prosperará. O ser humano recebeu dos céus uma essência primordialmente pura. Agindo com sinceridade desinteressada e sem cálculos mesquinhos de recompensa, alcança uma segurança límpida que harmoniza a sua vontade com o fluxo do cosmos.",
+    "imagen": "Sob o céu estala o trovão: todas as coisas despertam na sua inocência original. Os antigos soberanos, ricos em virtude e sintonizados com o tempo, acolhiam e nutriam a vida em todas as suas manifestações."
+  },
+  {
+    "id": 26,
+    "nombre": "O PODER DOMINADOR DO GRANDE",
+    "trigramas": {
+      "superior": "Ken, a Imobilidade, a Montanha",
+      "inferior": "Ch’ien, o Criativo, o Céu"
+    },
+    "juicio": "O poder domador do grande. A perseverança é favorável. Não comer em casa traz boa fortuna; é vantajoso atravessar a grande corrente. Acumular energias criativas e contê-las com firmeza interior desenvolve o caráter superior. O homem sábio estuda os ensinamentos e feitos do passado, aplicando essa sabedoria na vida pública para assumir grandes responsabilidades.",
+    "imagen": "O céu repousa no coração da montanha: a imagem do poder acumulado. O homem nobre aprofunda-se na sabedoria dos antigos e nas lições da história para robustecer o seu caráter."
+  },
+  {
+    "id": 27,
+    "nombre": "AS COMISSURAS DOS LÁBIOS (A NUTRIÇÃO)",
+    "trigramas": {
+      "superior": "Ken, a Montanha",
+      "inferior": "Chên, o Trovão"
+    },
+    "juicio": "As comissuras dos lábios. A perseverança traz ventura. Repara no modo como alimentas e nutres a ti mesmo e aos outros. Para conhecer a qualidade moral de alguém, basta observar o que ele absorve para nutrir a própria mente e a quem escolhe amparar. A natureza provê a todos; o nobre cultiva as aspirações elevadas e modera os desejos inferiores.",
+    "imagen": "Ao sopé da montanha reverbera o trovão: a imagem da Nutrição equilibrada. O homem nobre vigia atentamente as suas palavras e mantém comedimento no comer e no beber."
+  },
+  {
+    "id": 28,
+    "nombre": "A SOBRECARGA DO GRANDE",
+    "trigramas": {
+      "superior": "Tui, o Jubiloso, o Lago",
+      "inferior": "Sun, o Suave, o Vento, a Madeira"
+    },
+    "juicio": "A sobrecarga do grande. A viga mestra arqueia-se e verga sob o peso. É vantajoso ter para onde ir. Sucesso. A estrutura suporta uma exigência extraordinária que ameaça o colapso. O momento requer serenidade prudente e decisões rápidas e flexíveis, superando o perigo sem recurso à força bruta descontrolada.",
+    "imagen": "As águas do lago elevam-se acima das árvores: a imagem da Grande Sobrecarga. O homem nobre permanece sereno mesmo quando isolado e mantém o ânimo inabalável ainda que renuncie às honras do mundo."
+  },
+  {
+    "id": 29,
+    "nombre": "O ABISMAL (A ÁGUA)",
+    "trigramas": {
+      "superior": "K’an, o Abismo, a Água",
+      "inferior": "K’an, o Abismo, a Água"
+    },
+    "juicio": "O insondável repetido. Sendo sincero de coração, alcançarás o sucesso em tudo o que fizeres. A água enfrenta os abismos sem perder a sua natureza essencial; ela flui, preenche cada reentrância e avança sem hesitar. Diante dos perigos reiterados da vida, a retidão moral e a constância interior conduzem à superação de todos os obstáculos.",
+    "imagen": "A corrente flui sem interrupção até alcançar o seu objetivo: a imagem do Abismo duplicado. O homem nobre persevera na virtude e mantém a constância exemplar na instrução dos outros."
+  },
+  {
+    "id": 30,
+    "nombre": "O ADERENTE (O FOGO)",
+    "trigramas": {
+      "superior": "Li, o Fogo",
+      "inferior": "Li, o Fogo"
+    },
+    "juicio": "O Aderente. A perseverança é vantajosa e conduz ao sucesso. Cuidar da vaca traz boa fortuna. O fogo necessita de um suporte ao qual aderir para brilhar continuamente sem se consumir depressa. O ser humano alcança a clareza duradoura quando adere à retidão e cultiva a docilidade consciente perante as leis do cosmos.",
+    "imagen": "A chama eleva-se duas vezes: a imagem do Fogo deslumbrante. O homem superior perpetua a luz e espalha a claridade pelos quatro cantos do mundo."
+  },
+  {
+    "id": 31,
+    "nombre": "A INFLUÊNCIA (A ATRAÇÃO)",
+    "trigramas": {
+      "superior": "Tui, o Jubiloso, o Lago",
+      "inferior": "Ken, a Imobilidade, a Montanha"
+    },
+    "juicio": "A Influência mútua. Sucesso. A perseverança é vantajosa. Tomar uma donzela como esposa traz boa fortuna. O forte coloca-se com delicadeza sob o suave, gerando uma atração mútua harmoniosa. A quietude interior unida à abertura acolhedora permite que a afinidade espiritual se estabeleça de forma autêntica e pacífica.",
+    "imagen": "No topo da montanha repousa o lago: a imagem da Influência acolhedora. O homem nobre esvazia o coração de orgulho para acolher os homens e os bons conselhos."
+  },
+  {
+    "id": 32,
+    "nombre": "A DURAÇÃO (A CONSTÂNCIA)",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "Sun, o Vento"
+    },
+    "juicio": "A Duração. Sucesso sem remorso. A perseverança é benéfica; é vantajoso ter aonde ir. A duração não é rigidez inerte, mas um movimento constante e renovador que segue ciclos harmoniosos, como o curso dos astros e a dança das estações. Mantendo-se fiel ao seu rumo, o sábio confere perenidade à sua vida e obra.",
+    "imagen": "Trovão e vento manifestam-se em conjunto: a imagem da Duração. O homem nobre mantém-se firme na sua rota e jamais desvia o seu propósito perante as vicissitudes."
+  },
+  {
+    "id": 33,
+    "nombre": "A RETIRADA",
+    "trigramas": {
+      "superior": "Ch’ien, o Céu",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "A Retirada. Sucesso. A perseverança do homem nobre é vantajosa. As forças inferiores avançam favorecidas pelas circunstâncias temporais; neste contexto, retirar-se com dignidade não é fuga covarde, mas manobra estratégica. O sábio reconhece os sinais da época antes do esgotamento das suas forças e resguarda a sua integridade, preparando em silêncio a recuperação futura.",
+    "imagen": "O céu afasta-se para as alturas inalcançáveis enquanto a montanha cessa de subir: a imagem da Retirada. O homem nobre mantém distância dos indivíduos vis sem recorrer ao ódio, preservando a sua nobreza e contendo o adversário com serenidade austera."
+  },
+  {
+    "id": 34,
+    "nombre": "O PODER DO GRANDE",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "Ch’ien, o Céu"
+    },
+    "juicio": "O poder do grande. A perseverança é vantajosa. O vigor interior atinge o apogeu e ascende à liderança. Contudo, o excesso de confiança na própria força encerra o perigo de precipitação e tirania. A grandeza autêntica nunca se dissocia da justiça e do direito; apenas quando o poder se subordina à retidão moral ele cumpre o seu propósito sublime.",
+    "imagen": "O trovão ressoa no alto dos céus: a imagem do Poder do Grande. O homem nobre não trilha veredas que firam a ordem e o respeito aos semelhantes."
+  },
+  {
+    "id": 35,
+    "nombre": "O PROGRESSO",
+    "trigramas": {
+      "superior": "Li, o Fogo, o Sol",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "O Progresso. O sol desponta límpido sobre a terra. Época propícia de expansão serena e reconhecimento mútuo. O líder lúcido atrai auxiliares valorosos e concede-lhes distinção, cooperando sem inveja nem mesquinhez para o bem comum e a prosperidade geral.",
+    "imagen": "O sol desponta sobre a terra iluminando o horizonte: a imagem do Progresso. O homem nobre purifica o seu ser para fazer resplandecer a sua claridade interior inata."
+  },
+  {
+    "id": 36,
+    "nombre": "O OBSCURECIMENTO DA LUZ",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "Li, o Fogo, a Luz"
+    },
+    "juicio": "O obscurecimento da luz. Em tempos de adversidade e trevas exteriores, convém perseverar em segredo. Quando a ignorância ou a injustiça dominam o cenário público, o sábio oculta o seu brilho e adota uma postura dócil e comedida por fora, conservando acesa e intocável a chama da verdade na profundeza da sua consciência.",
+    "imagen": "A luz recolhe-se e submerge no seio da terra: a imagem do Obscurecimento da Luz. O homem nobre convive com a multidão resguardando o seu saber, sereno e prudente em palavras e atos."
+  },
+  {
+    "id": 37,
+    "nombre": "A FAMÍLIA (O CLÃ)",
+    "trigramas": {
+      "superior": "Sun, o Vento",
+      "inferior": "Li, o Fogo"
+    },
+    "juicio": "A Família. A fidelidade da mulher e o respeito mútuo sustentam o lar. A harmonia da sociedade brota da retidão nas relações domésticas. Quando os pais exercem autoridade afetuosa e os filhos cumprem os seus deveres com lealdade sincera, a ordem propaga-se naturalmente a toda a vida pública.",
+    "imagen": "O vento sopra emanando do calor da chama: a imagem da Família. O homem nobre confere substância viva às suas palavras e garante coerência duradoura a toda a sua conduta."
+  },
+  {
+    "id": 38,
+    "nombre": "A OPOSIÇÃO (O CONTRASTE)",
+    "trigramas": {
+      "superior": "Li, o Fogo",
+      "inferior": "Tui, o Lago"
+    },
+    "juicio": "A Oposição. Em pequenos empreendimentos, alcança-se a ventura. Quando existem temperamentos ou aspirações divergentes, a imposição direta apenas aprofunda o antagonismo. A complementaridade dos opostos gera o equilíbrio cósmico; convém proceder com sensibilidade passo a passo em assuntos modestos, respeitando a singularidade de cada um.",
+    "imagen": "O fogo sobe e o lago desce: a imagem da Oposição. O homem nobre preserva a sua identidade e os seus princípios essenciais mesmo quando convive em ambientes heterogêneos."
+  },
+  {
+    "id": 39,
+    "nombre": "O OBSTÁCULO (A DIFICULDADE)",
+    "trigramas": {
+      "superior": "K’an, o Abismo, a Água",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "O Obstáculo. O sudoeste é favorável; o nordeste desfavorável. É benéfico consultar o homem sábio. A perseverança traz fortuna. Diante de barreiras intransponíveis de imediato, deter o avanço e buscar auxílio é prova de sabedoria. A adversidade temporária convida à introspecção e ao aperfeiçoamento das próprias capacidades.",
+    "imagen": "A água estagna sobre o pico da montanha: a imagem do Obstáculo. O homem nobre volta o olhar para o próprio interior e aprimora as suas virtudes perante os reveses da vida."
+  },
+  {
+    "id": 40,
+    "nombre": "A LIBERTAÇÃO (O ALÍVIO)",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "K’an, a Água"
+    },
+    "juicio": "A Libertação. O sudoeste é propício. Quando a opressão se dissipa, o regresso à tranquilidade traz paz. Havendo pendências restantes, agir com prontidão traz boa fortuna. Como a chuva que desfaz a tensão da tempestade e renova a terra, o fim de um período angustiante pede retorno sereno à ordem e perdão às faltas alheias.",
+    "imagen": "Trovão e chuva desfazem a tempestade: a imagem da Libertação. O homem nobre perdoa os equívocos involuntários e acolhe os outros com magnanimidade e compaixão."
+  },
+  {
+    "id": 41,
+    "nombre": "A DIMINUIÇÃO",
+    "trigramas": {
+      "superior": "Ken, a Montanha",
+      "inferior": "Tui, o Lago"
+    },
+    "juicio": "A Diminuição acompanhada de sinceridade traz boa fortuna sem censura. Pode-se perseverar. É propício empreender algo. Duas pequenas tigelas bastam para o sacrifício. Diminuir nem sempre é perda: o recolhimento e a simplicidade interior compensam a escassez de recursos exteriores. Diante do Supremo, a verdade do coração supera qualquer falso esplendor.",
+    "imagen": "Ao pé da montanha jaz o lago: a imagem da Diminuição. O homem nobre refreia a ira e domina os apetites desmedidos, canalizando a força para a nobreza de espírito."
+  },
+  {
+    "id": 42,
+    "nombre": "O AUMENTO",
+    "trigramas": {
+      "superior": "Sun, o Vento",
+      "inferior": "Chên, o Trovão"
+    },
+    "juicio": "O Aumento. É vantajoso empreender algo; é propício cruzar as grandes águas. Quando os governantes abdicam de privilégios para beneficiar as bases populares, floresce no povo profunda gratidão e alegria. O momento de expansão fecunda deve ser aproveitado com entusiasmo para realizar grandes obras e aperfeiçoar o bem.",
+    "imagen": "Vento e trovão potenciam-se mutuamente: a imagem do Aumento. O homem nobre, ao contemplar o bem nos outros, imita-o; ao perceber faltas em si mesmo, liberta-se delas prontamente."
+  },
+  {
+    "id": 43,
+    "nombre": "A RESOLUÇÃO (A RUPTURA)",
+    "trigramas": {
+      "superior": "Tui, o Lago",
+      "inferior": "Ch’ien, o Céu"
+    },
+    "juicio": "A Resolução. A verdade deve ser proclamada com firmeza na corte. Perigo. Convém advertir a própria comunidade; não é oportuno recorrer às armas. É vantajoso empreender a ação resoluta. O combate contra o erro exige clareza e determinação inabalável, expurgando primeiro as fraquezas interiores antes de confrontar a injustiça exterior.",
+    "imagen": "As águas do lago sobem aos céus: a imagem da Resolução. O homem nobre distribui generosamente a sua riqueza e examina com rigor os próprios passos para não se estagnar no orgulho."
+  },
+  {
+    "id": 44,
+    "nombre": "O ENCONTRO (VIR AO ENCONTRO)",
+    "trigramas": {
+      "superior": "Ch’ien, o Céu",
+      "inferior": "Sun, o Vento"
+    },
+    "juicio": "O Encontro. A donzela é poderosa; não convém desposar tal mulher. A aproximação sutil de um elemento inferior ou de um hábito pernicioso exige vigilância imediata. Não se deve conceder poder a influências mesquinhas que se insinuam com aparente doçura. O encontro legítimo é aquele que une céu e terra em mútua reverência e transparência.",
+    "imagen": "Sob o céu sopra o vento: a imagem do Encontro e da difusão. Assim age o soberano ao proclamar as suas leis e fazê-las ecoar pelos quatro cantos do mundo."
+  },
+  {
+    "id": 45,
+    "nombre": "A REUNIÃO",
+    "trigramas": {
+      "superior": "Tui, o Lago",
+      "inferior": "K’un, a Terra"
+    },
+    "juicio": "A Reunião. Sucesso. O rei aproxima-se do templo sagrado. É vantajoso ver o homem sábio. A perseverança traz ventura; oferecer grandes sacrifícios favorece a união. Para congregar as pessoas em comunidades duradouras, é necessária a autoridade moral alicerçada na elevação espiritual e no serviço ao bem coletivo.",
+    "imagen": "O lago repousa sobre a terra: a imagem da Reunião. O homem nobre renova as suas defesas e antecipa o imprevisto para proteger a harmonia do convívio fraterno."
+  },
+  {
+    "id": 46,
+    "nombre": "A ASCENSÃO (O CRESCIMENTO)",
+    "trigramas": {
+      "superior": "K’un, a Terra",
+      "inferior": "Sun, a Madeira, o Vento"
+    },
+    "juicio": "A Ascensão traz supremo sucesso. Procura o homem sábio; não temas! Avançar rumo ao sul traz ventura. O crescimento genuíno avança com suavidade e modéstia, aproveitando o momento favorável para progredir degrau a degrau sem violência nem precipitação.",
+    "imagen": "No seio da terra a árvore cresce para o alto: a imagem da Ascensão. O homem nobre harmoniza-se com a natureza e acumula pequenas virtudes para edificar um caráter imponente e elevado."
+  },
+  {
+    "id": 47,
+    "nombre": "A OPRESSÃO (A EXAUSTÃO)",
+    "trigramas": {
+      "superior": "Tui, o Lago",
+      "inferior": "K’an, o Abismo, a Água"
+    },
+    "juicio": "A Opressão. Sucesso através da perseverança. O homem nobre alcança a ventura sem repreensão. Quando as palavras não encontram eco, o silêncio sereno e a força moral inabalável triunfam sobre o destino adverso. Quem não se deixa abalar pelo infortúnio preserva a semente da futura libertação.",
+    "imagen": "O lago esgota-se e seca nas suas profundezas: a imagem da Opressão. O homem nobre sustenta o seu propósito arriscando a própria vida para manter a fidelidade aos seus ideais mais nobres."
+  },
+  {
+    "id": 48,
+    "nombre": "O POÇO",
+    "trigramas": {
+      "superior": "K’an, a Água",
+      "inferior": "Sun, o Vento, a Madeira"
+    },
+    "juicio": "O Poço. A cidade pode mudar de lugar, mas o poço permanece imutável. Ele não míngua nem transborda; todos vêm saciar a sede nas suas águas. Mas se a corda não descer até o fundo ou se o cântaro se romper antes de chegar ao topo, sobrevém o infortúnio. O poço simboliza as fontes perenes de sabedoria e sustento moral da humanidade, acessíveis a todos que buscam a profundeza da verdade com cuidado e respeito.",
+    "imagen": "A água nutre a madeira e sobe pelas raízes: a imagem do Poço. O homem nobre incentiva o trabalho do povo e exorta a todos à cooperação fraterna."
+  },
+  {
+    "id": 49,
+    "nombre": "A REVOLUÇÃO (A MUTAÇÃO)",
+    "trigramas": {
+      "superior": "Tui, o Lago",
+      "inferior": "Li, o Fogo"
+    },
+    "juicio": "A Revolução. No próprio dia em que se consuma, encontra-se crédito. A perseverança favorece o supremo sucesso; o arrependimento desvanece-se. As grandes transformações sociais só devem ser deflagradas quando amadurecidas pela necessidade inadiável da época e conduzidas por quem goza de profunda confiança popular, com desprendimento moral e sem arbítrio.",
+    "imagen": "O fogo arde no seio do lago: a imagem da Revolução e da renovação necessária. O homem nobre ordena o calendário e esclarece as estações do tempo para guiar a ação oportuna."
+  },
+  {
+    "id": 50,
+    "nombre": "O CALDEIRÃO (O VASO SAGRADO)",
+    "trigramas": {
+      "superior": "Li, o Fogo",
+      "inferior": "Sun, o Vento, a Madeira"
+    },
+    "juicio": "O Caldeirão. Suprema ventura e realização. Enquanto o poço cuida do sustento vital primário, o caldeirão simboliza a consagração espiritual e a mais alta elevação cultural. A madeira nutre a chama viva que transforma o alimento em oferenda sagrada, harmonizando a humanidade com a ordem divina do cosmos.",
+    "imagen": "Sobre a lenha arde a chama límpida: a imagem do Caldeirão. O homem nobre consolida o seu destino mantendo-se na posição justa e sintonizando a vida com o seu propósito transcendental."
+  },
+  {
+    "id": 51,
+    "nombre": "O DESPERTAR (O TROVÃO, O CHOQUE)",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "Chên, o Trovão"
+    },
+    "juicio": "O choque traz sucesso. O trovão ribomba espalhando o pavor a cem milhas ao redor, mas o sábio não deixa cair a colher nem a taça do sacrifício ritual. O temor reverente perante as forças sagradas desperta a consciência sem paralisar o espírito, conferindo serenidade inabalável a quem lidera em tempos de sobressalto.",
+    "imagen": "Trovões repetidos ressoam no horizonte: a imagem do Despertar. Com temor e tremor reverente, o homem nobre põe a sua vida em ordem e examina com rigor o próprio coração."
+  },
+  {
+    "id": 52,
+    "nombre": "A IMOBILIDADE (A MONTANHA, O REPOUSO)",
+    "trigramas": {
+      "superior": "Ken, a Montanha",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "Manter imóvel as costas até já não sentir o próprio corpo. Entra no pátio e não vê ninguém ao redor. Sem culpa. O repouso autêntico consiste em cessar o movimento quando convém parar e mover-se quando o tempo exige avançar. Silenciando os desejos egoístas e as inquietações fúteis, alcança-se a paz imorredoura.",
+    "imagen": "Montanhas erguem-se unidas: a imagem do Repouso sereno. O homem nobre não permite que os seus pensamentos ultrapassem os limites da sua situação presente."
+  },
+  {
+    "id": 53,
+    "nombre": "O DESENVOLVIMENTO GRADUAL",
+    "trigramas": {
+      "superior": "Sun, o Vento, a Madeira",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "O Desenvolvimento. A donzela é dada em casamento. Boa fortuna. A perseverança é vantajosa. O progresso sólido cumpre-se passo a passo com paciência e formalidade, sem atropelos precipitados. O avanço harmonioso e a maturação constante asseguram que a evolução não se perca no vazio.",
+    "imagen": "No alto da montanha cresce a árvore frondosa: a imagem do Progresso Gradual. O homem nobre apoia-se na dignidade e na virtude perseverante para aprimorar os costumes do mundo."
+  },
+  {
+    "id": 54,
+    "nombre": "A JOVEM QUE SE CASA",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "Tui, o Lago"
+    },
+    "juicio": "A donzela que se casa. Empreendimentos trazem desgraça; nada que seja vantajoso. Entrar numa situação em posição subordinada ou precária requer extrema cautela e tato. A paixão impulsiva que ignora as normas consolidadas conduz ao conflito; somente a prudência e o respeito ao dever evitam o infortúnio.",
+    "imagen": "O trovão agita as águas do lago: a imagem da Jovem que se casa. O homem nobre contempla os acontecimentos transitórios à luz do seu desfecho eterno."
+  },
+  {
+    "id": 55,
+    "nombre": "A ABUNDÂNCIA (A PLENITUDE)",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "Li, o Fogo, a Luz"
+    },
+    "juicio": "A Abundância traz sucesso. O rei atinge o apogeu da plenitude. Não te entristeças: sê como o sol ao meio-dia. Os momentos culminantes de esplendor exigem generosidade radiante e firmeza no julgamento, iluminando o mundo sem apego ansioso ao declínio que inexoravelmente se seguirá.",
+    "imagen": "Relâmpago e trovão manifestam-se em uníssono: a imagem da Plenitude. O homem nobre arbitra os litígios com clareza límpida e executa as sanções com estrita justiça."
+  },
+  {
+    "id": 56,
+    "nombre": "O VIAJANTE (O ESTRANGEIRO)",
+    "trigramas": {
+      "superior": "Li, o Fogo",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "O Viajante. Sucesso em assuntos modestos. A perseverança traz ventura ao viajante. Quem se encontra em terra estranha e sem raízes fixas deve manter a modéstia, a cortesia e a reserva moral. A retidão interior e a escolha prudente das companhias garantem uma jornada segura e livre de atritos.",
+    "imagen": "O fogo queima a relva na montanha e passa adiante: a imagem do Viajante. O homem nobre é claro e comedido ao aplicar penalidades, não prolongando disputas indefinidamente."
+  },
+  {
+    "id": 57,
+    "nombre": "A SUAVIDADE (O PENETRANTE, O VENTO)",
+    "trigramas": {
+      "superior": "Sun, o Suave, o Vento",
+      "inferior": "Sun, o Suave, o Vento"
+    },
+    "juicio": "A Suavidade penetrante. Sucesso em pequenas coisas. É vantajoso ter para onde ir; é favorável ver o homem sábio. A influência sutil opera de modo constante e imperceptível, como o vento que sopra sem cessar e molda a paisagem com paciência insuperável. A constância de rumo aliada à docilidade exterior transforma corações e consolida a ordem sem alarde nem violência.",
+    "imagen": "Ventos que se sucedem continuamente: a imagem da Suavidade Penetrante. O homem nobre difunde os seus preceitos por toda a parte e conduz as suas obras com constância paciente."
+  },
+  {
+    "id": 58,
+    "nombre": "O JUBILOSO (O LAGO, A ALEGRIA)",
+    "trigramas": {
+      "superior": "Tui, o Jubiloso, o Lago",
+      "inferior": "Tui, o Jubiloso, o Lago"
+    },
+    "juicio": "O Jubiloso. Sucesso. A perseverança é vantajosa. A alegria autêntica é comunicativa e fecunda quando assente na firmeza moral interior aliada à mansidão exterior no trato humano. Conquistando o afeto do próximo pela bondade genuína e pelo diálogo sincero, as pessoas superam provações árduas com ânimo renovado e sem desfalecer.",
+    "imagen": "Dois lagos comunicam entre si: a imagem da Alegria fecunda. O homem nobre congrega os seus amigos para aprofundar o saber e cultivar o crescimento moral em harmonia mútua."
+  },
+  {
+    "id": 59,
+    "nombre": "A DISSOLUÇÃO (A DISPERSÃO)",
+    "trigramas": {
+      "superior": "Sun, o Vento",
+      "inferior": "K’an, a Água"
+    },
+    "juicio": "A Dissolução. Sucesso. O rei aproxima-se do templo sagrado. É vantajoso atravessar a grande corrente; a perseverança é propícia. Quando o egoísmo e a rigidez isolam os indivíduos, a brisa suave dissipa as durezas como o calor da primavera degela as águas gélidas. A vivência sagrada de um propósito espiritual comum reconcilia os corações e dissolve as divisões.",
+    "imagen": "O vento sopra sobre as águas: a imagem da Dissolução do isolamento. Os reis antigos prestavam sacrifícios devotos e erguiam templos para unificar os espíritos em veneração coletiva."
+  },
+  {
+    "id": 60,
+    "nombre": "A DELIMITAÇÃO (O LIMITE)",
+    "trigramas": {
+      "superior": "K’an, a Água",
+      "inferior": "Tui, o Lago"
+    },
+    "juicio": "A Delimitação. Sucesso. Uma contenção amarga e asfixiante não deve ser mantida com teimosia. Os limites e a moderação conferem forma, ritmo e sentido à existência, como as margens que contêm as águas do lago. Contudo, as normas não devem sufocar a espontaneidade viva; a medida justa reside no comedimento sábio e harmonioso.",
+    "imagen": "Sobre o lago repousa a água represada: a imagem da Delimitação. O homem nobre institui o número, a medida e a proporção, examinando com retidão os deveres e a virtude moral."
+  },
+  {
+    "id": 61,
+    "nombre": "A VERDADE INTERIOR",
+    "trigramas": {
+      "superior": "Sun, o Vento",
+      "inferior": "Tui, o Lago"
+    },
+    "juicio": "A Verdade Interior. Comove até porcos e peixes. Boa fortuna. É proveitoso cruzar a grande corrente; a perseverança é benéfica. A força da sinceridade desarmada e isenta de preconceitos atinge até os seres mais empedernidos e inacessíveis. Quando o coração se abre com genuína empatia e justiça incorruptível, nenhum abismo permanece insuperável.",
+    "imagen": "O vento sopra sobre as águas límpidas do lago: a imagem da Verdade Interior. O homem nobre examina com indulgência as causas penais e retarda a execução de sentenças para assegurar a justiça."
+  },
+  {
+    "id": 62,
+    "nombre": "A PREPONDERÂNCIA DO PEQUENO",
+    "trigramas": {
+      "superior": "Chên, o Trovão",
+      "inferior": "Ken, a Montanha"
+    },
+    "juicio": "A Preponderância do Pequeno. Sucesso. A perseverança é vantajosa. Podem realizar-se coisas pequenas, mas não grandes ambições. O pássaro em voo traz o seu presságio: não convém elevar-se orgulhosamente; é bom permanecer nas terras baixas. Grande fortuna. O momento requer extrema modéstia, meticulosidade e sobriedade de conduta.",
+    "imagen": "O trovão ressoa rente à montanha: a imagem da Preponderância do Pequeno. O homem nobre privilegia o respeito reverente nas atitudes, a dor sincera no luto e a estrita economia nos gastos pessoais."
+  },
+  {
+    "id": 63,
+    "nombre": "APÓS A CONCLUSÃO",
+    "trigramas": {
+      "superior": "K’an, a Água",
+      "inferior": "Li, o Fogo"
+    },
+    "juicio": "Após a Conclusão. Sucesso em assuntos menores. A perseverança é vantajosa. No início, boa sorte; no fim, desordem. O ciclo encerrou-se e tudo parece equilibrado, mas o aparente repouso induz facilmente à desatenção e ao relaxamento negligente. O sábio mantém vigilância constante para conter o declínio antes que ele se alastre.",
+    "imagen": "A água ferve sobre o fogo: a imagem do equilíbrio Após a Conclusão. O homem nobre reflete antecipadamente sobre o infortúnio vindouro e previne-se contra ele com vigilância incessante."
+  },
+  {
+    "id": 64,
+    "nombre": "ANTES DA CONCLUSÃO",
+    "trigramas": {
+      "superior": "Li, o Fogo",
+      "inferior": "K’an, a Água"
+    },
+    "juicio": "Antes da Conclusão. Sucesso. Mas se a jovem raposa molhar a cauda no gelo antes de atingir a margem oposta, nada haverá de vantajoso. As energias preparam-se para uma nova ordem, mas a transição exige discernimento atento e passos cautelosos. A cautela até o último instante transforma o caos em harmonia e culmina no triunfo final.",
+    "imagen": "O fogo queima no alto e a água corre em baixo: a imagem do estado Anterior à Conclusão. O homem nobre distingue cuidadosamente a natureza das forças para que cada elemento encontre o seu lugar exato."
+  }
+]

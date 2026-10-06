@@ -1,0 +1,47 @@
+{
+  "app": {
+    "themeToggleLight": "Canviar a mode clar",
+    "themeToggleDark": "Canviar a mode fosc",
+    "themeToggleAria": "Alternar tema clar i fosc"
+  },
+  "clock": {
+    "ariaLabel": "Rellotge analògic",
+    "currentTime": "Hora actual:"
+  },
+  "oracle": {
+    "title": "Oracle de l'I Ching",
+    "subtitle": "Si us plau, utilitza aquest oracle amb respecte i precaució.",
+    "note": "Formula la teva pregunta amb sinceritat.",
+    "clearReadings": "Netejar lectures",
+    "historyAria": "Historial de consultes",
+    "loading": "Consultant l'oracle..."
+  },
+  "form": {
+    "questionLabel": "Pregunta per a l'oracle",
+    "placeholder": "Què és el que et preocupa?",
+    "submit": "Consultar"
+  },
+  "reading": {
+    "readingFor": "Lectura per a: \"{{question}}\"",
+    "initialHexagram": "Hexagrama Inicial",
+    "primaryHexagram": "Hexagrama Principal",
+    "mutatesTo": "Muta en"
+  },
+  "card": {
+    "hexagram": "Hexagrama",
+    "superior": "Superior",
+    "inferior": "Inferior",
+    "judgment": "El Judici",
+    "image": "La Imatge"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română"
+  }
+}

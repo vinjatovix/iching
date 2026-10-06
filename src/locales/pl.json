@@ -1,0 +1,53 @@
+{
+  "app": {
+    "themeToggleLight": "Przełącz na tryb jasny",
+    "themeToggleDark": "Przełącz na tryb ciemny",
+    "themeToggleAria": "Przełącz motyw jasny i ciemny"
+  },
+  "clock": {
+    "ariaLabel": "Zegar analogowy",
+    "currentTime": "Aktualny czas:"
+  },
+  "oracle": {
+    "title": "Wyrocznia I Ching",
+    "subtitle": "Proszę korzystać z tej wyroczni z szacunkiem i rozwagą.",
+    "note": "Zadaj pytanie ze szczerością.",
+    "clearReadings": "Wyczyść odczyty",
+    "historyAria": "Historia zapytań",
+    "loading": "Konsultowanie wyroczni..."
+  },
+  "form": {
+    "questionLabel": "Pytanie do wyroczni",
+    "placeholder": "Co cię niepokoi?",
+    "submit": "Zapytaj"
+  },
+  "reading": {
+    "readingFor": "Odczyt dla: \"{{question}}\"",
+    "initialHexagram": "Heksagram początkowy",
+    "primaryHexagram": "Główny heksagram",
+    "mutatesTo": "Zmienia się w"
+  },
+  "card": {
+    "hexagram": "Heksagram",
+    "superior": "Górny",
+    "inferior": "Dolny",
+    "judgment": "Orzeczenie",
+    "image": "Obraz"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română",
+    "pt": "Português",
+    "de": "Deutsch",
+    "el": "Ελληνικά",
+    "nl": "Nederlands",
+    "pl": "Polski",
+    "sv": "Svenska"
+  }
+}

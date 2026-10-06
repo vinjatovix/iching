@@ -1,0 +1,313 @@
+.iching-oracle {
+  width: 100%;
+  max-width: 660px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.iching-oracle__card {
+  background: var(--bg-card-glass);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  padding: 1.75rem 1.75rem 1.5rem;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  transition: background 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.iching-oracle__header {
+  text-align: center;
+}
+
+.iching-oracle__title {
+  color: var(--accent-gold);
+  font-size: 2rem;
+  letter-spacing: 2px;
+  margin-bottom: 0.6rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  transition: color 0.3s ease;
+}
+
+.iching-oracle__subtitle {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.5;
+  transition: color 0.3s ease;
+}
+
+.iching-oracle__note {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+  opacity: 0.9;
+  transition: color 0.3s ease;
+}
+
+/* Form Styles */
+.iching-form {
+  width: 100%;
+  margin: 0.5rem auto 0;
+}
+
+.iching-form__group {
+  display: flex;
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.iching-form__input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 1rem;
+  background-color: var(--input-bg);
+  border: 1px solid var(--input-border);
+  border-radius: 8px;
+  color: var(--input-text);
+  outline: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.iching-form__input:focus {
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 10px rgba(212, 175, 55, 0.25);
+}
+
+.iching-form__input::placeholder {
+  color: var(--text-secondary);
+  opacity: 0.65;
+}
+
+.iching-form__button {
+  padding: 0.85rem 1.75rem;
+  font-size: 1rem;
+  font-weight: 600;
+  background: linear-gradient(135deg, #d4af37, #aa8010);
+  color: #0b0b0e;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.1s ease, filter 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.iching-form__button:hover {
+  filter: brightness(1.1);
+  box-shadow: 0 4px 12px rgba(212, 175, 55, 0.3);
+}
+
+.iching-form__button:active {
+  transform: scale(0.98);
+}
+
+.iching-oracle__actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.iching-oracle__clear-button {
+  background: var(--bg-card-glass);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  padding: 0.45rem 0.9rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.iching-oracle__clear-button:hover {
+  border-color: var(--accent-gold);
+  color: var(--text-primary);
+}
+
+/* History and Results */
+.iching-oracle__history {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.iching-result {
+  background-color: var(--bg-card-glass);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 1.75rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.iching-result--loading {
+  text-align: center;
+  color: var(--text-secondary);
+  font-style: italic;
+  padding: 2rem;
+}
+
+.iching-result__question {
+  color: var(--text-primary);
+  font-size: 1.25rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.8rem;
+}
+
+.iching-result__hexagrams {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .iching-result__hexagrams {
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  }
+}
+
+/* Hexagram Card */
+.hexagram-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  position: relative;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.hexagram-card--changing {
+  border-color: rgba(255, 75, 75, 0.4);
+}
+
+.hexagram-card__badge {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--accent-gold);
+  margin: 0;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.4rem;
+}
+
+.hexagram-card--changing .hexagram-card__badge {
+  color: var(--accent-red);
+  border-color: rgba(255, 107, 107, 0.2);
+}
+
+.hexagram-card__header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.hexagram-card__symbol {
+  font-size: 4rem;
+  color: var(--accent-gold);
+  line-height: 1;
+}
+
+.hexagram-card--changing .hexagram-card__symbol {
+  color: var(--accent-red);
+}
+
+.hexagram-card__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.hexagram-card__number {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.hexagram-card__name {
+  font-size: 1.3rem;
+  color: var(--text-primary);
+  margin: 0;
+  font-weight: 600;
+}
+
+.hexagram-card__trigrams {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  background-color: var(--bg-secondary);
+  padding: 0.6rem 0.8rem;
+  border-radius: 6px;
+  line-height: 1.4;
+}
+
+.hexagram-card__trigrams p {
+  margin: 0.2rem 0;
+}
+
+.hexagram-card__section h4 {
+  color: var(--accent-gold);
+  font-size: 0.85rem;
+  margin-bottom: 0.4rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.hexagram-card--changing .hexagram-card__section h4 {
+  color: var(--accent-red);
+}
+
+.hexagram-card__section p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  font-size: 0.95rem;
+  white-space: pre-line;
+}
+
+@media (max-width: 600px) {
+  .iching-oracle__card {
+    padding: 1.25rem 1rem;
+    border-radius: 12px;
+  }
+
+  .iching-oracle__title {
+    font-size: 1.5rem;
+    letter-spacing: 1.5px;
+  }
+
+  .iching-oracle__subtitle {
+    font-size: 0.85rem;
+  }
+
+  .iching-oracle__note {
+    font-size: 0.8rem;
+  }
+
+  .iching-form__group {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .iching-form__input {
+    width: 100%;
+  }
+
+  .iching-form__button {
+    width: 100%;
+    padding: 0.85rem 1.25rem;
+  }
+}
+

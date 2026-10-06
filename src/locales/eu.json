@@ -1,0 +1,47 @@
+{
+  "app": {
+    "themeToggleLight": "Modu argira aldatu",
+    "themeToggleDark": "Modu ilunera aldatu",
+    "themeToggleAria": "Modu argi eta iluna txandakatu"
+  },
+  "clock": {
+    "ariaLabel": "Erloju analogikoa",
+    "currentTime": "Uneko ordua:"
+  },
+  "oracle": {
+    "title": "I Ching orakulua",
+    "subtitle": "Mesedez, erabili orakulu hau errespetuz eta kontuz.",
+    "note": "Egin zure galdera zintzotasunez.",
+    "clearReadings": "Garbitu irakurketak",
+    "historyAria": "Kontsulten historia",
+    "loading": "Orakuluari galdetzen..."
+  },
+  "form": {
+    "questionLabel": "Orakuluarentzako galdera",
+    "placeholder": "Zerk kezkatzen zaitu?",
+    "submit": "Kontsultatu"
+  },
+  "reading": {
+    "readingFor": "Irakurketa honetarako: \"{{question}}\"",
+    "initialHexagram": "Hasierako Hexagrama",
+    "primaryHexagram": "Hexagrama Nagusia",
+    "mutatesTo": "Honekin mutatzen da:"
+  },
+  "card": {
+    "hexagram": "Hexagrama",
+    "superior": "Goikoa",
+    "inferior": "Behekoa",
+    "judgment": "Epaia",
+    "image": "Irudia"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română"
+  }
+}

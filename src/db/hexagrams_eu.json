@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "SORTZAILEA",
+    "trigramas": {
+      "superior": "ch'ien, sortzailea, zerua",
+      "inferior": "ch'ien, sortzailea, zerua"
+    },
+    "juicio": "Sortzaileak arrakasta bikaina du, iraunkortasunaren alde. Unibertsoko gertakarien sakontasunetik datorren arrakastaren zati bat jasoko duzu eta dena da norberak bere zoriontasuna eta besteena bakarrik bilatzen duela bide egokian irautea. Esanahi nagusiaren arabera, atributuak (sublimeak, arrakastatsuak, sustatzaileak, iraunkorrak) binaka doaz. Erantzun hori orakulutik lortzen duenarentzat, horrek esan nahi du unibertsoko gertakarien sakontasunetik datorren arrakastaren zati bat jasoko duela eta dena dela norberak bere zoriontasuna eta besteena bide egokian irautea besterik ez duela bilatzen. Lau atributu horien esanahi espezifikoak laster espekulazio objektu bihurtu ziren. Txinako hitzak \"sublime\" itzulita esan nahi du: \"burua, jatorria, handia\". Horregatik dio Konfuzioren azalpenak: “Handia da Sortzailearen jatorrizko boterea, izaki guztiek berari zor diote hasiera, eta botere hori zeru osoan sartzen da”. Lehen ezaugarri honek beste hiruretan ere barneratzen ditu. Gauza guztien hasiera, nolabait esateko, harantzagoan geratzen da, ideien forman, zeinak gauzatze-etapa batetik igaro behar duen. Baina sortzaileak ere badu jada arketipo ideal horiei forma emateko ahalmena: hori da “arrakastatsua” hitzak adierazten duen ideia. Prozesu hori naturaren irudi batek irudikatzen du: \"Hodeiak igarotzen dira, euriak funtzionatzen du eta izaki indibidual guztiak bere forman isurtzen dira\". Gizakiaren erreinuari aplikatuta, atributuek gizon nobleari arrakasta handirako bidea erakusten diote: «Lehenengo kausak eta ondorioak argi handiz ikusten dituenez, sei graduak denbora egokian betetzen ditu eta une egokian zerurarantz igotzen da, sei herensugeetan bezala». Sei graduak hexagramaren barruan dauden sei posizio desberdinak dira, herensugeen irudiak irudikatuta. Hemen arrakastaren bidea munduaren (Tao) bidea aitortzea eta gauzatzea da, hasieratik amaierara doan lege baten antzera, denborak baldintzatutako fenomeno guztiak sortzen dituena. Modu honetan, lortutako titulazio bakoitza aldi berean hurrengorako prestaketa da, eta denbora jada ez da oztopo, ahal dena gauzatzea ahalbidetzen duen bitartekoa baizik. Sorkuntza-ekintza atributu «sublime» zein «arrakastatsu» bidez adierazi ondoren, kontserbazio-lana formaren etengabeko eguneratze eta bereizketa gisa agertzen da orain. Orduan, “sustapen” aburrituen bi esamolde bezala itzultzen da, hau da, “naturari dagokiona sortzea” eta “iraunkortasuna”, hau da, “bidezkoa eta irmoa” izatea. \"Sortzailearen ibilaldiak izakiak aldatzen eta moldatzen ditu, guztiek beren izaera zuzena lortu arte, haiei zuzendua dagoena, eta harmonia eta iraunkortasun handiz mantentzen ditu\". Giza eremuan, ikusten dugu nola gizon nobleak bakea eta segurtasuna ematen dion munduari bere ekintza ordenatuaren bidez: «Altxatzen den heinean, burua gizon-multzoaren gainetik altxatuz, eskualde guztiak bakean batzen dira». Beste espekulazio batek “sublime, arrakastatsu, sustatzaile, iraunkor” hitzen bereizketa are gehiago hartzen du, lau bertute kardinalekin paraleloan kokatuz. \"Menditasuna\", oinarrizko printzipio gisa gainerako atributu guztiak barne hartzen dituena, \"maitasuna\" esleitzen zaio. \"Arrakasta\"-ren atributua maitasun-adierazpenak arautu eta ordenatu eta, ondorioz, arrakasta bermatzen duten ohiturei egozten zaie. \"Sustatu\" terminoan \"justiziarekin\" lotzen da, zeinetan pertsona bakoitzak bere izaerari dagokiona, berea eta zoriontsu egiten duena jasotzen duen egoerak sortzen dituena. Gertaera guztien lege finkoak aitortzen dituen eta, ondorioz, egoera iraunkorrak sor ditzakeen “jakituriari” egozten zaio “iraunkortasunaren” atributua. Espekulazio hauek, I Ching-aren bigarren zatia osatzen duten iruzkinetako batean, Wen Yen-ean, agertzen direnak, bost eraldaketa-mailen (elementuen) filosofiaren batasuna posible egin zuen zubia izan ziren, Analen Liburuan sendo finkatuta, I Ching-ekin, printzipio positiboen eta negatiboen bipolaritate bipolarrean oinarrituta, sinboloaren ateak denboran zehar sinboloaren gainean zabaldu dituena.",
+    "imagen": "Zeruaren mugimendua indartsua da. Horrela gizon noblea indartsu eta nekaezina bihurtzen da. Zeru bakarra dagoenez, zerua irudi gisa duen ch'ien zeinuaren errepikapenak zeruaren mugimendua esan nahi du. Zeruaren mugimendu zirkular perfektuak egun bat osatzen du. Trigrama bikoizteak esan nahi du egun bakoitzari beste bat datorrela. Horrek denboraren ideia ematen du, eta, aldi berean, zerua bera bere indar nekaezinarekin mugitzen denez, denboran eta hortik haratago aldi indartsu baten ideia, inoiz gelditzen edo gelditzen ez den mugimenduaren ideia, egun batek beste egun batean nekaezina lortzen duen bezala. Denboraren iraupen hori sormenak berezko duen boterearen irudia da. Gizon jakintsuak bere ondorioak iraunarazteko adibidea hartzen du, uniformeki indartuz eta zentzu onarentzat deserosoa den guztia nahita ezabatuz. Horrela nekaezina bihurtzen da, hau da, bere jarduera-eremua arautuz lortzen den kualitatea."
+  },
+  {
+    "id": 2,
+    "nombre": "HARTZAILEA",
+    "trigramas": {
+      "superior": "K'un Hartzailea, Lurra",
+      "inferior": "K'un Hartzailea, Lurra"
+    },
+    "juicio": "Harrerak arrakasta bikaina sortzen du, behorren irmotasunari esker. Gizon nobleak zerbait egiten badu eta gidatzen saiatzen bada, bidea galduko du. Baina otzanki gidatzen uzten baduzu, norabide ona jarraituko duzu. Aldekoa da mendebaldean eta hegoaldean lagunak aurkitzea, eta ekialdeko eta iparraldeko lagunengandik urrun egotea. Pertseberantzia lasaiak zorte ona dakar. Sormenaren oinarrizko lau alderdiek (2), “iraunkortasunaren aldeko arrakasta sublimeak”, boterearen ezaugarriak bere alderdi pasibo eta hartzailean ezaugarritzeko ere balio dute. Hemen pertseberantzia zehatzago definitzen da, behor baten irmotasuna dela. Hartzaileak errealitate espaziala izendatzen du sortzailearen botere espiritualarekin alderatuta. Zaldia lurrarena da, herensugea zeruarena den bezala. Behorra ikur gisa aukeratu zuten, zaldiaren indarra eta arintasuna eta behiaren otzantasuna eta debozioa uztartzen dituelako. Lurraren forma anitzek sormen-asmo anitzei erantzuten diete, lurrak erreal bihurtzeko ahalmen hartzailea duelako. Naturaren aberastasuna izaki guztiak elikatzeko ahalmenean datza, eta bere handitasuna edertasuna eta distira ematean datza. Izaki bizidun guztiak aurrera egiten ditu. Sormenak gauzak sortzen ditu, baina naturari esker jaiotzen dira. Giza kontuei aplikatuta, hexagramak egoeraren araberako ekintza esan nahi du. Aipatutako pertsona ez dago posizio independentean, laguntzaile gisa aritzen da baizik. Zerbait ondorioztatu behar dela esan nahi du. Bere zereginak ez du esan nahi gidatu behar duenik -horrek bere bidetik desbideratu baino ezin du egin-, baizik eta bere burua gidatzen uzten duela, hori da bere eginkizuna. Patuari onarpen-jarrerarekin aurre egiten badakizu, ziur dago dagokion norabidea aurkituko duzula. Gizon nobleak bere burua gidatzen uzten du; Ez da begiak estalita joaten, baizik eta zirkunstantzietatik ikasten du zer eskatzen zaion, bere aginduei jarraitzen die, egoerak eskatzen duen guztia ezagutzen du eta patuari amore ematen dio. Ondo egin beharreko zerbait dagoenean, lagunak eta laguntzaileak eskatzen dira lan eta esfortzu orduan, behin egin beharrekoaren egitasmoak irmo zehaztuta. Lanaren eta esfortzuaren denbora mendebaldeak eta hegoaldeak adierazten du, hor baitago zabaltzen den hartzailea sormenari, naturak udan eta udazkenean egiten duen moduan. Gaitasun guztiak mobilizatzen ez badira, zeregina ez da ondo beteko. Hemen lagunak aurkitzeak etxeko lanak egitea esan nahi du. Baina lanetik eta esfortzutik kanpo, plangintzarako eta ordenarako denbora ere badago: horretarako, isolamendua beharrezkoa da. Ekialdeak maisuaren aginduak jasotzen dituen lekua sinbolizatzen du eta Iparraldea, non egindakoaz jabetzen den. Hor bakarrik egon behar duzu eta objektiboa izan. Ordu sakratu hau ez da gorrotoak edo faboritismoak asaldatu behar.",
+    "imagen": "Lurraren egoera abandonu hartzailea da. Natura zabaleko gizon nobleak kanpoko munduari eusten dio. Zeru bakarra den era berean, lur bakarra dago. Lehenengo hexagraman trigrama indartsuaren bikoizteak denborazko iraupena esan nahi du, bigarrenean, trigrama ahula bikoizteak espazioaren hedapena eta lurrak bertan bizi eta mugitzen den guztia eusten duen irmotasuna esan nahi du. Lurrak, bere buruaren ukazioan, ongia eta gaizkia dakar salbuespenik gabe. Horrela gizon nobleak bere izaera zabal, sendo eta erresistente bihurtzen du, gizonak eta gauzak eraman eta lagundu ahal izateko."
+  },
+  {
+    "id": 3,
+    "nombre": "HASIERAKO ZAILTASUNA",
+    "trigramas": {
+      "superior": "K'an Amildegia, Ura",
+      "inferior": "Chhen Mugimendua, Trumoia"
+    },
+    "juicio": "Hasierako zailtasunak arrakasta bikaina sortzen du, irmotasunez sustatuz. Ez egin ezer. Onuragarria da laguntzaileak kontratatzea. Haurdunaldi garaiak zailtasunez inguratuta daude. Lehen jaiotza bezalakoa da. Baina zailtasun horiek forma eskuratzeko borrokan dauden faktoreen aberastasunetik sortzen dira. Dena martxan dago: beraz, egungo arriskua izan arren, arrakasta handia izateko aukera dago irauten baduzu. Patua une jakin batzuetan halako alderdi batean aurkezten denean, dena itxuragabe eta ilun geratzen da. Horregatik itxaron behar dugu, edozein keinu goiztiarrek porrota ekar dezaketelako. Bakarrik ez egoteak ere garrantzi handia du. Kaosaren gainean haiekin garaitzeko laguntzaileak izan behar dira. Baina horrek ez du esan nahi gertakariak ikusiz bakarrik pasibo egon behar denik, baizik eta lanean jarri behar denik, dena bultzatuz eta zuzenduz.",
+    "imagen": "Hodeiak eta trumoiak: hasierako zailtasunaren irudia. Horrela jokatzen du gizon nobleak, argitu eta ordena jarriz. Hodeiak eta trumoiak lerroetan antolamendu zehatzen bidez irudikatzen dira dagoeneko. Horrek esan nahi du, hasierako zailtasunaren kaosean, ordena dagoeneko presente dagoela. Horregatik, hasierako une horietan, gizon nobleak ugaritasun nahasia artikulatu eta ordenatu behar du, zetazko hariak nahasitako kusku batetik bereizten dituen heinean maletetan lotzeko. Infinituan bere burua ezagutzeko, bereizi eta batu egin behar da."
+  },
+  {
+    "id": 4,
+    "nombre": "GAZTE EROA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia.",
+      "inferior": "K'an Amildegia, Ura"
+    },
+    "juicio": "Gazteen eromena garaile. Ez naiz ni esperientziarik gabeko gaztearen bila dabilena, baizik eta nire laguntza bilatu behar duena. Lehen orakuluan, berri ematen dut. Bizpahiru aldiz galdetzen badu, harrotzen du. Traba egiten baduzu, ez dizut informaziorik emango. Iraunkortasuna mesedegarria da. Gaztetan, eromena ez da arriskutsua. Hala ere, arrakasta izan dezakezu, betiere esperientziadun irakasle bat aurkitzen baduzu eta harekin errespetuzko jarrera mantenduz. Horrek esan nahi du, lehenik eta behin, norberaren esperientzia ezaz jabetzea, eta irakasle bat bilatzea. Apaltasun horrek eta interes horrek soilik bermatzen du irakaslearekiko errespetuzko onarpenean adierazten den izpirituaren beharrezko harkortasuna. Horregatik, irakasleak lasai itxaron behar du deitu arte, baina ez bere burua eskaini. Horrela bakarrik emango du irakaskuntzak garaiz eta era egoki batean fruituak. Irakasleak ikaslearen galderei ematen dien erantzunak argia eta zehatza izan behar du, orakuluko aholkulari batek lortu nahi duen bezala. Ondoren, zalantzaren konponbide gisa jasoko da eta baita erabaki gisa ere. Mesfidantza edo hausnarketa ezak eragindako galdera gehigarriak irakaslea gogaitzeko baino ez dute balio. Onena haien inguruan isiltasuna mantentzea izango da, orakuluak erantzun bakarra ematen duen eta zalantzatik sortzen den edozein galderari uko egiten dion era berean. Puntu desberdinak bata bestearen atzetik asimilatu aurretik ahultzen ez den irmotasuna gehitzen zaionean, arrakasta ederra ziurtatzen da. Beraz, hexagramaren aholkua irakasleari zein ikasleari zuzenduta dago.",
+    "imagen": "Mendiaren magalean iturri bat sortzen da, gaztetasunaren irudia. Horrela, gizon nobleak bere izaera eskrupuloz lantzen du bere ekintza guztietan. Iturriak isurtzea lortzen du eta geldialdiari garaile egiten dio, bere bideko hutsune guztiak betez. Era berean, izaera garatzeko jarraitu beharreko bidea sakontasuna da, eta ezer baztertzen ez duen seriotasuna, urak bezala, bere bideko hutsune guztiak progresiboki eta gupidagabe betetzen dituena, aurrera jarraituz."
+  },
+  {
+    "id": 5,
+    "nombre": "Itxaron (ELIKADURA)",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia.",
+      "inferior": "K'an Amildegia, Ura"
+    },
+    "juicio": "Itxaron. Zintzoa bazara, distira eta arrakasta izango duzu. Iraunkortasunak zorte ona dakar. Korronte handia zeharkatzea onuragarria da. Itxarotea ez da itxaropen hutsa. Helburura iristeko barne ziurtasuna dago. Barne-ziurtasun horrek bakarrik ematen du arrakastara eramaten duen argitasuna. Zortea ekartzen duen eta ur handiak zeharkatzeko indarra ematen duen iraunkortasuna dakar. Norbaitek gainditu beharreko arrisku bati aurre egiten dio. Ahultasunak eta pazientzia ezinak ez dute laguntzen. Indartsua denak bakarrik gaindi dezake patua, bere barneko segurtasunari esker amaierara arte tinko iraun dezakeelako. Indar hau egiatasun malgugabe gisa agertzen da. Gauzei dauden bezala aurre egiteko ausardia dugunean bakarrik, inolako iruzur edo ilusiorik gabe, nahikoa argitasun daukagu ​​gertakarien lerro osoa behatzeko eta arrakastaren bidea ezagutzeko. Aitorpen horri jarraitu behar zaio ekintza irmoa eta irmoa, norberak bere patua irmoki aurre egiten duenean bakarrik menderatu ahal izango baitu. Momentu horretan gizakia prest egongo da ur handiak zeharkatzeko, hau da, arriskua gainditzeko beharrezko erabakiak hartzeko gai izango da.",
+    "imagen": "Hodeiak zeruan igotzen dira: itxarotearen irudia: Gizon nobleak jaten eta edaten du. Zoriontsu eta kontsolatzen da gauza onekin. Zeruan hodeiak altxatzen direnean, datorren euria adierazten dute. Egin dezakezun gauza bakarra euria egin arte itxarotea da. Bizitzan berdin gertatzen da patua prestatzen denean. Oraindik garaia iritsi ez den bitartean, alferrikakoa da kezkatu eta etorkizuna moldatzen saiatzea, gauzak norberaren ekintza eta jarduerarekin oztopatzen, baina beharrezkoa da lasaitasunez biltzea indarrak jan eta edanez, gorputzari dagokionez, eta umore onean egotea, adimenari dagokionez. Patua berez dator eta prest gaudenean."
+  },
+  {
+    "id": 6,
+    "nombre": "GATAZKA",
+    "trigramas": {
+      "superior": "Ch'ien Sortzailea, Zerua",
+      "inferior": "K'an Amildegia, Ura"
+    },
+    "juicio": "Gatazka. Zintzoa zara eta oztopoak aurkitzen dituzu. Bidean etenaldi zuhur batek zoria dakar. Gaia amaierara ekartzeak zoritxarra dakar. Onuragarria da gizon handia ikustea. Ez da jakintsua ur handiak zeharkatzea. Gatazka sortzen da norbait bere eskubide osoaz konbentzituta dagoenean eta oposizioari aurre egiten dionean. Norberaren eskubidez konbentzituta ez badago, erresistentziak maltzurkeria sortzen du edo gehiegikeria bortitzak eragiten ditu, baina ez gatazka. Gatazka batean sartuta dagoenean, salbamendurako bide bakarra zirkunspekzioan datza eta beti prest dagoen gatazka konpontzeko eta aldea konpartituz konpromisoa hartzeko. Gatazka bat emaitza mingarri batera jarraitzeak beti dakar ondorio txarrak, nahiz eta arrazoia izan, horrek etsaitasuna betikotzen duelako. Garrantzitsua da gizon handia ikustea, hau da, inpartziala den norbait, zeinaren agintea nahikoa zabala den, gatazkaren konponbide baketsu bat zuzen lortzeko eta zuzen erabakitzeko. Bestalde, ezinbestekoa da, arazo garaietan, ez “ur handiak zeharkatzea”; Hau da, saihestu enpresa arriskutsuak martxan jartzea, eta horien arrakastak indar kontzertatuen batasuna eskatzen du. Gatazkak indarra geldiarazten du eta kanpoko arriskua gainditzea eragozten du.",
+    "imagen": "Zerua eta ura alderantziz doaz: Gatazkaren irudia. Horrela, gizon nobleak hasieratik hartzen ditu kontuan jorratzen dituen gai guztiak. Irudiak aipatzen du gatazkaren kausak ezkutuan daudela bi aldeen kontrako joeretan. Xedapen dibergente horiek daudenean, gatazka saihestezina da. Ondorioz, gatazka hori saihesteko, nahitaez dena kontuan hartu behar da hasieratik. Eskubidea eta betebeharra zehatz-mehatz zehazten badira, edo gizabanako talde baten joera espiritualak harmonizatzen badira, gatazkaren jatorria baztertzen da aldez aurretik."
+  },
+  {
+    "id": 7,
+    "nombre": "ARMADA",
+    "trigramas": {
+      "superior": "K'un Hartzailea, Lurra",
+      "inferior": "K'an Amildegia, Ura"
+    },
+    "juicio": "Armadak irmotasuna eta gizon sendoa behar ditu. Zortea gaitzespenik gabe. Armada borroka indar bihurtzeko antolakuntza behar duen masa da. Diziplina zorrotzik gabe ezin da ezer lortu, baina diziplina ez da indarran oinarritu behar. Gizon indartsua behar da jendearen bihotzak irabazteko eta haien ilusioa pizteko. Bere gaitasunak garatzeko, gizon honek gerraren iraupen osoan bere ardurak transferitu behar dizkion agintariaren konfiantza osoa behar du. Baina gerra beti da kaltea eta suntsipena ekartzen duen gauza arriskutsua. Horregatik ez da arintzat hartu behar droga toxiko gisa erabili, azken aukera gisa soilik erabili behar dena. Gerra baten kausa justua eta helburu argia jendeari esperientziadun buruzagi batek azaldu behar dio. Herriak kontzientzia osoz azal dezakeen gerra-helburu zehatz bat dagoenean bakarrik jaiotzen dira garaipenera daraman sinesmenaren batasuna eta indarra. Baina jeneralak kontuz ibili behar du gerra-grinak eta garaipenaren eldarnioak gaitzespen orokorra merezi duten ekintza bidegabeak ekar ez ditzaten. Ekintzaren oinarrian justizia eta irmotasuna badira, dena ondo egongo da.",
+    "imagen": "Lurraren erdian ura dago: Armadaren irudia. Gizon nobleak bere eragina areagotzen du Herriarekiko eskuzabaltasunaren bidez. Arriskua mehatxatzen denean, herrikide bakoitza soldadu bihur daiteke eta, gerra amaitzean, bere goldeera itzul daiteke. Bere herriarekin eskuzabala denak bere maitasuna irabazten du, eta neurrizko erregimenean bizi den jendea indartsu eta kementsu bihurtzen da. Ekonomikoki boteretsu den herri batek bakarrik osa dezake gerra indar handia. Hori dela eta, boterea landu behar dugu pertsonen arteko harreman ekonomikoak bultzatuz eta aginte onberaz baliatuz. Gobernuaren eta herriaren arteko lotura ikusezin hori baldin badago, eta herria gobernu horrek babesten badu, lurraren sakoneko ura bezala, posible da gerra bat garaipenera eramatea."
+  },
+  {
+    "id": 8,
+    "nombre": "ARMADA",
+    "trigramas": {
+      "superior": "K'an Amildegia, Ura",
+      "inferior": "K'un Hartzailea, Lurra"
+    },
+    "juicio": "Elkartasunak zorte ona dakar. Galdetu berriro orakuluari sublimita, konstantzia eta iraunkortasuna dituzun jakiteko. Beraz, ez dago errietarik. Segurtasunik gabekoak pixkanaka hurbiltzen ari dira. Berandu iristen denak ezbeharra aurkitzen du. Besteekin elkartzea da, elkarren osagarri izateko eta elkartasunaren bitartez elkarri laguntzeko. Halako batasun batek zentro bat behar du, zeinaren inguruan bata besteekin taldekatzeko. Gizonen batasunaren zentro bihurtzea kontu serioa eta ardura handikoa da. Horrek barne handitasuna eskatzen du, logikoa eta indartsua izatea. Horregatik, bere inguruan beste batzuk bildu nahi dituenak bere burua probatu behar du zeregina betetzen den jakiteko. Gaitasunik eta bokaziorik izan gabe besteak bildu nahi dituenak, bilerarik ez balego baino nahasmen gehiago eragiten du. Baina benetako topagune bat dagoen tokian, ziurgabeak hurbiltzen ikusten dituzu, berez eta apurka-apurka, hasieran zalantzan. Berandu iristen direnek sufrituko dute. Garaiz bete beharreko sindikatua da. Harremanak barne-lege batzuei jarraituz ezarri eta baieztatzen dira. Esperientzia arruntek sendotzen dituzte. Berandu iristen denak eta oinarrizko esperientzia horietan parte hartu ezin duenak, eta atea itxita aurkitzen duenean, bere segurtasun eza eta berandutasuna leporatu beharko dizkio. Gizon batek elkartzeko beharra aitortzen badu eta sindikatuaren erdigunean jartzeko adina indarrik ez badu, orduan komunitateko beste kide bat izatea izango da bere betebeharra.",
+    "imagen": "Lurrean ura dago: elkartasunaren irudia. Antzinako erregeek estatuak feudotan banatu zituzten eta jaun feudalekin adiskidetasun harremanak landu zituzten. Urak lurraren hutsuneak betetzen ditu eta hari biziki atxikitzen zaio. Basailu eta jauntxoen arteko batasunaren maxima horretan oinarritu zen antzinateko gizarte antolaketa. Urak bere ibilgu guztiak batzen ditu berez, bere zati guztietan lege berdinen menpe dagoelako. Horrela, giza gizarteak ere batasuna behatu behar du, norbanako desberdinak osotasun baten kide sentiarazten dituen interes-komunitate bati esker. Organismo sozial baten botere zentralak bermatu behar du kide bakoitzak bere benetako interesa topatzea batasunean, antzinako Txinako erregeak basailuekin zituen aita-harremanetan gertatzen zen bezala."
+  },
+  {
+    "id": 9,
+    "nombre": "TXIKIEN BOTERE MENPERATZAILEA",
+    "trigramas": {
+      "superior": "Eguzkia Leuna, Haizea",
+      "inferior": "Ch'ien Sortzailea, Zerua."
+    },
+    "juicio": "Txikien etxekotze ahalmenak arrakasta du. Hodei trinkoak, baina euririk ez gure mendebaldeko eskualderako. Egoera Wen erregearen garaiko Txinakoarekin alderatzen da, jatorriz mendebaldekoa zen, baina garai hartan Ekialdean zegoena, Tcheu Sin tiranoaren subirano handiaren gortean. Ekintza handien garaia ez zen oraindik iritsi, eta Wenek tiranoa neurri batean murrizten zuen lagunarteko pertsuasioaren bidez soilik. Hortik altxatzen diren hodei ugarien irudia, lurraren hezetasuna eta bedeinkapena agintzen dutenak, baina oraindik euririk egin ez dutenak. Egoera ez da txarra eta azken arrakasta aurreikusteko aukera ematen digu. Hala ere, oraindik oztopoak daude bidean. Hurbilketa lanak has daitezke. Ontasunez betetako iradokizunen bitarteko xumeak erabiliz baino ezin duzu jokatu. Oraindik ez da neurri zorrotz eta energetikoak hartzeko garaia iritsi. Hala ere, posible da eragin moderatzaile eta leungarri bat eragitea erradio mugatu batean. Borondate hori gauzatzeak barruko ebazpen irmoa eta kanpoan egokitzapen irmoa eskatzen du.",
+    "imagen": "Haizeak zeruan gora egiten du bere bultzada. Txikien etxeko ahalmenaren irudia. Gizon nobleak bere izatearen kanpoko forma fintzen du. Haizeak hodei talde bat eragin dezake zeruan, baina gorputz sendorik gabeko airea besterik ez denez, ez du efektu nabarmen edo iraunkorrik sortzen. Hori dela eta, kanpoko ekintza handia posible ez den uneetan, jendeak bere izatearen adierazpenak hobetu ditzake gauza txikiak eginez."
+  },
+  {
+    "id": 10,
+    "nombre": "MARTXA",
+    "trigramas": {
+      "superior": "Ch'ien Sortzailea, Zerua",
+      "inferior": "Tui Lo Joyoso, Lakua"
+    },
+    "juicio": "Tigre baten buztanean ibiltzea. Honek ez dio gizonari hozka egiten. Arrakasta. Egoera benetan zaila da. Indartsuenak eta ahulenak oso lotuta daude. Ahulak indartsuen atzetik joaten dira eta haiei aurre egiten diete. Baina indartsuek haserretu gabe onartzen dute kontaktua alaia eta ez mingarria delako. Azaldutako giza egoera pertsona basati eta eskuraezinekin aurre egitearena da. Kasu honetan jokaera onak betetzen badira helburua lor daiteke. Ohitura onak eta portaera atseginak arrakasta lortzen dute pertsona sumingarriekin harremanetan egon arren.",
+    "imagen": "Egoera benetan zaila da. Indartsuenak eta ahulenak oso lotuta daude. Ahulak indartsuen atzetik joaten dira eta haiei aurre egiten diete. Baina indartsuek haserretu gabe onartzen dute kontaktua alaia eta ez mingarria delako. Azaldutako giza egoera pertsona basati eta eskuraezinekin aurre egitearena da. Kasu honetan jokaera onak betetzen badira helburua lor daiteke. Ohitura onak eta portaera atseginak arrakasta lortzen dute pertsona sumingarriekin harremanetan egon arren."
+  },
+  {
+    "id": 11,
+    "nombre": "BAKEA",
+    "trigramas": {
+      "superior": "K'un Hartzailea, Lurra.",
+      "inferior": "Ch'ien Sortzailea, Zerua"
+    },
+    "juicio": "Txikia joan eta handia dator. Zortea. Arrakasta. Hexagramak naturan zerua lurraren gainean dagoen modu jakin batean dagoen garai baten presentzia adierazten du. Lurraren azpian kokatutako zerua. Horrela, bi printzipioek elkartzen dituzte beren bertuteak harmonia intimo batean. Hortik dator bakea eta bedeinkapena izaki guztientzat. Gizonen munduan harmonia sozialaren garaia da. Nagusiak behekoengana jaisten dira, xumeek eta behekoek nagusiekiko adiskidetasun-sentimenduak elikatzen dituzte, hain ondo non etsai guztiak baretzen diren. Barruan, erdialdean, leku erabakigarrian dago argia (2. lerro nagusi); Iluntasuna kanpoan dago. Horrela, argi-printzipioak eragin sortzailea egiten du eta printzipio ilunak jarrera sumisoa mantentzen du. Beraz, bi alderdiek zor eta merezi dutena jasotzen dute. Onek gizartean nagusitasuna hartzen dutenean eta boterea beren eskuetan dutenean, txarrak beraiek ongiaren eraginpean sartzen dira eta bere burua hobetzen dute. Gizakian zerutik datorren izpiritua nagusitzen denean, sentsibilitatea ere bere eraginpean dago eta dagokion lekuan hartzen du. Lerro desberdinak hexagraman behetik sartzen dira eta goian uzten dute. Alde egiteko prestatzen ari diren elementu txiki, ahul eta txarrak dira, faktore handiak, sendoak eta onak gora egiten duten bitartean. Horrek zorte ona eta arrakasta dakar.",
+    "imagen": "Zerua eta lurra batu; bakearen irudia. Agintariak zeruko eta lurraren ibilgua zatitu ta osatu; Zeruko eta lurreko dohainak eskaintzen eta arautzen ditu, horrela jendeari lagunduz. Zeruak eta lurrak elkarren arteko harremana dute eta haien ondorioak batzen dituzte. Oparotasun orokorraren garaia da. Energia-fluxu hori guztia erregela egoki batek erregulatu behar du, ahalik eta ondoen erabili dadin. Emaitza hau banaketari esker lortzen da. Beraz, denbora ezberdindugabea urtaroetan banatzen du gizakiak, fenomeno naturalen segidaren arabera; Gauza guztiak inguratzen dituen espazioa puntu kardinaletan banatzen da giza lanaren bidez. Beraz, natura eta bere fenomenoen ugaritasun izugarria mugatu eta mugatu behar da. Bestalde, natura sustatu behar da bere ekoizpenean. Hori gertatzen da ekoizpena denbora eta leku egokira egokitzen denean. Horrek errendimendu naturala areagotzen du. Ekoizpena menderatzeko eta mesedetzeko jarduera hori gizakiari ongia itzultzen dion naturari buruzko lana da."
+  },
+  {
+    "id": 12,
+    "nombre": "ESTENAZIOA",
+    "trigramas": {
+      "superior": "Ch’ien Sortzailea, Zerua",
+      "inferior": "K'un Hartzailea, Lurra"
+    },
+    "juicio": "Geldialdia. Jende gaiztoak ez du gizon noblearen iraunkortasunaren alde egiten. Handia joan eta txikia dator. Zerua eta lurra jada ez dira elkarren artean komunikatzen eta gauza guztiak gelditzen dira. Goiek eta beheek jada ez dute elkarren arteko harremanak mantentzen; nahasmena eta nahastea da nagusi Lurrean. Barruan iluntasuna eta argia kanpoan. Barruan ahultasuna, eta kanpoan gogortasuna; Barruan arrotza dago, eta kanpoan izaki nobleak. Jende arruntaren izaera handitzen da eta nobleena txikitzen da. Baina izaki nobleek ez dute beren printzipioetatik aldentzen uzten. Hala ere, jada jarduteko aukerarik ez badute, beren printzipioei leial jarraitzen diete eta ezkutuan erretiratzen dira.",
+    "imagen": "Zerua eta lurra ez dira bat egiten: gelditasunaren irudia. Horrela, gizon noblea bere barruko kemenera erretiratzen da zailtasunetatik ihes egiteko. Ez du onartzen diru-sarrerekin sarituak izatea. Bizitza publikoan elkarrekiko mesfidantza nagusitzen denean, gizon arruntek eragindako eraginaren ondorioz, jarduera emankorra ezinezkoa da, oinarriak faltsuak direlako. Horregatik badaki gizon nobleak zer egin behar duen halako egoeratan. Ez du uzten gai publikoetan parte hartzera gonbidatzen duten proposamen bikainek liluratzen: arriskutsua litzateke berarentzat, ezin baitu onartu besteen gaiztakeria. Horregatik bere meritua ezkutatu eta ezkutuan erretiratzen da."
+  },
+  {
+    "id": 13,
+    "nombre": "GIZONEKIN KOMUNITATEA",
+    "trigramas": {
+      "superior": "Ch’ien Sortzailea, Zerua",
+      "inferior": "Li. Oszilatzailea, Sua."
+    },
+    "juicio": "Gizonezkoen komunitatea egun argitan. Arrakasta. Korronte handia zeharkatzea onuragarria da. Gizonaren irmotasuna mesedegarria da. Gizonekiko benetako komunitateak interes unibertsaletan oinarritu behar du. Ez dira norberaren helburu berekoiak, gizateriari dagozkion diseinuak baizik eta gizonekin komunitate iraunkor bat osatzen dutenak. Horregatik aurreikusten da arrakasta egun argian gizonak dituen komunitate batentzat. Harmonia nagusi denean, korronte handia zeharkatzea bezalako ekintza zailak arrakastaz burutu daitezke. Nolanahi ere, halako komunitate bat sortzeko, konbentzimendu zehaztu eta gogotsu dituen lider argi baten presentzia behar da, enpresa aurrera eramateko prest dagoena. Beheko trigramak argitasunaren zentzua du eta goiko trigramak indar sortzailearen zentzua.",
+    "imagen": "Zerua suarekin batua: komunitatearen irudia gizonekin. Horrela, gizon nobleak familietan zatiketa egiten du eta gauzen arteko bereizketak ezartzen ditu. Zerua suaren norabide berean mugitzen da, eta, hala ere, bertatik bereizten da. Zeruko gorputz argitsuek denbora egituratzeko eta banatzeko balio duten bezala, giza komunitateak eta benetan dagozkion gauza guztiak organikoki egituratu behar dira. Komunitateak ez luke izan behar gizabanakoen edo gauzen nahasketa bat -hori kaosa litzateke, ez komunitate bat-, baina ordena ezartzeko, aniztasun egituratua behar du."
+  },
+  {
+    "id": 14,
+    "nombre": "HANDIAREN JABETZA",
+    "trigramas": {
+      "superior": "Li Swinging, Flame",
+      "inferior": "Ch’ien Sortzailea, Zerua"
+    },
+    "juicio": "Jabetza neurri handi batean. arrakasta bikaina. Bi trigramek indarra eta argitasuna bat egiten dutela adierazten dute. Handiaren jabegoa patuak zehazten du eta garaiari dagokio. Nola izan daiteke lerro ahulak elkarrekin eusteko eta elementu sendoak edukitzeko ahalmena izatea? Berekoikeriarik gabeko bere borondateagatik. Denboraldia aldekoa da. Barne indarra, argitasuna eta kultura kanpoan. Boterea fintasunarekin eta autokontrolarekin kanporatzen da. Horrek arrakasta eta aberastasun bikaina dakar.",
+    "imagen": "Sua zeruan goian. Handiaren jabetzaren irudia. Horrela gizon nobleak gaizkia erreprimitzen du, ongiaren alde egiten du eta horrela zeruko borondate onari men egiten dio. Eguzkia, zerua menderatuz, bere izpiekin lurreko gauza guztiak argituz, handitasunaren jabetzearen irudia da. Baina izaera horretako jabetza bat behar bezala kudeatu behar da. Eguzkiak onak eta txarrak ekartzen ditu egunaren argira. Gizakiak gaizkia erreprimitu eta borrokatu behar du eta ongia sustatu eta faboratu. Honela bakarrik izango da ongia eta ez gaizkia nahi duen Jainkoaren borondate onaren arabera."
+  },
+  {
+    "id": 15,
+    "nombre": "UMILTASUNA",
+    "trigramas": {
+      "superior": "K'un Hartzailea, Lurra",
+      "inferior": "Ken, Mugikortasuna, Mendia"
+    },
+    "juicio": "Umiltasunak arrakasta dakar. Gizon nobleak arrakastaz burutzen ditu bere aferak. Zeruko legeak betea dena husten du eta apala dena betetzen du: Eguzkia bere gorenean dagoenean, zeruko legearen arabera, behera egin behar du eta lur azpian sakonean dagoenean, igoera berri batera jo behar du; Ilargia beteta dagoenean apaltzen hasten da eta hutsik dagoenean berriz hazten hasi behar du. Zeruko lege honek giza patuetan ere jokatzen du. Lurraren legea beteta dagoen guztia aldatzea eta apala den horretara isurtzea da. Mendi garaiak urak higatu eta haranak bete. Patuaren ahalmenen legea betea dena gutxitzea eta zoriontasuna xumeei ematea da. Gizonek ere gorroto dute betea dena eta maite dute umiltasuna. Patuak beharrezko moduan jarduten duten lege finkoak jarraitzen ditu. Baina gizakiak bere patua moldatzeko ahalmena du bere jokabideak bedeinkazio edo suntsipen indarren eraginpean jartzen dituen neurrian. Gizon batek goi kargua hartzen duenean eta umila denean, distira egiten du jakinduriaren argian. Beheratu eta apal dagoenean, ezin da baztertu. Horrela, gizon nobleak bere lana amaiera on baterako burutzea lortzen du, egindakoaz harrotu gabe.",
+    "imagen": "Lurraren erdian mendi bat dago: apaltasunaren irudia. Beraz, gizon nobleak soberan dagoena murrizten du eta falta dena areagotzen du. Gauzak pisatzen ditu eta berdin egiten ditu. Mendi bat ezkutatuta dagoen Lurrak ez du bere aberastasuna erakusten, mendiaren altuerak sakonuneak orekatzeko balio duelako. Beraz, altua eta baxua elkarren osagarri dira eta emaitza lautasuna da. Umiltasunaren irudiak hemen erakusten du lan luzea behar izan duela eta naturala eta erraza dirudiela. Gizon nobleak gauza bera egiten du Lurrean ordena ezartzen duenean. Gatazka-iturri diren oposizio sozialak berdintzen ditu eta, horrekin, bidezko eta bidezko harremanak sortzen ditu"
+  },
+  {
+    "id": 16,
+    "nombre": "ILUSIOA",
+    "trigramas": {
+      "superior": "Chen, Esnatzen dena, Trumoia",
+      "inferior": "K'un. Hartzailea, Lurra"
+    },
+    "juicio": "Ilusioa. Aldekoa da laguntzaileak biltzea eta armadak martxan jartzea. Ilusio garaia gizon aipagarri baten presentziarekin dator, herriaren arimarekin sinpatia eta ados dagoena. Horregatik aurkitzen du obedientzia orokorra libreki adostuta. Ilusioa pizteko beharrezkoa da ematen dituen aginduak gobernatutakoen izaerarekin adostu. Lege naturalen zurruntasuna erresistentzia gutxieneko lerroari jarraitzen dion mugimendu-arauan oinarritzen da. Lege hauek ez dira gauzen kanpokoak, baizik eta mugimenduaren harmonia inmanentea osatzen dute. Horregatik zeruko gorputzak ez dira beren orbitatik aldentzen eta fenomeno natural guztiak erregulartasun finko batekin gertatzen dira. Giza gizartean gauza bera gertatzen da. Herri-sentimenduan errotuta dauden legeak bakarrik betetzen dira, eta kontraesanean daudenek, berriz, erresumina besterik ez dute sortzen.     Ilusioak lana burutzeko laguntzaileak biltzea ahalbidetzen du, ezkutuko oposizioen beldurrik gabe. Ilusioa da, halaber, herri-mugimenduak estandarizatu ahal izateko, batez ere gerretan, garaipena lortzeko.",
+    "imagen": "Trumoiak oihartzun datoz lurretik: ilusioaren irudia. Horrela, antzinako erregeek merituen omenez egiten zuten musika, eta Jainko gorenaren aurrean bikaintasunez oparitu zieten, arbasoak gonbidatuz. Uda hasieran, trumoiak eta energia elektrikoa lurretik oihuka ateratzen direnean, lehen ekaitzak natura freskatzen du eta tentsio luze bati amaiera ematen dio. Erliebea eta poza ezartzen dira. Era berean, musikak badu bihotzaren tentsioa eta indarkeriaren sentimendu goibelak uxatzeko ahalmena. Bihotzaren ilusioa berez adierazten da abestiaren, dantzaren eta gorputzaren mugimendu erritmikoen soinuan. Antzinatik, jendearen bihotzak batzen eta mugitzen dituen soinuaren efektu ikusezin eta estimulatzailea enigma gisa hautematen da. Eta agintariek jakin zuten musikaren gustu natural hura aprobetxatzen. Hobetu eta antolatu zuten. Jendearen sentimenduak garbitzeko balio behar zuen zerbait serio eta sakratutzat hartzen zen musika; Heroien bertuteak goraipatu eta mundu ikusezinarekin lotura ezartzea zen. Tenpluan jendea Jainkoarengana hurbildu zen musika eta pantomimez lagunduta (hauek gero antzerkia sortu zuten). Munduaren Sortzailearenganako zentzu erlijiosoa giza sentimendurik sakratuenarekin bat egin zuen, arbasoekiko begirunearekin. Hauek zeremonia erlijiosoetan deitzen ziren zeruko Jaunaren gonbidatu gisa eta gorenaren aurrean gizateriaren ordezkari gisa. Horrela, norberaren iragana jainkotasunarekin lotuz, erlijio ilusioaren une solemneetan, Jainkoaren eta gizateriaren arteko batasuna ezarri zen. Bere arbasoengan jainkotasuna gurtzen zuen agintaria Zeruko Semetzat hartzen zen, zeinean zeruko mundua lurreko munduarekin mistikoki kontaktuan sartu baitzen. Pentsamendu hauek Txinako kulturaren laburpen gorena eta gorena dira. Konfuziok berak esan zuen errito horietan egiten zen sakrifizio handiari buruz: \"Sakrifizio hau guztiz ulertu duenak mundua gobernatu ahal izango du bere esku-ahurrean biraka balego bezala\"."
+  },
+  {
+    "id": 17,
+    "nombre": "SARRERA",
+    "trigramas": {
+      "superior": "Tui, lakua; pozik, atsegina",
+      "inferior": "Chen: trumoia; esnatzen dena, shocka."
+    },
+    "juicio": "Segidak arrakasta bikaina lortzen du. Iraunkortasuna mesedegarria da. Erreparorik gabe. Segizioa eraikitzeko lehenik eta behin moldatzen jakin behar da. Zerbitzatuz bakarrik iristen da agintera, horrela bakarrik lortu baitaiteke jarraitzen dutenen adostasun egokia. Norbait indarrez edo intrigaz, konspirazioz edo fakzioen bidez jarrai dezaten lortzen saiatzen bada, beti aurkituko du atxikimendu librea eragozten duten erresistentzia eta oztopoak. Ez ditugu beste batzuk gu jarraitzera behartu behar, baizik eta berez etorri behar dira. Baina mugimendu zoriontsu batek emaitza gogaikarria ere ekar dezake. Horregatik gehitzen da “irmotasuna onuragarria da”, hau da, onetan eta gaitzespenik gabe irautea. Baldintza honetan bakarrik lor daitekeen atxikimendua, baldintza horretan bakarrik jarraitu ahal izango da besteei kalterik gabe. Orduko eskakizunetara egokitutako segizioa sortzeko ideia handia eta garrantzitsua da; Horregatik da hain aldeko epaia.",
+    "imagen": "Lakua trumoiaren erdian dago: irudikatu segida. Horrela, iluntzean jakintsua sartzen da birsortzeko eta atseden hartzeko. Udazkenean elektrizitatea lurrera itzultzen da atseden hartzera. Lakuaren erdiko trumoiari dagokio. Ez da trumoia mugimenduan, trumoia baizik eta neguko atsedenaldian. Irudi honetan segizioa garaiko eskakizunetara egokitzeko zentzuarekin ageri da. Lakuaren erdian dagoen trumoiak iluntasun eta atseden garaia adierazten du. Horrela, jakintsuak, egun osoan sorkuntza-jarduera adierazi ondoren, aisialdia eta atseden hartzen du gaua iristean. Egoera bat onura daiteke bakarrik moldatzen badaki eta desplazatutako erresistentzian higatzen ez bada."
+  },
+  {
+    "id": 18,
+    "nombre": "UTELETAKO LANA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia",
+      "inferior": "Eguzkia, Doiltasuna, Haizea"
+    },
+    "juicio": "Ustela dena lantzeak arrakasta bikaina du. Erosoa da ur handiak zeharkatzea. Abiapuntua baino lehen, hiru egun. Abiapuntuaren ostean, hiru egun. Gizonen erruz hondatuta dagoena gizonen lanarekin konpon daiteke. Ez da geldiezina den patu bati buruz, geldialdiaren garaia bezala, halako ustelkeria egoera eragin duen giza askatasunaren gehiegikeriaren ondorioez baizik. Baldintzak hobetzeko lan egiteak arrakastaren alde egiten du, garaiko aukeren araberakoa delako. Ez dugu neke eta arriskutik kikildu behar -ur handien gurutzatzeak sinbolizatzen dituena-, baizik eta kementsuki aurre egin behar diegu. Dena den, arrakastak aldez aurretiko hausnarketa zuzena du, zeinaren araberakoa den erabaki zuzena. Hori da \"abiapuntuaren aurretik, hiru egun. Abiapuntuaren ondoren, hiru egun\". Lehenik ustelkeriaren arrazoiak ezagutu behar ditugu konpondu ahal izateko. Horregatik, abiapuntuaren aurretik dagoenari erreparatu behar diogu. Gainera, kontuz ibili behar dugu bide zuzena hartzen, berriro ez izateko, beraz, partidaren ostean gertatzen denari erreparatu behar diogu. Ebazpenak eta energiak axolagabekeria eta inertzia ordezkatu behar dituzte azkenean hasiera berri bat ager dadin.",
+    "imagen": "Haizeak mendi magalean jotzen du: Ustelkeriaren irudia. Gizon nobleak jendea hunkitzen du eta haien izpiritua indartzen du. Haizeak mendi magalean jotzen duenean, uztak hondatzen dituzten zurrunbiloak sortzen ditu. Horrek hobekuntza eskatzen du. Gauza bera gertatzen da jarrera baxuekin eta kalitate txarreko modekin: ustelkeria sartzen dute giza gizartean. Ustelkeria baztertzeko gizartearen noblezia birsortu behar dugu. Horretarako metodoak bi zeinu primitiborekin adierazten dira, baina haien ondorioak segida ordenatuan garatu behar dira: lehenik geldialdi egoera kendu behar da, iritzi publikoa mugituz (dena suntsitzen duen haizeak bezala), eta gero herri izpiritua indartu eta lasaitu (mendiak inguruan hazten diren landareak elikatzen eta babesten dituen bezala)."
+  },
+  {
+    "id": 19,
+    "nombre": "IKUSPEGIA",
+    "trigramas": {
+      "superior": "K'un, Hartzailea, Lurra",
+      "inferior": "Tui, Lakua, zoriontsua, atsegina"
+    },
+    "juicio": "Planteamenduak arrakasta handia du. Iraunkortasuna mesedegarria da. Zortzigarren hilabetea iristen denean ezbeharra dago. Hexagramak, oro har, aurrerapen itxaropentsuko garaia adierazten du. Badator udaberria. Pozak eta umore onak gorenak baxuetara hurbiltzen dituzte. Arrakasta ziurtatuta dago. Garaiaren aldeko izaera nahikoa da. Denboraldiaren abantaila guztiak aprobetxatzeko determinazioz lan egin behar duzu. Beste gauza bat, udaberriak ez du betiko iraungo. Zortzigarren hilabetean gauzak iraultzen dira. Bi ildo sendo baino ez daude aurrera egiten ez dutenak, atzera egiten dutenak baizik. (Ikus hurrengo hexagrama) Hau denboraz gogoratu behar dugu. Gaizkia euriak baino lehen saihesten bada edo arriskua agertu baino lehen aurreikusten badugu, menderatu ahal izango dugu.",
+    "imagen": "Aintziraren gainean lurra dago, hurbilketaren irudia. Gizon noblea agortezina da irakasteko asmoan eta herriari eusteko eta babesteko mugarik gabe. Lurrak aintzirarekin muga egiten du gainean. Goi-mailako gizonak behean daudenekiko duen hurbiltzearen eta kondeszendentziaren irudia da. Hexagramaren analogia bi izaki-kategoria hauekin bere atal bakoitzetik dator. Aintzira bere sakonean agortezina den bezala, gizon jakintsuak gizateria irakasteko joera agortezina du; Lurra izaki guztiak mantentzeko eta zaintzeko mugarik gabeko zabala den bezala, gizon jakintsuak pertsona guztiak mantentzen eta estimatzen ditu, gizateriaren inolako mugarik gabe baztertu gabe."
+  },
+  {
+    "id": 20,
+    "nombre": "KONTENPLAZIOA (IKUSPENA)",
+    "trigramas": {
+      "superior": "Sun Docility, Haizea",
+      "inferior": "K'un, Hartzailea, Lurra"
+    },
+    "juicio": "Kontenplazioa. Abluzioak egin ziren, baina oraindik ez eskaintzak. Konfiantzaz beteta, harengana begiratzen dute. Txinan sakrifizioaren errituala jainkotasunari dei egiten zioten abluzio eta libazio batekin hasi zen. Horren ondoren sakrifizioa eskaini zen. Bi errito hauen arteko denbora tartea sakratuena zen, barne-gogoeneko oroitzapen unea. Pietatea fedeak bultzatzen duenean, eskaintzen den ikuskizunaren kontenplazio zintzoak lekukoak eraldatzen ditu eta errespetua pizten die. Beraz, naturan badago esanahi sakratu eta serio bat gertakari natural guztiak gertatzen diren erregulartasunean. Unibertsoko gertakarien zentzu jainkotiar honen kontenplazioak gizakiengan jarduteko deitutakoaren esku jartzen ditu efektu berdinak egiteko bideak. Horretarako, sinesmen handiz eta biziaz hornitutako gizonengan kontenplazio erlijiosoak sortzen duenaren antzeko barne oroitzapena beharrezkoa da. Horrela, bizitzaren lege jainkotiar eta misteriotsuak ikusten dituzte eta beren nortasunean agerrarazten dituzte meditazioaren muturreko intentsitateari esker. Ikuspegi horren ondorioz, botere espiritual indartsu bat sortzen da, gizonengan eragiten duena eta menperatzen dituena, hori nola gertatzen den jakin gabe.",
+    "imagen": "Haizeak lurraren gainean jotzen du: kontenplazioaren irudia. Horrela, antzinako erregeek munduko eskualdeak bisitatzen zituzten, jendea kontenplatzen zuten eta irakasten zuten. Haizea lurraren gainean jotzen duenean leku guztietan dago eta belarra makurtu behar du bere indarraren ondorioz. Bi gertaera hauek hexagrama honetan berresten dira. Antzinateko erregeen jokatzeko era sinbolizatzen dute bi irudiek: alde batetik, ohiko bidaiei esker beren herriaren ikuspegi orokorra lortu zuten, indarrean zegoen ohiturarik ez zitzaien ihes egin ahal izateko. Bestalde, modu honetan euren eragina gauzatu zuten eta horri esker ohitura desegokiak aldatu ziren. Multzoak goi mailako nortasunaren boterea adierazten du. Halako gizonak hain ikuspegi orokorra izango du jendetza handiaren eta bere benetako xedapenen inguruan, non ezin izango baitu bere burua engainatu. Bestalde, bere presentzia soilarekin eragingo du harengan, jendetza berarekin erregula dezan belarrak haizearekin egiten duen bezala."
+  },
+  {
+    "id": 21,
+    "nombre": "HIZKETAK",
+    "trigramas": {
+      "superior": "Li, Oszilatzailea, Sua",
+      "inferior": "Chen, Zirraragarria, Trumoia"
+    },
+    "juicio": "Hozka egitea arrakastatsua da. Aldekoa da justizia gauzatzen uztea. Oztoporen bat bileraren aurka dagoenean, indarrez bereiztea da egokiena. Egoera guztietan balio du horrek. Batasuna lortu ezin den tokian, beti ere oztopo eta balazta gisa jarduten duen kalumniazale edo traidore batek eragindako eragozpenagatik izaten da. Gero, indarrez hozka egin behar duzu kalte iraunkorrak hazten ez daitezen. Horrelako oztopo kontzienteak ez dira berez desagertzen. Judizioa eta zigorra beharrezkoak dira haiek beldurtzeko edo bereizteko. Baina horrelako enpresa batean modu egokian jarraitu behar duzu. Hexagrama Li, argitasuna, eta Chen, zirrara, batasunaz osatuta dago. Li biguna da, Chen gogorra da. Gogortasuna eta sumindura bakarrik bortitzegiak izango lirateke zigorren administrazioan. Argitasuna eta leuntasuna, berez, ahulegiak lirateke. Bi propietate horiek batera neurri egokia egiten dute. Garrantzitsua da erabakia hartzeaz arduratzen den gizona (hemen 5. lerroaren bidez irudikatuta) izaera biguna izatea, bere posizioari esker, errespetua eragiten duen ekintza bat burutzen duen bitartean. (Ikusi trazuen izaera eta posizioa)",
+    "imagen": "Trumoiak eta tximistak. Hozka egitearen irudia. Horrela errege zaharrek lege irmoak ezarri zituzten ondo zehaztutako zigorrekin. Zigorrak legeen banakako aplikazioak dira. Legeek zigorren aipamena izan behar dute (urratzen dituztenentzat aurreikusita). Argitasuna da nagusi, baldin eta, zigorrak ezartzerakoan, arau-hauste arinak eta larriak bereizten badira arau-hausteen izaeraren arabera. Hori argitasunak sinbolizatzen du, tximistak. Legeen irmotasuna zigorrak justu aplikatuz lortzen da. Argitasun eta larritasun horrek gizonak errespetuan gordetzea du helburu; Zigorrak ez dira berez garrantzitsuak. Oztopoak garrantzitsuak dira gizonen bizitza kolektiboan zigorrak argi zehazten ez direnean eta arduragabekeriaz aplikatzen direnean. Legeak sendotzeko modu bakarra zigorrak argi, finko eta azkar egitea da."
+  },
+  {
+    "id": 22,
+    "nombre": "GRAZIA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia",
+      "inferior": "Li Swinging, Sua"
+    },
+    "juicio": "Gracek arrakasta du. Gai txikietan mesedegarria da zerbait egitea. Gracek arrakasta dakar. Hala ere, ez da ezinbestekoa oinarrizko gaietarako, gauza txikietan gutxi erabili behar den apaingarri bat baizik. Beheko trigraman, sua, marra ahul bat bi lerro sendoren artean sartzen da eta eder bihurtzen ditu; baina marra sendoak dira funtsa, marra ahula apaintzen duen forma da. Goiko trigraman, mendian, marra sendoa ageri da gailurrean, leku erabakigarrian, halako moldez non hemen oraindik faktore erabakigarritzat hartu behar baita. Naturan eguzkiak posizio sendoa hartzen du eta munduaren bizitza horren menpe dago. Baina eguzkiaren posizio sendoa ilargiak eta berarekin dotorez txandakatzen diren izarrek inguratzen dute. Giza bizitzan, formaren edertasuna edertasun argiaren bidez mendi itxurako pertsonaia sendoak atsegin bihurtzen direnean agertzen da. Zeruan gertatzen dena kontenplatuz garaiak eta eskakizun aldakorrak ulertzen ditugu. Giza bizitzan formen kontenplazioak mundua moldatzeko aukera ematen du. Oharra: hexagramak edertasuna erakusten du atsedenaldian. Barruko argitasuna eta kanpoko isiltasuna. Kontenplazio hutsaren isiltasuna da. Desioa isiltzen denean eta borondatea atseden hartzen denean, unibertsoa Ideia gisa agertzen da agerpenetan. Horrela, ederra da eta existentziaren aldeko borroka kentzen du. Artearen mundua da. Baina, azken batean, bere kabuz kontenplatzeak ez du borondatea atseden hartzen. Esnatuko da eta edertasun guztia goraipazio iragankorraren une bat baino ez da izango. Horregatik edertasuna eta grazia ez dira benetako askapen bideak. Ondorioz, Konfuzio oso haserretu zen, orakuluari kontsulta eginez, erantzun gisa \"grazia\" jaso zuenean.",
+    "imagen": "Mendiaren azpian sua dago. Graziaren irudia. Horrela gizon nobleak aurrera egiten du gai arruntak argitzen dituenean baina ez da horrela gai garrantzitsuak erabakitzeko gai izango. Suak, bere argiak mendiak argitzen eta atsegin egiten ditu, ez du urruti argitzen. Era berean, forma ederrak nahikoak dira galderarik berehalakoenak argitzeko baina ez galdera garrantzitsuak erabakitzeko. Hauek seriotasun handiagoa eskatzen dute."
+  },
+  {
+    "id": 23,
+    "nombre": "DISPERTSIONA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia",
+      "inferior": "K'un, Hartzailea, Lurra"
+    },
+    "juicio": "Dispertsioa. Ez da komeni zerbait hastea edo inora joatea. Jende ahulak eta beheak aurrera egiten ari diren eta azken indartsu eta nobleak gainditzeko bidean dauden garaia erakusten du. Egoera hau denboraren kausa da. Egoera hauetan, gizon noblearentzat ez da mesederik negoziorik egitea. Garai kaltegarri hauetan jokabide zuzena iruditik eta bere atributuetatik ondorioztatu behar da. Beheko trigramak lurra adierazten du, zeinaren ezaugarriak otzantasuna eta debozioa diren; Goiko trigramak bakea duen atributua duen mendia adierazten du. Horrek eguraldi txarrari eustea eta lasai egotea proposatzen du. Ez da gizakiak egiten duenaz, zeruko legeen arabera aurrerapen eta usteltze, betetasun eta hutsune alternatibak erakusten dituzten garaiko baldintzei buruz baizik. Behin-behineko baldintza hauek ez dute inolako erreakziorik onartzen eta ezinezkoa da horiei aurre egitea. Ez da koldarkeria baizik eta jakituria moldatzen jakitea eta ez jarduten.",
+    "imagen": "Mendia lurraren gainean dago: dispertsioaren irudia. Goikoek beren posizioa bermatu dezakete behekoei kontzesio eskuzabalak eginez. Mendia lurraren gainean dago. Estua, aldapatsua eta oinarri zabalik ez badu, erori egin behar du. Lurretik zabal eta zabal altxatzen badaki, eta ez harro eta bortitza, bere posizioa ziurtatzen da. Agintariek herriaren oinarri luzean oinarritzen dira. Eskuzabaltasuna eta arimaren handitasuna ere erakutsi behar dute, izaki guztiak sostengatzen dituen lurrak bezala. Horrela bakarrik mantenduko dute beren posizioa mendi bat bezain seguru eta lasai."
+  },
+  {
+    "id": 24,
+    "nombre": "THE RETURN (Aldaketaren garaia)",
+    "trigramas": {
+      "superior": "K'un Hartzailea, Lurra",
+      "inferior": "Chen Zer Esnatzen, Trumoia"
+    },
+    "juicio": "Itzuli. Arrakasta. Akatsik gabe irten eta itzultzen. Lagunak errietarik gabe datoz. Bidea joan eta etorri. Zazpigarren egunean itzultzen da. Onuragarria da nora joatea. Gainbehera aldi baten ondoren, itzulera hasten da. Kendua zen argiaren indarra berriro aurkitzen da. Mugimendua dago, baina ez da inposatutako zerbait: goiko trigramak, K'un, bere burua abandonatzeko eta emateko izaera du. Orduan berez jaiotzen den ekintza naturala da. Horregatik gauza zaharren eraldaketa oso erraza bihurtzen da. Zaharra kendu egiten da, berria sartzen da, biak denborarekin bat datoz eta ez dute kalterik eragiten. Pentsamendu bereko izakien taldeak sortzen dira. Baina bilera hauek modu irekian egiten dira, garaiari dagozkionez eta horregatik ahalegin berekoi guztiak baztertzen dira eta ez dago errurik. Itzulera naturan oinarritzen da. Mugimendua zirkularra da. Errepidea bere baitan ixten da. Horregatik ez da ezer artifizialki presarik egin behar. Dena berez dator momentua iristen denean. Halakoa da zeruaren eta lurraren esanahia. Mugimendu guztiak sei etapatan egiten dira, eta zazpigarrenak bueltan ematen du. Horrela, udako solstizioaren ondorengo zazpigarren hilabetean, urtea gainbeheran hasten den tokian, neguko solstizioa dator. Modu berean, ilunabarraren ondorengo zazpigarren ordu bikoitzean ateratzen da eguzkia. Horregatik zazpi da jaiotzen den argi gaztearen kopurua sei, iluntasunaren kopurua, unitate bat handitzen denean. Horrekin mugimendua gelditzen da.",
+    "imagen": "Trumoiak lurraren gainean. Itzultzeko puntuaren irudia. Horrela, antzinako erregeek pasabideak itxi zituzten solstizio garaian. Merkatariak eta atzerritarrak ez ziren zirkulatzen eta agintaria ez zen probintzietan zehar ibili. Neguko solstizioa beti ospatu izan da Txinan urteko atsedenaldi gisa, urte berriaren harira behatutako atsedenaldiarekin ospatzen den ohitura. Neguan, bizi-indarra (esnatzen denak, trumoiak adierazten duena) lur azpian dago oraindik. Mugimenduak lehen hastapenetan baino ez daude. Horregatik, oraindik ere atsedenarekin gotortu behar duzu, hura ez alferrik galdu behar goiztiarra erabiliz. Berritzen den energia atsedenaren bidez indartzeko aukera ematea agintzen duen maxima hori antzeko egoera guztietan aplikatzen da. Gaixotasun baten ondoren itzultzen den osasuna, auzi baten ondoren birsortzen den ulermena, dena tratatu behar da, hasieran, fintasun eta erosotasunarekin, itzulerak oparotasunera ekar dezan."
+  },
+  {
+    "id": 25,
+    "nombre": "INOZENTEA (ezustekoa)",
+    "trigramas": {
+      "superior": "Ch’ien, Sortzailea, Zerua",
+      "inferior": "Chen, Esnatzen dena, Trumoia"
+    },
+    "juicio": "Inozentzia. Arrakasta gorena. Iraunkortasuna mesedegarria da. Norbait ez bada izan beharko lukeena, zorte txarra izango du eta horrek ez dio ezer egiten lagunduko. Gizakiak zerutik jaso zuen jatorriz izaera ona bere mugimenduetan gidatzeko. Haren baitan jainkozko printzipio horri atxikiz, gizakiak xalotasun hutsa lortzen du, zeinak, sari eta intereseko pentsamenduetan egon gabe, zuzena egiten duena, besterik gabe eta senezko ziurtasunez. Segurtasun instintibo hori da arrakasta gorena ekartzen diona eta iraunkortasunaren bitartez mesede egiten diona. Alabaina, senezkoa dena ez da naturala hitzaren zentzu propioan, baizik eta justua eta zeruko nahiarekin bat datorrena baizik. Justizia falta bada, senezko jarduera irrazionalak ezbeharrak baino ez ditu sortzen. Konfuziok dio zentzu honetan: \"Zer irabazten du errugabetasunetik aldentzen denak? Zeruko borondatea eta bedeinkapena ez dira bere ekintzekin batera.",
+    "imagen": "Trumoiak zirkulatzen du zeruaren azpian. Gauza guztiak errugabetasun egoerara iristen dira. Antzinako erregeek, bertuteetan aberatsak eta denborarekin bat datozenak, izaki guztiak zaindu eta elikatzen zituzten. Udaberrian, trumoia, bizi-indarra, berriro zeruaren azpian mugitzen denean, gauza guztiak ernetzen eta hazten dira, eta izaki guztiek izaera sortzailetik jasotzen dute jatorrizko esentziaren haur-inozentzia. Horrela jokatzen dute, baita ere, agintari onek, beren izaeraren barne-aberastasuna erakusten dutenak, gizonen artean, bizitza eta zibilizazio guztiak zainduz, eta bere garaian, beren mantenurako eta aurrerapenerako behar duten guztia egiten dute."
+  },
+  {
+    "id": 26,
+    "nombre": "HANDIAREN BOTERE MENPERATZAILEA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia.",
+      "inferior": "Ch'ien, Sortzailea, Zerua"
+    },
+    "juicio": "Handien botere nagusia. Iraunkortasuna mesedegarria da. Etxean ez jateak zorte ona dakar. Korronte handia zeharkatzea onuragarria da. Sormen-ahalmenak irmo harrapatzeko eta altxorra izateko, burujabeak ohoratu dezakeen ulermen argiko gizon sendo bat behar da. Ch'ien trigramak botere sortzaile handia adierazten du, Ken trigramak irmotasuna eta egia adierazten du. Biek argia, argitasuna eta izaeraren eguneroko berritzea itzultzen dute. Eguneroko berritzearen bidez bakarrik handitu ditzake gizakiak bere ahalmenak. Ohituraren indarrak garai lasaietan ordena mantentzen laguntzen du, baina metatutako boterea erabiltzen den garaietan nortasunaren indarraren araberakoa da dena. Merezimendudun gizonak zintzoak direnez, subiranoak gobernu-erantzukizunak agintzen dizkion nortasun sendoak frogatzen duenez, onuragarria da etxean ez jatea, baizik eta ogibidea lanbide publiko batean irabaztea kargu ofiziala betez. Horrelako gizona zeruarekin bat egiten du eta garaile izango da, nahiz eta lan zailak eta arriskutsuak egiten dituen, hala nola, korronte handia zeharkatzea.",
+    "imagen": "Zerua mendiaren erdian. Handien botere nagusiaren irudia. Gizon nobleak antzinako esaera eta iraganeko esperientzia askoren berri ematen du, haiekin bere izaera indartzeko. Mendiaren erdian dagoen zeruak ezkutuko altxorrak sorrarazten ditu. Iraganeko hitzek eta ekintzek ezkutuko altxor bat daukate, izaera sendotzeko eta hezteko erabil daitekeena. Hau da aztertzeko modu zuzena, hau da, historia ezagutzera mugatzen ez dena, bere datuak erabiliz historia egungo errealitate bihurtzea baizik."
+  },
+  {
+    "id": 27,
+    "nombre": "EZPAIN TXOKOAK (NUTRIZIOA)",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia",
+      "inferior": "Chen Zer Esnatzen, Trumoia"
+    },
+    "juicio": "Ezpainen ertzak. Iraunkortasunak zortea dakar. Beha ezazu janariaren administrazioa eta gizakiak bere ahoa bete nahi duena. Babesak eta elikaduraz arduratzen zarenean, garrantzitsua da pertsona egokiak zaintzea eta modu egokian elikatzen zarela ziurtatzea. Pertsona baten izaera ezagutu nahi bada, nahikoa da nor zaintzen duen eta bere izaerak zein atal lantzen eta elikatzen dituen behatzea. Naturak izaki guztiak elikatzen ditu. Gizon nobleak bere zati nobleak lantzen ditu, batzuetan bere zatirik gaiztoenen kaltetan. Gizon nobleak balio handiko pertsonak elikatzen eta babesten ditu, haien bidez beste guztiak babesteko. Honi buruz Menziok dio (VI, A, 14): \"Norbaitek norbaiten balioa ezagutu nahi duenean, bere buruaren zein atal jotzen duen bereziki garrantzitsutzat jo behar da. Gorputzak atal nobleak eta atal gaiztoak ditu; beste batzuk baino garrantzitsuagoak dira atalak. Ez da kalterik egin behar garrantzitsua denari bigarren mailakoaren kalterako, ezta noblea denari ere, gizakia zitala lantzen duenaren maitasunagatik. bere izatearen atal nobleak lantzen ditu Gizon noblea da.",
+    "imagen": "Mendiaren magalean, trumoia. Elikagaien administrazioaren irudia. Gizon noblea kontuz dabil bere hitzekin eta neurtzen du jaten eta edanean. Jainkoa ilusioaren trigraman agertzen da\", udaberrian bizi-ahalmenak berriro mugitzen hasten direnean, izaki guztiak berriro jaiotzen dira; eta \"mugikortasunaren trigraman gauzatzen da\". Horrela, udaberriaren hasieran, haziak lurrera erortzen direnean, gauza guztiak bizitza-ziklo berri baterako prestatzen dira. Honek elikaduraren administrazioaren eredua ematen du mugimenduaren bidez eta gizakiaren kulturaren elikadura-eredu bat jarraitu behar du. Hitzek barrutik kanporako mugimendua osatzen dute Janak eta edariak kanpotik barrurako mugimenduak eratzen dituzte neurriz: hitzak bere neurria gainditu gabe irteten dira eta horrela lantzen da."
+  },
+  {
+    "id": 28,
+    "nombre": "HANDIAREN GEHIAGO PISUA",
+    "trigramas": {
+      "superior": "Tui. Alaia, Lakua",
+      "inferior": "Eguzkia. Leuna, Haizea, Basoa"
+    },
+    "juicio": "Gehiegizko pisu handia. Mendi-habea berez okertzen da. Onuragarria da nora joatea. Arrakasta. Garrantzitsuena gehiegizko pisua izatea da. Karga astunegia da eutsi behar dion indarrarako. Gain-habea, zeinaren gainean kokatzen den teilatu osoa, bere baitan tolesten da eta lagatzearekin mehatxatzen du bere muturrak jasan behar duten pisurako ahulegiak direlako. Teilatua apurtzear dago. Arrakasta lortu nahi baduzu aparteko neurriak eskatzen dituen aparteko garaia eta egoera da. Beharrezkoa da trantsizio bide bat ahalik eta azkarren bilatu eta neurriak hartzea. Horrek arrakasta agintzen du, indartsua gehiegizkoa den arren, erdigunea hartzen baitu eta barruan dago, beraz, iraultza bati ez zaio beldurrik eman behar. Neurri bortitzak eta bortitzak erabiliz ez da ezer lortuko. Emeki jarraitu behar duzu, korapiloak askatu eta egoeraren esanahia barneratuz, beheko trigrama Eguzkiak ekartzen duena. Ondoren, beste baldintza batzuetarako trantsizioa arrakastatsua izango da. Honek benetako nagusitasuna eskatzen du, horregatik gehiegizko pisua nagusi den garaia garai garrantzitsua da.",
+    "imagen": "Lakua zuhaitzen gainetik hazten da. Gehiegizko pisu handiaren irudia. Gizon nobleak ez du kezkatzen bakarrik dagoenean eta ez du bere burua desanimatzen uzten munduari uko egin behar badio. Gehiegizko pisua izateko garai apartak aintzira zuhaitzen gainean altxatzen den uholde baten antzekoak dira. Baina horrelako egoerak behin-behinekoak dira. Trigrametako bakoitzak honelako momentuetan jarraitu beharreko jokabidea adierazten du: Eguzkiaren irudia isolatuta egonda ere erresistentzia egiten duen zuhaitza da, eta Tuiren atributua, munduari uko egin behar dion baretasun alaia geldiezina da."
+  },
+  {
+    "id": 29,
+    "nombre": "FUNDAEZINA (URA)",
+    "trigramas": {
+      "superior": "K'an, Amildegia, Ura",
+      "inferior": "K'an, Amildegia, Ura"
+    },
+    "juicio": "Ulergaitzak errepikatu zuen. Zintzoa bazara, bihotz-bihotzez nahi duzuna lortuko duzu eta egiten duzun guztian arrakasta lortuko duzu. Arriskua errepikatuz, horretara ohitzen da. Urak jokabide egokiaren adibidea jartzen du egoera hauetan. Joan eta etorri, pasatzen den leku guztiak betez. Ez da inolako arrisku edo erortzetik erretiratzen, ezerk ez du aldatzen, baina bere funtsezko izaerari leial jarraitzen du. Horrela jokatzen du zintzotasunak egoera zailetan, eta horrela, bihotzaren intimitatean, egoeraren zentzua barneratzen da. Eta norberak barnean egoera menderatu bezain laster, kanpoko ekintzak berez jarraitzen dira arrakastaz beteko direnak. Arriskuaren aurrean kontatzen duena benetan egin beharreko guztia gauzatzeko duen sakontasun morala da, eta aurrera egitea, atzeratu izanagatik arriskuan ez erortzeko. Modu aktiboan erabilita, arriskua garrantzi handia izan daiteke babes neurri gisa. Zeruak bere altuera arriskutsua du, inbasio saiakeretatik babesten duena, eta lurrak herrialdeak beren arriskuekin bereizten dituzten urak eta mendiak ditu. Agintariek arriskua ere erabiltzen dute kanpoko erasoetatik eta barneko nahasteetatik babesteko.",
+    "imagen": "Urak etenik gabe isurtzen dira eta bere helburura iristen dira: amildegiaren irudia errepikatzen da. Gizon noblea bertutetik ibiltzen da eta irakaskuntza funtzioa betetzen du. Ura etenik gabe isurtzean iristen da bere helburua. Bete barrunbe bakoitza bere ibilbidea jarraitu aurretik. Gizon nobleak uraren adibidea jarraitzen du. Ona bere izaeraren propietate iraunkor eta sendo bilakatzea estimatzen du, eta ez kasualitatearen edo unearen araberakoa den zerbait soilik. Besteei instrukzioak egiterakoan, dena berdin-berdin jarraitasun izpirituaren araberakoa da, errepikapenaren bidez soilik bihurtzen baita irakaskuntza ikaslearen jabetza."
+  },
+  {
+    "id": 30,
+    "nombre": "ATXEA, SUA",
+    "trigramas": {
+      "superior": "Li, Atxikitzailea, Sua",
+      "inferior": "Li, Atxikitzailea, Sua"
+    },
+    "juicio": "Zer atxikitzen den. Iraunkortasuna mesedegarria da. Arrakasta dakar. Behia zaintzeak zorte ona dakar. Iluntasuna argitsua denaren menpe dago eta horrela argitasuna perfekzionatzen du. Argitasuna zabaltzen duen gorputz argitsu batek barruan irauten duen zerbait izan behar du guztiz kontsumitu ez dadin eta modu iraunkorrean distira izateko. Munduan distiratsua dena betirako distira izateko atxikitzen zaion elementu baten araberakoa da. Eguzkia eta Ilargia zeruaren menpe daude, aleak, belarra eta zuhaitzak Lurraren menpe daude. Era berean, aukeratutako gizonaren argitasun bikoiztuak zuzena denari atxikitzen zaio eta horrela mundua moldatu dezake. Egoera baldintzatu eta ez autonomoan munduan presente dagoen gizakia menpekotasun hori aitortzen duenean, unibertsoaren ahalmen on eta harmoniatsuei men egiten die eta arrakasta lortzen du. Behia muturreko otzantasunaren ikurra da. Beregan otzantasun hori eta borondatezko menpekotasun hori landuz, gizakiak argitasuna lortzen du gehiegizko bizitasunik gabe eta bere lekua aurkitzen du munduan.",
+    "imagen": "Distira duena bi aldiz igotzen da: suaren irudia. Gizon handiak munduko lau eskualdeak argitzen ditu, argitasun hori betikotuz. Trigrametako bakoitzak Eguzkia adierazten du egunean zehar. Biek Eguzkiaren mugimendu errepikatua adierazten dute, argiak denborarekiko duen funtzioa. Gizon nobleak naturaren lana jarraitzen du gizonen munduan. Bere izatearen argitasunaren bitartez, argia gero eta gehiago zabaltzea eta gizakiaren izaeran sakontzea eragiten du."
+  },
+  {
+    "id": 31,
+    "nombre": "ERAGINA, GORTEIA",
+    "trigramas": {
+      "superior": "Tui, Alaia, Lakua",
+      "inferior": "Ken, Mugikortasuna, Mendia."
+    },
+    "juicio": "Eragina. Arrakasta. Iraunkortasuna mesedegarria da. Neska bat emaztetzat hartzeak zorte ona dakar. Elementu ahula goian dago, elementu indartsua behean. Elkarren artean indarrak erakartzen dituzte batu arte. Horrek garaipena dakar. Izan ere, garaipen oro elkarrekiko erakarpenaren eraginean oinarritzen da. Kanpoko pozarekin batera doan barneko lasaitasunak esan nahi du gogobetetasuna ez dela gehiegizkoa, baizik eta bidezko mugen barruan geratzen dela. Halakoa da adiera gehigarriaren esanahia: “iraunkortasuna onuragarria da”, ezkontzarako egindako gorteiatzearen arteko aldea baitago, non gizon indartsuak bere burua kontuan hartzen duen emakume ahularen menpe, zeina limurduratik ezberdina den. Hautazko kidetasunen arabera egiten den erakarpen honetan naturaren lege orokor bat osatzen du. Zeruak eta lurrak elkar erakartzen dute eta horrela izaki guztiak existitzen dira. Gizon jakintsuak erakarpen analogo baten bidez jokatzen du gizakien bihotzetan eta bakea ezartzen da unibertsoan. Zeruko eta lurreko gauza guztien izaera ezagutu daiteke egiten dituzten erakargarritasunaren arabera.",
+    "imagen": "Mendian aintzira bat dago: eraginaren irudia. Horrela, gizon nobleak bere jarrera harkorrarekin gizonei beregana hurbiltzeko aukera ematen die. Aintzira bat dagoen mendi batek bere hezetasunetik datorren estimulua lortzen du eta abantaila hori du bere gailurra ez dela gailur irtena, barrunbe bat baizik. Irudiak barneko borondatea eta askea izatea aholkatzen du, aholku onak jasotzeko. Jendeak azkar uzten du dena dakitela diotenei aholku emateari."
+  },
+  {
+    "id": 32,
+    "nombre": "IRAUPENA",
+    "trigramas": {
+      "superior": "Chen, Esnatzen dena, Trumoia",
+      "inferior": "Eguzkia, Leuna, Haizea."
+    },
+    "juicio": "Arrakasta. Damurik gabe. Iraunkortasuna mesedegarria da. Onuragarria da nora joatea. Iraupena oztopoek eragozten ez duten egoera da. Hau ez da atseden egoera bat, gelditze hutsa erregresioa baita. Iraupena lege batzuei jarraituz betetzen den mugimendua da, bere buruarekin koherentea eta, gainera, etengabe berritua; Mugimendu markatu eta antolatua adierazten du, bere baitan irmo zentratua, zeinetan amaiera bakoitzari etengabe hasiera berri bat jarraitzen zaion. Bukaera barrurantz mugimendua, arnasa arnastea, sistolea, kontzentrazioa lortzen da. Mugimendu hori kanporantz zuzendutako hasiera berri batek aldatzen du: arnasaren arnasa, diastolea, hedapena da. Modu honetan zeruko gorputzak zeruan zehar mugitzen dira beren orbitan eta, beraz, modu iraunkorrean distira egin dezakete. Urteko urtaroak aldaketaren eta eraldaketaren lege finko bati jarraituz garatzen dira, eta, ondorioz, iraunkortasunez jokatu dezakete. Horrela, deia entzun duen gizonak zentzu iraunkorra ematen dio bere bizimoduari eta munduari forma ematen zaio. Honekin gauzek iraupena lortzen dute, eta zeruko eta lurrean dauden izaki guztien izaera ezagutu daiteke.",
+    "imagen": "Trumoia eta haizea: iraupenaren irudia. Gizon nobleak tinko jarraitzen du eta ez du norabidea aldatzen. Iraunkorra den zerbait lan luzearen eta hausnarketa zorrotzaren bidez bakarrik lor daiteke pixkanaka. Zentzu honetan dio Lao Tzuk: \"Zerbait konprimitu nahi baduzu, behar bezala zabaltzen utzi behar duzu lehenik\". Lehen saiakeran gehiegi eskatzen duenak presaka jokatzen du eta gehiegi eduki nahi duelako, azkenean ez du ezer lortuko."
+  },
+  {
+    "id": 33,
+    "nombre": "ERRETIROA",
+    "trigramas": {
+      "superior": "Ch’ien, Sortzailea, Zerua",
+      "inferior": "Ken, Mugikortasuna, Mendia."
+    },
+    "juicio": "Baldintzak halakoak dira, etsai-indarren alde egiten dutela beren aurrerapenean, garaiak bultzatuta. Kasu honetan, erretiratzea bide zuzena da eta horrela arrakasta lortzen da. Erretiratze hori ez da nahastu behar hegaldiarekin, zeinetan norbera kosta ahala kosta salbatzen saiatzen dena. Kontuz ibili behar da momentu egokia ez galtzeko bere indarraren eta posizioaren jabe den bitartean. Orduan, garaien seinaleak interpretatu ahal izango ditugu berandu baino lehen behin-behineko erretiro hori prestatzeko, bizitzaren eta heriotzaren arteko borroka etsi batean aritu beharrean. Baina ez da ihesaldi etsi bat aurkariari gudu-zelaia uztea, bere aurrerapena zailtzea baizik, oraindik puntu isolatuetan erresistentzia eginez. Modu honetan, erretiroan jada prestatzen da kontraerasoa. Ez da erraza erretiratze aktibo baten legeak ulertzea. Garrantzitsua da horrelako ekintza batean jasotako esanahia.",
+    "imagen": "Mendia zerurantz altxatzen da, baina bere izaeran dago azkenean igotzen amaitzen duena. Aitzitik, zerua gorantz atzera egiten du aurretik, iristezina izan dadin. Gizon nobleak altxatzen den gizon arrotzarekiko jokatzeko moduaren irudia da. Bere baitan erretiratzen da, beti behekoa gaindituz. Ez du gorrotatzen, gorrotoa objektu gorrotatuari lotzen zaion parte-hartze moduko bat baita. Duintasunez, gizon nobleak bere indarra erakusten du (zerua) gizon arrunta geldirik geratzera behartuz (mendia)."
+  },
+  {
+    "id": 34,
+    "nombre": "BOTERE HANDIA",
+    "trigramas": {
+      "superior": "Chen, Esnatzen dena, Trumoia",
+      "inferior": "Ch'ien Sortzailea, Zerua"
+    },
+    "juicio": "Handia denaren indarra. Iraunkortasuna mesedegarria da. Hexagramak barruko kemena indarrez handitzen den eta boterera iristen den garaia adierazten du. Baina indarrak erdiko lerroa gainditu du jada. Hortaz, arriskua dago norberaren indarretan gehiegi fidatzea une bakoitzean ona non dagoen galdetu gabe, eta une egokiaren zain egon gabe mugitu nahi izatea. Horregatik gehitzen da iraunkortasuna onuragarria dela dioen esaldia. Indar benetan handia delako, hain zuzen ere, indarkeria hutsean endekatzen ez dena, baizik eta justiziaren eta zuzenbidearen printzipioei barnean lotuta geratzen dena. Norberak ulertzen badu handitasuna eta justizia ezin bereizi gabe lotu behar direla, zeruan eta lurrean gertatzen den guztiaren benetako esanahia ere ulertzen da.",
+    "imagen": "Trumoia gora da zeruan. Handitasunaren boterearen irudia. Horrela, gizon noblea ez da ordenarekin bat ez datozen bideetatik ibiltzen. Trumoiak, energia elektrikoak, goranzko mugimendua du udaberrian. Mugimendu hau zeruarekin bat dator. Orduan zeruaren mugimenduarekin bat datorren mugimendua da handien boterea sortzen duena. Baina egiazko handitasuna zuzena denarekin bat egitean datza. Horregatik botere handiko garaietan gizon nobleak saihesten du ordenarekin bat ez datorren guztia egitea."
+  },
+  {
+    "id": 35,
+    "nombre": "AURRERAPENA",
+    "trigramas": {
+      "superior": "Li, Atxikitzailea, Sua",
+      "inferior": "K'un, Hartzailea, Lurra"
+    },
+    "juicio": "Adibide gisa, jaun feudal boteretsu batek, obedientzian eta bakean, gainerako printzeak subiranoaren inguruan biltzen dituen garaia irudikatzen da; Orduan subiranoak opari aberatsak eskaintzen dizkio eta bere inguru hurbilera erakartzen du.  Ideia bikoitza da. Aurrerapenaren benetako eragina menpeko posizio batean kokatutako gizon boteretsu batean oinarritzen da, zeina besteek laguntzat hartzen dutena, eta, ondorioz, gogo onez jarraitzen diona. Gida honek barne-argitasun nahikoa du berak eragiten duen eragin handia abusatzeko eta irakaslearen (subiranoaren) mesedetan erabiltzeko. Azken hau, bere aldetik, inbidia orotatik libre dago, eta etengabe erakartzen du gizon handia bere gortera eta opari aberatsak eskaintzen dizkio. Irakaslea eta zerbitzari esanekoa dira aurrerapen handiaren baldintzak.",
+    "imagen": "Eguzkia lurraren gainetik ateratzen da. Aurrerapenaren irudia. Gizon nobleak bere izaera argitsuak distira egiten ditu beretzat. Lurraren gainetik ateratzen den Eguzkiaren argia berez distiratsua da. Eguzkia zenbat eta gorago igo, orduan eta gehiago bereizten da laino uhertsuetatik, bere jatorrizko garbitasuna zabalago irradiatzen du. Beraz, gizakiaren benetako esentzia ona da bere jatorrian, baina lurreko elementuak lainotuta dago, eta, ondorioz, garbiketa behar du bere argitasun primitiboarekin distira egiteko."
+  },
+  {
+    "id": 36,
+    "nombre": "ARGIA ILUNTZEA",
+    "trigramas": {
+      "superior": "K'un, Hartzailea, Lurra",
+      "inferior": "Li, Atxikitzailea, Sua"
+    },
+    "juicio": "Argiaren iluntzea. Ezbeharretan irautea komeni da. Egoera desegokietan, ez da bere burua erresistentziarik gabe joaten utzi behar edo ezinean egon, norbere barruko borondatea makurtzen utziz. Baina hori bakarrik da posible barrutik distiratsua eta kanpotik malgua eta otzana denean. Ezbeharrik zailena ere gainditzen da jarrera horrekin. Egia da, kasu batzuetan, bere argia ezkutatu behar dela bere borondateari eusteko, ingurune hurbiletik sortutako zailtasunak gorabehera. Iraunkortasunak kontzientziaren zatirik intimoenean bizi behar du eta ez kanpotik agertu. Horrela bakarrik mantendu ahal izango da borondatea osorik zailtasunen artean.",
+    "imagen": "Argia lurrean murgildu da: “argiaren iluntzearen” irudia. Orduan, gizon noblea jendetza handiarekin bizi da bere itxura ezkutatu eta distiratsu mantenduz. Iluntasunean, garrantzitsua da kontuz eta erreserbatuta ibiltzea. Jokabide arduragabearen bidez ez da alferrik erakarri behar etsai garaiezinak. Jendearen ohiturak partekatu behar ez badira ere, kritikaren argitan jartzea ere ez da egokia. Horrelako egoeratan, ez luke dena jakin nahi. Gauzak bakarrik utzi behar dira haiek engainatu gabe."
+  },
+  {
+    "id": 37,
+    "nombre": "FAMILIA",
+    "trigramas": {
+      "superior": "Eguzkia Leuna, Haizea",
+      "inferior": "Li Atxikitzailea, Sua"
+    },
+    "juicio": "Familia senar-emazteen arteko harremanetan oinarritzen da. Familiaren batasuna mantentzen duen lotura emakumearen fideltasuna eta iraunkortasuna da. Bere lekua barruan dago (2. kolpea) eta gizonarena kanpoan (5. kolpea). Gizonak eta emakumeak naturaren lege handiei egokitu behar zaizkie, dagokien lekua hartuz. Familiak autoritate irmoa izan behar du, gurasoena. Aita benetan aita denean eta semea benetan semea denean, anaia zaharrak bere lekua hartzen duenean anaia nagusiaren eta gazteak txikiaren lekua hartzen duenean, senarra benetan senar eta emaztea benetan emaztea, orduan ordena da nagusi familian. Familia ordenatuta dagoenean, gizateriaren harreman sozial guztiak ordenatuta daude. Bost harreman sozialetatik hiru familia barruan gertatzen dira: aita eta semea -maitasun harremana-, senar-emazteen artekoa -errespetuzko harremana- eta anaia nagusiaren eta txikiaren artekoa -ordena-harremana. Aita eta semea batzen dituen maitasuna betebeharraren fideltasunaz itzultzen da sozialki. Senideen artean nagusi den maitasuna eta ordena adiskidetasunari aplikatzen zaizkio leialtasunaren alderdian eta nagusiekiko jarrera deferentzia moduan. Ezkontideen arteko errespetuzko harremana gizarte kohesio gisa balio duen elkartasun gisa itzultzen da. Familia da gizartearen hasierako zelula, betebehar moralen egikaritzeari eusten zaion lurra. Familia zirkulu estu bat da, non, oro har, giza harreman guztiak sortuko diren oinarriak egoera enbrioi batean aurkitzen diren.",
+    "imagen": "Beroa indar bihurtzen da, halaxe da sutik ateratzen den haizearen esanahia suaren forman. Barrutik kanporantz eragiten duen eragina da. Jarrera bera beharrezkoa da familiaren gobernuan. Hemen eragina besteengan egin beharreko nortasunetik ere sortzen da. Ekintza hori posible izan dadin, beharrezkoa da hitzek indarra izatea, baina hori benetako zerbaitek eusten badiote, sugarra materia erretik ateratzen den bezala. Hitzek bakarrik dute eragina garrantzitsuak direnean eta egoera jakin batekin argi eta garbi erlazionatzen direnean. Hitzaldiek eta abisuek, oro har, ez dute eraginik. Gainera, hitzek portaera osoari eutsi behar diote, haizeak iraunkorra denean eraginkortasunez jokatzen duen moduan. Jarduera irmoak eta koherenteak bakarrik eragingo du besteengan, haien burua egokitzeko eta erregulatzeko gai izango direlako. Hitzak eta jarrerak elkarren artean koherenteak eta koherenteak ez badira, ez dute eraginik edo eraginik izango."
+  },
+  {
+    "id": 38,
+    "nombre": "OPOSIZIOA",
+    "trigramas": {
+      "superior": "Li Swinging, Flame",
+      "inferior": "Tui Lo Joyoso, Lakua"
+    },
+    "juicio": "Oposizioa. Gai txikietan, zortea. Gizonak elkarren aurka eta urrun bizi direnean, ezin da elkarrekin lan handirik egin. Bakoitzaren posizioak elkarrengandik gehiegi desberdintzen dira. Batez ere, garrantzitsua da zuzenean eta bat-batean ez egitea, horrek kontrastea areagotuko lukeelako, baizik eta gauza txikiekin zerikusia duten ekintzetara mugatu beharko litzateke. Hemen oraindik itxaropena egin daiteke zoria, oposizioak ulermen oro baztertzen ez duelako egoera. Oposizioak, oro har oztopo gisa agertzen dena, kontrakoen polaritatea du multzo barnean, eta bere funtzioa ona eta garrantzitsua izan daiteke. Zeruaren eta lurraren, izpirituaren eta naturaren, gizonaren eta emakumearen arteko oposizioek bizitzaren sorrera eta loraldia orekatzen dituzte. Gauza ikusgarrien munduan, oposizioak ahalbidetzen du munduan ordena ezartzen den espezietan bereiztea.",
+    "imagen": "Suaren gainean, lakuaren azpian: oposizioaren irudia. Horregatik, gizon nobleak komunitate guztietan gordetzen du bere berezitasuna. Bi elementuak sua eta ura, elkarrekin egonda ere, ez dira nahasten baina bere izaerari eusten diote. Gizon heziak, beste pertsonekiko harreman eta interesen trafikoaren bitartez, ez du inoiz haiekin bat egin ahal izango, baizik eta komunitate bakoitzean bere berezitasuna gordeko du."
+  },
+  {
+    "id": 39,
+    "nombre": "OZTOPOA",
+    "trigramas": {
+      "superior": "K'an Amildegia, Ura",
+      "inferior": "Ken Immobility, Mendia"
+    },
+    "juicio": "Oztopoa. Hego-mendebaldea abantailatsua da. Ipar-ekialdea ez da onuragarria. Onuragarria da gizon handia ikustea. Iraunkortasunak zorte ona dakar. Hego-mendebaldea atzera egiteko eskualdea da, ipar-ekialdea aurrerapena. Zuzenean gainditu ezin diren oztopoen aurrean aurkitzen da. Egoera horretan komeni da arriskuaren aurrean pausatzea, atzera egin eta itxarotea. Hau oztopoak gainditzeko prestaketa bat da. Lagunekin bat egin behar da eta egoerari aurre egiteko gai den baten agindupean jarri. Orduan arrakasta izango duzu eta oztopoak kenduko dira. Honek irauteko gogoa eskatzen du helburutik urruntzen agertzen bada ere. Helburu argiak eta zehaztuak, azkenean, zorte ona dakar. Behin-behinekoa den oztopoa norberaren garapen pertsonalerako baliagarria da. Hor dago zoritxarren balioa.",
+    "imagen": "Mendiaren gainean ura. Oztopoaren irudia. Gizon nobleak bere buruari zuzentzen dio eta bere izaera garatzen du. Zailtasunak eta oztopoek gizakia bere buruarenganatzen dute. Baina gizon arrunta errua beste pertsonengan jartzen saiatzen den bitartean, bere patua deitoratuz, gizon nobleak bere baitan akatsa bilatzen du, eta barneratze horren bidez kanpoko oztopoa bere aberasteko eta barne garapenerako bitarteko bilakatzen da."
+  },
+  {
+    "id": 40,
+    "nombre": "ASKAPENA",
+    "trigramas": {
+      "superior": "Chen Zer esnatzen den, Trumoia",
+      "inferior": "K'an Amildegia, Ura."
+    },
+    "juicio": "Askapena. Hego-mendebaldea abantailatsua da. Inora ez dagoenean, itzulerak salbazioa dakar. Oraindik nora joateko badago, presak egiteak zoria dakar. Tentsioak eta konplikazioak xahutzen hasten diren garaiari egiten dio erreferentzia. Halakoetan, ahalik eta azkarren baldintza normaletara itzuli behar da, hala da hego-mendebaldearen esanahia. Oso aldaketa garrantzitsuen garaiak dira. Euri askatzaileak tentsio atmosferikoa garbitu, eta kimu guztiak jaiotzen dituen bezala, zama zapaltzaile batetik askatzen den uneak, bizitzan eragin askatzaile eta bizigarri bat eragiten du. Hala ere, garrantzitsua da norberaren garaipenaren mugak ez gainditzea. Beharrezkoa da behar baino gehiago ez sartzea. Askapena lortu bezain laster, bizitzaren ordenara itzultzea salbazioa da. Ebazteko dauden gai batzuk badaude, ahalik eta azkarren egin behar da, egoera garbitzeko eta atzerapenik saihesteko.",
+    "imagen": "Trumoia eta euria xahutzen dira: askapenaren irudia. Gizon nobleak akatsak barkatzen ditu eta errua absolbitu egiten du. Ekaitzak efektu garbitzailea du airean; Gizon nobleak gauza bera egiten du tentsio egoerak eragiten dituzten pertsonen akatsak eta bekatuak ezabatzen dituenean. Argitasunaren bidez askapena ekartzen du. Dena den, akatsak argitzen direnean, ez da horietan tematu behar, akatsak eta nahigabeko transgresioak zuzentzea baizik, trumoia itzaltzen den bezala, bekatua absolbitu egiten da, urak zikinkeria guztia garbitzen duen bezala."
+  },
+  {
+    "id": 41,
+    "nombre": "MEATZARITZA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia",
+      "inferior": "Tui Lo Joyoso, Lakua"
+    },
+    "juicio": "Zintzotasunaz lagundutako gutxitzeak zortea dakar gaitzetsi gabe. Horretan iraun dezakezu. Onuragarria da zerbait egitea. Zer egin daiteke? Sakrifiziorako bi ontzi txiki erabil daitezke. Gutxitzeak ez du beti zerbait txarra esan nahi. Hazkundea eta gainbehera bere garaian datoz. Garrantzitsua da garaiak ulertzea eta pobrezia itxura faltsuekin ez ezkutatzea. Baliabide eskasiaren garaiak norberaren egia ekartzen badigu, ez da horren soiltasunaz lotsatu behar. Hain zuzen, jarrera zuzena da zerbait berriari ekiteko barne indarra ematen duena. Ez da pentsamendu mingotsarik izan behar zibilizazioaren kanpoko distira eta forma erlijiosoen gauzatzeak sinpletasuna jasan behar badu. Barne sentimenduaren indarrez hartu behar da kanpoko itxuraren falta konpentsatzeko behar dena. Jokabidearen irmotasunak formaren sinpletasunak gehiegizkotzat izan dezakeena gainditzen laguntzen du. Jainkoaren aurrean, distira faltsu batek ez du ezertarako balio. Era berean, bitarteko xume gutxirekin bihotzaren jarrerak adieraz daitezke",
+    "imagen": "Mendiaren magalean, aintzira dago: gutxitzearen irudia. Gizon nobleak bere haserrea kontrolatzen du eta bere sena menderatzen du. Mendiaren magalean dagoen aintzira lurrundu egiten da. Zentzu honetan, jaitsierak mesede egiten die mendiei, hezetasunarekin aberasten baitira. Mendia haserrearekin kondentsa daitekeen indar egoskor baten irudia da. Aintzira kontrolatu gabeko pozaren irudia da, bizi-indarren kontura garatzen denean bulkada sutsu bihur daitekeena. Garrantzitsua da orduan murriztea: haserrea apaldu behar da gelditzeari esker, eta senak, mugak gelditu. Arimaren beheko ahalmenen beherakada honi esker, bere goi-atributuak aberastu egiten dira."
+  },
+  {
+    "id": 42,
+    "nombre": "IGOERA",
+    "trigramas": {
+      "superior": "Eguzkia Leuna, Haizea",
+      "inferior": "Chen Zer Esnatzen, Trumoia."
+    },
+    "juicio": "Igoera. Onuragarria da zerbait egitea. Onuragarria da ur handiak zeharkatzea. Behean dagoena areagotzeko goitik egiten den sakrifizioarekin, komunitatearen loraldirako izugarri baliotsua den alaitasun eta esker oneko giroa sortzen da herrian. Gizonak beren buruzagiei horrela lotzen zaizkienean, zerbait egin daiteke; gai zail eta arriskutsuek ere arrakasta izango dute. Horregatik, halako igoera garaietan, zeinaren garapena arrakastarekin batera, garrantzitsua da momentua lantzea eta erabiltzea. Denbora honek zeruaren eta lurraren arteko uztartzearen antza du, lurrak zeruaren ahalmen sortzailearekin parte hartzen duenean izaki bizidunak moldatuz eta gauzatuz. Igoera denborak ez du irauten, horregatik aprobetxatu behar duzu hemen dagoen bitartean.",
+    "imagen": "Haizea eta trumoia, igoeraren irudia. Gizon nobleak ona ikusten badu, imitatzen du; Akatsak badaude, kentzen ditu. Haizeak eta trumoiak elkar nola areagotzen eta indartzen duten ikusiz, gizakiak bere burua perfekzionatzeko eta pertsonalki garatzeko bidea aurki dezake. Besteengan zerbait ona deskubritzen bada, imitatu egin behar da eta horrela lurreko on guztia bereganatu. Norberak bere baitan zerbait txarra hautematen badu, kendu egin behar du. Horrela gaitzetik libratzen da. Aldaketa etiko hau nortasunaren igoerarik garrantzitsuena da."
+  },
+  {
+    "id": 43,
+    "nombre": "IRRUPZIOA (Ebazpena)",
+    "trigramas": {
+      "superior": "Tui Lo Joyoso, Lakua",
+      "inferior": "Ch'ien Sortzailea, Zerua."
+    },
+    "juicio": "Irrupzioa Erabat eman behar zaio gaia erregearen gortean. Egia aldarrikatu behar da. Arriskua. Zure hiriari jakinarazi behar diozu. Ez da egokia armetara jotzea. Onuragarria da zerbait egitea. Batzuetan, hiri batean, posizio nagusi bat duen gizon arrotz batek bakarrik menderatu ditzake gizon nobleak. Bihotzak pasio bakarra hartzen badu, arrazoia ilun dezake. Pasioa eta arrazoia ez dira beren kabuz existitzen, baizik eta gupidagabe borrokatzen dute klase menperatzailean ongia nagusi dadin. Gaizkiaren aurkako ongiaren aurkako borroka zehatz batean, arrakasta lortu nahi badu alde batera utzi ezin diren arau absolutuak daude. Ebazpenak indarraren eta adiskidetasunaren batasunean oinarritu behar du. Gaitzarekin konpromezua ez da posible. Gaizkia beti argi eta garbi baztertu behar da, edozein kasutan. Ez dira onartu behar ez norberaren grinak ez akatsak. Borroka ez da indarkeriaz egin behar. Gaizkia antzematen den tokian, armetara jotzea kontuan hartzen bada eta indarra jotzeaz atsegin hartzen badu, kolpe bati beste kolpe batez erantzuten badu, gorroto eta pasiozko joko batean galduta dago. Horregatik, garrantzitsua da zure kontuak konpontzen hastea eta zeure baitan aurkitu dituzun akatsak zaintzea. Horrela, aurkaririk ez aurkituz, gaizkiaren indarrak bere buruari aurre egiten dio. Gure akatsak ere ez dira zuzenean borrokatu behar: haien aurka borrokatzen garen bitartean, garaile izango dira. Gaizkiari aurre egiteko modurik onena ongiaren aurrerapen energetikoa da.",
+    "imagen": "Lakua zerura igo zen, irrupzioaren irudia. Horrela, aberastasun noblea beherantz banatzen da, bere bertutean gelditzeko beldurrez. Lakuko ura zerurantz igotzen denean, hodei zaparrada baten beldur izan dezakezu. Gizon nobleak abisu gisa hartzen du denboran kolapso bortitza saihesteko. Beretzat bakarrik eta besteengan pentsatu gabe aberastasuna pilatu nahi duenak porrotaren bizipena izango du. Metaketa bakoitzari, hain zuzen, sakabanaketa bat dator. Horregatik, gizon noblea jada metatzen den denboran zabaltzen hasten da. Bere izaera lantzean bezala, kontuz ibili ohi da ez gelditzeko, baizik eta bere buruaren azterketa etengabe eta zorrotzaren bidez inpresioekiko harkorra izaten jarraitzen du."
+  },
+  {
+    "id": 44,
+    "nombre": "ETORRI BILERA",
+    "trigramas": {
+      "superior": "Ch’ien Sortzailea, Zerua",
+      "inferior": "Eguzkia Leuna, Haizea"
+    },
+    "juicio": "Hitzordura etortzea. Neska boteretsua da. Ez da neska horrekin ezkondu behar. Gizon arruntaren igoera (beheko elementu baten hazkuntza) bere burua erraz ematen duen eta horrela agintea hartzen duen neska erakargarri baten irudiak margotzen du. Hori ez litzateke posible, bere aldetik, printzipio sendo eta argitsua ere harekin topo etorri izan ez balitz. Gizon arruntak hain kaltegabea eta hain otzana dirudi, non lagun egiten baitu. Hain txikia eta hain ahula dirudi, non kezkarik gabe dibertitzea bururatzen zaiola. Beheko gizona altxatzen da gizon nobleak ez duelako arriskutsu ikusten eta boterea ematen diolako. Hasieratik aurre egin badio inoiz ez luke arrakastarik izango eragina lortzeko. Baina bat topatzera etortzen den denborak badu aztertzea merezi duen beste alderdi bat. Araua ez bada izan behar ahulak indartsuengana etortzea, jarrera horrek, ordea, une jakin batzuetan garrantzi handia hartzen du. Zerua eta lurra elkartzen badira, izaki guztiek aurrera egiten dute. Printzea eta bere ministroa elkartzen direnean, ordena ezartzen da munduan. Ezinbestekoa da elkarren artean erlazionatu nahi diren printzipioak elkarri lotuta egotea. Urrats honek bakarrik asmorik gabeko izan behar du, bestela txarra izango litzateke.",
+    "imagen": "Zeru azpian haizea dago: Topatzera etortzearen ekintzaren irudia. Horrela jokatzen du printzeak bere aginduak argitaratzen dituenean eta lau puntu kardinalek aldarrikatzen dituztenean. Egoera Kuan \"kontenplazioa\" 20 zenbakiko hexagramaren antzekoa da. Han haizeak lurraren gainean jotzen du eta hemen haizeak zeruaren azpian. Haizea presente dago bi kasuetan. Baina han haizea zegoen lurrean; orduan haize baxua zen, erreinuko baldintzen ezagutza hartzen zuena. Hemen haizeak gora jotzen du, subiranoak bere aginduekin egiten duen eragina adieraziz. Zerua urruti dago lurrean dauden gauzetatik, baina haizearekin mugitzen ditu. Subiranoa herritik urrun dago, baina bere aginduekin eta bere borondatearen adierazpenarekin mugitzen ditu."
+  },
+  {
+    "id": 45,
+    "nombre": "BILERA",
+    "trigramas": {
+      "superior": "Tui Lo Joyoso, Lakua",
+      "inferior": "K'un Hartzailea, Lurra"
+    },
+    "juicio": "Bilera. arrakasta. Erregea tenplura hurbiltzen da. Onuragarria da gizon handia ikustea. Horrek arrakasta dakar. Iraunkortasuna mesedegarria da. Sakrifizio handiak egiteak zorte ona dakar. Onuragarria da zerbait egitea. Gizonak nolabaiteko garrantzia duten komunitateetan biltzea naturala da familia barruan bezala edo artifiziala estatu batean bezala. Bilera hauen iraupena arbasoen kultuaren bidez lortzen da, eta horren harira klan osoa biltzen da. Debozio kolektiboaren bidez, arbasoak beren ondorengoen bizitza espiritualean integratzen dira, komunitatea ez desegiteko edo desegiteko aukera emanez. Gizonak bildu behar direnean, botere erlijiosoa beharrezkoa da baina ez nahikoa. Aginte edo giza nagusi bat ere egon behar da bileraren erdigune gisa. Besteak batu ahal izateko, topagune horrek aldez aurretik moralki ados egon behar du bere buruarekin. Meditazioaren bidez, indar morala handitzen da eta jendea elkartzeko aukera ematen du. Bateratze garai handi hauetan obra handietan ematen dute fruitua. Hori da sakrifizio edo eskaintza handiak egitearen esanahia. Eremu publikoan eta profanoan ere lan handiak egiten dira hitzarmen kolektiboaren inguruko bileran oinarrituta.",
+    "imagen": "Lurraren gainean, aintzira dago: biltzearen irudia. Gizon nobleak bere armak berritzen ditu ezustekoarekin topatzea eragotziz. Lakuko ura lurrean pilatu eta hazten bada, gainezka egiteko arriskua dago. (2) Hori ekiditeko neurriak hartu behar dira. Era berean, gizonak kopuru handian biltzen direnean gatazkak sor daitezke. Salgaiak pilatzen diren tokian lapurrak ezkutatzen dira. Horregatik uzta eta uzta garaian ustekabekoetatik babestu behar dugu defentsak eta armak berrituz. Gizakiaren gaitzak eta sufrimendua sarritan prestatuta ez zegoen ustekabeko gertaeretatik datoz. Prestatuta bazaude saihestu ditzakezu."
+  },
+  {
+    "id": 46,
+    "nombre": "GORANTZEKO BULTZAK",
+    "trigramas": {
+      "superior": "K'un Hartzailea, Lurra",
+      "inferior": "Eguzkia Haize Leuna, Egurra"
+    },
+    "juicio": "Goranzko bultzadak arrakasta bikaina du. Gizon handia ikusi behar duzu. Ez izan beldurrik! Hegoaldera joateak fortuna dakar. Elementu baliotsuen goranzko bultzadak ez du oztoporik aurkitzen, horregatik arrakasta handia du. Goranzko bultzada posible egiten duen jarrera ez da bortitza, apala eta otzana baizik. Baina garai hartako xedapen aldekoek gidatzen dutenez, aurrera egiten da. Aurrera egin eta aginteari eusten dioten jendea bilatu behar dugu. Ez dago egiteko beldurrik izan behar, arrakasta ziurtatuta baitago. Lanari ekin besterik ez dago, jarduera (hau hegoaldeak adierazten du) aberastasun iturri baita.",
+    "imagen": "Lurraren erdian basoa hazten da: gorako bultzadaren irudia. Horrela gizaki nobleak naturari uzten dio bere burua, gauza txikiak metatzen ditu gauza handiak eta altuak egiteko. Lurrean basoa presarik gabe eta gora egin gabe hazten da, oztopoak oztopo saihestuz. Gizon noblea eta bere izaerari fidela ez da inoiz bere aurrerapenean atseden hartzen."
+  },
+  {
+    "id": 47,
+    "nombre": "THE AGOBIO (Nekea)",
+    "trigramas": {
+      "superior": "Tui Lo Joyoso, lakua",
+      "inferior": "K'an Amildegia, Ura"
+    },
+    "juicio": "Zama. Arrakasta. Iraunkortasuna. Gizon handiak fortuna lantzen du. Erreparorik gabe. Norbaitek zerbait esateko duenean ez da sinesten. Zoritxarreko garaiak arrakastaren alderantzizkoak dira. Baina arrakasta lor dezakete gizon egokia aurkitzen baduzu. Gizon indartsua ezinean dagoenean lasai eta erne jarraitzen du arrisku guztiak gorabehera, eta zuhurtzia hori da geroko arrakastaren iturria. Bere irmotasuna patua baino indartsuagoa da. Etsipenak bere izpiritua hausten uzten duenak ez du lortuko. Zoritxarrez bakarrik apurtu eta erreakzionatzeko indarra sortzen zaionari, denborarekin ziur aski aurkituko du pertsona horrek argia. Gizon arrotzak ez dira horretarako gai. Gizon nobleak bakarrik dakar berekin zori ona eta errugabe geratzen da. Egia da momentuz bere eragina ez dela aitortzen eta bere hitzek ez dutela eraginik. Horregatik, zoritxarreko garaietan barnean indartsu eta hitzez soila mantentzea garrantzitsua da.",
+    "imagen": "Aintziran ez dago urik: nekearen irudia. Gizon nobleak bere bizitza arriskuan jartzen du bere helburuak betetzeko. Ura aintziraren azpitik ateratakoan, agortu eta lehortu egin behar da. Halakoa da patua. Giza bizitzako patu kaltegarriaren irudia da. Halakoetan, ezin da norberaren patua onartu eta bere buruari leial jarraitzea beste ezer egin. Hemen izatearen benetako esentziaren geruza sakonenari egiten dio erreferentzia, bera bakarrik kanpoko patu guztiaren gainetik dagoelako."
+  },
+  {
+    "id": 48,
+    "nombre": "PUTZUA",
+    "trigramas": {
+      "superior": "K'an Amildegia, ura",
+      "inferior": "Eguzkia Leuna, haizea, basoa"
+    },
+    "juicio": "Putzua. Hiria alda dezakegu, baina ezin dugu putzua aldatu. Ez da gutxitzen edo handitzen. Joan eta etorri dira putzutik ura ateratzen. Ia uretara iritsi zara, baina soka guztiz jaisten ez bada edo pitxarra hausten bada, horrek zoritxarra dakar. Antzinako Txinan hiriburuak transferitzen ziren batzuetan, kokapen berri bat mesedegarriagoa zelako edo dinastia aldatu zelako. Eraikinen estiloa aldatu egin da mendeetan zehar baina putzuaren formak bere horretan jarraitzen du antzinatik gaur egunera arte. Putzua, beraz, gizateriaren antolamendu sozialaren irudia da bere bizi-beharrik primitiboenetan; Erakunde hau forma politiko guztietatik independentea da. Forma politikoak eta nazioak aldatzen dira, baina gizonen bizitzak beren eskakizunekin beti berdin jarraitzen du. Ez du bere burua aldatzen uzten. Bizitza hau ere agortezina da. Ez da gutxitzen ez handitzen, eta guztiontzat dago. Belaunaldiak joan eta etorri, eta mundu guztiak gozatzen du bizitza bere ugaritasun agortezinean. Nolanahi ere, antolaketa politiko eta sozial on batek baldintza bikoitza eskatzen du. Bizitzaren beraren oinarrietara jaitsi behar da. Bizitzako arauak ezartzeko azaleko edozein jarrera, ezinbesteko beharrak ase gabe utziz, hain da inperfektua non erreforma saiakerarik ez izatea. Berdin txarra da pitxarra apurtzea eragiten duen arduragabekeria. Esaterako, Estatu baten defentsa militarra gehiegikeriaraino eramaten bada, gerra eragin eta, beraz, Estatua suntsitzera eramaten badu, hori pitxer haustearen parekoa da. Hexagrama gizabanakoei berdin aplikatzen zaie. Gizonen jarrera ezberdinek eta hezkuntza ezberdinek herrien artean aniztasuna eragiten dute. Baina sakonean gizakiaren izaera beti da gizaki guztien berdina. Gizakiak, bere formakuntzan, gizakiaren esentzia den jainkozko naturaren iturri agortezinetik atera dezake. Baina bi arriskuk mehatxatzen dute: lehena, gizakia ez dela barneratzen, bere formakuntzan, gizateriaren benetako sustraietaraino, baizik eta konbentzioen preso geratzen dela (formazio hori formaziorik eza bezain txarra da) eta bigarrena, bat-batean hondoratzen dela, bere izatearen eraketa alde batera utzita.",
+    "imagen": "Basoaren gaineko ura: putzuaren irudia. Gizon nobleak jendea animatzen du bere lanean eta elkarri laguntzeko gomendatzen die. Behean Eguzkia, basoa, trigrama dago; goian, K'an trigrama, ura. Basoak ura gorantz ateratzen du. Basoak, organismo gisa, putzuaren ekintza imitatzen duen bezala eta landarearen atal guztien ongia bilatzen duen bezala, gizon nobleak giza gizartea ordenatzen du horrela, landare-organismoan bezala, bertako kideek guztion onerako lankidetzan jarduten duten."
+  },
+  {
+    "id": 49,
+    "nombre": "IRAULTZA (The Mute)",
+    "trigramas": {
+      "superior": "Tui, Atsegina, lakua",
+      "inferior": "Li, Oszilatzailea, sua"
+    },
+    "juicio": "Iraultza. Zure egunean sinesten zaituzte. Iraunkortasunak arrakasta handienaren alde egiten du. Damuak desagertzen dira. Iraultza politikoak oso gai larriak dira. Beharrezkoak diren kasuetan bakarrik egin behar dira eta beste irteerarik ez dagoenean bakarrik. Denak ez daude horrelako ekintzara deitzen, baizik eta jendearen konfiantzaz gozatzen dutenek eta unea iritsi arte ekingo ez dutenei. Horrelakoetan, behar-beharrezkoa da zuzen jokatzea, jendea gustura eta argitu dezan, gehiegikeriak saihestuz. Gainera, asmo berekoi guztietatik libre egon behar da eta jendearen beharrak benetan zaindu behar dira. Baldintza horietan bakarrik ez dago damuetarako lekurik. Garaiak aldatzen dira eta, ondorioz, eskariak desberdinak dira. Urtean zehar urtaroak aldatzen diren bezala, udaberria eta udazkena ere badaude unibertsoko herri eta nazioetan, eraldaketa sozialak eskatzen dituztenak.",
+    "imagen": "Sutea Lakuan. Iraultzaren irudia. Horrela gizon nobleak egutegia arautzen du eta denbora argitzen du. Goiko sua eta beheko aintzira elkarren aurka borrokatzen eta suntsitzen dute. Horrela, urtean zehar argi indarren eta indar ilunen arteko borroka bat gertatzen da, urtaroen aldaketarekin batera garatzen dena. Gizakiak naturaren aldaketak kontrola ditzake haien erregulartasuna aintzat hartzen duenean eta horren arabera denboraren ibilbidea banatzen duenean. Horrela sartzen dira ordena eta argitasuna denbora-segidaren itxura kaotikoan eta nola molda daiteke aldez aurretik garai ezberdinetako eskakizunetara."
+  },
+  {
+    "id": 50,
+    "nombre": "KALDERA",
+    "trigramas": {
+      "superior": "Li Oszilatzailea, Sua.",
+      "inferior": "Eguzkia Leuna, Haizea, Egurra"
+    },
+    "juicio": "Kaldereroa Fortuna gorena. Arrakasta. “Putzuak” giza komunitatearen oinarri sozialak lantzen dituen bitartean, hau da, basorako elikagai gisa balio duen ura bezala, hemen gizartearen gainegitura kulturala erakusten da. Hona hemen suaren janari gisa balio duen basoa, printzipio espirituala. Ikusgai denak bere bilakaera jarraitu behar du eta ikusezinera joan. Horrela bere kontsagrazio eta argitasun legitimoa jasotzen du eta unibertso osoan erro sendoa hartzen du. Hemen erlijioan amaitzen den kultura erakusten da. Kaldereroak jainkozko sakrifizioak zerbitzatzen ditu. Lurreko ordenan gorena eskaini behar zaio jainkoari. Baina benetan jainkotiarra dena ez da gizakia denetik bereizita agertzen. Jainkoaren agerpen gorena profetetan eta santuetan aurkitzen da. Haiek ohoratzea Jainkoa ohoratzeko benetako bidea da. Haien bidez ageri den Jainkoaren nahia umiltasunez jaso behar da; Orduan unibertsoaren barne-argiztapena eta benetako adimena gertatzen da, fortuna handia eta arrakasta handia ekarriz.",
+    "imagen": "Egur gainean sua dago. Kaldereroaren irudia. Horrela gizon nobleak bere patua ziurtatzen du posizio zuzena mantenduz. Egurra da suaren patua; Behean egurra dagoen bitartean, sua goian erretzen da. Giza bizitzan gauza bera gertatzen da. Era berean, bizitzak indarra ematen dion patu bat dago gizakian. Eta hori gertatzen denean, bizitzak eta patuak bere leku egokia dute, eta patua sendotu egiten da bizitza harekin adostasun intimoan jarriz. Hitz hauek bizitza lantzeko argibideak jasotzen dituzte, txinatar yoga praktikoaren irakaskuntza sekretuan ahoz transmititzen baitira."
+  },
+  {
+    "id": 51,
+    "nombre": "THE EXCITATION (The Shock, the Thunder)",
+    "trigramas": {
+      "superior": "Chen Ilusioa, trumoia",
+      "inferior": "Chen Ilusioa, trumoia"
+    },
+    "juicio": "Shockek arrakasta dakar. Zalaparta sortzen da: ba! ba! Barrezko hitzak ja! ha! Zalapartak beldurra zabaltzen du ehun kilometroko distantzian. Ez ditu erritual koilara eta kaliza erortzen. Lurraren barnean Jainkoaren agertzeak sortzen duen kolpeak beldurra eragiten dio gizakiari, baina Jainkoaren beldur hori ona da, barruko poz eta zoriontasunez jarraitzeko aukera ematen diolako. Beldurra eta dardara zer den barneko ezagutza lortu badu, kanpoko eraginek eragin ditzaketen kolpeetatik babestuta dago. Trumoiak ehun kilometro ingurura beldurra zabaltzeraino burrunba egiten badu ere, barru-barrutik hain lasai eta begirunez beteta geratzen da ezen sakrifizio-erritoak eteten. Hain grabitate sakon eta intimoa, zeinaren gainean beldurraren kanpoko arrazoi guztiak errebotatzen ezinik, gizakien eta agintarien gidariek izan behar duten jarrera espirituala da.",
+    "imagen": "Trumoi errepikatua - shock irudia. Beldurraren eta dardararen bidez gizon nobleak bere bizitza ordenatzen du eta bere burua aztertzen du. Errepikaturiko trumoiak beldurra eta dardara ekartzen dituen shock bat dakar. Horrela, gizon nobleak beti ikusten du Jainkoaren agerpenaren aurrean begirunezko jarrera bat; Bere bizitza ordenatzen du eta bere bihotza aztertzen du, ezer ezkutuan ez duela jainkozko borondatearen aurka. Beraz, beldurra da bizitzeko benetako artearen oinarria."
+  },
+  {
+    "id": 52,
+    "nombre": "MUGIKORTASUNA, MENDIA",
+    "trigramas": {
+      "superior": "Ken, Mugikortasuna, Mendia",
+      "inferior": "Ken, Mugikortasuna, Mendia"
+    },
+    "juicio": "Bizkarren immobilismoa, zure gorputza gehiago senti ez dezazun. Gortean sartu eta bere jendea ez du gehiago ikusten. Erreparorik gabe. Benetako atsedena gizakia mugimendua gelditzen denean gelditzen den eta mugitzeko unea iristean mugitzen den hori da. Horrela atsedena eta mugimendua denboraren eskakizunekin bat egiten dute eta orduan argia eta bizitza jaiotzen ikusten dira. Hexagrama mugimendu guztien amaiera eta hasiera da. Bizkarra aipatzen da mugimendua transmititzen duten nerbio-zentro guztien egoitza delako. Dortsal nerbioen mugimendua gelditzen denean, egoa eta bere egonezina ikusten dira neurri batean desagertzen direla. Gizakiak halako barruko bakea lortu duenean kanpoko mundura jo dezake. Orduan, bere baitan izaki indibidualen borroka eta zalaparta hautemateari uzten dio eta, ondorioz, fenomeno unibertsalen lege handiak ulertzeko eta haiekin bere jokabidean adosteko beharrezko lasaitasuna dauka. Hain sakontasunetik jokatzen duenak ez du faltarik egiten.",
+    "imagen": "Mendiak bilduta, immobilismoaren irudia. Beraz, goi-gizonak ez die uzten bere pentsamenduei bere egoera gainditzen. Bihotzak etengabe pentsatzen du. Hau ezin da aldatu, baina bihotzaren mugimendua, hau da, pentsamenduak, berehalako bizitzako egoerara mugatu behar da. Urrunegi doazen amets eta espekulazio guztiek bihotza mindu besterik ez dute egiten."
+  },
+  {
+    "id": 53,
+    "nombre": "GARAPENA (pixkanaka-pixkanaka)",
+    "trigramas": {
+      "superior": "Eguzkia, Leuna, Haizea, Egurra",
+      "inferior": "Ken, Mugikortasuna, Mendia"
+    },
+    "juicio": "Garapena. Donzeila ezkontzan ematen da. Zortea. Iraunkortasuna mesedegarria da. Zalantza motela da gertakarien segida markatzen duena, zeinen amaieran neskamea gizonari jarraitzen dion etxera. Ezkontza osatzeko hainbat izapide bete behar dira. Garapen progresibo hori beste egoeretan aplika daiteke oraindik eta beti ere, bereziki, elkarrekin laneko harreman zuzenen alorrean, adibidez, funtzionario bat kontratatzeko moduari. Kontuz ibili behar da progresio harmoniatsu batean jarraitzeko. Presak ez luke ezer onik ekarriko. Gauza bera gertatzen da norberak besteengan eragin nahi duenean. Hor ere, progresio harmoniatsua norberaren nortasunaren eraketa baita. Asalduran oinarritutako edozein eragin laburra baino ez da. Era berean, barne bilakaerak bide bera hartu behar du emaitza iraunkorrak lortu nahi badira. Bultzada bat egitean egokitzen den gauza leuna da barruko baketik etorri behar den kanpoaldea. Hain zuzen, garapenaren pixkanakako izaera da beharrezkoa den iraunkortasuna ahalbidetzen duena, iraupenak bakarrik bermatzen baitu aurrerapen motela hondarretan ez galtzea.",
+    "imagen": "Mendian, zuhaitz bat. Garapenaren irudia. Gizon noblea duintasunean eta bertutean oinarritzen da ohiturak hobetzeko. Mendiko zuhaitza urrutitik ikusten da eta bere garapenak eskualde osoko paisaia aldatzen du. Ez dira bat-batean eskualde zingiratsuetako landareak bezala agertzen, hazkuntza poliki-poliki doa baizik. Era berean, gizonekiko ekintza pixkanaka izan daiteke. Bat-bateko eraginik edo ustekabeko esnatzeak ez du eragin iraunkorrik. Mentalitate publikoan eta ohituretan aurrerapen hori egiteko, ezinbestekoa da nortasunak eragina eta pausa eskuratzea. Hori garapen pertsonalerako joera duen lan zorrotz eta iraunkorren bidez lortzen da."
+  },
+  {
+    "id": 54,
+    "nombre": "EZKONTZIA NEXE",
+    "trigramas": {
+      "superior": "Chen Zer esnatzen den, Trumoia",
+      "inferior": "Tui Alaia. Lakua"
+    },
+    "juicio": "Neska ezkondua. Enpresek zoritxarra ekartzen dute. Onuragarria den ezer ez. Familia batera eramaten duten neska batek, emazte nagusia izan gabe, zuhurtzia eta erreserba handiz jokatu behar du. Ez zenuke etxearen jabea ordezkatzea erabaki behar, horrek desordena ekarriko lukeelako eta egoera jasanezina bihurtuko litzatekeelako. Hau gizakien arteko harreman aske guztietan aplikatzen da. Aldian behin ordenatutako harremanek betebehar eta eskubidearen batasuna itzultzen duten bitartean, joeran oinarritutako giza harremanak, iraun nahi badute, ukituz betetako erreserba batean oinarritzen dira. Harremanen printzipio gisa joera horrek garrantzi handia du unibertsoko baldintza guztietan, natura ororen existentzia zeruaren eta lurraren batasunean oinarritzen baita; Era berean, gizakiengan, joera librea printzipio bateratzaile gisa alfa eta omega osatzen dute.",
+    "imagen": "Trumoia lakuaren gainean: ezkongai den neskatilaren irudia. Horrela ulertzen du gizon nobleak iraganeko gauzak azken betikotasunaren argitan. Trumoiak aintziraren ura nahasten du, olatu distiratsuekin bere bultzada jarraitzen baitu. Aukeratutako gizonari jarraitzen dion neska gaztearen irudia da. Hala ere, gizakien elkarrekiko elkartze bakoitzak arrisku bat dauka, elementu ilunak infiltratzen direla, gaizki-ulertu eta atsekabe infinituak ekarriz. Horregatik, garrantzitsua da helburua inoiz ez galtzea. Inpultsoei amore ematen bazaie, batu eta banandu egiten da momentuko inspirazioari jarraituz. Aldiz, helburua beti gogoan hartzen bada, gizakien arteko elkarrekiko harremanetan ezinbestean sortzen diren zuloak saihestuko dira."
+  },
+  {
+    "id": 55,
+    "nombre": "Ugaritasuna",
+    "trigramas": {
+      "superior": "Chen Zer esnatzen den, Trumoia",
+      "inferior": "Li, Gauza oszilatzailea, sugarra."
+    },
+    "juicio": "Ugaritasunak arrakasta izaten du. Erregea betetasunera iristen da. Ez zara triste egon behar baina eguerdian eguzkia bezalakoa izan behar duzu. Handitasun eta ugaritasun goreneko aro bat ezartzea hilkor guztientzat gordeta ez dagoen patua da. Mota honetako lan bat gauzatu ahal izateko, besteak gobernatzeko jaiotako gizona izan behar da, bere borondatea handira bideratzen baita. Askotan halako plenitudearen denbora laburra izaten da. Horregatik, jakintsu batek triste egoteko eskubidea izango luke ondoren etorriko den gainbeheraren aurrean. Hala ere, halako tristura ez zaio egokitzen. Barrutik ezinegon eta tristurarik gabeko gizona baino ez da gai ugaritasun aro bat ekartzeko. Zeru azpiko izaki guztiak argitzen eta kontsolatzen dituen eguerdiko eguzkia bezalakoa izan behar du.",
+    "imagen": "Tximistak eta trumoiak bat egiten dute: ugaritasunaren irudia. Gizon nobleak gatazketan erabakitzen du eta zigorrak exekutatzen ditu. Hexagrama honek 21 zenbakiarekin erlazio jakin bat aurkezten du, trumoiak eta tximistak berdin biltzen diren, baina alderantzizko ordenan. Han legeak indarrez eman ziren bitartean, hemen aplikatzen eta exekutatzen dira. Barruan, argitasunak gertakarien azterketa zehatza ahalbidetzen du, eta kanpotik, dardarak zigorra zorrotz betetzea bermatzen du."
+  },
+  {
+    "id": 56,
+    "nombre": "BIDAIARIA",
+    "trigramas": {
+      "superior": "Li, Oszilatzailea, Sua",
+      "inferior": "Ken, Mugikortasuna, Mendia"
+    },
+    "juicio": "Bidaiariaren arrakasta gauza txikien bidez. Pertseberantzia onuragarria da bidaiariarentzat. Bidaiaria eta atzerritarra denean, ez da maltzur edo itxurakeriarik izan behar. Ez dago harreman zirkulurik, beraz, ezin da nabarmendu. Zuhurra eta erreserbatua izan behar duzu, modu honetan gaitzetik babesten duzu. Bat besteekin adeitsua bada, arrakasta izango du. Bidaiariak ez du helbide finkorik, errepidea bere etxea da. Hori dela eta, kontuz ibili behar da beti barrutik zuzena eta irmoa izateko, leku onuragarrietan bakarrik gelditzeko eta jende onarekin bakarrik tratatzeko. Orduan, zorte ona lortuko du eta bere bidean jarraitu ahal izango du trabarik gabe.",
+    "imagen": "Mendian sua dago, bidaiariaren irudia. Horrela gizon nobleak izpiritu argia du eta zuhurra da zigorrak ezartzen eta ez du eztabaidarik luzatzen. Belarrak mendian su hartzen duenean, distira distiratsu bat hautematen da. Hala ere, sua ez da leku bakarrean geratzen, erregai gehiagoren bila mugitzen da. Behin-behineko fenomenoa da. Zigorrek eta zigorrak antzeko zerbait izan behar dute. Azkar gainditu behar dira eta ez denbora mugagabean luzatu. Espetxeek jendea aldi baterako bakarrik egoten den lekuak izan behar dute, gonbidatu gisa. Ez dira gizakien bizileku iraunkor bihurtu behar."
+  },
+  {
+    "id": 57,
+    "nombre": "DOCILE (Sarkorra, haizea)",
+    "trigramas": {
+      "superior": "Eguzkia, leuna, haizea, basoa",
+      "inferior": "Eguzkia, leuna, haizea, basoa"
+    },
+    "juicio": "Arrakasta otzana gauza txikien bidez. Onuragarria da nora joatea. Onuragarria da gizon handia ikustea. Sartzeak oharkabean pasatzen diren efektu gradualak sortzen ditu. Ez da bide bortitzen bidez lortu behar, etenik gabeko eraginez baizik. Efektu hauek ustekabean lortutakoak baino gutxiago nabarmentzen dira, baina iraunkorragoak eta osatuagoak dira. Horrela jokatu ahal izateko helburu argi bat izan behar da, beti norabide berean jarduten duen eragin sarkor batek bakarrik lortzen baitu emaitza bat. Intentsitate ahuleko indar batek efektua sor dezake ordena sortzeko gai den gizon ospetsu baten agintepean jartzen bada.",
+    "imagen": "Ondoren datozen haizeak. Emeki sartzen denaren irudia. Horrela, gizon nobleak bere aginduak nonahi zabaltzen ditu eta bere enpresak exekutatzen ditu. Haizearen kalitate sarkorra bere izaera jarraituan datza. Horregatik haizea indartsu bihurtzen da. Hartu denbora ekintza bide gisa. Honela ere sartu behar du agintariaren pentsamendua herriaren ariman. Gainera, azalpen eta aginduen esparruan ekintza iraunkorrak behar dira. Agindua herriaren arimara pasatu denean bakarrik izango da haien laguntzarekin kontatzea. Aurretik prestatu ez den ekintza batek izua eta errefusa besterik ez du eragiten."
+  },
+  {
+    "id": 58,
+    "nombre": "ATSEGARRIA, AINTZIRA",
+    "trigramas": {
+      "superior": "Tui, Alaia, Lakua",
+      "inferior": "Tui, Alaia, Lakua"
+    },
+    "juicio": "Arrakasta alaia. Iraunkortasuna aldekoa da. Aldarte alaia kutsakorra eta komunikatiboa da, horregatik arrakasta lortzen du. Baina beharrezkoa da poza irmotasunean oinarritzea, neurrigabeko zerbaitetan ez endekatzeko. Egia eta indarra bihotzean egon behar dute besteekiko harremanetan leuntasuna adierazten den bitartean. Modu honetan Jainkoarekiko eta gure lagunekiko jarrera zuzena hartzen da, emaitza jakin batera eramaten duena. Zenbait kasutan, leuntasunik gabeko larderia bidez lortzen dira momentuko efektuak, baina ez dira iraunkorrak. Aitzitik, gure lagunen bihotzak adiskidetasunez konkistatuz gero, gauza mingarriak gogoz onartzeko gai izango dira eta are gehiago, heriotzari aurre egin ahal izango diote beldurrik gabe. Hain handia da pozaren boterea gizakiengan.",
+    "imagen": "Lakuak bata bestearen gainean atseden hartuta. Pozaren irudia. Honela dabil gizon noblea, bere lagunak deliberatzeko eta jarduteko bilduz. Laku bat pixkanaka lurrundu eta lehortu egiten da. Baina bi laku elkarren artean komunikazioan daudenean, ez dira hain erraz lehortzen, elkar aberasten baita. Gauza bera gertatzen da ezagutzaren esparruan. Ezagutzak indar bizia eta freskagarria izan behar du. Hori ezinbesteko egiak eztabaidatzeko eta praktikatzeko lagunekin elkartruke bizigarri baten bidez bakarrik lortzen da. Ezagutza, beraz, kaleko kontu bihurtzen da eta sotiltasun alai batez hornitua, autodidaktaren zientziak beti badu zerbait aldebakarrekoa eta astuna."
+  },
+  {
+    "id": 59,
+    "nombre": "DISOLUZIOA (Sakabanaketa)",
+    "trigramas": {
+      "superior": "Eguzkia Leuna, Haizea",
+      "inferior": "Kan Amildegia, Ura."
+    },
+    "juicio": "Desegitea. Arrakasta. Erregea bere tenplura hurbiltzen da. Onuragarria da ur handiak zeharkatzea. Iraunkortasuna mesedegarria da. Hexagramaren testuak T'suiren antza du, “biltzea, oroitzapena,...” (45. zk.). Bertan, banandutakoa elkartzea zen, lurreko aintziretan ura metatzen den bezala. Hemen, berekoikeria banatzearen sakabanaketa eta desegiteari buruzkoa da. “Desegitura” hexagramak erakusten du nolabait elkartzera, oroitzapenera daraman bidea. Honek testuen analogia azaltzen du. Banatzen duen berekoikeria gainditzeko, gizakiak indar erlijiosoa behar du. Sakrifizio solemneen eta jainkozko erritoen ospakizuna, aldi berean, familia eta estatuaren kohesioa eta egitura soziala adierazten dutenak, subirano handiek bihotzak emozio berdinekin komunikatzeko erabili zuten bitartekoa izan zen, sortutako musikari eta zeremonien handitasunari esker, eta haiekin izaki guztien jatorri komunaz jabetzeko. Horrela bereizketak gainditu eta gogortasun guztiak urtu ziren. Beste modu bat borondateari helburu handia proposatzen zioten enpresa kolektibo handietan batera egindako lana zen; Helburu horretan kontzentratzeak bereizten duen guztia erorarazi zuen, ibai handi bat zeharkatzen duen itsasontzi bat bezala eta bidaiari guztiak ahalegin komun batean batuta. Nolanahi ere, berekoikeria parasitotik libre daudenak eta justizian eta irmotasunean jarraitzen dutenak bakarrik dira gogortasuna eta berekoikeria urtzeko gai.",
+    "imagen": "Haizeak ur gainean jotzen du: disoluzioaren irudia. Horrela, antzinako erregeek sakrifizioak egiten zizkioten Jaunari eta tenpluak eraiki zituzten. Udazkenean eta neguan ura koagulatu eta izoztu egiten da. Udaberriko haize leunak iristen direnean, zurruntasuna eten egiten da eta icebergetan sakabanatuta zegoena urtu eta elkartu egiten da. Berdin da herriaren izpirituan. Gogortasunak eta berekoikeriak gogortzen dute bihotza eta zurruntasun horrek gainerako guztietatik bereizten du. Gutizia eta berekoikeriak gizakiak isolatzen dituzte; Horregatik, bihotzak bereganatzen dituen emozio erlijiosoa beharrezkoa da. Desegin behar dira, betierekotasunaren beldur sakratu batek inbaditu, izaki guztien sortzaile komunaren presentzia intuituaren aurrean emozio batek okupatuta sentitu eta batasuna bizi jainkoari eskainitako adorazioaren gurtzean hautematen den komunztadura sentimenduaren indarrari esker."
+  },
+  {
+    "id": 60,
+    "nombre": "MUGA",
+    "trigramas": {
+      "superior": "K'an Amildegia, ura",
+      "inferior": "Tui Atsegina, lakua"
+    },
+    "juicio": "Mugapena. Arrakasta. Muga mingotsa ez da irmotasunez landu behar. Mugak mingarriak dira, baina arrakasta lortzen dute. Eguneroko bizitzan dirua aurreztuz, gogor garaiei aurre egiteko prestatzen gara. Erretiratuz, umiliazioa saihesten da. Mugak ere ezinbestekoak dira munduko harremanen harmoniarako. Naturak muga zehatzak ditu udarako eta negurako, egunerako eta gauerako, eta hauek dira urteari zentzua ematen dioten mugak. Era berean, ekonomiak, gastuei muga zehatzak ezarriz, ondasunen kontserbazioa bermatzen du eta pertsonei kalteak ekiditen die. Hala ere, beharrezkoa da neurria errespetatzea mugan ere. Norberak bere izaerari muga larriegiak ezarri nahi balitu, sufrituko luke. Batek besteei ezarritako mugak urrunegi eraman nahi balitu, matxinatu egingo litzateke. Beraz, mugan ere, mugak beharrezkoak dira.",
+    "imagen": "Lakuaren gainean ura dago: mugaren irudia. Horrela, gizon nobleak kopurua eta neurria sortzen ditu, eta bertutea eta jokabide zuzena zer diren ikertzen du. Lakua gauza finitua da; Ura agortezina da. Lakuak ur infinitu kopuru zehatz bat baino ezin du eduki. Hemen dago zure jabetza. Gainera bizitzan mugak ezarriz eta marraztuz, norbanakoak bere esanahia bereganatzen du. Horregatik, moralaren bizkarrezurra bezalako muga horiek oso argi ezartzea da. Aukera mugagabeak ez dira gizakiari egokitzen zaizkionak. Orduan bere bizitza mugagabean bakarrik batuko zen. Indar izateko, betebeharra osatzen duten askatasunez ezarritako mugak behar dituzu. Gizabanakoak espiritu aske gisa bere esanahia bere burua mugez inguratzen duenean eta betebeharren aginduari erantzuteko askatasunez ezartzen duenean bakarrik eskuratzen du."
+  },
+  {
+    "id": 61,
+    "nombre": "BARNE EGIA",
+    "trigramas": {
+      "superior": "Eguzkia Leuna, Haizea",
+      "inferior": "Tui Lo Joyoso, Lakua"
+    },
+    "juicio": "Barneko egia. Txerriak eta arrainak. Zorte ona. Errentagarria izango da erreka handia zeharkatzea. Iraunkortasuna komeni da. Txerriak eta arrainak sorkuntzako animalia espiritual gutxienenak dira, eta, ondorioz, eragiteko zailena. Barne egiaren indarrak maila altu batera iritsi behar du bere ekintza mota horretako izakietara hedatu aurretik. Txerriak eta arrainak bezala eragiteko zailak diren pertsona errezelkorrei aurre eginez, arrakastaren sekretua haiengana hurbiltzeko modu egokia aurkitzean datza. Lehenik eta behin, barrutik askatu behar dugu aurreiritzi guztietatik eta ia bestearen psikea murrizketarik gabe sartzen utzi behar dugu. Honela bakarrik barnera hurbildu ahal izango gara solaskidearengana, ulertu eta haren gainean boterea lortu. Ate bat horrela irekitzen denean, norberaren nortasunaren indarrak eragin dezake. Horrela ez dago oztopo gaindiezinik eta gauzarik arriskutsuenak egin daitezke, hala nola, korronte handia zeharkatu, eta arrakasta. Funtsean ulertzea garrantzitsua dena barne egiaren oinarria da. Ez da intimitate hutsaren edo elkartasun sekretu baten berdina. Elkartasun intimo hori lapurren artean ere egon daiteke. Zalantzarik gabe, kasu honetan ere indar bat adierazten du. Baina ez dakar fortunara, ez baita garaiezina. Interesen komunitatean oinarritutako aliantza guztiek balio dute neurri batean. Komunitatea bukatzen den lekuan, aliantza ere gelditzen da eta adiskidetasun intimoena gorroto bihurtzen da maiz. Oinarria zuzentasunean eta irmotasunean oinarritzen denean bakarrik, lotura sendoa izaten jarraitzen du guztiak gainditzeko.",
+    "imagen": "Aintziraren gaineko haizea: barne egiaren irudia. Horrela, gizon nobleak gai penalak eztabaidatzen ditu zigorren betearazpena atzeratzeko. Haizeak ura zimurtzen du, bere tarteetan sar daitekeelako. Gizon nobleak, hurkoaren akatsak epaitu behar dituenean, bere barneko adimena barneratu nahi du inguruabarren araberako balorazioa lortzeko. Antzinako Txinan justizia administrazio osoa printzipio horrek gidatzen zuen. Barkatzen dakien ulermen sakona justizia gorentzat hartzen zen. Jarrera hori ez zen antzua, inpresio moral sendoa eragitea helburu zuelako eta jendeak beldurra baitzuen adeitasuna abusatzeari. Ez zen ahultasunetik sortu, goi-zentzu moral batetik baizik."
+  },
+  {
+    "id": 62,
+    "nombre": "TXIKIEN PREPONDERAZIOA",
+    "trigramas": {
+      "superior": "Chen Zer Esnatzen, Trumoia",
+      "inferior": "Ken Immobility, Mendia"
+    },
+    "juicio": "Txikien nagusitasuna. Arrakasta. Iraunkortasuna mesedegarria da. Gauza txikiak egin ditzakezu, ezin dituzu gauza handiak egin. Txori hegalariak mezua ekartzen du. Ez da ona igotzen tematzea, ondo dago behean geratzea. Zorte handia. Aparteko apaltasuna eta kontzientzia fintasuna arrakastarekin sarituko dira ziur aski. Edonola ere axola duena zera da, gaitasun horiek ez izatea formalismo hutsik eta ez izatea zerbitzaltasun izaeratik; baina jokabide pertsonalean egokia den duintasunari lotuta jarraitzen dutela, norbera urritu ez dadin. Momentuko eskakizunak ulertu eta denboraren gabezien eta alderdi kaltegarrien osagarri egokiak aurkitu behar dituzu. Edonola ere, ez da arrakasta handiaren ideiarekin hunkitzen utzi behar, horretarako energia falta delako. Horregatik, arreta berezia jarri behar zaio goi-mailako errealitateetara ez asmotan baina behekoekin konforme egotearen mezuari. Mezua txori batek ematen duela argi ikusten da zeinuaren formatik. Barrualdean dauden lau trazu indartsu eta astunek, Ta Kuo hexagraman “Handien preponderancia” (28. zk.) kanpoaldean bi trazu ahulen bidez soilik eusten direnak, ertz-habearen irudia eskaintzen dute. Hemen argi-eramailearen trazuak kanpoaldean daude eta ugariagoak dira, eta horrek hegan egiten duen txori baten irudia ematen du. Edonola ere, txoriak ez luke harrokeria izan behar eta Eguzkia baino gorago hegan egin behar, baizik eta bere habia dagoen lurrera jaitsi behar du. Horrela ematen du hexagramak aldarrikatzen duen mezua.",
+    "imagen": "Trumoia mendiaren gainean. Txikiaren nagusitasunaren irudia. Bere jokabidean gizon nobleak errespetua ematen dio nagusitasuna; doluan ematen dio nagusitasuna atsekabeari; Bere gastuetan ekonomiari ematen dio nagusitasuna. Trumoia mendian lautadako trumoia baino desberdina da. Mendian trumoia askoz hurbilago dago; eskualde menditsuetatik kanpo, berriz, ekaitz arrunt baten trumoia ez da hain entzuten. Gizon nobleak irudi horretatik hartzen du bere betebeharra lehenik eta behin eta modu zuzenagoan eta berehalakoan gizaki arrunta baino gogoan edukitzeko eskakizuna, nahiz eta bere jokabidea denei txikikeria iruditu. Zure ekintzetan oso zehatza izan behar duzu. Doluan, egiazko errukiak balio handiagoa izan behar du berarentzat kanpoko formek baino, eta bere pertsonari dagozkion gastuetan oso sinplea eta itxuragabea izan behar du. Fenomeno arraro gisa ager daiteke jende arruntaren aurrean. Baina jarrera horren funtsa zera da, kanpotik kontuan hartuz gero, zerbait kaskarra bezala epai daitekeela."
+  },
+  {
+    "id": 63,
+    "nombre": "BUKATU ONDOREN",
+    "trigramas": {
+      "superior": "K'an Amildegia, Ura",
+      "inferior": "Li Oszilatzailea, Sua"
+    },
+    "juicio": "Amaitu ondoren. Arrakasta gai txikietan. Iraunkortasuna mesedegarria da. Hasieran zoria, amaieran istiluak. Aro zaharretik berrirako trantsizioa amaitu da jada. Printzipioz, dena dago jada ordenatuta eta xehetasunetan baino ez da lortu arrakasta oraindik. Gauza guztiak berez zuzentzen eta mugitzen dira. Horrek erraz erlaxatzea eta gauzak bere bidea uztea dakar xehetasunez kezkatu gabe. Zabarkeria hau gaitz guztien erroa da. Nahitaez usteltzearen sintomak agertzea eragiten du. Hemen dugu historiaren ohiko ibilbidea arautzen duen araua. Baina ulertzen duenak ondorioak saihes ditzake iraunkortasun eta zuhurtasun hutsezinari esker.",
+    "imagen": "Ura sutan - amaieraren ondoren egoeraren irudia. Horrela, gizon nobleak ezbeharrari buruz hausnartzen du eta aldez aurretik prestatzen da horren aurka. Ura ontzi batean sutan dagoenean, bi elementuak elkarren artean erlazionatzen dira eta energiaren sorrera (lurrunaren ekoizpena) sortzen da. Nolanahi ere, sortzen den tentsioak zaintza eskatzen du. Urak gainezka egiten badu, sua itzali eta energia galtzen da. Beroa handiegia bada, ura lurrundu egiten da eta energia galtzen da airean. Hemen elkarrekiko harremanean jarritako elementuak elkarren etsaiak dira. Kontuz handiz bakarrik kalteak saihestu daitezke. Gauza bera gertatzen da bizitzako koiuntura guztietan, non indarrak orekatu eta harmoniatsu lan egiten duten eta non, ondorioz, itxuraz dena ordena perfektuan dagoen. Halakoetan, jakintsuek bakarrik antzeman ditzakete arriskua duten uneak eta jakin nola saihestu garaiz hartutako neurriei esker."
+  },
+  {
+    "id": 64,
+    "nombre": "BUKATU AURRETIK",
+    "trigramas": {
+      "superior": "Li Swinging, Flame",
+      "inferior": "K'an Amildegia, Ura"
+    },
+    "juicio": "Amaitu aurretik. Arrakasta. Baina zeharkaldia amaitu aurretik azeri txikiak buztana uretan sartzen badu, ez dago abantailarik. Baldintzak zailak dira. Zeregin handia eta arduraz betea da. Mundua nahasmenetik ordenara eramatea baino ez da. Baina arrakasta agintzen duen zeregina da, bere helburua gaur egun norabide ezberdinetan sakabanatuta dauden indarrak batzea baita. Hori lortzeko, izotza zeharkatzen duen azeri gazte bat bezala zuhurtziaz mugitu besterik ez duzu egin behar. Txinan, izotz gainean ibiltzen den azeriaren zuhurtasuna esaera da. Belarriak etengabe adi egoten dira izotzaren kirrinkadaren aurrean eta arreta handiz bilatzen dituzte leku seguruenak. Zuhurtzia hau oraindik ezagutzen ez duen azeri gazte batek beldurrik gabe aurrera egiten du eta ia zeharkatzea amaitzean uretara eror daiteke, buztana bustiz. Jakina, ahalegin guztiak alferrikakoak izango dira. Era berean, zeregin bat burutu aurreko momentuetan, hausnarketa eta zuhurtzia dira arrakasta izateko oinarrizko baldintzak.",
+    "imagen": "Sua uretan. Bete aurreko baldintzen irudia. Gizon noblea kontuz dabil gauzak bereizten, bakoitzak bere lekua aurki dezan. Sua, igotzeko joera duena, goian dagoenean eta ura, jaisteko joera duena, behean dagoenean, haien ondorioak norabide ezberdinetan doaz eta biek ez dute zerikusirik izaten. Zerbait lortu nahi badugu, lehenik eta behin, kasuan kasuko indarren izaera ikertu eta gero bakoitza dagokion tokian esleitu. Leku egokian antolatuz gero, nahi den efektua sortuko dute eta betetzea lortuko da. Baina, kanpoko indarrak modu egokian deuseztatu ahal izateko, lehenik eta behin, norberak ikuspuntu zuzena hartzea beharrezkoa da. Momentu horretatik bakarrik joka dezakezu zuzen."
+  }
+]

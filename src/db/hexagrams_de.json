@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "DAS SCHÖPFERISCHE",
+    "trigramas": {
+      "superior": "Ch’ien, Das Schöpferische, Der Himmel",
+      "inferior": "Ch’ien, Das Schöpferische, Der Himmel"
+    },
+    "juicio": "Das Schöpferische wirkt erhabenes Gelingen, fördernd durch Beharrlichkeit. Wer diese Antwort erhält, nimmt teil am Urgrund des Erfolgs im Weltenlauf; alles hängt davon ab, beharrlich auf dem rechten Weg das Wohl aller zu mehren. Die vier Grundkräfte (erhaben, gelingend, fördernd, beharrlich) entsprechen den kosmischen Gesetzen. Die Urkraft gestaltet die Ideen zur vollendeten Form; im Menschenbereich zeigt sie dem Edlen den Aufstieg zur wahren Vollendung.",
+    "imagen": "Des Himmels Bewegung ist voll Kraft. So macht der Edle sich stark und unermüdlich. Wie ein Tag dem anderen rastlos folgt, so erneuert der Weise unablässig seine innere Stärke und entfernt alles Unwesentliche."
+  },
+  {
+    "id": 2,
+    "nombre": "DAS EMPFANGENDE",
+    "trigramas": {
+      "superior": "K’un, Das Empfangende, Die Erde",
+      "inferior": "K’un, Das Empfangende, Die Erde"
+    },
+    "juicio": "Das Empfangende wirkt erhabenes Gelingen, fördernd durch die Beharrlichkeit einer Stute. Wenn der Edle etwas unternimmt und führen will, verirrt er sich; folgt er jedoch leitenden Kräften, findet er die rechte Bahn. Förderlich ist es, Freunde im Südwesten zu gewinnen und Freunde im Nordosten zu meiden. Ruhige Beharrlichkeit bringt Heil.",
+    "imagen": "Der Erde Zustand ist empfangende Hingabe. So trägt der Edle mit weitem Wesen die äußere Welt. Wie die Erde ohne Vorurteil Gutes und Böses gleichermaßen trägt, so bildet der Weise seinen Charakter weit, tragfähig und gütig."
+  },
+  {
+    "id": 3,
+    "nombre": "DIE ANFANGSSCHWIERIGKEIT",
+    "trigramas": {
+      "superior": "K’an, Das Abgründige, Das Wasser",
+      "inferior": "Chên, Das Erregende, Der Donner"
+    },
+    "juicio": "Die Anfangsschwierigkeit wirkt erhabenes Gelingen, fördernd durch Beharrlichkeit. Nichts soll unbedacht unternommen werden. Förderlich ist es, Gehilfen einzusetzen. In Zeiten des Keimens herrscht Verwirrung; wer jetzt überstürzt handelt, scheitert. Geduld, Ordnung und verlässliche Bundesgenossen führen aus dem Chaos.",
+    "imagen": "Wolken und Donner: das Bild der Anfangsschwierigkeit. So entwirrt und ordnet der Edle die verworrene Fülle mit ruhiger Sorgfalt."
+  },
+  {
+    "id": 4,
+    "nombre": "DIE JUGENDTORHEIT",
+    "trigramas": {
+      "superior": "Ken, Das Stillehalten, Der Berg",
+      "inferior": "K’an, Das Abgründige, Das Wasser"
+    },
+    "juicio": "Jugendtorheit hat Gelingen. Nicht ich suche den jungen Toren, der junge Tor sucht mich. Beim ersten Befragen gebe ich Bescheid; fragt er zwei-, dreimal, so ist es Belästigung. Belästigt er, gebe ich keinen Bescheid. Beharrlichkeit ist fördernd. Dem Suchenden hilft Demut und ehrfurchtsvolles Zuhören.",
+    "imagen": "Am Fuß des Berges entspringt eine Quelle: das Bild der Jugend. So pflegt der Edle seinen Charakter durch Gründlichkeit in allem Handeln."
+  },
+  {
+    "id": 5,
+    "nombre": "DAS WARTEN (DIE ERNÄHRUNG)",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Das Warten. Wenn du wahrhaftig bist, hast du Licht und Gelingen. Beharrlichkeit bringt Heil. Förderlich ist es, das große Wasser zu durchqueren. Warten bedeutet nicht leere Hoffnung, sondern inneres Kräftesammeln, bis die Reife der Zeit das Handeln verlangt.",
+    "imagen": "Wolken steigen auf am Himmel: das Bild des Wartens. So isst und trinkt der Edle, ist heiter und guten Mutes."
+  },
+  {
+    "id": 6,
+    "nombre": "DER STREIT",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Der Streit. Du hast Recht, stößt aber auf Widerstand. Ein vorsichtiges Innehalten auf halbem Weg bringt Heil; die Sache bis ans Ende durchzusetzen bringt Unheil. Förderlich ist es, den großen Mann zu sehen. Nicht förderlich ist es, das große Wasser zu überqueren.",
+    "imagen": "Himmel und Wasser bewegen sich in entgegengesetzter Richtung: das Bild des Streits. So bedenkt der Edle bei allen Geschäften den Anfang wohl."
+  },
+  {
+    "id": 7,
+    "nombre": "DAS HEER",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Das Heer bedarf der Beharrlichkeit und eines reifen Mannes. Heil ohne Tadel. Wahre Stärke beruht auf innerer Disziplin und gerechter Führung, die das Herz der Gemeinschaft gewinnt.",
+    "imagen": "Im Schoß der Erde verbirgt sich Wasser: das Bild des Heeres. So vermehrt der Edle seine Kraft durch Großmut gegenüber dem Volk."
+  },
+  {
+    "id": 8,
+    "nombre": "DIE ZUSAMMENHALTUNG (DIE EINHEIT)",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Zusammenhaltung bringt Heil. Befrage das Orakel erneut, ob du Erhabenheit, Dauer und Beharrlichkeit besitzt; dann ist kein Tadel. Zaudernde schließen sich allmählich an; wer zu spät kommt, verfehlt das Glück.",
+    "imagen": "Auf der Erde ruht das Wasser: das Bild der Zusammenhaltung. Die Herrscher der Vorzeit pflegten Eintracht und herzliche Bündnisse mit ihren Nächsten."
+  },
+  {
+    "id": 9,
+    "nombre": "DES KLEINEN ZÄHMUNGSKRAFT",
+    "trigramas": {
+      "superior": "Sun, Der Wind, Das Sanfte",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Des Kleinen Zähmungskraft hat Gelingen. Dichte Wolken, kein Regen aus unserem Westgebiet. Die Zeit für den großen Durchbruch ist noch nicht da; sanfte Überredung und Geduld bereiten den Erfolg vor.",
+    "imagen": "Der Wind weht hoch am Himmel: das Bild der Zähmungskraft des Kleinen. So verfeinert der Edle die äußere Gestalt seines Wesens."
+  },
+  {
+    "id": 10,
+    "nombre": "DAS AUFTRETEN (DAS WANDELN)",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "Tui, Der See, Das Heitere"
+    },
+    "juicio": "Treten auf den Schwanz des Tigers: er beißt den Menschen nicht. Gelingen. Wer mit heiterer Gelassenheit und feiner Achtung auftritt, meistert selbst gefährlichste Lagen unbeschadet.",
+    "imagen": "Oben der Himmel, unten der See: das Bild des Auftretens. So unterscheidet der Edle Oben und Unten und festigt den Sinn des Volkes."
+  },
+  {
+    "id": 11,
+    "nombre": "DER FRIEDE",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Das Kleine weicht, das Große naht. Heil und Gelingen. Himmel und Erde neigen sich einander zu; Eintracht und schöpferische Fruchtbarkeit herrschen in der Welt.",
+    "imagen": "Himmel und Erde vereinen sich: das Bild des Friedens. So regelt der Fürst den Lauf der Zeiten und steht dem Volk bei."
+  },
+  {
+    "id": 12,
+    "nombre": "DIE STOCKUNG",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Die Stockung. Unedle begünstigen nicht des Edlen Beharrlichkeit. Das Große weicht, das Kleine naht. Der Edle zieht sich in seine innere Würde zurück und verzichtet auf äußeren Glanz.",
+    "imagen": "Himmel und Erde begegnen sich nicht: das Bild der Stockung. So wahrt der Edle seinen Wert im Verborgenen und meidet Korruption."
+  },
+  {
+    "id": 13,
+    "nombre": "GEMEINSCHAFT MIT MENSCHEN",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Gemeinschaft mit Menschen im Freien: Gelingen. Förderlich ist es, das große Wasser zu durchqueren. Wahre Gemeinschaft gründet auf universalen Werten und überwindet Selbstsucht.",
+    "imagen": "Himmel und Feuer wirken zusammen: das Bild der Gemeinschaft. So gliedert der Edle die Stände und klärt die Verhältnisse."
+  },
+  {
+    "id": 14,
+    "nombre": "DER GROSSE BESITZ",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Der große Besitz. Erhabenes Gelingen. Kraft im Inneren verbindet sich mit Klarheit nach außen. Der Edle unterdrückt das Böse und fördert das Gute im Einklang mit dem Himmel.",
+    "imagen": "Feuer hoch am Himmel: das Bild des großen Besitzes. So gehorcht der Edle dem gütigen Willen des Schöpfers."
+  },
+  {
+    "id": 15,
+    "nombre": "DIE BESCHEIDENHEIT",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Bescheidenheit schafft Gelingen. Der Edle führt sein Werk zu gutem Ende. Das Gesetz des Himmels vermindert das Volle und füllt das Geringe; Schlichtheit besiegt Übermut.",
+    "imagen": "Mitten in der Erde birgt sich ein Berg: das Bild der Bescheidenheit. So mindert der Edle das Zuviel und mehrt das Zuwenig."
+  },
+  {
+    "id": 16,
+    "nombre": "DIE BEGEISTERUNG",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Die Begeisterung. Förderlich ist es, Gehilfen aufzustellen und Heere in Bewegung zu setzen. Wenn die Führung im Einklang mit den Gesetzen der Natur steht, folgen die Menschen aus freiem Herzen.",
+    "imagen": "Der Donner bricht brausend aus der Erde hervor: das Bild der Begeisterung. Die alten Könige schufen Musik, um das Höchste zu preisen."
+  },
+  {
+    "id": 17,
+    "nombre": "DIE NACHFOLGE",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Die Nachfolge hat erhabenes Gelingen. Fördernd ist Beharrlichkeit; kein Tadel. Wer führen will, muss zuerst dienen und sich den Gesetzen der Zeit anpassen können.",
+    "imagen": "Der Donner ruht mitten im See: das Bild der Nachfolge. So kehrt der Edle am Abend ein zu Erholung und Rast."
+  },
+  {
+    "id": 18,
+    "nombre": "DIE ARBEIT AM VERDORBENEN",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "Sun, Der Wind"
+    },
+    "juicio": "Die Arbeit am Verdorbenen hat erhabenes Gelingen. Förderlich ist es, das große Wasser zu durchqueren. Drei Tage vor dem Anfang, drei Tage nach dem Anfang: Umsicht heilt veraltete Fehler.",
+    "imagen": "Am Fuß des Berges weht der Wind: das Bild des Verdorbenen. So rüttelt der Edle die Menschen auf und stärkt ihren Geist."
+  },
+  {
+    "id": 19,
+    "nombre": "DER ANTRITT (DIE ANNÄHERUNG)",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Der Antritt hat erhabenes Gelingen. Beharrlichkeit ist fördernd. Im achten Monat kommt Unglück: Nutze die Gunst der Frühlingszeit, ehe der Umschwung eintritt.",
+    "imagen": "Über dem See breitet sich die Erde: das Bild des Antritts. Der Edle ist unerschöpflich in seinem Willen zu lehren und ohne Schranken im Schützen des Volkes."
+  },
+  {
+    "id": 20,
+    "nombre": "DIE BETRACHTUNG",
+    "trigramas": {
+      "superior": "Sun, Der Wind",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Die Betrachtung. Die Waschung ist vollzogen, doch noch nicht das Opfer. Voll Vertrauen blicken alle empor. Innere Sammlung verleiht stille, bezwingende Geistesmacht.",
+    "imagen": "Der Wind weht über die weite Erde: das Bild der Betrachtung. Die alten Könige bereisten die Länder und lehrten das Volk."
+  },
+  {
+    "id": 21,
+    "nombre": "DAS DURCHBEISSEN",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Das Durchbeißen hat Gelingen. Förderlich ist es, das Recht walten zu lassen. Hindernisse und Machenschaften müssen mit Entschlossenheit und klaren Gesetzen getrennt werden.",
+    "imagen": "Donner und Blitz: das Bild des Durchbeißens. So festigten die weisen Herrscher die Gesetze durch gerechte Urteile."
+  },
+  {
+    "id": 22,
+    "nombre": "DIE ANMUT (DIE FORM)",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Die Anmut hat Gelingen. Im Kleinen ist es fördernd, etwas zu unternehmen. Schöne Formen schmücken das Leben, doch große Entscheidungen verlangen ernste Wesenheit.",
+    "imagen": "Am Fuß des Berges leuchtet das Feuer: das Bild der Anmut. So erhellt der Edle die laufenden Angelegenheiten des Tages."
+  },
+  {
+    "id": 23,
+    "nombre": "DIE ZERSPALTUNG",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Die Zerspaltung. Nicht fördernd ist es, irgendwohin zu gehen. Unedle Kräfte zerbröckeln das Gefüge; der Weise hält still und bewahrt sein Fundament in Geduld.",
+    "imagen": "Der Berg ruht auf der Erde: das Bild der Zerspaltung. Die Oberen sichern ihre Stellung durch reiche Zuwendung an die Unteren."
+  },
+  {
+    "id": 24,
+    "nombre": "DIE WIEDERKEHR (DIE WENDE)",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Die Wiederkehr. Gelingen. Ausgehen und Eingehen ohne Schaden. Freunde kommen ohne Tadel. Am siebenten Tage schließt sich der Kreis. Das Licht kehrt natürlich zurück.",
+    "imagen": "Der Donner regt sich tief im Schoß der Erde: das Bild der Wende. Die Könige schlossen am Sonnenwendtag die Pässe zur Einkehr und Ruhe."
+  },
+  {
+    "id": 25,
+    "nombre": "DIE UNSCHULD (DAS UNERWARTETE)",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Die Unschuld. Erhabenes Gelingen. Beharrlichkeit ist fördernd. Wer vom rechten Weg abweicht, erfährt Unheil. Reines, absichtsloses Handeln findet kosmischen Beistand.",
+    "imagen": "Unter dem Himmel zieht der Donner dahin: das Bild der Unschuld. Die Herrscher pflegten das Leben aller Wesen zur rechten Zeit."
+  },
+  {
+    "id": 26,
+    "nombre": "DES GROSSEN ZÄHMUNGSKRAFT",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Des Großen Zähmungskraft. Beharrlichkeit ist förderlich. Nicht daheim zu essen bringt Heil; förderlich ist es, das große Wasser zu durchqueren. Schätze der Weisheit mehren die Kraft.",
+    "imagen": "Der Himmel ruht im Innern des Berges: das Bild gesammelter Kraft. Der Edle lernt aus alten Sprüchen und Taten zur Festigung des Geistes."
+  },
+  {
+    "id": 27,
+    "nombre": "DIE MUNDWINKEL (DIE ERNÄHRUNG)",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Die Mundwinkel. Beharrlichkeit bringt Heil. Achte auf das Nähren und darauf, womit der Mensch seinen Mund füllt. Reine Nahrung für Körper und Geist edelt den Charakter.",
+    "imagen": "Am Fuß des Berges grollt der Donner: das Bild der Ernährung. Der Edle achtet wohl auf seine Worte und mäßigt sich in Speise und Trank."
+  },
+  {
+    "id": 28,
+    "nombre": "DES GROSSEN ÜBERMASS",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "Sun, Der Wind, Das Holz"
+    },
+    "juicio": "Des Großen Übergewicht. Der Firstbalken biegt sich durch. Förderlich ist es, ein Ziel zu haben. Gelingen durch elastischen Mut und geschickten Übergang in der Krise.",
+    "imagen": "Das Wasser des Sees steigt über die Wipfel der Bäume: das Bild des Übermaßes. Der Edle steht unerschüttert da, selbst wenn er allein bleibt."
+  },
+  {
+    "id": 29,
+    "nombre": "DAS ABGRÜNDIGE (DAS WASSER)",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Das Abgründige wiederholt sich. Bist du wahrhaftigen Herzens, so hast du Gelingen bei allem, was du tust. Wie das Wasser allen Abgründen trotzt, siegt unbeirrbare Treue.",
+    "imagen": "Wasser fließt unaufhörlich und erreicht sein Ziel: das Bild des Abgründigen. So wandelt der Edle in stetiger Tugend."
+  },
+  {
+    "id": 30,
+    "nombre": "DAS HAFTENDE (DAS FEUER)",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Das Haftende. Beharrlichkeit ist förderlich; sie bringt Gelingen. Das Pflegen der Kuh bringt Heil. Wie das Feuer an Brennstoff haftet, so haftet der Geist am Rechten.",
+    "imagen": "Die Flamme steigt verdoppelt empor: das Bild des Feuers. Der große Mann erleuchtet die vier Weltgegenden durch fortgesetzte Klarheit."
+  },
+  {
+    "id": 31,
+    "nombre": "DIE EINWIRKUNG (DIE WERBUNG)",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Die Einwirkung. Gelingen. Fördernd ist Beharrlichkeit. Ein Mädchen heimzuführen bringt Heil. Stille Empfänglichkeit und heitere Zuneigung begründen dauerhafte Harmonie.",
+    "imagen": "Auf dem Berg ruht der See: das Bild der Einwirkung. Der Edle nimmt die Menschen auf durch ein leeres, offenes Gemüt."
+  },
+  {
+    "id": 32,
+    "nombre": "DIE DAUER",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "Sun, Der Wind"
+    },
+    "juicio": "Die Dauer. Gelingen ohne Reue. Förderlich ist Beharrlichkeit; förderlich ist es, ein Ziel zu haben. Wahre Dauer ist lebendiger Rhythmus, der sich treu im Wandel erneuert.",
+    "imagen": "Donner und Wind treten gemeinsam auf: das Bild der Dauer. Der Edle steht fest und ändert seine Richtung nicht."
+  },
+  {
+    "id": 33,
+    "nombre": "DER RÜCKZUG",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Der Rückzug. Gelingen. Dem Edlen ist Beharrlichkeit förderlich. Feindliche Kräfte dringen vor; in solchen Zeiten ist rechtzeitiger Rückzug kein feiges Fliehen, sondern weise Kriegskunst. Der Edle wahrt seine Kraft und hält die Niedrigen mit ruhiger Würde in Schranken.",
+    "imagen": "Der Berg reicht empor zum Himmel, doch der Himmel weicht unnahbar nach oben aus: das Bild des Rückzugs. Der Edle hält den Gemeinen fern, nicht mit Hass, sondern mit erhabener Würde."
+  },
+  {
+    "id": 34,
+    "nombre": "DES GROSSEN MACHT",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Des Großen Macht. Beharrlichkeit ist förderlich. Die Kraft ist stark gestiegen und gelangt zur Macht; doch rohe Gewalt zerstört sich selbst. Wahre Größe bleibt stets an Gerechtigkeit und Recht gebunden.",
+    "imagen": "Der Donner steht droben am Himmel: das Bild der Macht des Großen. So wandelt der Edle nicht auf Pfaden, die der Ordnung widerstreiten."
+  },
+  {
+    "id": 35,
+    "nombre": "DER FORTSCHRITT",
+    "trigramas": {
+      "superior": "Li, Das Feuer, Die Sonne",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Der Fortschritt. Die Sonne geht auf über der Erde. Der weise Fürst schart tüchtige Gehilfen um sich und ehrt sie mit reichen Gaben. Lautere Gesinnung führt zu lichtem Aufstieg.",
+    "imagen": "Die Sonne geht strahlend über der Erde auf: das Bild des Fortschritts. Der Edle bringt seine eigenen lichten Anlagen selbst zum Leuchten."
+  },
+  {
+    "id": 36,
+    "nombre": "DIE VERFINSTERUNG DES LICHTES",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Die Verfinsterung des Lichtes. Fördernd ist es, in Not beharrlich zu sein. Herrscht Finsternis in der Welt, verbirgt der Edle seinen Glanz nach außen, bleibt nachgiebig im Betragen und hütet das Licht unberührt im Herzen.",
+    "imagen": "Das Licht ist in die Erde hinabgesunken: das Bild der Verfinsterung. Der Edle lebt unter der Menge, verhüllt seine Art und bleibt innerlich rein und hell."
+  },
+  {
+    "id": 37,
+    "nombre": "DIE SIPPE (DIE FAMILIE)",
+    "trigramas": {
+      "superior": "Sun, Der Wind",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Die Sippe. Fördernd ist die Beharrlichkeit der Frau. Ordnung im Hause ist die Wurzel aller Gesellschaft. Wenn Vater, Mutter, Sohn und Bruder ihre Pflichten mit Ernst und Liebe erfüllen, herrscht Friede im ganzen Reich.",
+    "imagen": "Der Wind geht aus dem Feuer hervor: das Bild der Sippe. Der Edle hat Wesenheit in seinen Worten und Dauer in seinem Wandel."
+  },
+  {
+    "id": 38,
+    "nombre": "DER GEGENSATZ",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Der Gegensatz. In kleinen Dingen Heil. Wo Verschiedenheit herrscht, nützt kein starrer Zwang. Gegensätze schaffen das schöpferische Spiel des Universums; im Kleinen lassen sich Brücken bauen.",
+    "imagen": "Oben das Feuer, unten der See: das Bild des Gegensatzes. So wahrt der Edle bei aller Gemeinschaft seine Eigenart."
+  },
+  {
+    "id": 39,
+    "nombre": "DAS HEMMNIS",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Das Hemmnis. Der Südwesten ist förderlich, der Nordosten ist nicht förderlich. Fördernd ist es, den großen Mann zu sehen. Beharrlichkeit bringt Heil. Wenn sich Gefahren türmen, hilft Innehalten und Selbstprüfung.",
+    "imagen": "Wasser auf dem Berg: das Bild des Hemmnisses. So wendet sich der Edle um zu seiner eigenen Person und bildet seinen Charakter."
+  },
+  {
+    "id": 40,
+    "nombre": "DIE BEFREIUNG",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Die Befreiung. Der Südwesten ist förderlich. Wenn keine Bedrängnis mehr ist, bringt Rückkehr Heil; bleibt noch etwas zu tun, bringt rasches Handeln Heil. Spannung löst sich wie der erlösende Regen.",
+    "imagen": "Donner und Regen lösen die Schwüle: das Bild der Befreiung. Der Edle verzeiht Verfehlungen und vergibt die Schuld."
+  },
+  {
+    "id": 41,
+    "nombre": "DIE MINDERUNG",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Die Minderung mit Wahrhaftigkeit wirkt erhabenes Gelingen ohne Tadel. Beharrlichkeit ist förderlich. Auch mit zwei kleinen Schalen kann geopfert werden. Äußere Genügsamkeit vertieft die seelische Fülle.",
+    "imagen": "Am Fuß des Berges liegt der See: das Bild der Minderung. Der Edle dämmt den Zorn ein und bändigt die Begierden."
+  },
+  {
+    "id": 42,
+    "nombre": "DIE MEHRUNG",
+    "trigramas": {
+      "superior": "Sun, Der Wind",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Die Mehrung. Fördernd ist es, etwas zu unternehmen; fördernd ist es, das große Wasser zu durchqueren. Wenn die Oberen von sich abgeben, um den Unteren zu nützen, erwächst dem Volk helle Freude und Hingabe.",
+    "imagen": "Wind und Donner mehren sich gegenseitig: das Bild der Mehrung. Sieht der Edle Gutes, so ahmt er es nach; hat er Fehler, so legt er sie ab."
+  },
+  {
+    "id": 43,
+    "nombre": "DER DURCHBRUCH (DIE ENTSCHLOSSENHEIT)",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "Ch’ien, Der Himmel"
+    },
+    "juicio": "Der Durchbruch. Entschlossen muss die Sache kundgetan werden am Hofe des Königs. Gefahr. Die eigene Stadt soll gewarnt werden; nicht förderlich ist der Griff zur Waffe. Entschlossenes Wirken tut not.",
+    "imagen": "Das Wasser des Sees ist zum Himmel emporgestiegen: das Bild des Durchbruchs. Der Edle spendet Reichtum nach unten und hütet sich vor Eigendünkel."
+  },
+  {
+    "id": 44,
+    "nombre": "DAS ENTGEGENKOMMEN",
+    "trigramas": {
+      "superior": "Ch’ien, Der Himmel",
+      "inferior": "Sun, Der Wind"
+    },
+    "juicio": "Das Entgegenkommen. Das Mädchen ist mächtig; man soll ein solches Mädchen nicht heiraten. Dunkle Einflüsse schleichen sich leicht ein; der Weise wehrt den ersten Anfängen und prüft jede Verbindung streng.",
+    "imagen": "Unter dem Himmel weht der Wind: das Bild des Entgegenkommens. So verkündet der Herrscher seine Gebote nach allen vier Himmelsrichtungen."
+  },
+  {
+    "id": 45,
+    "nombre": "DIE SAMMLUNG",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "K’un, Die Erde"
+    },
+    "juicio": "Die Sammlung. Gelingen. Der König naht dem Ahnentempel. Förderlich ist es, den großen Mann zu sehen. Große Opfer bringen Heil. Wahre Einheit bedarf eines sittlichen Zentrums von lauterer Reinheit.",
+    "imagen": "Über der Erde ruht der See: das Bild der Sammlung. Der Edle bessert seine Waffen, um dem Unvorhergesehenen zu begegnen."
+  },
+  {
+    "id": 46,
+    "nombre": "DAS EMPORSTEIGEN",
+    "trigramas": {
+      "superior": "K’un, Die Erde",
+      "inferior": "Sun, Das Holz, Der Wind"
+    },
+    "juicio": "Das Emporsteigen hat erhabenes Gelingen. Man muss den großen Mann sehen; fürchte dich nicht! Aufbruch nach Süden bringt Heil. Das Wachstum vollzieht sich stetig, sanft und von der Gunst der Zeit getragen.",
+    "imagen": "Mitten in der Erde wächst der Baum empor: das Bild des Emporsteigens. Der Edle häuft im Einklang mit der Natur Kleinigkeiten an zu Hohem und Großem."
+  },
+  {
+    "id": 47,
+    "nombre": "DIE BEDRÄNGNIS (DIE ERSCHÖPFUNG)",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Die Bedrängnis. Gelingen. Beharrlichkeit. Der große Mann schafft Heil; kein Tadel. Redet man, so glaubt man einem nicht. Wer in der Not unerschütterlich bleibt, trägt die Quelle künftigen Heils in sich.",
+    "imagen": "Im See ist kein Wasser: das Bild der Erschöpfung. Der Edle setzt sein Leben ein, um seinem Willen treu zu bleiben."
+  },
+  {
+    "id": 48,
+    "nombre": "DER BRUNNEN",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "Sun, Der Wind, Das Holz"
+    },
+    "juicio": "Der Brunnen. Die Stadt mag verlegt werden, der Brunnen kann nicht verlegt werden. Er nimmt nicht ab und nimmt nicht zu. Zieht man das Wasser fast herauf, zerreißt das Seil oder bricht der Krug, so bringt das Unheil.",
+    "imagen": "Über dem Holz steht das Wasser: das Bild des Brunnens. Der Edle muntert das Volk zur Arbeit auf und mahnt zu gegenseitigem Beistand."
+  },
+  {
+    "id": 49,
+    "nombre": "DIE UMWÄLZUNG (DIE MAUSERUNG)",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Die Umwälzung. Erst an deinem eigenen Tage findest du Glauben. Erhabenes Gelingen, fördernd durch Beharrlichkeit; die Reue schwindet. Große Neuerungen müssen im Einklang mit der Zeit reifen.",
+    "imagen": "Im See brennt das Feuer: das Bild der Umwälzung. So ordnet der Edle den Kalender und klärt die Zeiten."
+  },
+  {
+    "id": 50,
+    "nombre": "DER TIEGEL (DAS WEIHEGEFÄSS)",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "Sun, Das Holz"
+    },
+    "juicio": "Der Tiegel. Höchstes Heil. Gelingen. Wie der Tiegel die Nahrung veredelt und dem Heiligen weiht, so wandelt geistige Kultur das irdische Leben in erhabene Harmonie mit dem Kosmos.",
+    "imagen": "Über dem Holz brennt das Feuer: das Bild des Tiegels. So festigt der Edle sein Schicksal, indem er seine Stellung recht einnimmt."
+  },
+  {
+    "id": 51,
+    "nombre": "DAS ERREGENDE (DER DONNER)",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "Chên, Der Donner"
+    },
+    "juicio": "Das Erregende bringt Gelingen. Der Schreck kommt: hu, hu! Lachende Worte: ha, ha! Der Schreck lähmt hundert Meilen ringsumher, doch der Meister lässt den Opferlöffel nicht fallen.",
+    "imagen": "Wiederholter Donner: das Bild des Erregenden. In Furcht und Zittern ordnet der Edle sein Leben und prüft sein Herz."
+  },
+  {
+    "id": 52,
+    "nombre": "DAS STILLEHALTEN (DER BERG)",
+    "trigramas": {
+      "superior": "Ken, Der Berg",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Stillehalten seines Rückens, dass er seinen Leib nicht mehr fühlt. Er geht in seinen Hof und sieht seine Leute nicht. Kein Tadel. Das rechte Ruhen im Stillstand und das rechte Handeln zur Zeit des Aufbruchs schenken wahren Frieden.",
+    "imagen": "Aneinander gereihte Berge: das Bild des Stillehaltens. Der Edle lässt seine Gedanken nicht über seine Lage hinausschweifen."
+  },
+  {
+    "id": 53,
+    "nombre": "DIE ENTWICKLUNG (ALLMÄHLICHER FORTSCHRITT)",
+    "trigramas": {
+      "superior": "Sun, Das Holz, Der Wind",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Die Entwicklung. Das Mädchen wird zur Ehe gegeben. Heil. Fördernd ist Beharrlichkeit. Schritt für Schritt wächst das Werk in wohlgeordneter Schlichtheit heran, ohne überstürzte Eile.",
+    "imagen": "Auf dem Berg steht ein Baum: das Bild der Entwicklung. Der Edle verweilt in Würde und Tugend, um die Sitten zu veredeln."
+  },
+  {
+    "id": 54,
+    "nombre": "DAS HEIRATENDE MÄDCHEN",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Das heiratende Mädchen. Unternehmungen bringen Unheil; nichts, was förderlich wäre. In untergeordneter Lage tut Zurückhaltung und Taktempfinden not, um Zerrüttung abzuwenden.",
+    "imagen": "Der Donner über dem See: das Bild des heiratenden Mädchens. Der Edle schaut auf das Vergängliche im Lichte des ewigen Endes."
+  },
+  {
+    "id": 55,
+    "nombre": "DIE FÜLLE",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "Li, Das Feuer, Das Licht"
+    },
+    "juicio": "Die Fülle hat Gelingen. Der König erreicht das Höchste. Sei nicht traurig, sei wie die Sonne am Mittag. In Zeiten strahlender Fülle walte mit ungetrübter Gerechtigkeit und heiterem Herzen.",
+    "imagen": "Donner und Blitz treten zusammen auf: das Bild der Fülle. Der Edle schlichtet Streitigkeiten und vollstreckt die Strafen."
+  },
+  {
+    "id": 56,
+    "nombre": "DER WANDERER",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Der Wanderer. Gelingen im Kleinen. Dem Wanderer ist Beharrlichkeit förderlich. In der Fremde schützt Bescheidenheit, Höflichkeit und edle Umsicht vor Schaden.",
+    "imagen": "Auf dem Berg brennt das Feuer: das Bild des Wanderers. Der Edle ist hellsichtig und vorsichtig bei Strafen und zieht Prozesse nicht in die Länge."
+  },
+  {
+    "id": 57,
+    "nombre": "DAS SANFTE (DAS EINDRINGENDE, DER WIND)",
+    "trigramas": {
+      "superior": "Sun, Der Wind",
+      "inferior": "Sun, Der Wind"
+    },
+    "juicio": "Das Sanfte. Gelingen durch das Kleine. Förderlich ist es, ein Ziel zu haben; förderlich ist es, den großen Mann zu sehen. Stetiger, unaufhörlicher Einfluss verwandelt die Gesinnung tief und dauerhaft.",
+    "imagen": "Aufeinander folgende Winde: das Bild des Sanften. So verbreitet der Edle seine Gebote und führt seine Geschäfte aus."
+  },
+  {
+    "id": 58,
+    "nombre": "DAS HEITERE (DER SEE)",
+    "trigramas": {
+      "superior": "Tui, Der See",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Das Heitere. Gelingen. Fördernd ist Beharrlichkeit. Aufrichtige Freundlichkeit gewinnt die Herzen der Menschen und lässt sie selbst schwere Mühen freudig tragen.",
+    "imagen": "Zwei Seen ruhen aneinander: das Bild des Heiteren. So kommt der Edle mit Freunden zusammen zu Besprechung und Übung."
+  },
+  {
+    "id": 59,
+    "nombre": "DIE AUFLÖSUNG (DIE ZERSTREUUNG)",
+    "trigramas": {
+      "superior": "Sun, Der Wind",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Die Auflösung. Gelingen. Der König naht seinem Tempel. Förderlich ist es, das große Wasser zu durchqueren; Beharrlichkeit ist förderlich. Geistige Einigung schmilzt Verhärtung und Eigensinn wie Frühlingseis.",
+    "imagen": "Der Wind weht über das Wasser: das Bild der Auflösung. Die Könige opferten dem Herrn und bauten Tempel zur Einigung der Seelen."
+  },
+  {
+    "id": 60,
+    "nombre": "DIE BESCHRÄNKUNG (DAS MASS)",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Die Beschränkung. Gelingen. Bittere Beschränkung darf nicht beharrlich geübt werden. Maß und Schranken geben dem Leben Gestalt; doch soll das Maß nicht lebensfeindlich einengen.",
+    "imagen": "Über dem See steht das Wasser: das Bild der Beschränkung. Der Edle schafft Maß und Zahl und erforscht, was Tugend und Wandel sei."
+  },
+  {
+    "id": 61,
+    "nombre": "INNERE WAHRHAFTIGKEIT",
+    "trigramas": {
+      "superior": "Sun, Der Wind",
+      "inferior": "Tui, Der See"
+    },
+    "juicio": "Innere Wahrhaftigkeit rührt Schweine und Fische. Heil. Förderlich ist es, das große Wasser zu durchqueren; Beharrlichkeit ist fördernd. Lautere Aufrichtigkeit ohne Vorurteil gewinnt selbst das Verstockteste.",
+    "imagen": "Der Wind kräuselt den See: das Bild innerer Wahrhaftigkeit. Der Edle erörtert Strafsachen, um den Hinrichtungen Einhalt zu gebieten."
+  },
+  {
+    "id": 62,
+    "nombre": "DES KLEINEN ÜBERGOSSE",
+    "trigramas": {
+      "superior": "Chên, Der Donner",
+      "inferior": "Ken, Der Berg"
+    },
+    "juicio": "Des Kleinen Übergewicht. Gelingen. Fördernd ist Beharrlichkeit. Kleines darf man tun, Großes nicht. Der Vogel bringt die Botschaft: nicht nach oben streben, im Niederen verweilen bringt großes Heil.",
+    "imagen": "Der Donner grollt über dem Berg: das Bild des Übergewichts des Kleinen. Der Edle übt im Betragen Übergewicht an Ehrfurcht, bei Trauer an Schmerz, beim Aufwand an Sparsamkeit."
+  },
+  {
+    "id": 63,
+    "nombre": "NACH DER VOLLENDUNG",
+    "trigramas": {
+      "superior": "K’an, Das Wasser",
+      "inferior": "Li, Das Feuer"
+    },
+    "juicio": "Nach der Vollendung. Gelingen im Kleinen. Beharrlichkeit ist förderlich. Anfangs Heil, am Ende Unordnung. Ist alles geordnet, bedarf es größter Wachsamkeit, damit nicht schleichend Verfall einsetzt.",
+    "imagen": "Wasser steht über dem Feuer: das Bild des Zustandes nach der Vollendung. Der Edle bedenkt das Unglück und rüstet sich im Voraus dagegen."
+  },
+  {
+    "id": 64,
+    "nombre": "VOR DER VOLLENDUNG",
+    "trigramas": {
+      "superior": "Li, Das Feuer",
+      "inferior": "K’an, Das Wasser"
+    },
+    "juicio": "Vor der Vollendung. Gelingen. Doch taucht der junge Fuchs seinen Schwanz ins Wasser, ehe er ganz hinüber ist, so ist nichts förderlich. Vorsicht und Geistesgegenwart im Übergang führen zum endgültigen Sieg.",
+    "imagen": "Das Feuer steht über dem Wasser: das Bild des Zustandes vor der Vollendung. Der Edle unterscheidet die Dinge sorgsam, damit jedes an seinen rechten Platz gelange."
+  }
+]

@@ -1,0 +1,71 @@
+.analog-clock {
+  width: 160px;
+  height: 160px;
+  border: 3px solid rgba(212, 175, 55, 0.5);
+  border-radius: 50%;
+  position: relative;
+  background: var(--bg-card);
+  box-shadow: 
+    0 6px 24px rgba(0, 0, 0, 0.2),
+    inset 0 0 10px rgba(0, 0, 0, 0.08),
+    0 0 10px rgba(212, 175, 55, 0.15);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.25rem auto 0.75rem;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.analog-clock-body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.analog-needle {
+  position: absolute;
+  top: 50%;
+  transform-origin: 100% 50%;
+  transform: rotate(90deg) translateY(-50%);
+  transition: all 0.25s cubic-bezier(0.05, 1, 0.49, 1);
+  border-radius: 4px;
+}
+
+.analog-hours {
+  width: 25%;
+  left: 25%;
+  height: 4px;
+  background-color: var(--text-primary);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.analog-minutes {
+  width: 38%;
+  left: 12%;
+  height: 3px;
+  background-color: var(--text-secondary);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+
+.analog-seconds {
+  width: 54%; /* Extended for the tail */
+  left: 6%; /* Adjusted to let the tail cross the center */
+  height: 2px;
+  transform-origin: 81.48% 50%; /* 44/54 = 81.48% to make it pivot exactly at the center */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.analog-clock-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  background-color: var(--bg-card);
+  border: 2px solid var(--accent-red);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}

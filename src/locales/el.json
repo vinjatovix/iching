@@ -1,0 +1,53 @@
+{
+  "app": {
+    "themeToggleLight": "Αλλαγή σε φωτεινή λειτουργία",
+    "themeToggleDark": "Αλλαγή σε σκοτεινή λειτουργία",
+    "themeToggleAria": "Εναλλαγή φωτεινού και σκοτεινού θέματος"
+  },
+  "clock": {
+    "ariaLabel": "Αναλογικό ρολόι",
+    "currentTime": "Τρέχουσα ώρα:"
+  },
+  "oracle": {
+    "title": "Χρησμός του Ι Τσινγκ",
+    "subtitle": "Παρακαλούμε χρησιμοποιήστε αυτόν τον χρησμό με σεβασμό και προσοχή.",
+    "note": "Διατυπώστε την ερώτησή σας με ειλικρίνεια.",
+    "clearReadings": "Εκκαθάριση αναγνώσεων",
+    "historyAria": "Ιστορικό ερωτημάτων",
+    "loading": "Συμβουλευόμενοι τον χρησμό..."
+  },
+  "form": {
+    "questionLabel": "Ερώτηση για τον χρησμό",
+    "placeholder": "Τι σας προβληματίζει;",
+    "submit": "Συμβουλευτείτε"
+  },
+  "reading": {
+    "readingFor": "Ανάγνωση για: \"{{question}}\"",
+    "initialHexagram": "Αρχικό Εξάγραμμο",
+    "primaryHexagram": "Κύριο Εξάγραμμο",
+    "mutatesTo": "Μεταλλάσσεται σε"
+  },
+  "card": {
+    "hexagram": "Εξάγραμμο",
+    "superior": "Άνω",
+    "inferior": "Κάτω",
+    "judgment": "Η Κρίση",
+    "image": "Η Εικόνα"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română",
+    "pt": "Português",
+    "de": "Deutsch",
+    "el": "Ελληνικά",
+    "nl": "Nederlands",
+    "pl": "Polski",
+    "sv": "Svenska"
+  }
+}

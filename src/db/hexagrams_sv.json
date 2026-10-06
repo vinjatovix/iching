@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "DET SKAPANDE (HIMLEN)",
+    "trigramas": {
+      "superior": "Ch’ien, Det Skapande, Himlen",
+      "inferior": "Ch’ien, Det Skapande, Himlen"
+    },
+    "juicio": "Det Skapande verkar upphöjd framgång, främjande genom uthållighet. Den som mottar detta svar tar del i universums urkraft; allt beror på att uthålligt främja det goda på den rätta vägen.",
+    "imagen": "Himlens rörelse är full av kraft. Så gör sig den ädle stark och outtröttlig."
+  },
+  {
+    "id": 2,
+    "nombre": "DET MOTTAGANDE (JORDEN)",
+    "trigramas": {
+      "superior": "K’un, Det Mottagande, Jorden",
+      "inferior": "K’un, Det Mottagande, Jorden"
+    },
+    "juicio": "Det Mottagande verkar upphöjd framgång, främjande genom ett stos uthållighet. Om den ädle vill leda går han vilse; följer han finner han ledning. Lugn uthållighet bringar lycka.",
+    "imagen": "Jordens väsen är hängiven mottaglighet. Så bär den ädle med rymligt sinne hela den yttre världen."
+  },
+  {
+    "id": 3,
+    "nombre": "BEGYNNELSENS SVÅRIGHET",
+    "trigramas": {
+      "superior": "K’an, Det Bråddjupa, Vattnet",
+      "inferior": "Chên, Det Uppväckande, Åskan"
+    },
+    "juicio": "Begynnelsens svårighet verkar upphöjd framgång genom uthållighet. Inget bör företas förhastat; det är gynnsamt att utse hjälpare.",
+    "imagen": "Moln och åska: bilden av begynnelsens svårighet. Så reder den ädle ut förvirringen och bringar ordning."
+  },
+  {
+    "id": 4,
+    "nombre": "UNGDOMENS DÅRSKAP",
+    "trigramas": {
+      "superior": "Ken, Stillheten, Berget",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Ungdomens dårskap har framgång. Inte jag söker den unge dåren, den unge dåren söker mig. Ödmjukhet och vördnad bringar insikt.",
+    "imagen": "Vid foten av berget springer en källa fram: bilden av ungdomen. Så vårdar den ädle sin karaktär genom grundlighet i allt."
+  },
+  {
+    "id": 5,
+    "nombre": "VÄNTAN (NÄRINGEN)",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Väntan. Är du uppriktig har du ljus och framgång. Uthållighet bringar lycka. Det är gynnsamt att korsa det stora vattnet.",
+    "imagen": "Moln stiger upp mot himlen: bilden av väntan. Så äter och dricker den ädle, glad och vid gott mod."
+  },
+  {
+    "id": 6,
+    "nombre": "KONFLIKTEN (STRIDEN)",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Striden. Varsam besinning halvvägs bringar lycka; att driva saken till sin spets för med sig olycka. Gynnsamt att se den store mannen.",
+    "imagen": "Himmel och vatten rör sig i motsatta riktningar: bilden av striden. Så begrundar den ädle början väl i alla angelägenheter."
+  },
+  {
+    "id": 7,
+    "nombre": "HÄREN",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Hären kräver uthållighet och en erfaren ledare. Lycka utan klander. Sann styrka vilar på rättvisa och inre disciplin.",
+    "imagen": "I jordens sköte döljer sig vatten: bilden av hären. Så ökar den ädle sin kraft genom storsinthet mot folket."
+  },
+  {
+    "id": 8,
+    "nombre": "SAMMANHÅLLNINGEN (ENHETEN)",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Sammanhållning bringar lycka. Rannsaka din inre fasthet för att vara enhetens mittpunkt. De som tvekar sluter upp efter hand.",
+    "imagen": "På jorden vilar vattnet: bilden av sammanhållning. De forna kungarna vårdade vänskapliga band för det gemensammas bästa."
+  },
+  {
+    "id": 9,
+    "nombre": "DET LILLAS TÄMJANDE KRAFT",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Det lillas tämjande kraft har framgång. Täta moln, inget regn från vårt västliga land. Mjuk övertalning bereder vägen.",
+    "imagen": "Vinden blåser högt på himlen: bilden av återhållsamhet. Så förfinar den ädle sitt väsens yttre gestalt."
+  },
+  {
+    "id": 10,
+    "nombre": "UPPTRÄDANDET (VANDRINGEN)",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Trampa på tigerns svans: den biter inte människan. Framgång. Lugn artighet och varsamhet övervinner faror oskadd.",
+    "imagen": "Uppe himlen, nere sjön: bilden av uppträdandet. Så skiljer den ädle på högt och lågt och skänker frid åt sinnet."
+  },
+  {
+    "id": 11,
+    "nombre": "FREDEN",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Det lilla viker, det stora nalkas. Lycka och framgång. Himmel och jord möts i fulländad harmoni.",
+    "imagen": "Himmel och jord förenas: bilden av freden. Så ordnar härskaren tidens lopp och bistår folket."
+  },
+  {
+    "id": 12,
+    "nombre": "STAGNATIONEN",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Stagnationen. Det stora viker, det lilla nalkas. Den ädle drar sig tillbaka i sin inre värdighet och avstår från korruption.",
+    "imagen": "Himmel och jord möts inte: bilden av stagnation. Den vise vårdar sin dygd i det fördolda."
+  },
+  {
+    "id": 13,
+    "nombre": "GEMENSKAP MED MÄNNISKOR",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Gemenskap med människor i det öppna: framgång. Gynnsamt att korsa det stora vattnet. Sanning förenar hjärtan.",
+    "imagen": "Himmel och eld samverkar: bilden av gemenskap. Så ordnar den ädle samhällets led och förtydligar relationerna."
+  },
+  {
+    "id": 14,
+    "nombre": "DEN STORA BESITTNINGEN",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Den stora besittningen. Upphöjd framgång. Inre kraft förenad med klar blick skapar överflöd till allas fromma.",
+    "imagen": "Elden lyser högt på himlen: bilden av den stora besittningen. Den ädle hämmar det onda och befrämjar det goda."
+  },
+  {
+    "id": 15,
+    "nombre": "ÖDMJUKHETEN",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Ödmjukhet skapar framgång. Den ädle för sitt verk till ett gott slut. Himlens lag minskar det överfulla och fyller det låga.",
+    "imagen": "Mitt i jorden vilar berget: bilden av ödmjukhet. Så minskar den ädle överflödet och fyller på bristerna."
+  },
+  {
+    "id": 16,
+    "nombre": "ENTUSIASMEN",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Entusiasmen. Gynnsamt att utse hjälpare och sätta härar i rörelse. Samklang med naturen väcker hängivenhet.",
+    "imagen": "Åskan bryter dånande fram ur jorden: bilden av entusiasm. De gamla kungarna skapade musik till det Högstes ära."
+  },
+  {
+    "id": 17,
+    "nombre": "FÖLJSAMHETEN",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Följsamheten har upphöjd framgång. Uthållighet är gynnsam; inget klander. Den som vill leda måste först kunna tjäna.",
+    "imagen": "Åskan vilar mitt i sjön: bilden av följsamhet. Så drar sig den ädle tillbaka om kvällen för vila och vederkvickelse."
+  },
+  {
+    "id": 18,
+    "nombre": "ARBETET PÅ DET FÖRDÄRVADE",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "Sun, Vinden"
+    },
+    "juicio": "Arbetet på det fördärvade har upphöjd framgång. Varsamhet före och efter starten läker gamla fel.",
+    "imagen": "Vinden blåser vid bergets fot: bilden av fördärv. Den ädle väcker folket och stärker dess ande."
+  },
+  {
+    "id": 19,
+    "nombre": "NÄRMANDET",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Närmandet har upphöjd framgång. Uthållighet är gynnsam. I den åttonde månaden kommer nedgång: var förberedd.",
+    "imagen": "Över sjön breder jorden ut sig: bilden av närmandet. Den ädle är outtömlig i sin undervisning och omsorg om folket."
+  },
+  {
+    "id": 20,
+    "nombre": "BETRAKTELSEN (SYNEN)",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Betraktelsen. Tvagningen är fullgjord, men ännu inte offret. Fulla av förtröstan blickar alla uppåt.",
+    "imagen": "Vinden blåser över den vida jorden: bilden av betraktelsen. De forna kungarna reste runt och undervisade folket."
+  },
+  {
+    "id": 21,
+    "nombre": "GENOMBITANDET",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Genombitandet har framgång. Rättvis dom och fasta lagar röjer undan hindren.",
+    "imagen": "Åska och blixt: bilden av genombitandet. Så stadfäste de visa härskarna lagarna genom klara domar."
+  },
+  {
+    "id": 22,
+    "nombre": "BEHAGET (FORMEN)",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Behaget har framgång. I små ting är handling gynnsam; skönhet pryder, men djupet avgör.",
+    "imagen": "Vid bergets fot lyser elden: bilden av behaget. Den ädle belyser vardagens ärenden med takt och måtta."
+  },
+  {
+    "id": 23,
+    "nombre": "SÖNDERFALL",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Sönderfall. Inte gynnsamt att gå någonstans. När lägre krafter vinner mark bevarar den vise tålamodet.",
+    "imagen": "Berget vilar på jorden: bilden av sönderfall. De styrande säkrar sin ställning genom frikostighet mot folket."
+  },
+  {
+    "id": 24,
+    "nombre": "ÅTERKOMSTEN (VÄNDPUNKTEN)",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Återkomsten. Framgång. På den sjunde dagen sluter sig kretsen; ljuset återvänder naturligt och utan tvång.",
+    "imagen": "Åskan vilar djupt i jordens sköte: bilden av vändpunkten. Kungarna stängde gränserna vid vintersolståndet för vila."
+  },
+  {
+    "id": 25,
+    "nombre": "OSKULDEN (DET OFÖRUTSEDDA)",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Oskulden. Upphöjd framgång. Ren och osjälvisk handling åtnjuter kosmiskt beskydd.",
+    "imagen": "Under himlen drar åskan fram: bilden av oskulden. Härskarna vårdade allt levande i rättan tid."
+  },
+  {
+    "id": 26,
+    "nombre": "DET STORAS TÄMJANDE KRAFT",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Det storas tämjande kraft. Att inte äta hemma bringar lycka; gynnsamt att korsa det stora vattnet.",
+    "imagen": "Himlen vilar i bergets inre: bilden av samlad kraft. Den ädle lär av forntidens visdom för att stärka sin dygd."
+  },
+  {
+    "id": 27,
+    "nombre": "MUNNENS VRÅR (NÄRINGEN)",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Munnens vrår. Ge akt på vad du ger din kropp och din själ, och vem du stöder.",
+    "imagen": "Under berget dånar åskan: bilden av näring. Den ädle vaktar sina ord och iakttar måtta i mat och dryck."
+  },
+  {
+    "id": 28,
+    "nombre": "DET STORAS ÖVERVIKT",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "Sun, Vinden, Träet"
+    },
+    "juicio": "Det storas övervikt. Takåsen bågnar. Framgång genom smidig beslutsamhet i krisen.",
+    "imagen": "Sjöns vatten stiger över träden: bilden av övervikt. Den ädle står orubblig, även om han blir ensam."
+  },
+  {
+    "id": 29,
+    "nombre": "DET BRÅDDJUPA (VATTNET)",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Det bråddjupa upprepat. Med ett uppriktigt hjärta har du framgång i allt du företar dig.",
+    "imagen": "Vattnet flyter oavlåtligt och når sitt mål: bilden av det bråddjupa. Så förblir den ädle trogen dygden."
+  },
+  {
+    "id": 30,
+    "nombre": "DET VIDHÄFTANDE (ELDEN)",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Det Vidhäftande. Uthållighet bringar framgång. Vård om kon bringar lycka; anden strålar i rättfärdighet.",
+    "imagen": "Flamman stiger dubbel upp: bilden av elden. Den store mannen sprider ljus över världen genom uthållig klarhet."
+  },
+  {
+    "id": 31,
+    "nombre": "PÅVERKAN (FRIERIET)",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Påverkan. Framgång. Uthållighet är gynnsam. Ömsesidig öppenhet och vördnad grundlägger varaktig sämja.",
+    "imagen": "Uppe på berget vilar sjön: bilden av påverkan. Den ädle tar emot människorna med ett öppet hjärta."
+  },
+  {
+    "id": 32,
+    "nombre": "VARAKTIGHETEN",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "Sun, Vinden"
+    },
+    "juicio": "Varaktigheten. Framgång utan ånger. Sann varaktighet är en levande rytm som troget förnyar sig.",
+    "imagen": "Åska och vind uppträder tillsammans: bilden av varaktighet. Den ädle står fast och viker inte från sin kurs."
+  },
+  {
+    "id": 33,
+    "nombre": "TILLBAKADRAGANDET",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Tillbakadragandet. Framgång. För den ädle är uthållighet gynnsam. Tidigt tillbakadragande bevarar styrkan.",
+    "imagen": "Berget når mot himlen, men himlen viker undan i det höga: bilden av reträtt. Den ädle håller det låga på avstånd med värdighet."
+  },
+  {
+    "id": 34,
+    "nombre": "DET STORAS MAKT",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Det storas makt. Uthållighet är gynnsam. Sann styrka förblir bunden till rätten och rättvisan.",
+    "imagen": "Åskan står högt på himlen: bilden av det storas makt. Så vandrar den ädle inte på stigar som strider mot ordningen."
+  },
+  {
+    "id": 35,
+    "nombre": "FRAMSTEGET",
+    "trigramas": {
+      "superior": "Li, Elden, Solen",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Framsteget. Solen går upp över jorden. Den vise härskaren samlar dygdiga medhjälpare kring sig.",
+    "imagen": "Solen går strålande upp över jorden: bilden av framsteg. Den ädle låter sina egna ljusa anlag lysa."
+  },
+  {
+    "id": 36,
+    "nombre": "LJUSET SOM FÖRDUNKLAS",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Ljusets förmörkelse. I nödens stund är uthållighet gynnsam. I mörkret döljer den vise sin glans.",
+    "imagen": "Ljuset har sjunkit ned i jorden: bilden av förmörkelse. Den ädle lever bland mängden och bevarar sitt ljus i det inre."
+  },
+  {
+    "id": 37,
+    "nombre": "FAMILJEN",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Familjen. Kvinnans trohet stöder hemmet. Ordning i familjen lägger grunden för samhällsfriden.",
+    "imagen": "Vinden utgår från elden: bilden av familjen. Den ädle lägger vikt vid sina ord och stadga i sitt uppträdande."
+  },
+  {
+    "id": 38,
+    "nombre": "MOTSÄTTNINGEN",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Motsättningen. I små ting lycka. Motsatser skapar livets dynamik; tålamod överbryggar skillnader.",
+    "imagen": "Uppe elden, nere sjön: bilden av motsättning. Den ädle bevarar sin särart i gemenskapen."
+  },
+  {
+    "id": 39,
+    "nombre": "HINDRET",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Hindret. Sydväst är gynnsamt. Inför faran stärker självkännedom karaktären.",
+    "imagen": "Vatten på berget: bilden av hindret. Den ädle vänder sig inåt och förädlar sin dygd."
+  },
+  {
+    "id": 40,
+    "nombre": "BEFRIELSEN",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Befrielsen. Sydväst är gynnsamt. Spänningen släpper som ett befriande regn.",
+    "imagen": "Åska och regn renar luften: bilden av befrielse. Den ädle förlåter felsteg och efterskänker skuld."
+  },
+  {
+    "id": 41,
+    "nombre": "MINSKNINGEN",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Minskning med uppriktighet verkar upphöjd framgång utan klander. Enkelhet berikar själen.",
+    "imagen": "Vid foten av berget ligger sjön: bilden av minskning. Den ädle tyglar vreden och dämpar begären."
+  },
+  {
+    "id": 42,
+    "nombre": "ÖKNINGEN",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Ökningen. Gynnsamt att korsa det stora vattnet när offervilja och godhet råder.",
+    "imagen": "Vind och åska förstärker varandra: bilden av ökning. Ser den ädle det goda efterliknar han det; har han fel avlägger han dem."
+  },
+  {
+    "id": 43,
+    "nombre": "GENOMBROTTET (BESLUTSOMHETEN)",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "Ch’ien, Himlen"
+    },
+    "juicio": "Genombrottet. Beslutsamhet krävs. Sanningen besegrar orätten genom ljusets kraft.",
+    "imagen": "Sjön har stigit upp till himlen: bilden av genombrottet. Den ädle delar med sig av sitt överflöd."
+  },
+  {
+    "id": 44,
+    "nombre": "MÖTET",
+    "trigramas": {
+      "superior": "Ch’ien, Himlen",
+      "inferior": "Sun, Vinden"
+    },
+    "juicio": "Mötet. Flickan är mäktig; man skall inte äkta henne. Hejda fördärvliga inflytanden i tid.",
+    "imagen": "Under himlen blåser vinden: bilden av mötet. Härskaren kungör sina bud i alla väderstreck."
+  },
+  {
+    "id": 45,
+    "nombre": "SAMLINGEN",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "K’un, Jorden"
+    },
+    "juicio": "Samlingen. Framgång. Konungen nalkas templet. Moralisk renhet förenar människorna.",
+    "imagen": "Sjön vilar på jorden: bilden av samlingen. Den ädle förbättrar sina vapen för att möta det oförutsedda."
+  },
+  {
+    "id": 46,
+    "nombre": "UPPÅTSTRÄVANDET",
+    "trigramas": {
+      "superior": "K’un, Jorden",
+      "inferior": "Sun, Träet, Vinden"
+    },
+    "juicio": "Uppåtsträvandet har upphöjd framgång. Lugn och ständig tillväxt bär frukt.",
+    "imagen": "Ur jorden växer trädet upp: bilden av uppåtstigande. Den ädle bygger med små steg det stora verket."
+  },
+  {
+    "id": 47,
+    "nombre": "FÖRTTRYCKET (UTMATTNINGEN)",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Förtrycket. Framgång genom uthållighet. Den vise förblir trogen sitt mål även i nöden.",
+    "imagen": "I sjön finns inget vatten: bilden av utmattning. Den ädle sätter sitt liv på spel för att förbli trogen sin vilja."
+  },
+  {
+    "id": 48,
+    "nombre": "BRUNNEN",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "Sun, Vinden, Träet"
+    },
+    "juicio": "Brunnen. Städer förflyttas, men livets källa består oföränderlig för alla törstande.",
+    "imagen": "Vatten ovanför träet: bilden av brunnen. Den ädle uppmuntrar folket till gemensam hjälp."
+  },
+  {
+    "id": 49,
+    "nombre": "OMVÄLVNINGEN (REVOLUTIONEN)",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Omvälvningen. Först på den bestämda dagen möter man tillit. Stora reformer måste mogna med tiden.",
+    "imagen": "I sjön brinner elden: bilden av omvälvning. Den ädle ordnar kalendern och klargör årstiderna."
+  },
+  {
+    "id": 50,
+    "nombre": "GRYTAN (KITTELN)",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "Sun, Träet"
+    },
+    "juicio": "Grytan. Högsta lycka. Andlig kultur helgar tillvaron och bringar samklang med kosmos.",
+    "imagen": "Över träet brinner elden: bilden av grytan. Den ädle tryggar sitt öde genom att inta rätt plats."
+  },
+  {
+    "id": 51,
+    "nombre": "DET UPPVÄCKANDE (ÅSKAN)",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "Chên, Åskan"
+    },
+    "juicio": "Det Uppväckande bringar framgång. Skräcken lamslår hundra mil, men mästaren tappar inte offerskålen.",
+    "imagen": "Upprepad åska: bilden av det uppväckande. I vördnad och bävan ordnar den ädle sitt liv och prövar sitt hjärta."
+  },
+  {
+    "id": 52,
+    "nombre": "STILLHETEN (BERGET)",
+    "trigramas": {
+      "superior": "Ken, Berget",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Stillhet i ryggen. Sann ro vet när den skall tiga och när den skall handla.",
+    "imagen": "Berg som står samman: bilden av stillhet. Den ädle låter inte tankarna sväva utom dess läge."
+  },
+  {
+    "id": 53,
+    "nombre": "DEN GRADVISA UTVECKLINGEN",
+    "trigramas": {
+      "superior": "Sun, Träet, Vinden",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Den gradvisa utvecklingen. Flickan ges till äktenskap. Lycka genom tålmodig ordning.",
+    "imagen": "På berget växer trädet: bilden av utveckling. Den ädle förädlar sederna genom orubblig dygd."
+  },
+  {
+    "id": 54,
+    "nombre": "DEN BORTGIFTANDE FLICKAN",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Den bortgiftande flickan. Företag bringar olycka. Takt och varsamhet avvärjer slitningar.",
+    "imagen": "Åskan rör upp sjön: bilden av den unga flickan. Den ädle skådar det förgängliga i ljuset av det eviga."
+  },
+  {
+    "id": 55,
+    "nombre": "ÖVERFLÖDET",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "Li, Elden, Ljuset"
+    },
+    "juicio": "Överflödet har framgång. Var som middagssolen: härska med rättvisa och frikostighet.",
+    "imagen": "Åska och blixt uppträder tillsammans: bilden av överflöd. Den ädle sliter tvister och skipar rättvis dom."
+  },
+  {
+    "id": 56,
+    "nombre": "VANDRAREN",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Vandraren. Framgång i det lilla. I främmande land skyddar anspråkslöshet mot olycka.",
+    "imagen": "På berget brinner elden och drar vidare: bilden av vandraren. Den ädle dömer med varsamhet."
+  },
+  {
+    "id": 57,
+    "nombre": "DET MJUKA (DET GENOMTRÄNGANDE)",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "Sun, Vinden"
+    },
+    "juicio": "Det Mjuka. Framgång genom det lilla. En ständig och stillsam inverkan omformar sinnet djupt.",
+    "imagen": "Vindar som följer på varandra: bilden av det mjuka. Så sprider den ädle sina bud och fullbordar sina verk."
+  },
+  {
+    "id": 58,
+    "nombre": "DET GLADA (SJÖN)",
+    "trigramas": {
+      "superior": "Tui, Sjön",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Det Glada. Framgång genom uthållighet. Uppriktig hjärtlighet vinner människors sinnen.",
+    "imagen": "Sjöar i förbindelse med varandra: bilden av glädje. Den ädle samlas med vänner till samtal och övning."
+  },
+  {
+    "id": 59,
+    "nombre": "UPPLÖSNINGEN",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Upplösningen. Framgång. Andlig samling smälter hårdhet och självhävdelse likt vårens is.",
+    "imagen": "Vinden blåser över vattnet: bilden av upplösning. Kungarna offrade åt Herren och byggde tempel för själen."
+  },
+  {
+    "id": 60,
+    "nombre": "BEGRÄNSNINGEN (MÅTTAN)",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Begränsningen. Framgång. En bitter inskränkning bör inte upprätthållas med tvång. Måttan ger form åt livet.",
+    "imagen": "Över sjön hålls vattnet kvar: bilden av begränsning. Den ädle skapar mått och tal för att pröva dygden."
+  },
+  {
+    "id": 61,
+    "nombre": "INRE SANNING",
+    "trigramas": {
+      "superior": "Sun, Vinden",
+      "inferior": "Tui, Sjön"
+    },
+    "juicio": "Inre sanning rör till och med svin och fiskar. Lycka genom fördomsfri uppriktighet.",
+    "imagen": "Vinden krusar sjön: bilden av inre sanning. Den ädle rannsakar med mildhet för att hindra orättfärdiga straff."
+  },
+  {
+    "id": 62,
+    "nombre": "DET LILLAS ÖVERVIKT",
+    "trigramas": {
+      "superior": "Chên, Åskan",
+      "inferior": "Ken, Berget"
+    },
+    "juicio": "Det lillas övervikt. Framgång. Små ting får man göra, stora icke. Förbli i ödmjukhet.",
+    "imagen": "Åskan dånar över berget: bilden av det lilla. Den ädle iakttar vördnad i sitt skick och sparsamhet i utgifter."
+  },
+  {
+    "id": 63,
+    "nombre": "EFTER FULLBORDAN",
+    "trigramas": {
+      "superior": "K’an, Vattnet",
+      "inferior": "Li, Elden"
+    },
+    "juicio": "Efter Fullbordan. Framgång i små ting. Vaksamhet skyddar mot smygande förfall.",
+    "imagen": "Vatten kokar över elden: bilden av läget efter fullbordan. Den ädle begrundar olyckan och rustar sig i tid."
+  },
+  {
+    "id": 64,
+    "nombre": "FÖRE FULLBORDAN",
+    "trigramas": {
+      "superior": "Li, Elden",
+      "inferior": "K’an, Vattnet"
+    },
+    "juicio": "Före Fullbordan. Framgång. Men om den lilla räven blöter svansen innan han nått stranden, är intet gynnsamt. Försiktighet leder till seger.",
+    "imagen": "Elden brinner högt, vattnet rinner djupt: bilden av läget före fullbordan. Den ädle skiljer tingen åt så att vart och ett finner sin plats."
+  }
+]

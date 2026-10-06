@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "TWÓRCZOŚĆ (NIEBO)",
+    "trigramas": {
+      "superior": "Ch’ien, Twórczość, Niebo",
+      "inferior": "Ch’ien, Twórczość, Niebo"
+    },
+    "juicio": "Twórczość przynosi wzniosły sukces sprzyjający wytrwałości. Kto otrzymuje tę odpowiedź, czerpie z pierwotnej siły wszechświata; wytrwałe trwanie na prawej drodze pomnaża dobro wszystkich.",
+    "imagen": "Ruch nieba jest pełen potęgi. Tak szlachetny człowiek staje się silny i niestrudzony w doskonaleniu cnót."
+  },
+  {
+    "id": 2,
+    "nombre": "BIERNOŚĆ (ZIEMIA)",
+    "trigramas": {
+      "superior": "K’un, Bierność, Ziemia",
+      "inferior": "K’un, Bierność, Ziemia"
+    },
+    "juicio": "Bierność przynosi wzniosły sukces sprzyjający wytrwałości klaczy. Szlachetny człowiek, który pragnie przewodzić, błądzi; podążając za przewodnictwem, znajduje właściwy szlak.",
+    "imagen": "Natura ziemi to pełne oddanie. Tak szlachetny człowiek o wielkim duchu dźwiga zewnętrzny świat z dobrocią."
+  },
+  {
+    "id": 3,
+    "nombre": "POCZĄTKOWA TRUDNOŚĆ",
+    "trigramas": {
+      "superior": "K’an, Otchłań, Woda",
+      "inferior": "Chên, Przebudzenie, Grom"
+    },
+    "juicio": "Początkowa trudność przynosi wzniosły sukces dzięki wytrwałości. Niczego nie należy podejmować pochopnie; korzystnie jest wyznaczyć pomocników.",
+    "imagen": "Chmury i grom: obraz początkowej trudności. Szlachetny człowiek cierpliwie rozplątuje chaos i zaprowadza ład."
+  },
+  {
+    "id": 4,
+    "nombre": "MŁODZIEŃCZA NAIWNOŚĆ",
+    "trigramas": {
+      "superior": "Ken, Spokój, Góra",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Młodzieńcza naiwność osiąga sukces. Nie ja szukam młodego ignoranta, to on szuka mnie. Pokora i szacunek przynoszą pouczenie.",
+    "imagen": "U stóp góry bije źródło: obraz młodości. Szlachetny człowiek kształtuje charakter przez rzetelność w każdym czynie."
+  },
+  {
+    "id": 5,
+    "nombre": "OCZEKIWANIE (ŻYWIENIE)",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Oczekiwanie. Będąc szczerym, osiągniesz jasność i sukces. Wytrwałość przynosi szczęście. Korzystnie jest przekroczyć wielką wodę.",
+    "imagen": "Chmury wznoszą się ku niebu: obraz oczekiwania. Szlachetny człowiek posila się i zachowuje pogodę ducha."
+  },
+  {
+    "id": 6,
+    "nombre": "SPÓR",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Spór. Masz rację, lecz napotykasz opór. Rozsądne zatrzymanie się w pół drogi przynosi pomyślność; upór do końca wiedzie do zguby.",
+    "imagen": "Niebo i woda poruszają się w przeciwnych kierunkach: obraz sporu. Szlachetny rozważa początek każdego dzieła."
+  },
+  {
+    "id": 7,
+    "nombre": "WOJSKO",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Wojsko wymaga dyscypliny i dojrzałego przywódcy. Szczęście bez zarzutu. Sprawiedliwość zdobywa zaufanie ludu.",
+    "imagen": "W łonie ziemi kryje się woda: obraz wojska. Szlachetny pomnaża siłę przez wielkoduszność wobec wspólnoty."
+  },
+  {
+    "id": 8,
+    "nombre": "JEDNOŚĆ (SOLIDARNOŚĆ)",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Jedność przynosi szczęście. Zbadaj swą stałość, by być ośrodkiem zgody. Kto zwleka zbytnio, traci pomyślność.",
+    "imagen": "Woda rozlewa się po ziemi: obraz jedności. Dawni władcy pielęgnowali przyjaźń dla dobra całego ludu."
+  },
+  {
+    "id": 9,
+    "nombre": "POŚKROMIENIE MAŁEGO",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Poskromienie małego osiąga sukces. Gęste chmury, lecz brak deszczu. Łagodne przekonywanie i cierpliwość torują drogę.",
+    "imagen": "Wiatr wieje wysoko na niebie: obraz powściągliwości małego. Szlachetny udoskonala zewnętrzną formę swego bytu."
+  },
+  {
+    "id": 10,
+    "nombre": "POSTĘPOWANIE (KROCZENIE)",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Nastąpienie na ogon tygrysa: nie gryzie człowieka. Sukces. Uprzejmość i spokój chronią przed niebezpieczeństwem.",
+    "imagen": "Niebo w górze, jezioro w dole: obraz właściwego postępowania. Szlachetny rozróżnia powinności i jednoczy dążenia ludu."
+  },
+  {
+    "id": 11,
+    "nombre": "POKÓJ",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Małe odchodzi, wielkie nadchodzi. Szczęście i sukces. Niebo i ziemia łączą swe siły w harmonijnej pomyślności.",
+    "imagen": "Niebo i ziemia spotykają się: obraz pokoju. Władca kieruje biegiem czasu i wspiera dobrobyt wspólnoty."
+  },
+  {
+    "id": 12,
+    "nombre": "ZASTÓJ",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Zastój. Niegodni nie sprzyjają prawości. Mędrzec wycofuje się w wewnętrzną godność, chroniąc swe zasady.",
+    "imagen": "Niebo i ziemia oddalają się: obraz zastoju. Szlachetny strzeże swej wartości w ukryciu przed zepsuciem."
+  },
+  {
+    "id": 13,
+    "nombre": "WSPÓLNOTA LUDZI",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Wspólnota na otwartej przestrzeni: sukces. Korzystnie jest przeprawić się przez wielką wodę. Prawda łączy serca.",
+    "imagen": "Niebo i ogień współdziałają: obraz braterstwa. Szlachetny porządkuje więzi i rozjaśnia relacje."
+  },
+  {
+    "id": 14,
+    "nombre": "WIELKIE POSIADANIE",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Wielkie posiadanie. Wzniosły sukces. Siła ducha i jasność myśli służą powszechnemu dobru.",
+    "imagen": "Ogień goreje wysoko na niebie: obraz wielkiego posiadania. Szlachetny tłumi zło i wywyższa dobro."
+  },
+  {
+    "id": 15,
+    "nombre": "SKROMNOŚĆ",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Skromność przynosi sukces. Szlachetny doprowadza dzieła do szczęśliwego końca. Kosmiczne prawo wyrównuje miary.",
+    "imagen": "W głębi ziemi spoczywa góra: obraz skromności. Szlachetny człowiek zmniejsza nadmiar i uzupełnia braki."
+  },
+  {
+    "id": 16,
+    "nombre": "ENTUZJAZM",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Entuzjazm. Korzystnie jest powołać pomocników i wprawić w ruch wojska. Zgodność z naturą budzi radosne oddanie.",
+    "imagen": "Grom rozbrzmiewa z głębi ziemi: obraz entuzjazmu. Dawni władcy tworzyli pieśni ku czci Niebios."
+  },
+  {
+    "id": 17,
+    "nombre": "PODĄŻANIE",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Podążanie przynosi wzniosły sukces. Wytrwałość jest korzystna. Kto pragnie przewodzić, musi najpierw umieć służyć.",
+    "imagen": "Grom spoczywa pośród jeziora: obraz podążania. Szlachetny udaje się wieczorem na spoczynek i odnowę."
+  },
+  {
+    "id": 18,
+    "nombre": "NAPRAWA ZEPSUTEGO",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "Sun, Wiatr"
+    },
+    "juicio": "Naprawa zepsutego przynosi wzniosły sukces. Rozwaga przed i po rozpoczęciu działania leczy dawne błędy.",
+    "imagen": "Wiatr wieje u stóp góry: obraz naprawy. Szlachetny budzi zapał w ludziach i umacnia ich ducha."
+  },
+  {
+    "id": 19,
+    "nombre": "ZBLIŻANIE SIĘ",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Zbliżanie się ma wzniosły sukces. Korzystaj z wiosennego wzrostu, nim nadejdzie czas jesiennego odwrotu.",
+    "imagen": "Ponad jeziorem rozpościera się ziemia: obraz zbliżania się. Szlachetny nie ustaje w nauczaniu i opiece nad ludem."
+  },
+  {
+    "id": 20,
+    "nombre": "KONTEMPLACJA (WIDZENIE)",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Kontemplacja. Obmycie dopełnione, lecz ofiary jeszcze nie złożono. W skupieniu ducha rodzi się szacunek.",
+    "imagen": "Wiatr wieje nad rozległą ziemią: obraz kontemplacji. Królowie odwiedzali krańce świata i nauczali lud."
+  },
+  {
+    "id": 21,
+    "nombre": "PRZEGRYZANIE",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Przegryzanie przynosi sukces. Sprawiedliwe wymierzenie prawa usuwa przeszkody i zaprowadza ład.",
+    "imagen": "Grom i błyskawica: obraz przegryzania. Mądrzy sędziowie stanowili jasne prawa i sprawiedliwe wyroki."
+  },
+  {
+    "id": 22,
+    "nombre": "WDZIĘK (PIĘKNO)",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Wdzięk przynosi sukces. W małych sprawach działanie jest korzystne; piękno zdobi, lecz istota decyduje.",
+    "imagen": "U stóp góry płonie ogień: obraz wdzięku. Szlachetny rozjaśnia bieżące sprawy ze smakiem i prostotą."
+  },
+  {
+    "id": 23,
+    "nombre": "ROZPAD",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Rozpad. Nie jest korzystne dokądś iść. Gdy niższe siły napierają, mędrzec trwa w spokoju i cierpliwości.",
+    "imagen": "Góra spoczywa na ziemi: obraz rozpadu. Wyżsi umacniają swą pozycję przez szczodrość wobec niższych."
+  },
+  {
+    "id": 24,
+    "nombre": "POWRÓT (ZWROT)",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Powrót. Sukces. Siódmego dnia zamyka się cykl; światło powraca naturalnie i bez przemocy.",
+    "imagen": "Grom spoczywa głęboko w ziemi: obraz powrotu. Władcy zamykali granice w dzień przesilenia dla odpoczynku."
+  },
+  {
+    "id": 25,
+    "nombre": "NIEWINNOŚĆ (NIESPODZIEWANE)",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Niewinność. Wzniosły sukces. Czyste działanie wolne od chciwości cieszy się kosmicznym błogosławieństwem.",
+    "imagen": "Pod niebem przemieszcza się grom: obraz niewinności. Władcy dbali o wszelkie istnienie we właściwym czasie."
+  },
+  {
+    "id": 26,
+    "nombre": "POSKROMIENIE WIELKIEGO",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Poskromienie wielkiego. Wytrwałość sprzyja. Nie jeść w domu przynosi szczęście; korzystnie jest przekroczyć rzekę.",
+    "imagen": "Niebo spoczywa w łonie góry: obraz zgromadzonej mocy. Szlachetny czerpie z dawnych mądrości."
+  },
+  {
+    "id": 27,
+    "nombre": "KĄCIKI UST (ODŻYWIANIE)",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Kąciki ust. Zwracaj uwagę na to, czym karmisz swe ciało i ducha, oraz kogo wspierasz.",
+    "imagen": "Pod górą rozbrzmiewa grom: obraz odżywiania. Szlachetny waży słowa i zachowuje umiar w pokarmie."
+  },
+  {
+    "id": 28,
+    "nombre": "PRZEWAGA WIELKIEGO",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "Sun, Wiatr"
+    },
+    "juicio": "Przewaga wielkiego. Belka ugina się pod ciężarem. Sukces dzięki rozważnemu i elastycznemu działaniu.",
+    "imagen": "Woda jeziora wznosi się ponad drzewa: obraz wielkiego ciężaru. Szlachetny stoi niewzruszenie, nawet samotny."
+  },
+  {
+    "id": 29,
+    "nombre": "OTCHŁAŃ (WODA)",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Otchłań powtórzona. Ze szczerym sercem osiągasz sukces we wszystkim, co czynisz.",
+    "imagen": "Woda płynie nieustannie i osiąga swój cel: obraz otchłani. Szlachetny trwa w niezłomnej cnocie."
+  },
+  {
+    "id": 30,
+    "nombre": "PRZYWIĄZANIE (OGIEŃ)",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Przywiązanie. Wytrwałość przynosi sukces. Troska o krowę przynosi szczęście; duch jaśnieje prawością.",
+    "imagen": "Płomień wznosi się podwójnie: obraz ognia. Szlachetny rozjaśnia świat nieustannym światłem."
+  },
+  {
+    "id": 31,
+    "nombre": "WPŁYW (ZALEOTY)",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Wpływ. Sukces. Wytrwałość sprzyja. Otwartość i wzajemny szacunek rodzą trwałą harmonię.",
+    "imagen": "Na szczycie góry spoczywa jezioro: obraz wpływu. Szlachetny przyjmuje ludzi wolnym od pychy sercem."
+  },
+  {
+    "id": 32,
+    "nombre": "TRWAŁOŚĆ",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "Sun, Wiatr"
+    },
+    "juicio": "Trwałość. Sukces bez żalu. Prawdziwa trwałość to żywy rytm, który odnawia się w wierności zasadom.",
+    "imagen": "Grom i wiatr występują pospołu: obraz trwałości. Szlachetny stoi pewnie i nie zbacza ze swej drogi."
+  },
+  {
+    "id": 33,
+    "nombre": "ODWRÓT",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Odwrót. Sukces. Wytrwałość jest korzystna dla szlachetnego. Wczesne wycofanie się zachowuje siły.",
+    "imagen": "Góra wznosi się ku niebu, lecz niebo cofa się w niedostępną dal: obraz odwrotu. Szlachetny trzyma nikczemnych z dala bez nienawiści."
+  },
+  {
+    "id": 34,
+    "nombre": "MOC WIELKIEGO",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Moc wielkiego. Wytrwałość sprzyja. Prawdziwa siła pozostaje zawsze związana ze sprawiedliwością.",
+    "imagen": "Grom stoi wysoko na niebie: obraz mocy wielkiego. Szlachetny nie kroczy ścieżkami przeciwnymi ładowi."
+  },
+  {
+    "id": 35,
+    "nombre": "POSTĘP",
+    "trigramas": {
+      "superior": "Li, Ogień, Słońce",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Postęp. Słońce wschodzi nad ziemią. Mądry władca gromadzi zacnych pomocników. Jasna intencja przynosi rozwój.",
+    "imagen": "Słońce wschodzi promiennie nad ziemią: obraz postępu. Szlachetny sam rozświetla swe jasne cnoty."
+  },
+  {
+    "id": 36,
+    "nombre": "ZACIEMNIENIE ŚWIATŁA",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Zaciemnienie światła. W ucisku wytrwałość sprzyja. W ciemnościach mędrzec ukrywa swój blask na zewnątrz.",
+    "imagen": "Światło zapadło się w głąb ziemi: obraz zaciemnienia. Szlachetny żyje pośród tłumu, chroniąc mądrość w milczeniu."
+  },
+  {
+    "id": 37,
+    "nombre": "RODZINA",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Rodzina. Wierność kobiety wspiera dom. Ład w rodzinie daje początek pomyślności całego społeczeństwa.",
+    "imagen": "Wiatr wypływa z żaru ognia: obraz rodziny. Szlachetny nadaje wagę słowom i stałość swemu postępowaniu."
+  },
+  {
+    "id": 38,
+    "nombre": "PRZECIWIEŃSTWO",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Przeciwieństwo. W małych sprawach pomyślność. Biegunowość tworzy dynamikę życia; cierpliwość łączy różnice.",
+    "imagen": "W górze ogień, w dole jezioro: obraz przeciwieństwa. Szlachetny zachowuje swą odrębność we wspólnocie."
+  },
+  {
+    "id": 39,
+    "nombre": "PRZESZKODA",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Przeszkoda. Południowy zachód jest korzystny. W obliczu niebezpieczeństwa wgląd w siebie hartuje ducha.",
+    "imagen": "Woda na szczycie góry: obraz przeszkody. Szlachetny zwraca się do swego wnętrza i rozwija charakter."
+  },
+  {
+    "id": 40,
+    "nombre": "WYZWOLENIE",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Wyzwolenie. Południowy zachód jest sprzyjający. Napięcie opada niczym orzeźwiający deszcz.",
+    "imagen": "Grom i deszcz oczyszczają powietrze: obraz wyzwolenia. Szlachetny wybacza błędy i daruje winy."
+  },
+  {
+    "id": 41,
+    "nombre": "ZMNIEJSZENIE",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Zmniejszenie ze szczerością przynosi wzniosły sukces bez zarzutu. Prostota wzbogaca ducha.",
+    "imagen": "U stóp góry leży jezioro: obraz zmniejszenia. Szlachetny powściąga gniew i poskramia żądze."
+  },
+  {
+    "id": 42,
+    "nombre": "ZWIĘKSZENIE",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Zwiększenie. Korzystnie jest przeprawić się przez wielką wodę, gdy panuje życzliwość i ofiarność.",
+    "imagen": "Wiatr i grom potęgują się nawzajem: obraz zwiększenia. Widząc dobro, szlachetny naśladuje je; dostrzegając błędy, porzuca je."
+  },
+  {
+    "id": 43,
+    "nombre": "PRZEŁOM (STANOWCZOŚĆ)",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "Ch’ien, Niebo"
+    },
+    "juicio": "Przełom. Prawda musi być głoszona stanowczo. Zło zwalcza się przez energiczne pomnażanie dobra.",
+    "imagen": "Woda jeziora wzniosła się do nieba: obraz przełomu. Szlachetny rozdziela bogactwo ku dołowi."
+  },
+  {
+    "id": 44,
+    "nombre": "SPOTKANIE",
+    "trigramas": {
+      "superior": "Ch’ien, Niebo",
+      "inferior": "Sun, Wiatr"
+    },
+    "juicio": "Spotkanie. Dziewczyna jest potężna; nie należy jej poślubiać. Przeciwstawiaj się złym wpływom od zaraz.",
+    "imagen": "Pod niebem dmie wiatr: obraz spotkania. Władca ogłasza swe prawa we wszystkich kierunkach świata."
+  },
+  {
+    "id": 45,
+    "nombre": "ZGROMADZENIE",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "K’un, Ziemia"
+    },
+    "juicio": "Zgromadzenie. Sukces. Król zbliża się do świątyni. Szacunek i moralna wielkość jednoczą lud.",
+    "imagen": "Jezioro spoczywa na ziemi: obraz zgromadzenia. Szlachetny odnawia broń, by uprzedzić niespodziewane."
+  },
+  {
+    "id": 46,
+    "nombre": "WZNOSZENIE SIĘ",
+    "trigramas": {
+      "superior": "K’un, Ziemia",
+      "inferior": "Sun, Drzewo, Wiatr"
+    },
+    "juicio": "Wznoszenie się osiąga wzniosły sukces. Krok po kroku, w zgodzie z naturą, rośnie wielkie dzieło.",
+    "imagen": "W głębi ziemi rośnie drzewo: obraz wznoszenia się. Szlachetny gromadzi małe cnoty, wznosząc wysoki charakter."
+  },
+  {
+    "id": 47,
+    "nombre": "UCISK (WYCZERPANIE)",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Ucisk. Sukces dzięki wytrwałości. Mędrzec pozostaje wierny sobie nawet w najcięższej próbie.",
+    "imagen": "W jeziorze brak wody: obraz wyczerpania. Szlachetny kładzie na szali swe życie, by dochować wierności celowi."
+  },
+  {
+    "id": 48,
+    "nombre": "STUDNIA",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "Sun, Wiatr, Drewno"
+    },
+    "juicio": "Studnia. Miasto może zmienić miejsce, lecz studnia pozostaje ta sama. Niewyczerpane źródło życia karmi wszystkich.",
+    "imagen": "Woda czerpana ponad drewnem: obraz studni. Szlachetny zachęca lud do wzajemnej pomocy."
+  },
+  {
+    "id": 49,
+    "nombre": "PRZEWRÓT (REWOLUCJA)",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Przewrót. Dopiero we właściwym dniu zyskujesz wiarę. Wielkie zmiany muszą dojrzeć wraz z biegiem czasu.",
+    "imagen": "W jeziorze płonie ogień: obraz przewrotu. Szlachetny ustala kalendarz i rozjaśnia pory roku."
+  },
+  {
+    "id": 50,
+    "nombre": "KOCIOŁ",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "Sun, Drewno"
+    },
+    "juicio": "Kocioł. Najwyższe szczęście i sukces. Kultura duchowa uświęca życie i jednoczy z kosmosem.",
+    "imagen": "Nad drewnem goreje ogień: obraz kotła. Szlachetny utwierdza swe przeznaczenie, zajmując właściwe miejsce."
+  },
+  {
+    "id": 51,
+    "nombre": "PRZEBUDZENIE (GROM)",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "Chên, Grom"
+    },
+    "juicio": "Przebudzenie przynosi sukces. Strach paraliżuje na sto mil, lecz kapłan nie upuszcza ofiarnej czary.",
+    "imagen": "Powtórzony grom: obraz przebudzenia. W świętej bojaźni szlachetny porządkuje życie i bada swe serce."
+  },
+  {
+    "id": 52,
+    "nombre": "SPOKÓJ (GÓRA)",
+    "trigramas": {
+      "superior": "Ken, Góra",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Ukojenie pleców, tak że nie czuje się ciała. Prawdziwy spoczynek wie, kiedy trwać, a kiedy działać.",
+    "imagen": "Góry stojące obok siebie: obraz spokoju. Szlachetny nie pozwala myślom wybiegać poza obecną chwilę."
+  },
+  {
+    "id": 53,
+    "nombre": "STOPNIOWY ROZWÓJ",
+    "trigramas": {
+      "superior": "Sun, Wiatr, Drewno",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Stopniowy Rozwój. Dziewczyna wychodzi za mąż. Szczęście. Cierpliwy postęp krok po kroku przynosi trwały owoc.",
+    "imagen": "Na górze rośnie drzewo: obraz stopniowego rozwoju. Szlachetny trwa w godności, by doskonalić obyczaje."
+  },
+  {
+    "id": 54,
+    "nombre": "WYCHODZĄCA ZA MĄŻ",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Panna na wydaniu. Przedsięwzięcia przynoszą nieszczęście. Takt i powściągliwość zapobiegają sporom.",
+    "imagen": "Grom porusza wody jeziora: obraz dziewczyny. Szlachetny pojmuje to, co przemijające, w świetle wieczności."
+  },
+  {
+    "id": 55,
+    "nombre": "OBFITOŚĆ",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "Li, Ogień, Światło"
+    },
+    "juicio": "Obfitość ma sukces. Bądź jak słońce w południe: rozsądzaj sprawy ze sprawiedliwością i szczodrością.",
+    "imagen": "Grom i błyskawica łączą się: obraz obfitości. Szlachetny rozstrzyga spory i wymierza sprawiedliwe kary."
+  },
+  {
+    "id": 56,
+    "nombre": "WĘDROWIEC",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Wędrowiec. Sukces w małych sprawach. Na obczyźnie skromność i takt chronią przed nieszczęściem.",
+    "imagen": "Na górze płonie ogień i przemieszcza się: obraz wędrowca. Szlachetny jest roztropny przy wyrokach."
+  },
+  {
+    "id": 57,
+    "nombre": "ŁAGODNOŚĆ (PRZENIKLIWY WIATR)",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "Sun, Wiatr"
+    },
+    "juicio": "Łagodność. Sukces w małym. Nieustanny, subtelny wpływ przekształca ludzkie serca na zawsze.",
+    "imagen": "Wiatry wiejące po sobie: obraz łagodności. Szlachetny ogłasza swe nauki i wypełnia swe dzieła."
+  },
+  {
+    "id": 58,
+    "nombre": "RADOSNE (JEZIORO)",
+    "trigramas": {
+      "superior": "Tui, Jezioro",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Radosne. Sukces przez wytrwałość. Szczera serdeczność zjednuje ludzi i pomaga znosić trudy.",
+    "imagen": "Dwa jeziora łączą się ze sobą: obraz radości. Szlachetny spotyka się z przyjaciółmi na rozmowy i ćwiczenia."
+  },
+  {
+    "id": 59,
+    "nombre": "ROZPROSZENIE",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Rozproszenie. Sukces. Król zbliża się do świątyni. Duchowa jedność topi zlodowaciały egoizm.",
+    "imagen": "Wiatr wieje nad wodą: obraz rozproszenia. Dawni władcy wznosili świątynie ku pojednaniu dusz."
+  },
+  {
+    "id": 60,
+    "nombre": "OGRANICZENIE (UMIAR)",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Ograniczenie. Sukces. Gorzkie ograniczenie nie powinno być utrzymywane z uporem. Miara nadaje sens życiu.",
+    "imagen": "Nad jeziorem spoczywa woda: obraz ograniczenia. Szlachetny ustala miarę i bada istotę cnoty."
+  },
+  {
+    "id": 61,
+    "nombre": "WEWNĘTRZNA PRAWDA",
+    "trigramas": {
+      "superior": "Sun, Wiatr",
+      "inferior": "Tui, Jezioro"
+    },
+    "juicio": "Wewnętrzna prawda porusza nawet świnie i ryby. Pomyślność dzięki czystej i wolnej od uprzedzeń szczerości.",
+    "imagen": "Wiatr marszczy taflę jeziora: obraz wewnętrznej prawdy. Szlachetny sądzi łagodnie, by zapobiec krzywdzie."
+  },
+  {
+    "id": 62,
+    "nombre": "PRZEWAGA MAŁEGO",
+    "trigramas": {
+      "superior": "Chên, Grom",
+      "inferior": "Ken, Góra"
+    },
+    "juicio": "Przewaga małego. Sukces. Małe rzeczy wolno czynić, wielkich nie. Pozostań w pokorze.",
+    "imagen": "Grom grzmi nad górą: obraz małego. Szlachetny wykazuje powściągliwość w wydatkach i głęboki szacunek w czynach."
+  },
+  {
+    "id": 63,
+    "nombre": "PO UKOŃCZENIU",
+    "trigramas": {
+      "superior": "K’an, Woda",
+      "inferior": "Li, Ogień"
+    },
+    "juicio": "Po Ukończeniu. Sukces w małych sprawach. Czujność chroni przed powolnym upadkiem ładu.",
+    "imagen": "Woda wrze nad ogniem: obraz po ukończeniu. Szlachetny rozważa nieszczęście i zabezpiecza się z wyprzedzeniem."
+  },
+  {
+    "id": 64,
+    "nombre": "PRZED UKOŃCZENIEM",
+    "trigramas": {
+      "superior": "Li, Ogień",
+      "inferior": "K’an, Woda"
+    },
+    "juicio": "Przed Ukończeniem. Sukces. Lecz jeśli mały lis zamoczy ogon przed brzegiem, nic nie sprzyja. Rozwaga wieńczy dzieło.",
+    "imagen": "Ogień płonie w górze, woda płynie w dole: obraz przed ukończeniem. Szlachetny porządkuje rzeczy, by każda znalazła swe miejsce."
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "app": {
+    "themeToggleLight": "Mudar para modo claro",
+    "themeToggleDark": "Mudar para modo escuro",
+    "themeToggleAria": "Alternar tema claro e escuro"
+  },
+  "clock": {
+    "ariaLabel": "Relógio analógico",
+    "currentTime": "Hora atual:"
+  },
+  "oracle": {
+    "title": "Oráculo do I Ching",
+    "subtitle": "Por favor, use este oráculo com respeito e cautela.",
+    "note": "Formule sua pergunta com sinceridade.",
+    "clearReadings": "Limpar leituras",
+    "historyAria": "Histórico de consultas",
+    "loading": "Consultando o oráculo..."
+  },
+  "form": {
+    "questionLabel": "Pergunta para o oráculo",
+    "placeholder": "O que te inquieta?",
+    "submit": "Consultar"
+  },
+  "reading": {
+    "readingFor": "Leitura para: \"{{question}}\"",
+    "initialHexagram": "Hexagrama Inicial",
+    "primaryHexagram": "Hexagrama Principal",
+    "mutatesTo": "Muda para"
+  },
+  "card": {
+    "hexagram": "Hexagrama",
+    "superior": "Superior",
+    "inferior": "Inferior",
+    "judgment": "O Julgamento",
+    "image": "A Imagem"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română",
+    "pt": "Português",
+    "de": "Deutsch",
+    "el": "Ελληνικά",
+    "nl": "Nederlands",
+    "pl": "Polski",
+    "sv": "Svenska"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "app": {
+    "themeToggleLight": "Switch to light mode",
+    "themeToggleDark": "Switch to dark mode",
+    "themeToggleAria": "Toggle light and dark theme"
+  },
+  "clock": {
+    "ariaLabel": "Analog clock",
+    "currentTime": "Current time:"
+  },
+  "oracle": {
+    "title": "I Ching Oracle",
+    "subtitle": "Please use this oracle with respect and caution.",
+    "note": "Ask your question with sincerity.",
+    "clearReadings": "Clear readings",
+    "historyAria": "Consultation history",
+    "loading": "Consulting the oracle..."
+  },
+  "form": {
+    "questionLabel": "Question for the oracle",
+    "placeholder": "What is troubling you?",
+    "submit": "Consult"
+  },
+  "reading": {
+    "readingFor": "Reading for: \"{{question}}\"",
+    "initialHexagram": "Initial Hexagram",
+    "primaryHexagram": "Primary Hexagram",
+    "mutatesTo": "Mutates into"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Upper",
+    "inferior": "Lower",
+    "judgment": "The Judgment",
+    "image": "The Image"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "app": {
+    "themeToggleLight": "Passer en mode clair",
+    "themeToggleDark": "Passer en mode sombre",
+    "themeToggleAria": "Basculer entre thème clair et sombre"
+  },
+  "clock": {
+    "ariaLabel": "Horloge analogique",
+    "currentTime": "Heure actuelle :"
+  },
+  "oracle": {
+    "title": "Oracle du Yi Jing",
+    "subtitle": "Veuillez utiliser cet oracle avec respect et prudence.",
+    "note": "Formulez votre question avec sincérité.",
+    "clearReadings": "Effacer les tirages",
+    "historyAria": "Historique des consultations",
+    "loading": "Consultation de l'oracle..."
+  },
+  "form": {
+    "questionLabel": "Question pour l'oracle",
+    "placeholder": "Qu'est-ce qui vous préoccupe ?",
+    "submit": "Consulter"
+  },
+  "reading": {
+    "readingFor": "Lecture pour : \"{{question}}\"",
+    "initialHexagram": "Hexagramme Initial",
+    "primaryHexagram": "Hexagramme Principal",
+    "mutatesTo": "Mue en"
+  },
+  "card": {
+    "hexagram": "Hexagramme",
+    "superior": "Supérieur",
+    "inferior": "Inférieur",
+    "judgment": "Le Jugement",
+    "image": "L'Image"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română"
+  }
+}

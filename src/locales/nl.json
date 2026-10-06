@@ -1,0 +1,53 @@
+{
+  "app": {
+    "themeToggleLight": "Overschakelen naar lichte modus",
+    "themeToggleDark": "Overschakelen naar donkere modus",
+    "themeToggleAria": "Schakelen tussen licht en donker thema"
+  },
+  "clock": {
+    "ariaLabel": "Analoge klok",
+    "currentTime": "Huidige tijd:"
+  },
+  "oracle": {
+    "title": "I Tjing Orakel",
+    "subtitle": "Gebruik dit orakel met respect en voorzichtigheid.",
+    "note": "Stel uw vraag met oprechtheid.",
+    "clearReadings": "Lezingen wissen",
+    "historyAria": "Geschiedenis van raadplegingen",
+    "loading": "Het orakel raadplegen..."
+  },
+  "form": {
+    "questionLabel": "Vraag voor het orakel",
+    "placeholder": "Wat houdt u bezig?",
+    "submit": "Raadplegen"
+  },
+  "reading": {
+    "readingFor": "Lezing voor: \"{{question}}\"",
+    "initialHexagram": "Eerste Hexagram",
+    "primaryHexagram": "Hoofdhexagram",
+    "mutatesTo": "Verandert in"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Bovenste",
+    "inferior": "Onderste",
+    "judgment": "Het Oordeel",
+    "image": "Het Beeld"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română",
+    "pt": "Português",
+    "de": "Deutsch",
+    "el": "Ελληνικά",
+    "nl": "Nederlands",
+    "pl": "Polski",
+    "sv": "Svenska"
+  }
+}

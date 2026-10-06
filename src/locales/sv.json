@@ -1,0 +1,53 @@
+{
+  "app": {
+    "themeToggleLight": "Växla till ljust läge",
+    "themeToggleDark": "Växla till mörkt läge",
+    "themeToggleAria": "Växla ljust och mörkt tema"
+  },
+  "clock": {
+    "ariaLabel": "Analog klocka",
+    "currentTime": "Aktuell tid:"
+  },
+  "oracle": {
+    "title": "I Ching Orakel",
+    "subtitle": "Vänligen använd detta orakel med respekt och försiktighet.",
+    "note": "Ställ din fråga med uppriktighet.",
+    "clearReadings": "Rensa läsningar",
+    "historyAria": "Konsultationshistorik",
+    "loading": "Konsulterar oraklet..."
+  },
+  "form": {
+    "questionLabel": "Fråga till oraklet",
+    "placeholder": "Vad oroar dig?",
+    "submit": "Konsultera"
+  },
+  "reading": {
+    "readingFor": "Läsning för: \"{{question}}\"",
+    "initialHexagram": "Initialt Hexagram",
+    "primaryHexagram": "Primärt Hexagram",
+    "mutatesTo": "Mutera till"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Övre",
+    "inferior": "Nedre",
+    "judgment": "Omdömet",
+    "image": "Bilden"
+  },
+  "languages": {
+    "es": "Español",
+    "gl": "Galego",
+    "eu": "Euskara",
+    "ca": "Català",
+    "en": "English",
+    "fr": "Français",
+    "it": "Italiano",
+    "ro": "Română",
+    "pt": "Português",
+    "de": "Deutsch",
+    "el": "Ελληνικά",
+    "nl": "Nederlands",
+    "pl": "Polski",
+    "sv": "Svenska"
+  }
+}
