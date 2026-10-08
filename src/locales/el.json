@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Αλλαγή σε φωτεινή λειτουργία",
     "themeToggleDark": "Αλλαγή σε σκοτεινή λειτουργία",
-    "themeToggleAria": "Εναλλαγή φωτεινού και σκοτεινού θέματος"
+    "themeToggleAria": "Εναλλαγή φωτεινού και σκοτεινού θέματος",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Αναλογικό ρολόι",
@@ -14,12 +15,15 @@
     "note": "Διατυπώστε την ερώτησή σας με ειλικρίνεια.",
     "clearReadings": "Εκκαθάριση αναγνώσεων",
     "historyAria": "Ιστορικό ερωτημάτων",
-    "loading": "Συμβουλευόμενοι τον χρησμό..."
+    "loading": "Συμβουλευόμενοι τον χρησμό...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Ερώτηση για τον χρησμό",
     "placeholder": "Τι σας προβληματίζει;",
-    "submit": "Συμβουλευτείτε"
+    "submit": "Συμβουλευτείτε",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Ανάγνωση για: \"{{question}}\"",
@@ -49,5 +53,8 @@
     "nl": "Nederlands",
     "pl": "Polski",
     "sv": "Svenska"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

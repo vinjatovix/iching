@@ -13,12 +13,12 @@ export function HexagramCard({ title, hexagram, character, isChanging = false })
       className={`hexagram-card ${isChanging ? 'hexagram-card--changing' : ''}`}
       aria-label={ariaLabel}
     >
-      {title && <h3 className="hexagram-card__badge">{title}</h3>}
+      {title && <p className="hexagram-card__badge">{title}</p>}
       <div className="hexagram-card__header">
         <span className="hexagram-card__symbol" aria-hidden="true">{character}</span>
         <div className="hexagram-card__meta">
           <span className="hexagram-card__number">#{hexagram.id}</span>
-          <h2 className="hexagram-card__name">{hexagram.nombre}</h2>
+          <h5 className="hexagram-card__name">{hexagram.nombre}</h5>
         </div>
       </div>
 
@@ -30,13 +30,13 @@ export function HexagramCard({ title, hexagram, character, isChanging = false })
       )}
 
       <div className="hexagram-card__section">
-        <h4>{t('card.judgment')}</h4>
+        <h6>{t('card.judgment')}</h6>
         <p>{hexagram.juicio}</p>
       </div>
 
       {hexagram.imagen && (
         <div className="hexagram-card__section">
-          <h4>{t('card.image')}</h4>
+          <h6>{t('card.image')}</h6>
           <p>{hexagram.imagen}</p>
         </div>
       )}

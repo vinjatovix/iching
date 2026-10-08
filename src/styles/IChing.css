@@ -258,7 +258,7 @@
   margin: 0.2rem 0;
 }
 
-.hexagram-card__section h4 {
+.hexagram-card__section h6 {
   color: var(--accent-gold);
   font-size: 0.85rem;
   margin-bottom: 0.4rem;
@@ -266,7 +266,7 @@
   letter-spacing: 1px;
 }
 
-.hexagram-card--changing .hexagram-card__section h4 {
+.hexagram-card--changing .hexagram-card__section h6 {
   color: var(--accent-red);
 }
 

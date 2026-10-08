@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Canviar a mode clar",
     "themeToggleDark": "Canviar a mode fosc",
-    "themeToggleAria": "Alternar tema clar i fosc"
+    "themeToggleAria": "Alternar tema clar i fosc",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Rellotge analògic",
@@ -14,12 +15,15 @@
     "note": "Formula la teva pregunta amb sinceritat.",
     "clearReadings": "Netejar lectures",
     "historyAria": "Historial de consultes",
-    "loading": "Consultant l'oracle..."
+    "loading": "Consultant l'oracle...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Pregunta per a l'oracle",
     "placeholder": "Què és el que et preocupa?",
-    "submit": "Consultar"
+    "submit": "Consultar",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Lectura per a: \"{{question}}\"",
@@ -43,5 +47,8 @@
     "fr": "Français",
     "it": "Italiano",
     "ro": "Română"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

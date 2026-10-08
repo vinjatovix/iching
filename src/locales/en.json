@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Switch to light mode",
     "themeToggleDark": "Switch to dark mode",
-    "themeToggleAria": "Toggle light and dark theme"
+    "themeToggleAria": "Toggle light and dark theme",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Analog clock",
@@ -14,12 +15,15 @@
     "note": "Ask your question with sincerity.",
     "clearReadings": "Clear readings",
     "historyAria": "Consultation history",
-    "loading": "Consulting the oracle..."
+    "loading": "Consulting the oracle...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Question for the oracle",
     "placeholder": "What is troubling you?",
-    "submit": "Consult"
+    "submit": "Consult",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Reading for: \"{{question}}\"",
@@ -43,5 +47,8 @@
     "fr": "Français",
     "it": "Italiano",
     "ro": "Română"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

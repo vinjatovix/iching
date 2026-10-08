@@ -46,7 +46,6 @@
   mix-blend-mode: screen;
 }
 
-/* Stars and Moon visible exclusively in dark mode - peaceful and static */
 .shanshui-stars,
 .shanshui-moon {
   opacity: 0;
@@ -61,7 +60,6 @@
   opacity: 0.92;
 }
 
-/* Procedural Shan-Shui ink-wash clouds */
 .shanshui-clouds {
   pointer-events: none;
 }
@@ -84,7 +82,10 @@
   stroke: rgba(45, 40, 36, 0.18);
 }
 
-:root[data-theme="light"] .shanshui-cloud--wisp {
-  fill: rgba(45, 40, 36, 0.05);
-  stroke: rgba(45, 40, 36, 0.12);
+@media (prefers-reduced-motion: reduce) {
+  .shanshui-container.reduced-motion *,
+  .shanshui-container.reduced-motion {
+    animation: none !important;
+    transition: none !important;
+  }
 }

@@ -1,0 +1,54 @@
+{
+  "app": {
+    "themeToggleLight": "Vaihda vaaleaan tilaan",
+    "themeToggleDark": "Vaihda tummaan tilaan",
+    "themeToggleAria": "Vaihda vaalea ja tumma teema",
+    "title": "I Ching -kello"
+  },
+  "clock": {
+    "ariaLabel": "Analoginen kello",
+    "currentTime": "Nykyinen aika:"
+  },
+  "oracle": {
+    "title": "I Chingin oraakkeli",
+    "subtitle": "Ole hyvä ja käytä tätä oraakkelia kunnioituksella ja varovaisuudella.",
+    "note": "Muotoile kysymyksesi vilpittömästi.",
+    "clearReadings": "Siivota lukemat",
+    "historyAria": "Kyselyhistoria",
+    "loading": "Kysyessäni oraakkelia...",
+    "historyTitle": "Konsultaatiotiedot",
+    "clearConfirmation": "Historia tyhjennetty"
+  },
+  "form": {
+    "questionLabel": "Kysymys oraakkelille",
+    "placeholder": "Mikä sinua huolestuttaa?",
+    "submit": "Kysyä",
+    "errorRequired": "Kysymys ei voi olla tyhjä"
+  },
+  "reading": {
+    "readingFor": "Luku kohteelle: \"{{question}}\"",
+    "initialHexagram": "Alkuheksagrammi",
+    "primaryHexagram": "Pääheksagrammi",
+    "mutatesTo": "Mutta ei"
+  },
+  "card": {
+    "hexagram": "Heptagrammi",
+    "superior": "Ylempi",
+    "inferior": "Heikompi",
+    "judgment": "Tuomio",
+    "image": "Kuva"
+  },
+  "languages": {
+    "es": "Espanja",
+    "gl": "Galicialainen",
+    "eu": "Baski",
+    "ca": "Katalaani",
+    "en": "englanti",
+    "fr": "Ranska",
+    "it": "Italia",
+    "ro": "Romania"
+  },
+  "notifications": {
+    "localeLoadError": "Kielitietoja ei voitu ladata. Tarkista yhteytesi."
+  }
+}

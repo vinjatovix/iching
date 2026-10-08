@@ -1,6 +1,7 @@
-import { useState, lazy, Suspense } from 'react';
+import { lazy, Suspense } from 'react';
 import { useTranslation } from 'react-i18next';
 import { QuestionForm } from './QuestionForm';
+import { useOracle } from '../../hooks/useOracle';
 import '../../styles/IChing.css';
 
 const ReadingResult = lazy(() =>
@@ -9,21 +10,7 @@ const ReadingResult = lazy(() =>
 
 export function IChingOracle() {
   const { t } = useTranslation();
-  const [consultations, setConsultations] = useState([]);
-
-  const handleAsk = (newQuestion) => {
-    setConsultations((prev) => [
-      {
-        id: `${Date.now()}-${Math.random()}`,
-        question: newQuestion,
-      },
-      ...prev,
-    ]);
-  };
-
-  const handleClear = () => {
-    setConsultations([]);
-  };
+  const { consultations, askQuestion, clearHistory } = useOracle();
 
   return (
     <section className="iching-oracle">
@@ -38,7 +25,7 @@ export function IChingOracle() {
           </p>
         </header>
 
-        <QuestionForm onAsk={handleAsk} />
+        <QuestionForm onAsk={askQuestion} />
       </div>
 
       {consultations.length > 0 && (
@@ -46,7 +33,7 @@ export function IChingOracle() {
           <button 
             type="button" 
             className="iching-oracle__clear-button" 
-            onClick={handleClear}
+            onClick={clearHistory}
           >
             {t('oracle.clearReadings')}
           </button>
@@ -60,12 +47,15 @@ export function IChingOracle() {
         aria-relevant="additions"
         aria-label={t('oracle.historyAria')}
       >
+        {consultations.length > 0 && (
+          <h3 className="sr-only">{t('oracle.historyTitle', 'Consultation History')}</h3>
+        )}
         {consultations.map((item) => (
           <Suspense
             key={item.id}
             fallback={<div className="iching-result--loading">{t('oracle.loading')}</div>}
           >
-            <ReadingResult question={item.question} />
+            <ReadingResult question={item.question} reading={item.rawReading} />
           </Suspense>
         ))}
       </div>

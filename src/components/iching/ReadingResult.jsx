@@ -12,7 +12,7 @@ export function ReadingResult({ question, reading: initialReading }) {
 
   return (
     <section className="iching-result" aria-label={t('reading.readingFor', { question })}>
-      <h3 className="iching-result__question">"{question}"</h3>
+      <h4 className="iching-result__question">&quot;{question}&quot;</h4>
 
       <div className="iching-result__hexagrams">
         <HexagramCard

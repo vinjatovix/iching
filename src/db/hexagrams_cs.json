@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "nombre": "TVŮRCE",
+    "trigramas": {
+      "superior": "ch'ien, tvůrce, nebe",
+      "inferior": "ch'ien, tvůrce, nebe"
+    },
+    "juicio": "Tvůrce má vznešený úspěch, podporovaný vytrvalostí. Dostane podíl na úspěchu vycházejícím z hlubokých základů událostí vesmíru a vše závisí na tom, že člověk hledá pouze své štěstí a štěstí druhých, vytrvale kráčeje správnou cestou. Podle hlavního významu se atributy (vznešený, úspěšný, podporovatel, vytrvalý) párují po dvou. Pro toho, kdo získá tuto odpověď z orákula, to znamená, že dostane podíl na úspěchu vycházejícím z hlubokých základů událostí vesmíru a vše závisí na tom, že člověk hledá pouze své štěstí a štěstí druhých, vytrvale kráčeje správnou cestou. Specifické významy těchto čtyř atributů se velmi brzy staly předmětem spekulací. Čínské slovo přeložené jako „sublimní“ znamená: „hlava, původ, velký“. To je důvod, proč vysvětlení Konfucia říká: „Velká je původní moc Stvořitele, všechny bytosti jí vděčí za svůj začátek, a tato moc proniká celým nebem.“ Tento první atribut také proniká ostatními třemi. Začátek všech věcí je stále, řekněme, v onom světě, ve formě idejí, které musí projít etapou realizace. Ale ve Stvořiteli je také již moc dát formu těmto ideálním archetypům: to je pojem, který vyjadřuje slovo „úspěšný“. Tento proces je znázorněn obrazem přírody: „Mraky přecházejí, déšť působí a všechna jednotlivá stvoření proudí ve své podobě.“ Aplikováno na lidskou říši, atributy ukazují ušlechtilému člověku cestu k velkému úspěchu: „Protože vidí s velkou jasností první příčiny a následky, dokončuje v pravý čas šest stupňů a povznáší se nad ně k nebi ve vhodný okamžik, jako nad šesti draky.“ Šest stupňů jsou šest různých pozic uvnitř hexagramu, znázorněné obrazem draků. Cesta k úspěchu zde je uznání a uskutečnění cesty (Tao) světa, která, jako zákon procházející od začátku do konce, produkuje všechny jevy podmíněné časem. Tímto způsobem je každý dosažený stupeň zároveň přípravou toho následujícího a čas již není překážkou, ale prostředkem, který umožňuje uskutečnění možného. Poté, co se akt tvoření projevil prostřednictvím obou atributů „vznešený“ a „úspěšný“, se práce zachování nyní ukazuje jako kontinuální aktualizace a diferenciace formy. Překládá se tedy jako dva projevy atributů „povýšení“, tedy „tvoření toho, co odpovídá přirozenosti“, a „vytrvalosti“, tedy být „spravedlivý a pevný“. „Chůze tvůrce mění bytosti a formuje je, dokud všichni nedosáhnou své spravedlivé přirozenosti, která je jim určena, a udržuje je v souladu s velkou harmonií a vytrvalostí“. V lidské oblasti vidíme, jak ušlechtilý člověk přináší světu mír a bezpečí prostřednictvím svého řádného jednání: „Když vstává, zvedajíc hlavu nad houf lidí, všechny oblasti se spojí v míru.“ Další spekulace posouvá rozlišení slov „sublimní, úspěšný, podporující, vytrvalý“ ještě dále, umísťuje je paralelně se čtyřmi ctnostmi. K „sublimnosti“, která jako základní princip zahrnuje všechny ostatní vlastnosti, je přiřazena „láska“. K vlastnosti „úspěšný“ jsou přiřazeny zvyky, které regulují a uspořádávají projevy lásky a tím zajišťují jeho úspěch. Ve výrazu „prosazovat“ je spojeno s „spravedlností“, která vytváří situace, v nichž každý dostane to, co odpovídá jeho povaze, to, co mu patří a co ho činí šťastným. A vlastnosti „vytrvalosti“ je přisuzována „moudrost“, která rozpoznává pevné zákony všech událostí a která může následně vytvářet trvalé situace. Tyto spekulace, které se již objevují v jednom z komentářů tvořících druhou část I-ťingu, Wen Jen, představovaly most, který umožnil spojení filozofie pěti stupňů přeměny (prvků), pevně zakotvené v Knihy záznamů, s I-ťingem, který, založen pouze na bipolární dualitě pozitivních a negativních principů, otevřel dveře k symbolice čísel, která se vyvíjela v průběhu času",
+    "imagen": "Pohyb nebe je mocný. Tak se ušlechtilý člověk stává silným a neúnavným. Jelikož existuje pouze jedno nebe, opakování znaku ch'ien, který má nebe jako obraz, znamená pohyb nebe. Dokonalý kruhový pohyb nebe tvoří den. Zdvojení trigramu znamená, že každý den je následován jiným. To dává představu času, a současně, jelikož je to samo nebe, které se pohybuje svou neúnavnou mocí, představu dlouhého období v čase a za jeho hranicemi, pohybu, který nikdy nepřestává ani se nezastavuje, stejně jako jeden den neúnavně následuje po jiném dni. Tato délka v čase je obrazem síly inherentní kreativitě. Moudrý si odtud bere příklad toho, jak učinit své účinky trvalými, posiluje je rovnoměrně a záměrně odstraňuje vše, co je v rozporu se zdravým rozumem. Tak se stává neúnavným, což je vlastnost, která se získává regulací oblasti jeho činností."
+  },
+  {
+    "id": 2,
+    "nombre": "TO RECEPTIVNÍ",
+    "trigramas": {
+      "superior": "K'un Lo přijímající, Země",
+      "inferior": "K'un Lo přijímající, Země"
+    },
+    "juicio": "Receptivní přináší vznešený úspěch, podporovaný vytrvalostí klisny. Pokud ušlechtilý člověk něco podnikne a pokusí se vést, zabloudí cestou. Ale pokud se poslušně nechá vést, pak bude následovat správný směr. Je příznivé nacházet přátele na západě a na jihu a vyhýbat se přátelům na východě a na severu. Klidná vytrvalost přináší štěstí. Čtyři základní aspekty tvořivého (2), „vznešený úspěch podporovaný vytrvalostí“, rovněž slouží k charakterizaci atributů moci v jejím pasivním aspektu, receptivním. Zde je vytrvalost definována přesněji jako vytrvalost klisny. Receptivní označuje prostorovou realitu oproti duchovní síle tvořivého. Kůň patří k zemi, stejně jako drak patří k nebi. Klisna byla zvolena jako symbol, protože kombinuje sílu a lehkost koně s tichostí a oddaností krávy. Různé formy země odpovídají různým tvůrčím záměrům, protože země má sílu přijímat je a měnit je ve skutečnost. Bohatství přírody spočívá v její schopnosti vyživovat všechny bytosti a její velikost spočívá v tom, že jim dává krásu a nádheru. Ona umožňuje prosperitu všeho živého. Tvůrčí princip rodi věci, ale vznikají díky přírodě. V aplikaci na lidské záležitosti hexagram znamená jednání v souladu se situací. Dotyčná osoba se nenachází v nezávislé pozici, ale působí jako asistent. To znamená, že musí něco zakončit. Jeho úkol neznamená, že musí řídit – což ho může jen odvést z jeho cesty – ale nechat se vést, taková je jeho role. Pokud ví, jak čelit osudu s postojem přijetí, může si být jistý, že najde odpovídající směr. Ušlechtilý člověk se nechá vést; nejde s zavázanýma očima, ale učí se od okolností, co se od něj vyžaduje, následuje jejich pokyny, zná vše, co situace vyžaduje, a poddává se osudu. Když je něco, co musí být dobře vykonáno, jsou potřební přátelé a pomocníci v hodině práce a úsilí, jakmile byly plány toho, co má být provedeno, pevně stanoveny. Čas práce a úsilí je vyjádřen západem a jihem, protože právě tam se přijímající otevírá pro tvůrčí, stejně jako to činí příroda v létě a na podzim. Pokud nejsou mobilizovány všechny schopnosti, úkol nebude dobře splněn. Najít přátele zde znamená splnit svůj úkol. Ale mimo práci a úsilí existuje také čas pro plány a pořádek: k tomu je nutná izolace. Východ symbolizuje místo, kde se přijímají rozkazy od učitele, a sever, kde si člověk uvědomuje, co bylo vykonáno. Tam je třeba být sám a být objektivní. Tento posvátný čas nesmí být narušen nenávistí ani protekcí.",
+    "imagen": "Podmínkou země je přijímající opuštěnost. Ušlechtilý člověk s širokou přirozeností podporuje vnější svět. Stejně jako je jedno nebe, je jedna země. Zatímco v prvním hexagramu zdvojení silného trigramu znamená časovou trvání, v druhém znamená zdvojení slabého trigramu rozšíření prostoru a pevnost, s níž země nese vše, co žije a pohybuje se po ní. Země ve své sebeobětavosti nese dobro i zlo bez výjimky. Tak ušlechtilý člověk transformuje svůj charakter na široký, pevný a odolný, aby byl schopen nést a podporovat lidi a věci."
+  },
+  {
+    "id": 3,
+    "nombre": "POČÁTEČNÍ TEOŘICNÁ TÍŽ",
+    "trigramas": {
+      "superior": "K'an El propast, Voda",
+      "inferior": "Chhen Pohyb, Hrom"
+    },
+    "juicio": "Počáteční obtíž vede k vynikajícímu úspěchu, podporujícímu s vytrvalostí. Nedělat nic. Je výhodné najmout pomocníky. Období těhotenství jsou obklopena obtížemi. Je to jako první porod. Ale tyto obtíže pocházejí z bohatství faktorů, které usilují o získání formy. Všechno je v pohybu: proto, navzdory přítomnému nebezpečí, existuje možnost velkého úspěchu, pokud se vytrvává. Když se osud Presents v takovém vzhledu určitých momentů, všechno zůstává beztvaré a tmavé. Proto musíme čekat, protože jakýkoli předčasný čin může vést k neúspěchu. Také je velmi důležité nebýt sám. Člověk musí mít pomocníky, aby s nimi zvítězil nad chaosem. Ale to neznamená, že by člověk měl zůstat pasivní jen pozorováním událostí, ale že by měl pustit se do práce, povzbuzovat a řídit všechno.",
+    "imagen": "Mraky a hrom: obraz počáteční obtížnosti. Takto jedná ušlechtilý člověk, rozplétaje a uvádějící věci do pořádku. Mraky a hrom jsou již zastoupeny pevně danými uspořádáními v liniích. To znamená, že v chaosu počáteční obtížnosti je řád již přítomen. Proto v těchto raných momentech musí ušlechtilý člověk artikulovat a uspořádat zmatenou hojnost, stejně jako se oddělují hedvábná vlákna z zamotaného kukly, aby se spojila do přízí. Aby se člověk poznal v nekonečnu, musí rozlišovat a spojovat."
+  },
+  {
+    "id": 4,
+    "nombre": "MLÁDEŽNICKÁ ŠÍLENSTVÍ",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora.",
+      "inferior": "K'an El propast, voda"
+    },
+    "juicio": "Mladická šílenství vítězí. Nejsem to já, kdo hledá nezkušeného mladíka, ale on je ten, kdo musí hledat mou pomoc. V prvním orákulu informuji. Pokud se ptá dvakrát nebo třikrát, obtěžuje. Pokud obtěžuje, nedám mu informace. Vytrvalost je výhodná. V mládí není šílenství nebezpečné. Může se zvítězit navzdory němu, pokud se najde zkušený učitel a udržuje se k němu respektující postoj. To znamená, především, uvědomovat si vlastní nezkušenost a hledat učitele. Jen tato pokora a tento zájem zaručují potřebnou přijímavost ducha, která se projevuje v respektujícím přijetí učitele. Proto musí učitel klidně čekat, až bude pozván, ale nenabízet se sám. Jenom tímto způsobem bude výuka přinášet své plody ve vhodnou dobu a vhodným způsobem. Odpověď učitele na otázky žáka musí být jasná a přesná, jako odpověď, kterou si přeje získat konzultant u věštce. Tehdy bude přijata jako vyřešení pochybnosti a také jako rozhodnutí. Další otázky vyvolané nedůvěrou nebo nedostatkem rozvahy slouží jen k obtěžování učitele. Nejlépe bude zachovávat k nim mlčení, stejně jako věštec dává jen jednu odpověď a odmítá všechny otázky vycházející z pochybnosti. Když se k tomu přidá vytrvalost, která neochabuje, dokud nebyly jednotlivé body postupně přijaty, je zajištěn krásný úspěch. Proto je rada hexagramu určena jak učiteli, tak žákovi.",
+    "imagen": "U paty hory vyvěrá pramen, obraz mládí. Tak ušlechtilý člověk pečlivě kultivuje svůj charakter ve všech svých činech. Pramen dokáže téci a vítězí nad stagnací, zaplňujíc všechny mezery na své cestě. Stejně tak cesta, kterou je třeba následovat pro rozvoj charakteru, je pečlivost a vážnost, která nic nepřehlíží, jako voda, která postupně a neúprosně zaplňuje všechny mezery na své cestě a pokračuje vpřed."
+  },
+  {
+    "id": 5,
+    "nombre": "ČEKÁNÍ (VÝŽIVA)",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora.",
+      "inferior": "K'an El propast, voda"
+    },
+    "juicio": "Čekání. Pokud jsi upřímný, budeš mít záři a úspěch. Vytrvalost přináší štěstí. Je výhodné překonat velký proud. Čekání nespočívá v prázdné naději. Existuje vnitřní jistota dosažení cíle. Pouze tato vnitřní jistota dává jasno, které vede k úspěchu. Tato vede k vytrvalosti, která přináší štěstí, a poskytuje sílu překonat velké vody. Někdo čelí nebezpečí, které musí být překonáno. Slabost a netrpělivost nepomáhají. Pouze ten, kdo je silný, může překonat osud, protože se dokáže pevně udržet až do konce díky své vnitřní jistotě. Tato síla se projevuje jako neochvějná pravdivost. Jen tehdy, když máme odvahu čelit věcem takové, jaké jsou, bez jakéhokoli klamu či iluze, máme dostatečnou jasnozřivost k tomu, abychom mohli sledovat celý sled událostí a rozpoznat cestu k úspěchu. Toto rozpoznání musí být následováno rozhodným a vytrvalým jednáním, protože teprve tehdy, když člověk rozhodně čelí svému osudu, může jej ovládnout. V tu chvíli bude člověk připraven přejít velké vody, to znamená, že bude schopen učinit nezbytná rozhodnutí k překonání nebezpečí.",
+    "imagen": "Mraky lezou po obloze: obraz čekání: Ušlechtilý člověk jí a pije. Radostně se těší a utěšuje dobrými věcmi. Když se mraky zvednou na obloze, signalizují blížící se déšť. Jediné, co lze udělat, je čekat, až zaprší. Je to stejné v životě, když se připravuje osud. Dokud ještě nepřišel čas, je marné se obávat a snažit se formovat budoucnost zasahováním do věcí vlastními činy a aktivitou, ale je nutné pokojně shromažďovat své síly jídlem a pitím, pokud jde o tělo, a být dobré nálady, co se týče mysli. Osud přijde sám a když budeme připraveni."
+  },
+  {
+    "id": 6,
+    "nombre": "KONFLIKT",
+    "trigramas": {
+      "superior": "Ch'ien Lo Kreativní, nebe",
+      "inferior": "K'an El propast, voda"
+    },
+    "juicio": "Konflikt. Jsi upřímný a setkáváš se s překážkami. Rozvážná pauza na cestě přináší štěstí. Dokončit záležitost přináší neštěstí. Je výhodné setkat se s velkým mužem. Není rozumné překračovat velké vody. Konflikt vzniká, když je někdo přesvědčen o svém plném právu a setkává se s opozicí. Pokud člověk není přesvědčen o svém vlastním právu, odpor vyvolává mazanost nebo způsobuje násilné přehánění, ale ne konflikt. Když je člověk zapojen do konfliktu, jediným prostředkem spásy je obezřetnost a vnitřní síla, s níž je člověk vždy ochoten spor vyřešit a učinit kompromis sdílením rozdílu. Pokračovat v konfliktu až do bolestného vyústění vždy přináší špatné důsledky, i když má člověk pravdu, protože tak se nepřátelství udržuje. Je důležité vidět velkého muže, to znamená někoho nestranného, jehož autorita je dostatečně široká, aby mohl spravedlivě dospět k pokojnému řešení konfliktu a rozhodnout spravedlivě. Na druhé straně je nutné, v dobách problémů, „nepřeplavat velké vody“; to znamená vyvarovat se zahájení nebezpečných podniků, jejichž úspěch vyžaduje spojení koordinovaných sil. Konflikt paralyzuje sílu a brání překonání vnějšího nebezpečí.",
+    "imagen": "Obloha a voda jdou opačným směrem: obraz Konfliktu. Tak šlechtic zvažuje všechny záležitosti, kterým se od začátku věnuje. Obraz odkazuje na skutečnost, že příčiny konfliktu jsou skryté v protichůdných tendencích obou stran. Kde existují takové rozporuplné dispozice, je vznik konfliktu nevyhnutelný. V důsledku toho, aby se takovému konfliktu předešlo, je nutné zvážit každou věc od počátku. Pokud jsou právo a povinnost přesně určeny, nebo pokud jsou duchovní tendence skupiny jednotlivců harmonizovány, je hluboká příčina konfliktu předem vyloučena."
+  },
+  {
+    "id": 7,
+    "nombre": "ARMÁDA",
+    "trigramas": {
+      "superior": "K'un Lo Receptivo, Země",
+      "inferior": "K'an El propast, voda"
+    },
+    "juicio": "Armáda potřebuje vytrvalost a silného muže. Štěstí bez výčitky. Armáda je masa, která potřebuje organizaci, aby se stala bojeschopnou silou. Bez přísné disciplíny nelze nic dosáhnout, ale disciplína by neměla být založena na síle. Je zapotřebí silného muže, který získá srdce lidu a vzbudí jejich nadšení. Aby rozvíjel své schopnosti, tento muž potřebuje plnou důvěru vládce, který mu musí přenést své odpovědnosti po celou dobu trvání války. Ale válka je vždy něco nebezpečného, co přináší škody a zkázu. Proto by neměla být brána na lehkou váhu, ale používána jako toxická droga, kterou je třeba použít až jako poslední možnost. Spravedlivá příčina a jasný cíl války musí být lidu vysvětleny zkušeným vůdcem. Teprve když existuje přesný válečný cíl, pro který se lid může vystavit plně vědomě, vzniká jednota a síla přesvědčení vedoucí k vítězství. Generál si však musí dávat pozor, aby vášnivost války a nadšení z vítězství nevedly k nespravedlivým činům, které by si zasloužily obecné odsouzení. Pokud jsou spravedlnost a vytrvalost základem jednání, vše půjde dobře.",
+    "imagen": "Uprostřed země je voda: obraz Armády. Ušlechtilý člověk zvětšuje svůj vliv štědrostí vůči lidu. Když hrozí nebezpečí, každý rolník se může stát vojákem a na konci války se vrátit ke svému pluhu. Ten, kdo je štědrý k svému lidu, získává jeho náklonnost, a lid, který žije pod režimem mírnosti, se stává silným a energickým. Pouze ekonomicky silný lid může tvořit značnou válečnou sílu. Proto bychom měli pěstovat moc podporou ekonomických vztahů mezi lidmi a příznivým vykonáváním autority. Pouze pokud existuje toto neviditelné spojení mezi vládou a lidmi a lidé jsou takovou vládou chráněni, jako voda v hloubce země, je možné vést válku k vítězství."
+  },
+  {
+    "id": 8,
+    "nombre": "ARMÁDA",
+    "trigramas": {
+      "superior": "K'an Propast, voda",
+      "inferior": "K'un Lo Receptivní, Země"
+    },
+    "juicio": "Solidarita přináší štěstí. Zeptej se znovu Orákula, abys zjistil, zda máš vznešenost, vytrvalost a pevnost. Tehdy nejsou žádné výtky. Nejisté osoby se přibližují pomalu. Kdo přijde příliš pozdě, potká neštěstí. Jde o to spojit se s ostatními s cílem doplňovat se a vzájemně si pomáhat díky solidaritě. Takové spojení vyžaduje centrum, kolem kterého se spojují jednotlivci. Stát se centrem pro sjednocení lidí je vážná věc s velkou odpovědností. To vyžaduje vnitřní velikost, být logický a silný. Proto ten, kdo chce shromáždit ostatní kolem sebe, musí sám sebe prověřit, zda je schopný situaci zvládnout. Kdo chce shromáždit ostatní, aniž by měl schopnosti a povolání, způsobuje více zmatku, než kdyby žádné shromáždění nebylo. Ale tam, kde existuje skutečný bod setkání, se nejisté osoby postupně a samy od sebe přibližují, zpočátku váhavě. Ti, kdo přijdou příliš pozdě, tím budou trpět. Jedná se o jednotu, která musí být uskutečněna ve vhodný čas. Vztahy se navazují a upevňují podle stanovených vnitřních zákonů. Společné zkušenosti je posilují. Kdo příjde příliš pozdě a nebude se moci zúčastnit těchto základních zkušeností, a když najde dveře zavřené, bude si muset vyčítat svou nejistotu a zpoždění. Pokud muž uzná potřebu znovusjednocení a není dostatečně silný, aby se postavil do středu jednoty, bude jeho povinností stát se poté dalším členem komunity.",
+    "imagen": "Na Zemi je voda: obraz solidarity. Starověcí králové dělili státy na státní statky a udržovali přátelské vztahy s feudálními pány. Voda zaplňuje prázdná místa země a silně se k ní přilnula. Sociální organizace starověku byla založena na tomto maximu jednoty mezi vazaly a pány. Voda sama shromažďuje všechny své toky, protože ve všech svých částech podléhá stejným zákonům. Podobně by lidská společnost měla dodržovat jednotu díky komunitě zájmů, která způsobuje, že se různí jednotlivci cítí být členy celku. Centrální moc sociálního organismu musí zajistit, aby každý člen našel svůj skutečný zájem v jednotě, stejně jako tomu bylo ve vztazích otcovské péče, které starověký čínský král udržoval se svými vazaly."
+  },
+  {
+    "id": 9,
+    "nombre": "NEJVYŠŠÍ MOC MALÉHO",
+    "trigramas": {
+      "superior": "Sun Lo Suave, vítr",
+      "inferior": "Ch'ien Lo Tvořivý, Nebe."
+    },
+    "juicio": "Síla domácí malých věcí má úspěch. Husté mraky, ale žádný déšť pro naši západní oblast. Situace je srovnávána s Čínou za časů krále Wena, který pocházel ze Západu, ale tehdy se nacházel na Východě, na dvoře velkého vládce, tyrana Tcheu Sina. Čas pro rozsáhlou akci ještě nenastal a Wen mohl tyrana jen do určité míry zadržovat přátelským přesvědčováním. Odtud obraz hustých mraků, které se zvedají a slibují zemi vlhkost a požehnání, ale které ještě nezpůsobují déšť. Situace není nepříznivá a umožňuje předpovědět konečný úspěch. Přesto stále existují překážky na cestě. Můžeme začít práci na přiblížení. Lze jednat pouze použitím pokorného prostředku plného laskavých návrhů. Čas ještě nenastal pro energická a rozsáhlá opatření. Přesto je možné vyvíjet mírnící a zmírňující vliv v omezeném okruhu. Realizace takové vůle vyžaduje pevné rozhodnutí uvnitř a plynulé přizpůsobení se navenek.",
+    "imagen": "Vítr vykonává svůj tlak vysoko na nebi. Obraz moc domácího vlivu malého. Ušlechtilý člověk zdokonaluje vnější formu své bytosti. Vítr může rozhýbat skupinu oblaku na nebi, ale protože je to jen vzduch bez pevného těla, nevytváří významné ani trvalé účinky. Proto v okamžicích, kdy není možná velká vnější akce, lidé mohou pouze zdokonalovat projevy své bytosti vykonáváním malých věcí."
+  },
+  {
+    "id": 10,
+    "nombre": "POCHOD",
+    "trigramas": {
+      "superior": "Ch'ien Lo Kreativní, Nebe",
+      "inferior": "Tui Lo Gozoso, jezero"
+    },
+    "juicio": "Chůze po ocase tygra. Ten člověka nekouše. Úspěch. Situace je opravdu obtížná. Silní a slabí jsou úzce propojeni. Slabí jdou za silnými a jednají s nimi. Ale silní to přijímají bez rozrušení, protože kontakt je radostný a neublížující. Popisovaná lidská situace je ta, která se týká jednání s divokými a nedostupnými lidmi. V takovém případě lze dosáhnout cíle, pokud se dodržují dobré způsoby. Dobré chování a příjemné vystupování vedou k úspěchu i při jednání s podrážděnými lidmi.",
+    "imagen": "Situace je opravdu obtížná. Silní i slabí jsou úzce propojeni. Slabí jdou za silnými a jedná s nimi. Ale silní to přijímají bez zlobení, protože kontakt je radostný a neškodí. Popsaná lidská situace je ta, která se týká jednání s divokými a nedostupnými lidmi. V takovém případě lze dosáhnout cíle, pokud se dodržují dobré způsoby. Dobrý způsob chování a příjemné chování vedou k úspěchu, i když se jedná s podrážděnými lidmi."
+  },
+  {
+    "id": 11,
+    "nombre": "Mír",
+    "trigramas": {
+      "superior": "K'un Lo Receptivní, Země.",
+      "inferior": "Ch'ien Lo Kreativní, Nebe"
+    },
+    "juicio": "To malé přichází a odchází, to velké přichází. Štěstí. Úspěch. Hexagram ukazuje přítomnost v přírodě období, kdy je nebe v jistém smyslu nad zemí. Nebe umístěné pod zemí. Tak se oba principy spojují svými ctnostmi v intimní harmonii. Odtud vzniká mír a požehnání pro všechna bytosti. V lidském světě je to období sociální harmonie. Vznešení se sklánějí k podřízeným, zatímco pokorní a podřízenější pěstují přátelské pocity vůči vznešeným, tak dobře, že se utiší veškerá nepřátelskost. Uvnitř, ve středu, na rozhodujícím místě je světlo (2. vládnoucí linie); tma je venku. Tak princip světla působí tvůrčím vlivem a princip tmy zachovává poddajný postoj. Takže obě strany dostanou, co jim náleží a co si zaslouží. Když ve společnosti zaujímají dobří lidé převládající postavení a mají moc ve svých rukou, zlí lidé se sami nechávají ovlivnit dobrými a zlepšují se. Když v člověku vládne duch, který pochází z nebe, citlivost je také pod jeho vlivem a zaujímá své vlastní místo. Různé linie vstupují do hexa­gramu zdola a opouštějí ho shora. Jsou to malé, slabé a zlé prvky, které se chystají odejít, zatímco stoupají velké, silné a dobré faktory. To přináší štěstí a úspěch.",
+    "imagen": "Nebe a země spojeny; obraz míru. Vládce rozděluje a doplňuje chod nebe a země; poskytuje a řídí dary nebe a země, čímž pomáhá lidem. Nebe a země spolu souvisejí a spojují své účinky. Jedná se o období obecného blahobytu. Celý tento proud energie musí být regulován vhodným vládcem, aby byl co nejlépe využit. Tento výsledek je dosažen díky rozdělení. Tak je nerozlišený čas člověkem rozdělen do ročních období podle posloupnosti přírodních jevů; prostor, který obklopuje všechny věci, je člověkem rozdělen do světových stran. Tak tedy příroda a ohromné množství jejích jevů musí být omezena a ohraničena. Na druhé straně je třeba podporovat přírodu v její produkci. To se děje, když se produkce přizpůsobí vhodnému okamžiku a místu. Tím se zvyšuje přirozený výnos. Tato činnost ovládání a podporování produkce je práce na přírodě, která člověku vrací to dobré."
+  },
+  {
+    "id": 12,
+    "nombre": "Zastavení",
+    "trigramas": {
+      "superior": "Ch'ien Lo Kreativní, Nebe",
+      "inferior": "K'un Lo Receptivní, Země"
+    },
+    "juicio": "Zastavení. Špatní lidé nepodporují vytrvalost u šlechetného člověka. Velké odchází a malé přichází. Nebe a země spolu již nekomunikují a všechny věci se zastavují. Vysoké a nízké si již nepředávají vzájemné vztahy; zmatek a chaos vládnou Zemi. Uvnitř je tma a venku světlo. Uvnitř je slabost a venku tvrdost; uvnitř je lid a venku šlechtici. Povaha lidu roste a povaha šlechty klesá. Ale šlechtici se nenechají odradit od svých principů. Nicméně, pokud již nemají možnost jednat, zůstávají věrní svým principům a stahují se tajně.",
+    "imagen": "Nebe a země se nespojují: obraz stagnace. Tak se ušlechtilý člověk uchyluje ke své vnitřní hodnotě, aby unikl obtížím. Nedovoluje si být odměněn příjmy. Když ve veřejném životě kraluje vzájemná nedůvěra v důsledku vlivu vybílených lidí, je plodná činnost nemožná, protože základy jsou falešné. Proto ušlechtilý člověk ví, co má v takových okolnostech dělat. Nedá se svést lesklými návrhy, které ho vyzývají k účasti na veřejných záležitostech: bylo by to pro něj nebezpečné, protože nemůže přijmout malichernost ostatních. Proto skrývá své zásluhy a uchyluje se v tajnosti."
+  },
+  {
+    "id": 13,
+    "nombre": "SPOLEČENSTVÍ S MUŽI",
+    "trigramas": {
+      "superior": "Ch'ien Lo Kreativní, Nebe",
+      "inferior": "Li. To oscilující, Oheň."
+    },
+    "juicio": "Společenství s lidmi ve dne. Úspěch. Je výhodné překonat velký proud. Vytrvalost člověka je výhodná. Pravé společenství s lidmi musí být založeno na univerzálních zájmech. Ne sobecké cíle jednotlivce, ale záměry týkající se lidstva vytvářejí trvalé společenství s lidmi. Proto se předpovídá úspěch společenství s lidmi ve dne. Když vládne shoda, mohou být úspěšně uskutečněny obtížné podniky, jako je překonání velkého proudu. Každopádně k uskutečnění takového společenství je nutná přítomnost osvíceného vůdce s jasnými a nadšenými přesvědčeními, který je ochoten vést tento podnik. Dolní trigram má smysl jasnosti a horní trigram má smysl tvůrčí síly.",
+    "imagen": "Nebesa spojená s ohněm: obraz společenství s lidmi. Tak šlechetný člověk provádí dělení do rodin a zavádí rozlišování mezi věcmi. Nebe se pohybuje stejným směrem jako oheň, a přesto je od něj odlišné. Stejně jako světlá tělesa na nebi slouží k uspořádání a dělení času, tak i lidská společnost a všechny věci, které jí opravdu patří, musí být organicky strukturovány. Společnost by neměla být směsí jednotlivců nebo věcí – to by byl chaos, ne společenství – ale aby se ustanovil pořádek, vyžaduje to strukturovanou mnohost."
+  },
+  {
+    "id": 14,
+    "nombre": "DRŽENÍ VELKÉHO",
+    "trigramas": {
+      "superior": "Li Lo kolísavý, plamen",
+      "inferior": "Ch'ien Lo Kreativní, Nebe"
+    },
+    "juicio": "Velké ovládání. Vznešený úspěch. Obě trigramy naznačují, že síla a jasnost se spojují. Ovládání velkého je určeno osudem a odpovídá době. Jak může slabá linie mít sílu udržet pohromadě a ovládat silné prvky? Díky své vůli osvobozené od sobectví. Doba je příznivá. Vnitřní síla, jasnost a kultura na vnější. Síla se projevuje jemností a sebeovládáním. To přináší vznešený úspěch a bohatství.",
+    "imagen": "Oheň vysoko na nebi. Obraz držení velikého. Tak ušlechtilý člověk potlačuje zlo, podporuje dobro a tímto způsobem poslouchá dobrou vůli nebes. Slunce, vládnoucí na nebi a osvětlující svými paprsky všechny pozemské věci, je obrazem držení velikého. Ale takové držení musí být správně spravováno. Slunce přináší na denní světlo dobro i zlo. Člověk musí potlačovat a bojovat proti zlu a podporovat a podporovat dobro. Pouze tímto způsobem bude v souladu s dobrou vůlí Boha, který chce pouze dobro a nikoli zlo."
+  },
+  {
+    "id": 15,
+    "nombre": "POKORA",
+    "trigramas": {
+      "superior": "K'un Lo Receptivní, Země",
+      "inferior": "Ken, Nehybnost, Hora"
+    },
+    "juicio": "Pokora přináší úspěch. Ušlechtilý člověk vede své záležitosti ke šťastnému konci. Nebeský zákon vyprázdňuje to, co je plné, a naplňuje to, co je pokorné: když je Slunce na nejvyšším bodě, podle nebeského zákona musí klesat, a když je nejhlouběji pod zemí, musí se vydat k novému východu; když je Měsíc plný, začíná ubývat, a když je prázdný, musí začít znovu růst. Tento nebeský zákon působí stejně na lidské osudy. Zákon země je měnit vše, co je plné, a téct k tomu, co je pokorné. Vysoké hory jsou erodovány vodami a údolí jsou zaplněna. Zákon mocí osudu je snižovat, co je plné, a rozdávat štěstí pokorným. Lidé také nenávidí to, co je plné, a milují pokoru. Osud se řídí pevnými zákony, které působí nezbytným způsobem. Ale člověk má moc formovat svůj osud v míře, v jaké jeho chování vystavuje ho působení sil požehnání nebo zničení. Když člověk zaujímá vysokou pozici a je pokorný, září světlem moudrosti. Když je ponížený a pokorný, nelze ho ignorovat. Tak se ušlechtilý člověk snaží vykonat svou práci k dobrému cíli, aniž by se chlubil tím, co dokázal.",
+    "imagen": "Uprostřed Země je hora: obraz pokoření. Poté ušlechtilý člověk snižuje, co je přebytečné, a zvyšuje, co chybí. Váží věci a činí je rovnými. Země, v níž se skrývá hora, neukazuje své bohatství, protože výška hory slouží k vyrovnání sníženin. Proto se výšky a nížiny navzájem doplňují a výsledkem je rovina. Obraz pokoření se zde ukazuje v tom, že vyžadoval dlouhou práci a že se jeví jako přírodní a snadný. Totéž činí ušlechtilý člověk, když zavádí pořádek na Zemi. Vyrovnává společenské opozice, které jsou zdrojem konfliktu, a tím vytváří spravedlivé a rovnocenné vztahy."
+  },
+  {
+    "id": 16,
+    "nombre": "NADŠENÍ",
+    "trigramas": {
+      "superior": "Chen, Co se probouzí, Hrom",
+      "inferior": "K'un. Ten Příjemný, Země"
+    },
+    "juicio": "Nadšení. Je příznivé zapojit pomocníky a uvést armády do pohybu. Čas nadšení přichází s přítomností pozoruhodného člověka, který je v souladu s duší národa a s ní se ztotožňuje. Proto nachází obecnou poslušnost dobrovolně udělenou. Pro vzbuzení nadšení je nutné sladit příkazy, které vydáváme, s povahou těch, kdo jsou podřízeni. Přísnost zákonů přírody je založena na pravidle pohybu, které následuje linii nejmenšího odporu. Tyto zákony nejsou vnějšími věcem, nýbrž tvoří imanentní harmonii pohybu. Proto se nebeská tělesa neodchylují ze svých drah a všechny přírodní jevy probíhají s pevnou pravidelností. Totéž se děje v lidské společnosti. Pouze ty zákony se uplatňují, které mají zakořeněné v lidových citech, zatímco ty, které s nimi odporují, vyvolávají jen odpor. Nadšení umožňuje najmout pomocníky k vykonávání práce, aniž by se obávali tajného odporu. Nadšení je také to, co umožňuje sjednotit pohyby lidových mas, zejména během válek, s cílem dosáhnout vítězství.",
+    "imagen": "Hrom vychází rezonující ze země: obraz nadšení. Takto staří králové hrávali hudbu na počest zásluh a předváděli je s velkolepostí před Nejvyšším Bohem, zvoucí své předky. Na začátku léta, když hrom a elektrická energie vycházejí rezonující ze země, první bouřka osvěží přírodu a ukončí dlouhé napětí. Nastává úleva a radost. Stejně tak má hudba moc rozptýlit napětí srdce a temné pocity násilí. Nadšení srdce se spontánně vyjadřuje ve zvuku písně, tance a rytmického pohybu těla. Od nepaměti je neviditelný a povzbuzující účinek zvuku, který spojuje a dojímá srdce lidí, vnímán jako záhada. A vládcové uměli využít tuto přirozenou chuť k hudbě. Zvýraznili ji a uspořádali. Hudba byla považována za něco vážného a posvátného, co mělo sloužit k očistě lidských citů; byla určena k oslavě cností hrdinů a k navázání spojení s neviditelným světem. V chrámu se lidé přibližovali k Bohu za doprovodu hudby a pantomimy (ty později daly vznik divadlu). Náboženský smysl pro Stvořitele světa se spojoval s nejsvětějším z lidských citů, s úctou k předkům. Ti byli zváni při náboženských obřadech jako hosté Pána nebes a zástupci lidstva před nejvyšším. Tímto způsobem se minulost spojovala s božstvím v slavnostních chvílích náboženského nadšení a utvářelo se spojení mezi Bohem a lidstvem. Vládce, který uctíval božství v svých předcích, byl považován za Syna nebes, v němž se nebeský svět mysticky setkával se světem pozemským. Tyto myšlenky jsou konečným a nejvyšším shrnutím čínské kultury. Sám Konfucius řekl ohledně velké oběti, která se konala během těchto rituálů: „Ten, kdo plně pochopil tuto oběť, může vládnout světu, jako by jej otáčel v dlani ruky“"
+  },
+  {
+    "id": 17,
+    "nombre": "Doprovod",
+    "trigramas": {
+      "superior": "Tui, jezero; to radostné, to příjemné",
+      "inferior": "Chen: hrom; to, co probouzí, strach."
+    },
+    "juicio": "Nástupnictví dosahuje vznešeného úspěchu. Vytrvalost je výhodná. Bez výčitek. Aby si člověk vytvořil následovníky, musí se nejprve umět přizpůsobit. Jen službou se dostane člověk k moci, protože jen tímto způsobem lze získat uspokojivý souhlas těch, kdo nás následují. Pokud se člověk snaží, aby ho lidé následovali násilím nebo intrikami, spiknutími nebo vytvářením frakcí, nevyhnutelně narazí na odpor a překážky, které brání svobodnému přijetí. Neměli bychom nikoho nutit, aby nás následoval, ale oni by měli přijít spontánně. Ale radostný pohyb může stejně vést k nepříjemným výsledkům. Proto se přidává „vytrvalost je výhodná“, tedy setrvání v tom, co je dobré a bez výčitek. Stejně jako jen za tohoto předpokladu lze získat přízeň, je pouze za této podmínky možné následovat ostatní bez újmy. Myšlenka vytvořit si družinu přizpůsobováním se požadavkům okamžiku je velká a důležitá; proto je úsudek tak příznivý.",
+    "imagen": "Jezero je uprostřed hromu: představte si tuto posloupnost. Tak, při soumraku vstupuje moudrý člověk, aby si odpočinul a načerpal síly. Na podzim se elektřina vrací do země, aby si odpočinula. To odpovídá hromu uprostřed jezera. Není to hrom v pohybu, ale hrom ve svém zimním odpočinku. Doprovod se v tomto obrazu ukazuje s významem přizpůsobení se požadavkům času. Hrom uprostřed jezera naznačuje dobu tmy a odpočinku. Tak moudrý člověk, po tom, co celý den projevoval tvůrčí aktivitu, si dopřává odpočinek a odpočívá, když přichází noc. Situace může být jen dobrá, pokud se člověk umí přizpůsobit a pokud se neunaví v zbytečném odporu."
+  },
+  {
+    "id": 18,
+    "nombre": "PRÁCE O KORUPCI",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora",
+      "inferior": "Slunce, Poddajnost, Vítr"
+    },
+    "juicio": "Pracovat na tom, co je zkažené, má vznešený úspěch. Je vhodné překročit velké vody. Před výchozím bodem, tři dny. Po výchozím bodě, tři dny. To, co je zkažené vinou lidí, lze opravit lidskou prací. Není to osud nevyhnutelný, jako éra stagnace, ale důsledky zneužití lidské svobody, které způsobilo takový stav korupce. Práce na zlepšení podmínek podporuje úspěch, protože je v souladu s možnostmi doby. Neměli bychom se vzdávat práce a nebezpečí - symbolizovaného přeplavbou velkých vod - ale měli bychom se s nimi energicky potýkat. Úspěch má však jako předpoklad správné zvážení, od kterého závisí správné rozhodnutí. To je význam „tři dny před startem, tři dny po startu.“ Nejprve musíme znát příčiny korupce, než ji budeme moci napravit. Odtud plyne, že musíme věnovat pozornost tomu, co předchází startu. Kromě toho je třeba dbát na správnou cestu, aby se předešlo návratu do starých zvyků, a proto musíme věnovat pozornost tomu, co se děje po startu. Rozhodnost a energie musí nahradit lhostejnost a setrvačnost, aby se nakonec objevilo nové začátky.",
+    "imagen": "Vítr vanoucí u paty hory: obraz korupce. Ušlechtilý člověk povzbuzuje lidi a posiluje jejich ducha. Když vítr vanoucí u paty hory, vytváří víry, které ničí úrodu. To vyžaduje zlepšení. Stejné se děje s nízkými sklonami a módami špatné kvality: ty zavádějí korupci do lidské společnosti. Aby byla korupce odstraněna, je třeba obnovit ušlechtilost společnosti. Metody, jak toho dosáhnout, jsou označeny dvěma primitivními znaky, ale jejich účinky musí být rozvíjeny v uspořádané posloupnosti: nejprve je třeba odstranit stav stagnace, otřesením veřejného mínění (jako vítr, který smete vše), a poté posílit a uklidnit lidového ducha (jako hora živí a chrání rostliny, které kolem ní rostou)."
+  },
+  {
+    "id": 19,
+    "nombre": "PŘÍSTUP",
+    "trigramas": {
+      "superior": "K'un, Lo Receptivo, Země",
+      "inferior": "Tui, jezero, to radostné, to příjemné"
+    },
+    "juicio": "Přístup má mimořádný úspěch. Vytrvalost je výhodná. Když přijde osmý měsíc, nastává neštěstí. Hexagram jako celek naznačuje období nadějného pokroku. Přichází jaro. Radost a dobrá nálada spojují výšky s nížinami. Úspěch je zajištěn. Příznivá povaha období je dostačující. Je nutné pracovat s odhodláním, abychom využili všech příznivých možností, které období nabízí. Ještě jedna věc, jaro nebude trvat věčně. V osmém měsíci se situace obrací. Zůstávají jen dvě silné linie, které nepokračují vpřed, ale ustupují. (Viz následující hexagram) Je třeba si toho včas uvědomit. Pokud se zlo předvídá před dešti nebo pokud předvídáme nebezpečí dříve, než se naznačí, pak ho budeme moci zvládnout.",
+    "imagen": "Nad jezerem je země, obraz přiblížení. Ušlechtilý člověk je nevyčerpatelný ve svém úmyslu učit a bez hranic pro podporu a ochranu lidu. Země omezuje jezero shora. Je to obraz přiblížení a shovívavosti vyššího člověka vůči těm, kteří jsou na dně. Analogii hexagramu s těmito dvěma kategoriemi bytostí lze odvodit z každé jeho části. Stejně jako je jezero nepřetržitě hluboké, má moudrý člověk nevyčerpatelnou ochotu učit lidstvo; stejně jako je země neomezeně rozsáhlá, aby podpírala a pečovala o všechny bytosti, moudrý člověk podporuje a váží si všech lidí, aniž by někoho z lidstva vynechal."
+  },
+  {
+    "id": 20,
+    "nombre": "KONTEMPLACE (VIDĚNÍ)",
+    "trigramas": {
+      "superior": "Sun La Docilidad, vítr",
+      "inferior": "K'un, Lo Receptivo, Země"
+    },
+    "juicio": "Kontemplace. Byly provedeny očisty, ale oběti ještě ne. Plní sebevědomí obracejí na něj svůj pohled. Rituál oběti v Číně začal očistou a libací, což představovalo invokaci k božství. Poté byla oběť přinesena. Časový interval mezi těmito dvěma rituály byl nejposvátnější, okamžik nejvyššího vnitřního vzpomínání. Když je zbožnost inspirována vírou, upřímné rozjímání o představení, které je nabízeno, proměňuje svědky a inspiruje je k úctě. Takže v přírodě je v pořádku, s jakým se všechny přírodní události vzájemně následují, posvátný a vážný smysl. Kontemplace tohoto božského smyslu událostí vesmíru dává do rukou toho, kdo je povolán jednat s lidmi, prostředek, jak vyvolat stejné účinky. K tomu je zapotřebí vnitřní soustředění podobné tomu, které vyvolává náboženská kontemplace u lidí s velkou a intenzivní vírou. Tak oni vidí božské a tajemné zákony života a činí je zjevnými ve své vlastní osobnosti díky extrémní intenzitě svého soustředění. V důsledku této vize z nich vyzařuje mocná duchovní síla, která působí na lidi a podrobuje je, aniž by si byli vědomi, jak k tomu dochází.",
+    "imagen": "Vítr vane nad zemí: obraz kontemplace. Takto staří králové navštěvovali oblasti světa, pozorovali lidi a předávali učení. Když vítr vane nad zemí, je přítomen na všech místech a tráva se musí sklánět pod jeho silou. Tyto dva jevy jsou potvrzeny v tomto hexagramu. Oba obrazy symbolizují způsob jednání králů starověku: na jedné straně si díky svým pravidelným cestám zajišťovali celkový přehled o svém lidu tak, aby jim žádný zvyk v činnosti neunikl. Na druhé straně tímto způsobem uplatňovali svůj vliv, díky němuž byly nevhodné zvyky upraveny. Celek naznačuje sílu vyšší osobnosti. Takový muž bude mít celkový přehled o velikém davu a o jeho skutečných dispozicích, takovým způsobem, že se nemůže zmýlit. Na druhé straně bude uplatňovat svůj vliv na dav svou pouhou přítomností, tak že se dav může řídit s ním stejně, jako se tráva řídí větrem."
+  },
+  {
+    "id": 21,
+    "nombre": "KOUSEJÍC SKRZE",
+    "trigramas": {
+      "superior": "Li, Ten Kmitavý, Oheň",
+      "inferior": "Chen, Lo Excitante, Hrom"
+    },
+    "juicio": "Kousání skrz to je úspěšné. Je příznivé nechat vykonat spravedlnost. Když se překážka postaví proti setkání, je nejvhodnější ji energicky odstranit. To platí ve všech situacích. Tam, kde nelze dosáhnout jednoty, je to vždy kvůli překážce způsobené pomlouvačem nebo zrádcem, který působí jako překážka a brzda. Pak je třeba energicky kousat, aby se předešlo trvalé újmě. Takové vědomé překážky samy nezmizí. Je nutný soud a trest, aby byly zastrašeny nebo odstraněny. Ale v takovém podnikání je třeba postupovat správným způsobem. Hexagram je tvořen spojením Li, jasnosti, a Chen, vzrušení. Li je měkký, Chen je tvrdý. Tvrdost a podrážděnost by samy o sobě byly příliš násilné při udělování trestu. Jasnost a měkkost by samy o sobě byly příliš slabé. Spojené tyto dvě vlastnosti dosahují správného míry. Je důležité, aby člověk, na něhož spadá rozhodnutí (zde zastoupený 5. řádkem), byl přirozeně měkký, zatímco díky své pozici vykonává činnost, která vzbuzuje respekt. (Viz charakter a pozice tahů)",
+    "imagen": "Hromy a blesky. Obraz kousání skrz. Takto staré králové stanovovali pevné zákony s dobře definovanými tresty. Tresty představují individuální aplikace zákonů. Zákony musí obsahovat zmínku o trestech (předepsaných pro ty, kdo je poruší). Jasnost panuje, pokud při stanovování trestů jsou rozlišovány lehké a těžké přestupky podle povahy porušení. To je symbolizováno jasností, bleskem. Pevnost zákonů je zajišťována spravedlivým uplatňováním trestů. Tato jasnost a tato přísnost mají za cíl udržet lidi v respektu; tresty nejsou důležité samy o sobě. Překážky nabývají na významu v kolektivním životě lidí tehdy, když tresty nejsou jasně stanoveny a jsou uplatňovány nedbale. Jediný způsob, jak upevnit zákony, je učinit tresty jasnými, pevnými a rychlými."
+  },
+  {
+    "id": 22,
+    "nombre": "MILOST",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora",
+      "inferior": "Li Lo Oscilante, oheň"
+    },
+    "juicio": "Půvab má úspěch. V malých záležitostech je vhodné něco podniknout. Půvab přináší úspěch. Nicméně není zásadní pro základní záležitosti, ale je to ozdoba, která by měla být používána střídmě v malých věcech. V dolním trigramu, oheň, se slabá čára vkládá mezi dvě silné čáry a činí je krásnými; ale silné čáry jsou podstatou, slabá čára je forma, která zdobí. V horním trigramu, hora, se silná čára objevuje na vrcholu, na rozhodujícím místě, takovým způsobem, že i zde by měla být stále považována za rozhodující faktor. V přírodě zabírá slunce silnou pozici a život světa na něm závisí. Ale silná pozice slunce je obklopena měsícem a hvězdami, které s ním půvabně střídají. V lidském životě se krása tvaru objevuje, když se silné rysy jako hory stávají příjemnými díky jasné kráse. Kontemplováním toho, co se děje na nebi, začneme chápat dobu a měnící se požadavky. Kontemplace forem v lidském životě poskytuje možnost formovat svět. Poznámka: hexegram ukazuje krásu v klidu. Uvnitř je jasnost a navenek ticho. Je to klid čisté kontemplace. Když touha umlkne a vůle se odpočine, vesmír se odhaluje jako idea v jevech. Jako takový je krásný a vyjíma se z boje o existenci. Je to svět umění. Ale koneckonců kontemplace sama o sobě nevkládá vůli do klidu. Ta se probudí a veškerá krása byla jen okamžikem pomíjivého vzrušení. Proto krása a půvab nejsou skutečné cesty k osvobození. V důsledku toho byl Konfucius velmi rozrušen, když se po konzultaci věštce dozvěděl odpověď „půvab“.",
+    "imagen": "Pod horou je oheň. Obraz milosti. Takto ušlechtilý člověk postupuje, když objasňuje běžné záležitosti, ale takto nezvládne rozhodnout o důležitých otázkách. Oheň, jehož světlo osvětluje hory a činí je příjemnými, nezasvítí daleko. Stejně tak krásné tvary stačí k osvícení nejbližších záležitostí, ale ne k rozhodnutí záležitostí významných. Ty vyžadují větší vážnost."
+  },
+  {
+    "id": 23,
+    "nombre": "ROZPTÝLENÍ",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora",
+      "inferior": "K'un, Lo Receptivo, Země"
+    },
+    "juicio": "Rozptýlení. Není vhodné začínat cokoli ani někam cestovat. Ukazuje to období, kdy slabí a méněcenní lidé postupují a jsou na cestě překonat poslední silné a ušlechtilé. Tato situace je příčinou běhu času. Za těchto okolností není pro ušlechtilého člověka výhodné podnikat jakoukoli záležitost. Správné chování v těchto nepříznivých časech se musí odvodit z obrazu a jeho atributů. Dolní trigram představuje zemi, jejíž atributy jsou poslušnost a oddanost; horní trigram představuje horu, jejímž atributem je klid. To naznačuje, že je vhodné se podřídit špatnému počasí a zůstat klidný. Nejde o to, co člověk dělá, ale o podmínky doby, které podle nebeských zákonů ukazují alternativy pokroku a úpadku, naplnění a prázdnoty. Tyto dočasné podmínky neumožňují žádnou reakci a je nemožné je překonat. Není to zbabělost, ale moudrost vědět, jak se přizpůsobit a zdržet se jednání.",
+    "imagen": "Hora spočívá na zemi: Obraz rozptýlení. Nadaní mohou svou pozici zajistit jen prostřednictvím velkorysých ústupků k těm, kdo jsou dole. Hora spočívá na zemi. Pokud je úzká, strmá a zbavená širokého základu, musí se zhroutit. Pouze pokud se dokáže zvednout široce a rozlehle od země, a nikoli pyšně a strmě, je její pozice zajištěna. Vládci spočívají na dlouhém základu lidu. Musí rovněž projevovat velkorysost a velikost ducha, stejně jako země, která podpírá všechny bytosti. Pouze takto udrží svou pozici tak bezpečnou a klidnou jako hora."
+  },
+  {
+    "id": 24,
+    "nombre": "NÁVRAT (Čas změny)",
+    "trigramas": {
+      "superior": "K'un Lo Receptivní, Země",
+      "inferior": "Chen Ten, hrom"
+    },
+    "juicio": "Návrat. Úspěch. Odcházení a návrat bez chyby. Přátelé přicházejí bez výtek. Cesta jde a přichází. Sedmého dne se vrací. Je výhodné mít kam jít. Po období úpadku začíná návrat. Síla světla, která byla vzdálena, je zpět. Je pohyb, ale není vynucený: horní trigram K'un má charakter opuštění a dávání sebe sama. Je to tedy přirozený akt, který vzniká spontánně. Proto je změna starých věcí velmi snadná. Staré je odstraněno, nové je zavedeno, obojí je v souladu s časem a nezpůsobuje žádnou škodu. Vznikají skupiny příbuzných bytostí. Ale ta setkání se konají otevřeně, protože odpovídají dané době, a proto je jakékoli sobecké úsilí vyloučeno a v nich není žádné pochybení. Návrat je založen na přírodě. Pohyb je kruhový. Cesta se uzavírá sama na sebe. Proto by se nic nemělo uměle uspěchat. Všechno přichází spontánně, když nastane čas. Takový je smysl nebe a země. Všechny pohyby se uskutečňují v šesti etapách a sedmá přináší jako následek návrat. Tak, v sedmém měsíci po letním slunovratu, kdy začíná rok klesat, přichází zimní slunovrat. Stejně jako vycházení slunce přichází v sedmé dvojité hodině po západu slunce. Proto je sedmička číslem mladého světla, které se rodí, když šestka, číslo temnoty, vzroste o jednu jednotku. Tím se pohyb zastaví.",
+    "imagen": "Hrom na zemi. Obraz bodu návratu. Takto králové starověku uzavíraly průchody v čase slunovratu. Obchodníci a cizinci necestovali a vládce necestoval po provinciích. Zimní slunovrat byl v Číně vždy oslavován jako čas odpočinku roku, tradice, která se slaví v čase odpočinku dodržovaného při příležitosti nového roku. V zimě je životní síla (symbolizovaná tím, co probouzí, hrom) stále pod zemí. Pohyby jsou teprve na svém počátku. Proto se ještě musí posilovat odpočinkem, aby nebylo promarněno předčasným využíváním. Toto motto, které přikazuje dovolit obnovující se energii posílit se odpočinkem, platí pro všechny podobné situace. Zdraví, které se vrací po nemoci, porozumění, které znovu vzniká po sporu, vše musí být na počátku zacházeno s jemností a pohodlím, aby návrat vedl k prosperitě."
+  },
+  {
+    "id": 25,
+    "nombre": "NEVINNOST (Neočekávané)",
+    "trigramas": {
+      "superior": "Ch'ien, Tvůrce, Nebe",
+      "inferior": "Chen, Ten, kdo probouzí hrom"
+    },
+    "juicio": "Nevinnost. Nejvyšší úspěch. Vytrvalost je výhodná. Pokud někdo není tím, kým by měl být, bude mít neštěstí a to mu nepomůže podniknout žádnou věc. Člověk dostal od nebes přirozenost původně dobrou, aby ho vedla v jeho jednání. Přidržuje-li se tohoto božského principu v sobě, člověk dosahuje čisté nevinnosti, která, aniž by se zabývala myšlenkami na odměnu a zájem, činí to, co je spravedlivé, jednoduše a s instinktivní jistotou. Právě tato instinktivní jistota mu přináší nejvyšší úspěch a prospívá mu díky vytrvalosti. Nicméně všechno, co je instinktivní, není přirozené ve vlastním smyslu slova, nýbrž pouze to, co je spravedlivé a v souladu s vůlí nebes. Pokud je nedostatek spravedlnosti, instinktivní iracionální činnost přináší jen neštěstí. Konfucius k tomu říká: „Co získá ten, kdo se odvrátí od nevinnosti? Vůle a požehnání nebes jeho činů nedoprovází.",
+    "imagen": "Pod nebem se šíří hrom. Všechny věci dosahují přirozeného stavu nevinnosti. Staří králové, bohatí na ctnosti a v souladu s časem, pečovali a vyživovali všechna stvoření. Na jaře, když se hrom, životní síla, opět pohybuje pod nebem, všechny věci klíčí a rostou, a všechna stvoření přijímají od tvořivé přírody dětskou nevinnost původní podstaty. Stejně tak dobří vládci, kteří ukazují vnitřní bohatství své podstaty, působí mezi lidmi tím, že pečují o celý život a civilizaci, a v pravý čas činí vše, co si jejich udržování a pokrok vyžaduje."
+  },
+  {
+    "id": 26,
+    "nombre": "VLÁDNOUCÍ SÍLA VELKÉHO",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora.",
+      "inferior": "Ch'ien, Tvůrce, Nebe"
+    },
+    "juicio": "Převládající síla velkého. Vytrvalost je výhodná. Nejíst doma přináší štěstí. Je výhodné překročit velký proud. K zachycení a pevné ochraně tvůrčích sil je zapotřebí silný a jasně uvažující člověk, který může být ctěn panovníkem. Trigram Ch'ien označuje velkou tvůrčí sílu, zatímco trigram Ken vytrvalost a pravdu. Oba přenášejí světlo, jasnost a každodenní obnovu charakteru. Jen prostřednictvím každodenní obnovy může člověk zvýšit své síly. Síla návyků pomáhá udržovat pořádek v pokojné časy, ale v dobách, kdy se používá nahromaděná moc, záleží vše na síle osobnosti. Jelikož jsou muži ctnosti ctěni, jak dokazuje silná osobnost, kterému panovník svěřuje vládní odpovědnost, je výhodné nejíst doma, ale vydělávat si na chleba veřejnou činností zastáváním úřední pozice. Takový člověk je v souladu s nebem a uspěje, ačkoli provádí obtížné a nebezpečné úkoly, jako je přechod velké řeky.",
+    "imagen": "Obloha uprostřed hory. Obraz dominantní síly velkého. Ušlechtilý člověk se informuje pomocí mnoha starých přísloví a minulých zkušeností, aby si jimi posílil charakter. Obloha uprostřed hory evokuje skryté poklady. Slova a činy minulosti skrývají ukrytý poklad, který lze použít k posílení a vzdělávání charakteru. Takový je správný způsob studia, který nespočívá pouze v poznávání historie, ale v proměnění historie v současnou skutečnost využitím jejích údajů."
+  },
+  {
+    "id": 27,
+    "nombre": "KOUTKY RTŮ (VÝŽIVA)",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora",
+      "inferior": "Chen Ten, hrom"
+    },
+    "juicio": "Koutky rtů. Vytrvalost přináší štěstí. Sleduj správu potravy a toho, co člověk hledá, aby naplnil svou vlastní ústa. Když se člověk stará o ochranu a výživu, je důležité starat se o správné lidi a zajistit, aby se sám stravoval správným způsobem. Pokud chce člověk poznat povahu jiné osoby, stačí sledovat, o koho se tato osoba stará a kterým částem své vlastní povahy se věnuje a je vyživuje. Příroda krmí všechny bytosti. Ušlechtilý člověk pěstuje své ušlechtilé části, někdy na úkor svých nejníže položených částí. Ušlechtilý člověk živí a chrání hodnotné lidi, aby prostřednictvím nich chránil všechny ostatní. Mencio o tom říká (VI, A, 14): „Když chcete znát hodnotu někoho, musíte pozorovat, kterou část sebe sama považuje za zvlášť důležitou. Tělo má ušlechtilé a nízké části; některé části jsou důležitější než jiné. Nesmí se ubližovat tomu, co je důležité na úkor toho, co je sekundární, ani tomu, co je ušlechtilé kvůli tomu, co je nízké. Kdo pěstuje nízké části své bytosti, je nízký člověk. Kdo pěstuje ušlechtilé části své bytosti, je ušlechtilý člověk.",
+    "imagen": "U paty hory, hrom. Obraz správy potravin. Ušlechtilý člověk je opatrný ve slovech a mírný při jídle a pití. Bůh se objevuje v trigramu vzrušení, kdy na jaře životní síly začínají znovu pohybovat, všechna stvoření se rodí znovu; a „realizuje se v trigramu nehybného.“ Takže na začátku jara, když semena padají do země, vše se připravuje na nový cyklus života. To poskytuje model správy potravy prostřednictvím pohybu a nehybnosti. Moudrý člověk vidí zde model, který má následovat ve výživě a ve výchově svého charakteru. Slova tvoří pohyb zevnitř ven. Jídlo a pití představují pohyby zvenčí dovnitř. Oba druhy pohybu mohou být zmírněny střídmostí: slova vycházejí z úst, aniž by překročila svou míru, a potrava vstupuje stejně. Takto se kultivuje charakter."
+  },
+  {
+    "id": 28,
+    "nombre": "TÍŽE VELKOSTI",
+    "trigramas": {
+      "superior": "Tui. Lo Gozoso, jezero",
+      "inferior": "Slunce. Mäkký, vítr, les"
+    },
+    "juicio": "Nadváha velikého. Hlavní vaznice se sama naklání. Je výhodné mít kam jít. Úspěch. Důležité je v nadváze. Zátěž je příliš těžká pro sílu, která ji má nést. Hlavní vaznice, na které spočívá celá střecha, se ohýbá sama na sebe a hrozí, že se zhroutí, protože její konce jsou příliš slabé, aby unesly váhu, kterou musí nést. Střecha se chystá prasknout. Jedná se o výjimečnou dobu a situaci, která vyžaduje mimořádná opatření, pokud se chce člověk prosadit. Je nutné co nejrychleji najít přechodovou cestu a zahájit akci. To slibuje úspěch, protože ačkoli je silné nadměrné, zaujímá střed a je uvnitř, takže se nemusí obávat revoluce. Nic se nezíská násilnými a násilnickými opatřeními. Je třeba postupovat jemně, rozvazovat uzly a pronikat do smyslu situace, což je evokováno spodním trigramem Sun. Tehdy bude přechod k jiným podmínkám úspěšný. To vyžaduje skutečnou nadřazenost, a proto je čas, kdy převládá nadváha velikosti, důležitou epochou.",
+    "imagen": "Jezero vyrůstá nad stromy. Obraz velké nadváhy. Ušlechtilý člověk se nezneklidňuje, když je sám, ani se nenechá odradit, pokud se musí vzdát světa. Výjimečné doby velké nadváhy jsou podobné záplavě, kdy jezero přerůstá stromy. Ale takové situace jsou přechodné. Každý z trigramů ukazuje, jak se v takových chvílích chovat: obraz Sunu je strom, který odolává, i když je izolovaný, a atribut Tui je veselá klidnost, která zůstává nepohnutá, i když je třeba se vzdát světa."
+  },
+  {
+    "id": 29,
+    "nombre": "NEPOHLEDNUTELNÉ (VODA)",
+    "trigramas": {
+      "superior": "K'an, Propast, Voda",
+      "inferior": "K'an, Propast, Voda"
+    },
+    "juicio": "Nevyslovitelné opakované. Pokud jsi upřímný, dosáhneš toho, co si přeješ ze srdce, a uspěješ ve všem, co děláš. Opakováním nebezpečí si člověk nakonec zvykne na něj. Voda dává příklad vhodného chování v těchto okolnostech. Přichází a odchází, naplňuje všechny prostory, kterými prochází. Neuhýbá před žádným nebezpečím ani žádným pádem, nic ji nemění, ale zůstává věrná své podstatné přirozenosti. Takto působí upřímnost v obtížných situacích, aby se v intimní hloubce srdce proniklo významem situace. A jakmile člověk zvládne situaci uvnitř, z řešení přirozeně vyplývá vnější jednání, které bude korunováno úspěchem. To, co se počítá při nebezpečí, je morální hloubka, s jakou se plní vše, co skutečně musí být provedeno, a pokrok, aby se člověk nepoddal nebezpečí tím, že se zdrží. Aktivně používané, může mít nebezpečí velký význam jako ochranné opatření. Nebe má svou nebezpečnou výšku, která jej chrání proti pokusům o invazi, a země má vody a hory, které svými nebezpečími oddělují země. Vládci také používají nebezpečí, aby se chránili před vnějšími útoky a před veškerým vnitřním neklidem.",
+    "imagen": "Vody proudí nepřetržitě a dosahují svého cíle: obrazu opakovaného propasti. Ušlechtilý člověk kráčí ctností a vykonává funkci vyučování. Voda dosahuje svého cíle prouděním bez přerušení. Naplňuje každou dutinu, než pokračuje ve svém kurzu. Ušlechtilý člověk následuje příklad vody. Oceňuje, že dobro se stává stálou a pevnou vlastností jeho charakteru, a nikoli pouze něčím, co závisí na náhodě nebo okamžiku. Když se vyučuje ostatní, vše závisí rovněž na duchu kontinuity, jelikož je pouze opakováním, že se učení stává vlastnictvím žáka."
+  },
+  {
+    "id": 30,
+    "nombre": "LEPIVÝ, OHEŇ",
+    "trigramas": {
+      "superior": "Li, Lo Přilnavý, Oheň",
+      "inferior": "Li, Lo Přilnavý, Oheň"
+    },
+    "juicio": "To, co přilne. Vytrvalost je výhodná. Přináší úspěch. Starat se o krávu přináší štěstí. Tma se přidržuje toho, co je světlé, a tak dokonaluje jas. Světlé tělo, které šíří jas, musí mít uvnitř něco, co přetrvá, aby nebylo zcela spotřebováno a aby mohlo zářit trvale. Vše, co svět obsahuje zářivého, závisí na prvku, k němuž se přiléhá, aby mohlo zářit trvale. Slunce a Měsíc jsou přikováni na nebi, obiloviny, tráva a stromy jsou přikované k Zemi. Stejně tak se zdvojený jas vyvoleného člověka přidržuje toho, co je správné, a tak může tvarovat svět. Když člověk, který je přítomen ve světě v podmíněné a neautonomní situaci, rozpozná tuto závislost, podřizuje se dobrým a harmonickým silám vesmíru a dosahuje úspěchu. Kráva je symbolem extrémní poddajnosti. Když v něm pěstuje tuto poddajnost a tuto dobrovolnou závislost, dosahuje člověk jasnosti bez přehnané živosti a nachází své místo ve světě.",
+    "imagen": "Co září, stoupá dvakrát: obraz ohně. Velký člověk osvětluje čtyři oblasti světa a zachovává tuto jasnost. Každý z trigramů představuje Slunce v průběhu dne. Oba představují opakovaný pohyb Slunce, funkci světla vzhledem k času. Ušlechtilý člověk pokračuje v práci přírody ve světě lidí. Skrze jasno svého bytí způsobuje, že světlo se šíří stále více a proniká hluboko do podstaty člověka."
+  },
+  {
+    "id": 31,
+    "nombre": "VLIV, DVOŘENÍ",
+    "trigramas": {
+      "superior": "Tui, To Radostné, Jezero",
+      "inferior": "Ken, Nehybnost, Hora."
+    },
+    "juicio": "Vliv. Úspěch. Vytrvalost je výhodná. Vzít pannou za ženu přináší štěstí. Slabý prvek je nahoře, silný dole. Jejich síly se navzájem přitahují, dokud se nespojí. To přináší vítězství. Vskutku, každý triumf je založen na účinku vzájemné přitažlivosti. Vnitřní klid, který doprovází vnější radost, činí uspokojení přiměřené a zůstává v hranicích spravedlnosti. Takový je význam přidaného pokynu: „vytrvalost je výhodná“, protože zde je rozdíl mezi dvořením za účelem manželství, kde se silný muž ohleduplně podřizuje slabé ženě, a sváděním. V této přitažlivosti, která se děje podle volitelných afinit, spočívá obecný zákon přírody. Nebe a země se vzájemně přitahují a tak všechny bytosti přicházejí k existenci. Moudrý působí na srdce lidí prostřednictvím podobné přitažlivosti a mír je ustaven ve vesmíru. Lze poznat povahu všech věcí nebe a země podle přitažlivostí, které vykonávají.",
+    "imagen": "Nad horou je jezero: obraz vlivu. Tak vznešený člověk se svou vnímavou povahou dovoluje lidem, aby se k němu přiblížili. Hora, nad níž je jezero, získává z něj podnět, který vychází z jeho vlhkosti, a má tuto výhodu tím, že její vrchol není výrazný hrot, ale prohlubeň. Obraz radí být vnitřně připravený a svobodný, zůstávaje otevřený dobrým radám. Lidé rychle přestávají radit tomu, kdo si myslí, že ví všechno."
+  },
+  {
+    "id": 32,
+    "nombre": "DÉLKA",
+    "trigramas": {
+      "superior": "Chen, Co probouzí, Hrom",
+      "inferior": "Slunce, Lo Suave, vítr."
+    },
+    "juicio": "Úspěch. Bez výčitek. Vytrvalost je výhodná. Je výhodné mít kam jít. Trvání je stav, jehož pohyb není překážkami zastaven. Nejedná se o stav klidu, protože samotné zastavení je regrese. Trvání je spíše pohyb, který se uskutečňuje podle určitých zákonů, je sám se sebou v souladu a navíc se neustále obnovuje; naznačuje pohyb, který je rámován a organizován, pevně soustředěn na sebe sama, v němž každý konec je neustále následován novým začátkem. Konec je dosažen pohybem dovnitř, vdechnutím dechu, systolou, koncentrací. Tento pohyb se mění na nový začátek směřující ven: je to výdech, diastola, expanze. Je to tímto způsobem, že nebeská tělesa se pohybují po obloze na svých drahách a mohou tudíž svítit trvale. Roční období se vyvíjejí podle pevného zákona změny a přeměny, a mohou proto působit trvale. Tak člověk, který vyslyšel volání, dává trvalý význam svému způsobu života a svět tím získává formu. Tím věci získávají svou trvání a je možné rozpoznat povahu všech bytostí na nebi i na zemi.",
+    "imagen": "Hrom a vítr: Obraz trvání. Ušlechtilý člověk zůstává pevný a nemění směr. Něčeho trvalého lze dosáhnout pouze postupně prostřednictvím dlouhé práce a pečlivého rozjímání. Lao-c' říká v tomto smyslu: „Když chceš něco stlačit, nejprve to musíš nechat řádně rozšířit.“ Ten, kdo požaduje příliš při prvním pokusu, jedná uspěchaně, a protože chce mít příliš mnoho, nakonec nezíská nic."
+  },
+  {
+    "id": 33,
+    "nombre": "ÚSTUP",
+    "trigramas": {
+      "superior": "Ch'ien, Kreativní, Nebe",
+      "inferior": "Ken, Nehybnost, Hora."
+    },
+    "juicio": "Podmínky jsou takové, že podporují postup nepřátelských sil, podporovaných dobou. V tomto případě je správnou cestou ústup a tím se dosahuje úspěchu. Tento ústup by neměl být zaměňován s útěkem, při kterém se snažíme zachránit za každou cenu. Je třeba dát pozor, aby se nepropásl vhodný okamžik, zatímco člověk zůstává v držení své síly a své pozice. Tehdy budeme schopni vyložit znaky doby dříve, než bude příliš pozdě připravit tento dočasný ústup místo toho, abychom zahájili zoufalý boj mezi životem a smrtí. Ale nejde jen o zoufalý útěk, při kterém se opouští bojiště nepříteli, nýbrž o to učinit jeho postup obtížnějším a stále klást odpor na izolovaných místech. Tímto způsobem si při ústupu člověk již připravuje protiútok. Není snadné pochopit zákony aktivního ústupu. Význam, který taková akce obsahuje, je důležitý.",
+    "imagen": "Hora se tyčí k nebi, ale je v její povaze, že nakonec dokončí své tyčení. Naproti tomu se nebe vzdaluje nahoru dříve než ona, takže zůstává nedostupné. Je to obraz toho, jak by se měl ušlechtilý člověk chovat vůči obyčejnému člověku, který se zvedá. Uzavírá se v sobě a vždy překonává nižšího. Neznepokojuje se, protože nenávist je jakýmsi druhem účasti, díky níž se člověk spojuje s nenáviděným objektem. S důstojností ušlechtilý člověk ukazuje svou sílu (nebe), nutí obyčejného člověka, aby zůstal nehybný (hora)."
+  },
+  {
+    "id": 34,
+    "nombre": "VELKÁ MOC",
+    "trigramas": {
+      "superior": "Chen, Ten, kdo probouzí hrom",
+      "inferior": "Ch'ien Lo Kreativní, Nebe"
+    },
+    "juicio": "Síla toho, co je velké. Vytrvalost je výhodná. Hexagram označuje období, kdy vnitřní síla prudce roste a dosahuje moci. Ale síla již překročila střední linii. Proto existuje nebezpečí, že člověk bude příliš důvěřovat své vlastní síle, aniž by se v každém okamžiku ptal, kde je dobro, a že se bude chtít pustit do akce, aniž by čekal na vhodný okamžik. Proto se přidává věta, že vytrvalost je výhodná. Protože skutečně velká síla je právě ta, která nepřechází v čiré násilí, ale zůstává vnitřně spojena s principy spravedlnosti a práva. Když člověk chápe, že velikost a spravedlnost musí být neoddělitelně spojeny, chápe také skutečný význam všeho, co se děje na nebi i na zemi.",
+    "imagen": "Hrom je nahoře, na nebi. Obraz síly velikého. Takto ušlechtilý člověk nechodí po cestách, které nejsou v souladu s pořádkem. Hrom, elektrická energie, má na jaře pohyb vzhůru. Tento pohyb je v souladu s nebem. Je tedy pohyb v souladu s pohybem nebe, který produkuje sílu velikého. Ale pravá velikost spočívá v souladu s tím, co je správné. Proto v dobách velké moci ušlechtilý člověk vyhýbá se dělat cokoli, co není v souladu s pořádkem."
+  },
+  {
+    "id": 35,
+    "nombre": "Pokrok",
+    "trigramas": {
+      "superior": "Li, Lo Přilnavý, Oheň",
+      "inferior": "K'un, Lo Receptivo, Země"
+    },
+    "juicio": "Je znázorněno, jako příklad, období, kdy mocný feudální pán shromažďuje, v poslušnosti a míru, ostatní knížata kolem panovníka; panovník mu pak nabízí bohaté dary a přitahuje ho do svého bezprostředního okolí. Myšlenka je dvojí. Skutečný efekt pokroku spočívá v mocném muži umístěném na podřízené pozici, kterého ostatní považují za sobě rovného, a následně jej dobrovolně následují. Tento vůdce má dostatečně jasnou vnitřní orientaci, aby nezneužíval velký vliv, který má, ale aby jej využíval ve prospěch učitele (panovníka). Ten je na oplátku zbaven veškeré závisti a neustále přitahuje velkého muže ke svému dvoru a nabízí mu bohaté dary. Učitel a poslušný služebník jsou podmínky velkého pokroku.",
+    "imagen": "Slunce vychází nad zemí. Obraz Pokroku. Ušlechtilý člověk nechává zářit sám od sebe své vlastní světelné dispozice. Světlo Slunce, které se zvedá nad Zemí, je přirozeně jasné. Čím více Slunce stoupá, tím více se odvazuje od zakalených mlh a šíří svou původní čistotu. Taková je skutečná podstata člověka, která je v původu dobrá, ale je zakalená zemským elementem a proto je třeba ji očistit, aby zářila svou původní jasností."
+  },
+  {
+    "id": 36,
+    "nombre": "ZTMĚNĚNÍ SVĚTLA",
+    "trigramas": {
+      "superior": "K'un, Lo Receptivo, Země",
+      "inferior": "Li, Lo Přilnavý, Oheň"
+    },
+    "juicio": "Ztmavení světla. Je vhodné být vytrvalý v nepřízni osudu. V nepříznivých okolnostech by se člověk neměl nechat vést bez odporu ani být bezbranný, dovolujíc, aby se jeho vnitřní vůle podlomila. Ale to je možné jen tehdy, když je člověk uvnitř jasný a navenek pružný a poddajný. I ta nejtěžší nepřízeň osudu je překonána s tímto přístupem. Je pravda, že v některých případech musí člověk skrýt své světlo, aby si udržel vlastní vůli navzdory obtížím vzniklým z bezprostředního okolí. Vytrvalost musí žít v nejintimnějších částech vědomí a nesmí se projevovat navenek. Jen tak je možné udržet vůli nepoškozenou uprostřed obtíží.",
+    "imagen": "Světlo se ponořilo do země: obraz „zatemnění světla.“ Potom šlechtic žije mezi velkým davem, skrývá svůj vzhled a zůstává jasný. V dobách temnoty je důležité být opatrný a zdrženlivý. Není to skrze nerozumné chování, že by si měl člověk zbytečně přivádět nepřekonatelné nepřátele. I když se zvyky lidí nesmějí sdílet, není také vhodné je vystavovat kritice. Za takových okolností není třeba chtít vědět vše. Věci je třeba nechat být, ale bez toho, aby člověk byl jimi oklamán."
+  },
+  {
+    "id": 37,
+    "nombre": "RODINA",
+    "trigramas": {
+      "superior": "Sun Lo Suave, vítr",
+      "inferior": "Li Lo Adherente, oheň"
+    },
+    "juicio": "Rodina má jako svůj základ vztahy mezi manželem a manželkou. Vázající pouto, které udržuje jednotu rodiny, je věrnost a vytrvalost ženy. Její místo je uvnitř (2. tah) a místo muže je navenek (5. tah). Muž a žena se musí podřídit velkým zákonům přírody a zaujmout místo, které jim náleží. Rodina potřebuje mít pevnou autoritu, a to autoritu rodičů. Když je otec skutečně otcem a syn skutečně synem, když starší bratr zaujímá své místo staršího bratra a mladší místo mladšího, když je manžel skutečně manželem a manželka skutečně manželkou, pak v rodině vládne pořádek. Když je rodina v pořádku, všechny společenské vztahy lidstva se také řídí. Tři z pěti sociálních vztahů probíhají uvnitř rodiny: otec a syn - vztah lásky -, mezi manželem a manželkou - vztah úcty - a mezi starším a mladším bratrem - vztah řádu. Láska, která spojuje otce a syna, se sociálně vyjadřuje věrností vůči povinnosti. Náklonnost a řád, které panují mezi sourozenci, se uplatňují v přátelství ve smyslu loajality a v postoji vůči nadřízeným ve formě úcty. Respektující vztah mezi manžely se projevuje jako solidarita, která slouží jako sociální soudržnost. Rodina je prvotní buňkou společnosti, půdou, na které se zakládá uplatňování morálních povinností. Rodina je úzký kruh, kde se v embryonálním stavu nacházejí základy, ze kterých budou vytvořeny všechny lidské vztahy obecně.",
+    "imagen": "Teplo se přeměňuje na sílu, takový je význam větru, který vychází z ohně ve tvaru plamene. Je to vliv, který působí zevnitř směrem ven. Stejný přístup je potřeba při vedení rodiny. Zde vliv rovněž vychází z osobnosti, aby mohl působit na ostatní. Aby byla taková činnost možná, je nutné, aby slova měla sílu, ale to je pravda pouze tehdy, pokud jsou založena na něčem skutečném, stejně jako plamen vychází z žhavé hmoty. Slova mají vliv pouze tehdy, jsou-li relevantní a jasně souvisejí s určitou situací. Proslovy a varování většinou nemají žádný účinek. Kromě toho musí být slova podložena souborem chování, stejným způsobem, jak vítr působí účinně, když je trvalý. Pouze pevná a konzistentní činnost udělá dojem na ostatní, protože oni se budou moci přizpůsobit a regulovat podle ní. Pokud slova a postoje nejsou v souladu a nejsou vůči sobě důsledné, nebudou mít žádný vliv ani účinek."
+  },
+  {
+    "id": 38,
+    "nombre": "OPOSICE",
+    "trigramas": {
+      "superior": "Li Lo Kmitající, Plamen",
+      "inferior": "Tui Lo Gozoso, Jezero"
+    },
+    "juicio": "Opozice. V malých záležitostech štěstí. Když lidé žijí v opozici a vzdáleni jeden od druhého, není možné vykonat velké množství společné práce. Postoje každého se příliš odlišují. Především je důležité nepůsobit přímo a náhle, protože to by zvýraznilo kontrast, ale je třeba omezit se na postupné činnosti spojené s malými věcmi. Zde lze stále očekávat štěstí, protože situace je taková, že opozice nevylučuje veškeré porozumění. Opozice, která se obvykle objevuje jako překážka, obsahuje polaritu protikladů v rámci celku, který je zahrnuje, a její funkce může být dobrá a důležitá. Protiklady mezi nebem a zemí, duchem a přírodou, mužem a ženou realizují skrze rovnováhu stvoření a rozkvět života. Ve světě viditelných věcí umožňuje opozice diferencování druhů, prostřednictvím kterého se ve světě ustavuje řád.",
+    "imagen": "Oheň nahoře, jezero dole: obraz opozice. Proto člověk vznešené povahy uchovává svou odlišnost v celé společnosti. Tyto dva prvky, oheň a voda, i když jsou spolu, se nemísí, ale zachovávají svou vlastní přirozenost. Vzdělaný člověk se prostřednictvím vztahů a zájmů s ostatními nikdy nemůže plně spojit s nimi, ale zachovává svou vlastní zvláštnost v každé společnosti."
+  },
+  {
+    "id": 39,
+    "nombre": "PŘEKÁŽKA",
+    "trigramas": {
+      "superior": "K'an Propast, voda",
+      "inferior": "Ken La Nehybnost, Hora"
+    },
+    "juicio": "Překážka. Jihozápad je výhodný. Severovýchod není výhodný. Je výhodné setkat se s velkým mužem. Vytrvalost přináší štěstí. Jihozápad je oblastí ústupu, severovýchod oblastí postupu. Člověk se setkává s překážkami, které nelze překonat přímo. V takové situaci je moudré zastavit se před nebezpečím, udělat krok zpět a čekat. Jedná se o přípravu k překonání překážek. Člověk by měl spojit své síly se silami přátel a postavit se pod velení někoho, kdo je schopen situaci zvládnout. Tehdy bude dosažen úspěch a podaří se odstranit překážky. To vyžaduje touhu vytrvat, i když se zdánlivě vzdalujeme od cíle. Jasný a rozhodný záměr nakonec přinese štěstí. Překážka, která je pouze přechodná, je užitečná pro vlastní osobní rozvoj. V tom spočívá hodnota protivenství.",
+    "imagen": "Voda nad horou. Obraz překážky. Ušlechtilý muž se obrací k vlastní osobě a rozvíjí svůj charakter. Obtíže a překážky odrazují člověka k sobě samému. Ale zatímco obyčejný člověk se snaží svalit vinu na jiné lidi a stěžuje si na svůj osud, ušlechtilý muž hledá chybu v sobě a prostřednictvím této introspekce se vnější překážka mění ve prostředek pro vlastní obohacení a vnitřní rozvoj."
+  },
+  {
+    "id": 40,
+    "nombre": "OSVOBOZENÍ",
+    "trigramas": {
+      "superior": "Chen Co se probouzí, Hrom",
+      "inferior": "K'an Propast, Voda."
+    },
+    "juicio": "Osvobození. Jihozápad je výhodný. Když už není kam jít, návrat přináší spásu. Pokud ještě existuje místo, kam je třeba jít, spěch přináší štěstí. Odkazuje na období, kdy se napětí a komplikace začínají rozplývat. V těchto okamžicích je třeba se co nejdříve vrátit k obvyklým podmínkám, takový je význam jihozápadu. Jsou to okamžiky velmi důležitých změn. Stejně jako osvobozující déšť uvolňuje atmosférické napětí a vyvolává růst všech výhonků, okamžik, kdy se člověk osvobodí od tíživé zátěže, působí na život osvobozující a povzbuzující účinek. Je však důležité, aby člověk nepřekročil hranice svého vlastního úspěchu. Je nutné nepokračovat dále, než je nezbytně nutné. Jakmile je dosaženo osvobození, návrat k životnímu řádu je spásou. Pokud zůstávají nějaké nevyřešené záležitosti, je třeba je vyřešit co nejdříve, aby se situace vyjasnila a zabránilo se jakémukoli zdržení.",
+    "imagen": "Hrom a déšť se rozplývají: obraz osvobození. Ušlechtilý člověk odpouští chyby a zbavuje viny. Bouřka má čisticí účinek na vzduch; ušlechtilý člověk činí totéž, když odstraňuje chyby a hříchy lidí, které způsobují napětí. Přináší osvobození skrze jasnost. Nicméně, když se odhalí nedostatky, není třeba na nich trvat, ale jednoduše napravit chyby a neúmyslné přestupky, stejně jako hromy mizí, hřích je odpuštěn, tak jako voda očistí všechno od špíny."
+  },
+  {
+    "id": 41,
+    "nombre": "JAZYK",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora",
+      "inferior": "Tui Lo Gozoso, Jezero"
+    },
+    "juicio": "Pokles doprovázený upřímností přináší štěstí bez výčitek. Lze v tom vytrvat. Je výhodné něco podniknout. Co se dá dělat? Lze použít dvě malé misky k oběti. Pokles ne vždy znamená něco špatného. Růst a pokles přicházejí ve svůj čas. Důležité je chápat dobu a nemanipulovat s chudobou falešnými vzhledy. Pokud nám doba nedostatku zdrojů přináší vlastní pravdu, neměli bychom se stydět za svou prostotu. Právě správné naladění dává vnitřní sílu k podniknutí něčeho nového. Nemusíme krmit hořké myšlenky, pokud vnější lesk civilizace a dokonce i realizace náboženských forem musí trpět prostotou. Člověk musí půjčit ze síly vnitřního citu to, co je potřeba k vyvážení nedostatku vnějšího vzhledu. Pevnost chování pomáhá překonat to, co může mít jednoduchost formy na přehnaném. Před Bohem je falešný lesk zbytečný. Také s málo skromnými prostředky lze vyjádřit dispozice srdce.",
+    "imagen": "Na úpatí hory je jezero: obraz úbytku. Ušlechtilý člověk ovládá svůj hněv a panuje nad svými instinkty. Jezero na úpatí hory se odpařuje. V tomto smyslu úbytek prospívá hoře, která se obohacuje díky její vlhkosti. Hora je obrazem tvrdohlavé síly, která se může zkondenzovat hněvem. Jezero je obrazem nekontrolovatelné radosti, která se může proměnit v vášnivé impulsy, když se rozvíjí na úkor životních sil. Je tedy důležité ubírat: hněv musí být zmírněn díky zastavení a instinkty, která jsou zadržovány omezeními. Díky tomuto úbytku nižších sil duše se její vyšší atributy obohacují."
+  },
+  {
+    "id": 42,
+    "nombre": "ZVÝŠENÍ",
+    "trigramas": {
+      "superior": "Slunce Jemně, Vítr",
+      "inferior": "Chen který se probouzí, Hrom."
+    },
+    "juicio": "Vzestup. Je výhodné něčeho se ujmout. Je výhodné přeplout přes velké vody. Obět, která se činí shora, aby se zvýšilo to, co je dole, vytváří u lidí prostředí radosti a vděčnosti, které je nesmírně cenné pro rozkvět komunity. Když jsou muži takto připoutáni ke svým vůdcům, lze něco uskutečnit; i obtížné a nebezpečné záležitosti uspějí. Proto je v těchto dobách vzestupu, jejichž vývoj je doprovázen úspěchem, důležité pracovat a využít moment. Tento čas se podobá páření mezi nebem a zemí, kdy země spolupracuje s tvořivou silou nebe při formování a uskutečňování živých bytostí. Doba zvýšení netrvá, proto by se měla využít, dokud je zde.",
+    "imagen": "Vítr a hromy, obraz růstu. Ušlechtilý člověk, když vidí dobro, napodobuje ho; pokud jsou tam nedostatky, zbavuje se jich. Sledujíc, jak se vítr a hromy navzájem zesilují a posilují, člověk může objevit cestu, jak se zdokonalovat a osobně rozvíjet. Pokud někdo objeví něco dobrého u ostatních, měl by to napodobit a tím si přivlastnit vše dobré, co je na zemi. Pokud člověk zjistí v sobě něco špatného, měl by se toho zbavit. Tak se osvobodí od zla. Tato etická změna je nejdůležitějším růstem osobnosti."
+  },
+  {
+    "id": 43,
+    "nombre": "PROROZENÍ (Rozhodnutí)",
+    "trigramas": {
+      "superior": "Tui Lo Gozoso, Jezero",
+      "inferior": "Ch'ien Lo Kreativní, Nebe."
+    },
+    "juicio": "Vniknutí. Rozhodně je třeba učinit záležitost známou před královským soudem. Pravda musí být vyhlášena. Nebezpečí. Je nutné varovat vlastní město. Není vhodné uchylovat se k zbraním. Je výhodné podniknout něco. Někdy ve městě může jen obyčejný muž s dominantní pozicí podmanit šlechtické muže. Pokud srdce hostí jednu vášeň, může to zastínit rozum. Vášeň a rozum neexistují každý zvlášť, ale bojují bez přestání, aby v ovládající třídě zvítězilo dobro. V rozhodném boji dobra proti zlu existují absolutní pravidla, která nelze ignorovat, pokud chce člověk zvítězit. Rozhodnutí musí vycházet ze spojení síly a přátelství. Kompromis se zlem není možný. Špatné by mělo být vždy otevřeně odmítáno, za jakýchkoli okolností. Ani vlastní vášně ani vady by neměly být tolerovány. Bitva by neměla být vedena násilím. Kdekoliv je zlo odhaleno, pokud se uvažuje o použití zbraní a pokud potěšení spočívá v uchýlení se k síle, odpovídat úderem na úder, člověk má prohrané, protože je zapleten do hry nenávisti a vášně. Proto je důležité nejprve upravit své vlastní záležitosti a zabývat se vlastními vadami, které byly objeveny v sobě. Tím, že nenajdeme protivníky, se síla zla sama neutralizuje. Dokonce i naše vlastní vady by neměly být bojovány přímo: dokud s nimi bojujeme, budou oni vítězit. Nejlepším způsobem, jak bojovat se zlem, je energický postup dobra.",
+    "imagen": "Jezero se zvedlo k nebi, obraz protržení. Takto se vznešené bohatství rozděluje dolů, obávaje se zastavit ve své ctnosti. Když voda jezera stoupá k nebi, lze se obávat přeháňky z mraku. Vznešený člověk to bere jako varování, aby včas předešel násilnému zhroucení. Kdo chce nahromadit bohatství jen pro sebe a bez ohledu na ostatní, zakusí bankrot. Každé nahromadění je ve skutečnosti následováno rozptýlením. Proto vznešený člověk již začíná rozsévat během doby, kdy hromadí. Stejně jako při pěstování svého charakteru dbá, aby se nezastavil tvrdohlavě, nýbrž zůstává otevřený dojmům prostřednictvím neustálého a přísného sebezkoumání."
+  },
+  {
+    "id": 44,
+    "nombre": "PŘIJÍT NA SETKÁNÍ",
+    "trigramas": {
+      "superior": "Ch'ien Lo Kreativní, Nebe",
+      "inferior": "Slunce Jemně, Vítr"
+    },
+    "juicio": "Přicházíme k schůzce. Dívka je mocná. S touto dívkou by se neměl ženit. Vzestup obyčejného člověka (růst podřadného elementu) je malován obrazem atraktivní dívky, která se snadno odevzdává a tak přebírá velení. To by nebylo možné, kdyby se mu silný a zářivý princip osobně nepřišel setkat. Obyčejný člověk se zdá být tak neškodný a tak poslušný, že si ho člověk může vzít za přítele. Zdá se tak malý a slabý, že si člověk myslí na zábavu s ním bez neklidu. Nižší muž povstává jen proto, že ho ušlechtilý muž nepovažuje za nebezpečného a dává mu moc. Kdyby mu od začátku někdo odporoval, nikdy by nezískal vliv. Ale čas, kdy se člověk vydává na setkání, má jiný aspekt, který zasluhuje, aby byl prozkoumán. Pokud pravidlem nemá být, že slabí přicházejí k silným, toto chování však v určitých okamžicích nabývá značného významu. Když se setkají nebe a země, všechny tvory prospívají. Když se setká kníže se svým ministrem, na světě se ustaví pořádek. Je nezbytné, aby se zásady určené k tomu, aby se navzájem vztahovaly, spojovaly navzájem. Tento krok by měl být bez jakýchkoliv druhých úmyslů, jinak by byl špatný.",
+    "imagen": "Pod nebem je vítr: Obraz jednání přicházet vstříc. Tak jedná kníže, když vydává svá nařízení a nechává je vyhlašovat na čtyři světové strany. Situace je podobná situaci hexagramu č. 20 Kuan „kontemplace.“ Tam vítr vane nad zemí a zde vítr vane pod nebem. Vítr je přítomen v obou případech. Ale tam vítr byl nad zemí; tehdy to byl nízký vítr, který si uvědomoval podmínky království. Zde vítr vane nahoře, což naznačuje vliv, který vládce uplatňuje svými nařízeními. Nebe je vzdálené věcem, které jsou na zemi, ale pohybuje je větrem. Vládce je vzdálen lidu, ale hýbe jím svými nařízeními a vyjádřením své vůle."
+  },
+  {
+    "id": 45,
+    "nombre": "SCHŮZKA",
+    "trigramas": {
+      "superior": "Tui Lo Gozoso, Jezero",
+      "inferior": "K'un Lo Receptivní, Země"
+    },
+    "juicio": "Setkání. úspěch. Král se blíží k chrámu. Je výhodné vidět velkého muže. To přináší úspěch. Vytrvalost je výhodná. Velké oběti přinášejí štěstí. Je prospěšné něco podniknout. Setkávání lidí v komunitách určitého významu je přirozené, jako v rámci rodiny, nebo umělé, jako ve státě. Trvání těchto setkání se uskutečňuje prostřednictvím uctívání předků, při této příležitosti se schází celý klan. Prostřednictvím kolektivní oddanosti se předci integrují do duchovního života svých potomků, umožňující, aby se komunita nerozpadla ani nerozplynula. Když se lidé musí shromáždit, náboženská moc je nutná, ale nedostatečná. Dále musí být přítomna autorita nebo lidský vedoucí jako střed schůzky. Aby mohl shromáždit ostatní, musí tento střed schůzky předem morálně souhlasit sám se sebou. Prostřednictvím ztišení se morální síla zvětšuje a umožňuje shromáždit lidi. V těchto velkých obdobích sjednocení se hojně daří velkým dílům. To je význam činění velkých obětí nebo darů. Ve veřejné a světské oblasti se také velká díla uskutečňují na základě setkání kolem kolektivní dohody.",
+    "imagen": "Nad zemí je jezero: obraz setkání. Ušlechtilý člověk obnovuje své zbraně, aby předešel nečekanému. Pokud se voda z jezera hromadí a přelévá přes zem, hrozí nebezpečí přetečení. (2) Je třeba přijmout opatření, aby se tomu zabránilo. Podobně, když se lidé shromažďují ve velkém počtu, mohou vzniknout konflikty. Zloději se potulují tam, kde se hromadí majetek. Proto je v době sklizně a žní nutné se chránit před nečekaným obnovou obrany a zbraní. Lidské zlo a utrpení často vyplývají z nepředvídatelných událostí, na které nebylo připraveno. Pokud je člověk připraven, lze je předejít."
+  },
+  {
+    "id": 46,
+    "nombre": "TLAK NAHORU",
+    "trigramas": {
+      "superior": "K'un Lo Receptivní, Země",
+      "inferior": "Slunce Lo Jemný Vítr, Dřevo"
+    },
+    "juicio": "Výtah vzhůru má vznešený úspěch. Musíte spatřit velkého muže. Nebojte se! Vydat se na jih přináší štěstí. Výtah vzhůru cenných prvků nenaráží na žádnou překážku, proto je provázen velkým úspěchem. Postoj, který umožňuje výtah vzhůru, není násilný, ale pokorný a poslušný. Ale když je člověk veden příznivými dispozicemi doby, postupuje. Je třeba postupovat a hledat osoby, které zastavují autoritu. Není třeba se toho bát, protože úspěch je zajištěn. Stačí se pustit do práce, protože aktivita (to je symbolizováno jihem) je zdrojem štěstí.",
+    "imagen": "Uprostřed země roste les: obraz vzestupu. Tak se ušlechtilý člověk odevzdává přírodě, hromadí malé věci, aby vytvořil věci veliké a vznešené. Les na zemi roste bez spěchu a bez uspěchaní vzhůru, poslušně obtáčející překážky. Ušlechtilý a věrný svému charakteru člověk nikdy nezahálí ve svém pokroku."
+  },
+  {
+    "id": 47,
+    "nombre": "PŘETÍŽENÍ (Vyčerpání)",
+    "trigramas": {
+      "superior": "Tui Lo Gozoso, jezero",
+      "inferior": "K'an Abys, Voda"
+    },
+    "juicio": "Tíseň. Úspěch. Vytrvalost. Velký muž vytváří štěstí. Bez výčitek. Když má někdo něco říct, není mu věřeno. Časy nepřízně jsou opakem časů úspěchu. Ale mohou vést k úspěchu, pokud se najde vhodný člověk. Když je silný muž bezmocný, zůstává klidný a ostražitý navzdory všem nebezpečím, a tato opatrnost je zdrojem jeho následného úspěchu. Jeho pevnost je silnější než osud. Kdo nechá svého ducha zlomit útlakem, nebude úspěšný. Kdo je nepřízní osudu jen ohnut, ale sílu k reakci si vytvoří, časem určitě najde světlo. Vulgarští lidé toho nejsou schopni. Pouze ušlechtilý člověk přináší se sebou štěstí a zůstává bez výčitek. Je pravda, že v tuto chvíli není jeho vliv uznáván a že jeho slova nemají žádný účinek. Proto je v dobách nepřízně důležité zůstat vnitřně silný a střízlivý ve slovech.",
+    "imagen": "Na jezeře není voda: obraz vyčerpání. Ušlechtilý člověk riskuje svůj život, aby dosáhl svých cílů. Když voda byla odvedena zpod jezera, musí se jezero vyčerpat a vyschnout. Takový je osud. Je to obraz nepříznivého osudu v lidském životě. V takových dobách nelze dělat nic jiného než přijmout osud a zůstat věrný sám sobě. Zde se odkazuje na nejhlubší vrstvu pravé podstaty bytí, protože jen ta je nad jakýmkoli vnějším osudem."
+  },
+  {
+    "id": 48,
+    "nombre": "VELKÁ STUDNA",
+    "trigramas": {
+      "superior": "K'an El propast, voda",
+      "inferior": "Slunce hladké, vítr, les"
+    },
+    "juicio": "Studna. Můžeme změnit město, ale nemůžeme změnit studnu. Nemenší ani nezvětšuje. Chodí a přicházejí a nabírají vodu ze studny. Skoro se dostali k vodě, ale pokud lano nedosáhne úplně dolů nebo pokud se džbán rozbije, to přináší neštěstí. Ve staré Číně byly někdy hlavní města přesouvána, buď protože nové místo se zdálo příznivější, nebo protože se změnila dynastie. Styl budov se v průběhu staletí měnil, ale forma studny přetrvává stejná od nejstarší antiquity až do našich dnů. Studna je tedy obrazem sociální organizace lidstva ve jeho nejprimitivnějších životních potřebách; tato organizace je nezávislá na všech politických formách. Politické formy, národy se mění, ale život lidí se svými nároky zůstává vždy stejný. Nechává se modifikovat. Tento život je také nevyčerpatelný. Nesnižuje se ani nezvyšuje a existuje pro všechny. Generace přicházejí a odcházejí a všichni si užívají života v jeho nevyčerpatelné hojnosti. Každopádně dobrá politická a sociální organizace vyžaduje dvě podmínky. Je třeba sestoupit až k základům samotného života. Každý povrchní přístup při stanovování pravidel života, který nechává životní potřeby neuspokojené, je tak nedokonalý, že chybí jakýkoli pokus o reformu. Stejně špatná je i nedbalost, která způsobuje, že džbán se rozbije. Pokud je například vojenská obrana státu vedena do takového extrému, že vyvolá válku a tím přivede stát k zničení, je to totéž, co rozbit džbán. Hexagram se uplatňuje stejným způsobem i u jednotlivců. Různé dispozice a odlišné vzdělání mezi lidmi vedou k rozmanitosti mezi národy. Ale lidská přirozenost je v základu vždy stejná u všech lidí. Člověk může během svého formování čerpat ze studnice nevyčerpatelné božské přirozenosti, která je podstatou člověka. Ale tam ho ohrožují dva nebezpečí: první je, že člověk během svého vzdělávání nepronikne až do skutečných kořenů lidství, ale zůstane uvězněn ve zvycích (takové vzdělávání je stejně špatné jako jeho absence), a druhé, že se náhle propadne a opustí formování svého já.",
+    "imagen": "Voda nad lesem: obraz studny. Ušlechtilý člověk povzbuzuje lidi v jejich práci a nabádá je, aby si navzájem pomáhali. Dole je trigram Sun, les; nahoře je trigram K'an, voda. Les nasává vodu vzhůru. Stejně jako les, jakožto organismus, napodobuje jednání studny a snaží se o dobro všech částí rostliny, ušlechtilý člověk uspořádává lidskou společnost tak, aby její členové, podobně jako v rostlinném organismu, spolupracovali pro dobro všech."
+  },
+  {
+    "id": 49,
+    "nombre": "REVOLUCE (Tichá)",
+    "trigramas": {
+      "superior": "Tui, To příjemné, jezero",
+      "inferior": "Li, Lo kolísavý, oheň"
+    },
+    "juicio": "Revoluce. Ve svém vlastním dni jsi přesvědčený. Vytrvalost podporuje největší úspěch. Výčitky svědomí mizí. Politické revoluce jsou záležitosti nesmírně závažné. Měly by být podniknuty pouze v případě krajní nutnosti a jen tehdy, když není jiná možnost. Ne každý je povolán k takové akci, ale jen ten, kdo má důvěru lidu, a nezačne ji, dokud nebude doba příznivá. V takové záležitosti je nutné postupovat správně, aby bylo možné potěšit lid a objasnit situaci, vyhnout se přehánění. Kromě toho je třeba zůstat bez jakéhokoli sobeckého úmyslu a skutečně se starat o potřeby lidu. Teprve za těchto podmínek není místo pro výčitky svědomí. Časy se mění a v důsledku toho se stávají odlišnými i požadavky. Stejně jako se mění roční období během roku, existuje také jaro a podzim v obcích a národech vesmíru, které vyžadují společenské transformace.",
+    "imagen": "Oheň na jezeře. Obraz revoluce. Tak ušlechtilý člověk řídí kalendář a objasňuje čas. Oheň nahoře a jezero dole bojují a vzájemně se ničÍ. Tak se během roku odehrává boj mezi světelnými silami a temnými silami, který se rozvíjí s proměnou ročních období. Člověk může ovládat změny přírody, když si uvědomí jejich pravidelnost a podle toho rozdělí běh času. Takto je do chaotického vzhledu časové posloupnosti zaveden řád a jas a člověk se může předem přizpůsobit požadavkům různých období."
+  },
+  {
+    "id": 50,
+    "nombre": "KOTLÍK",
+    "trigramas": {
+      "superior": "Li Lo Oscilante, Oheň.",
+      "inferior": "Slunce Lehký, Vítr, Dřevo"
+    },
+    "juicio": "Kotel. Nejvyšší štěstí. Úspěch. Zatímco „Studna“ se zabývá sociálními základy lidské komunity, což je jako voda, která slouží jako potrava pro les, zde se ukazuje kulturní nadstavba společnosti. Zde je to les, který slouží jako potrava plameni, duchovnímu počátku. Vše, co je viditelné, musí pokračovat ve své evoluci a přejít do neviditelného. Takto získává své zasvěcení a legitimní jasnost a pevně se zakořeňuje v celku vesmíru. Zde se ukazuje kultura, která vrcholí v náboženství. Kotel slouží božským obětem. To nejvyšší v pozemském řádu musí být nabídnuto božstvu. Ale to, co je skutečně božské, se neprojevuje odděleně od lidského. Nejvyšší zjevení Boha se nachází v prorocích a svatých. Ctít je je skutečný způsob, jak uctívat Boha. Boží vůle, která se jimi zjevuje, musí být přijata s pokorou; dochází pak k vnitřnímu osvícení a skutečnému porozumění vesmíru, což vede k velkému štěstí a velkému úspěchu.",
+    "imagen": "Nad dřívím je oheň. Obraz kotle. Tak ušlechtilý člověk zajišťuje svůj osud tím, že udržuje správnou pozici. Dříví je osudem ohně; dokud je dole dříví, nahoře hoří oheň. To samé se děje v lidském životě. Stejně tak v člověku existuje osud, kterému život dává sílu. A když se to stane, život a osud mají své spravedlivé místo a osud se posiluje tím, že život těsně podle něj sjednotí. Tato slova obsahují pokyny o tom, jak kultivovat život, tak jak se předávají ústně v tajném učení praktického čínského jógy."
+  },
+  {
+    "id": 51,
+    "nombre": "VZRUŠENÍ (Otřes, Hrom)",
+    "trigramas": {
+      "superior": "Chen Vzrušení, hrom",
+      "inferior": "Chen Vzrušení, hrom"
+    },
+    "juicio": "Otřes přináší úspěch. Otřes nastává: hu! hu! Veselá slova ha! ha! Otřes šíří strach na vzdálenost sto mil. Nepustí rituální lžíci a kalich. Otřes vyvolaný zjevením Boha na zemi způsobuje člověku strach, ale tento strach z Boha je dobrý, protože mu umožňuje pokračovat s vnitřní radostí a štěstím. Pokud člověk získal vnitřní poznání toho, co je strach a třes, je chráněn před otřesy, které by mohly způsobit vnější vlivy. I když hřmění duní natolik, že rozsévá strach sto mil daleko, zůstává člověk vnitřně tak plný klidu a úcty, že nepřerušuje obětní rituály. Tak hluboká a intimní vážnost, na kterou bezmocně narážejí všechny vnější důvody strachu, je duchovní dispozice, kterou musí mít vůdci lidí a vládci.",
+    "imagen": "Opakující se hromobití: obraz otřesu. Skrze strach a chvění si ušlechtilý člověk uvádí svůj život do pořádku a zkoumá sám sebe. Opakující se hromy přinášejí otřes, který přináší strach a chvění. Tak ušlechtilý člověk vždy zachovává postoj úcty před projevem Boha; uvádí svůj život do pořádku a zkoumá své srdce, aby zjistil, že se nic tajně neprotiví boží vůli. Tak je strach základem pravého umění života."
+  },
+  {
+    "id": 52,
+    "nombre": "NEPOHYBLIVOST, HORA",
+    "trigramas": {
+      "superior": "Ken, Nehybnost, Hora",
+      "inferior": "Ken, Nehybnost, Hora"
+    },
+    "juicio": "Nepohyblivost zad, aby už necítil své tělo. Vstupuje do dvora a už nevidí své lidi. Bez výčitek. Skutečný odpočinek je ten, kdy člověk přestane, když se pohyb zastaví, a pohybuje se, když nastane čas se pohybovat. Tak odpočinek a pohyb jsou v harmonii s požadavky času a tehdy se vidí zrození světla a života. Hexagram je konec a začátek všeho pohybu. Zmiňuje se záda, protože jsou sídlem všech nervových center, která přenášejí pohyb. Když se zastaví pohyb hrudních nervů, vidí se do určité míry, že ego a jeho neklid mizí. Když člověk dosáhne takového vnitřního klidu, může se obrátit k vnějšímu světu. Tak přestane v něm vnímat boj a zmatek jednotlivých bytostí a má proto potřebný klid, aby pochopil velké zákony univerzálních jevů a přizpůsobil jim své chování. Kdo jedná z takové hloubky, už nečiní přestupky.",
+    "imagen": "Shromážděné hory, obraz nehybnosti. Takto vyšší člověk nedovolí, aby jeho myšlenky překročily jeho situaci. Srdce stále myslí. To nelze změnit, ale pohyb srdce, to jest myšlenky, musí být omezen na okamžitou životní situaci. Všechny sny a spekulace, které jdou příliš daleko, pouze zraní srdce."
+  },
+  {
+    "id": 53,
+    "nombre": "ROZVOJ (Postupný pokrok)",
+    "trigramas": {
+      "superior": "Slunce, Lo Suave, Vítr, Dřevo",
+      "inferior": "Ken, Nehybnost, Hora"
+    },
+    "juicio": "Vývoj. Dívka je provdána. Štěstí. Vytrvalost je výhodná. Pomalé váhání určuje posloupnost událostí, na jejímž konci dívka následuje muže do jeho domu. K dokončení manželství je třeba splnit několik formalit. Tento postupný vývoj může být stále aplikován i na jiné situace a vždy, zejména, na oblast správných vztahů v spolupráci, například na způsob, jakým je přijímán úředník. Je třeba dávat pozor, aby se postupovalo v harmonické posloupnosti. Přehnaná spěchání by nepřinesla nic dobrého. Stejné platí, když chce člověk ovlivnit ostatní. Protože i tam je harmonická forma postupu formováním vlastní osobnosti. Jakýkoli vliv založený na rozrušení je jen krátkodobý. Stejně tak musí vnitřní vývoj jít stejnou cestou, pokud chceme dosáhnout trvalých výsledků. To, co je měkké a zároveň vyvíjí tlak, je vnější projev, který musí vycházet z vnitřního klidu. Právě postupná povaha vývoje umožňuje nezbytnou vytrvalost, protože pouze vytrvalost zabraňuje tomu, aby se pomalý pokrok ztratil v písku.",
+    "imagen": "Na hoře, strom. Obraz rozvoje. Ušlechtilý člověk se drží důstojnosti a ctnosti, aby zlepšil obyčeje. Strom na hoře je viditelný zdaleka a jeho rozvoj mění krajinu celého regionu. Neobjevují se náhle jako rostliny v bažinaté oblasti, ale jejich růst postupuje pomalu. Stejně tak působení na lidi může být pouze postupné. Žádný náhlý vliv ani nečekané probuzení nemají trvalý účinek. K dosažení tohoto pokroku v myšlení a veřejných obyčejích je nezbytné, aby osobnost získala vliv a sebedůvěru. Toho se dosahuje pečlivou a vytrvalou prací, která směřuje k osobnímu rozvoji."
+  },
+  {
+    "id": 54,
+    "nombre": "SVATBA DĚVICE",
+    "trigramas": {
+      "superior": "Chen Co se probouzí, Hrom",
+      "inferior": "Tui Lo Gozoso. Jezero"
+    },
+    "juicio": "Nevěsta na vdávání. Podniky přinášejí neštěstí. Nic, co by bylo výhodné. Dívka, kterou berou do rodiny, aniž by byla hlavní ženou, se musí chovat s velkou obezřetností a zdrženlivostí. Nesmí se rozhodnout nahradit paní domu, protože by to znamenalo nepořádek a situace by se stala neudržitelnou. To platí pro všechny volné vztahy mezi lidmi. Zatímco pořádané vztahy obvykle představují spojení povinnosti a práva, lidské vztahy založené na náklonnosti se, pokud mají trvat, zakládají na taktní zdrženlivosti. Tato sklonost jako princip vztahů má velký význam ve všech podmínkách vesmíru, protože existence celé přírody spočívá na spojení nebes a země; stejně u lidských bytostí představuje volná sklonost jako princip spojení alfa a omega.",
+    "imagen": "Hrom nad jezerem: obraz panny připravené k vdavkám. Takto ušlechtilý člověk chápe přechodné věci ve světle konečné věčnosti. Hrom rozhýbe vodu jezera, které následuje svůj impuls s zářivými vlnami. Je to obraz mladé dívky, která následuje muže svého výběru. Avšak každé vzájemné spojení lidí obsahuje v sobě nebezpečí, že se vniknou temné prvky, přinášející nedorozumění a nekonečné nelibosti. Proto je důležité nikdy neztratit z očí cíl. Pokud podlehneme impulsům, člověk se setkává a rozchází podle inspirace okamžiku. Pokud naopak máme vždy před očima cíl, podaří se nám vyhnout úskalím, která nevyhnutelně vznikají ve vzájemných vztazích mezi lidmi."
+  },
+  {
+    "id": 55,
+    "nombre": "HOJNOST",
+    "trigramas": {
+      "superior": "Chen Co se probouzí, Hrom",
+      "inferior": "Li, Lo se chvějící, plamen."
+    },
+    "juicio": "Bohatství má úspěch. Král dosahuje naplnění. Neměl bys být smutný, ale měl bys být jako polední slunce. Zavedení éry velikosti a nejvyššího bohatství je osud, který není vyhrazen všem smrtelníkům. Schopnost uskutečnit takové dílo musí být darem muže, který se narodil k vládnutí ostatním, protože jeho vůle je zaměřena k tomu, co je veliké. Často je čas takového naplnění krátký. Proto by měl moudrý člověk právo být smutný při pohledu na úpadek, který přijde. Avšak takový smutek mu neprospívá. Jen muž vnitřně svobodný od úzkosti a smutku je schopný přinést éru hojnosti. Musí být jako polední slunce, které osvětluje a utěšuje všechny bytosti pod nebem.",
+    "imagen": "Blesk a hrom přicházejí společně: obraz hojnosti. Ušlechtilý člověk rozhoduje v sporech a vykonává tresty. Tento hexagram má jistý vztah s č. 21 „kousat skrz“, kde jsou hrom a blesk rovněž spojeny, ale v opačném pořadí. Zatímco tam byly zákony určovány s vervou, zde jsou uplatňovány a vykonávány. Uvnitř umožňuje jasnost přesné studium faktů, a navenek třesení zajišťuje přísné vykonání trestu."
+  },
+  {
+    "id": 56,
+    "nombre": "Cestovatel",
+    "trigramas": {
+      "superior": "Li, Ten Kmitající, Oheň",
+      "inferior": "Ken, Nehybnost, Hora"
+    },
+    "juicio": "Cestovatel. Úspěch skrze malé. Vytrvalost je pro cestovatele výhodná. Když je člověk cestovatel a cizinec, neměl by být ani chladný, ani domýšlivý. Člověk nemá kruh vztahů, takže se nemůže vyzdvihovat. Je třeba být opatrný a zdrženlivý, tímto způsobem se člověk uchrání před zlem. Pokud je člověk zdvořilý k ostatním, bude úspěšný. Cestovatel nemá stálé bydliště, cestování je jeho domovem. Proto musí být pozorný, aby byl vždy vnitřně spravedlivý a pevný, aby se nezastavoval kromě příznivých míst a aby se stýkal pouze s dobroumi lidmi. Pak dosáhne dobrého štěstí a může pokračovat ve své cestě, aniž by byl obtěžován.",
+    "imagen": "Na hoře je oheň, obraz poutníka. Tak má ušlechtilý člověk jasného ducha a je opatrný při uvalování trestů a žádné spory neprotahuje. Když se tráva na hoře vznítí, zaznamená se jasné záření. Oheň se však nezdržuje na jednom místě, ale pohybuje se hledaje další palivo. Je to dočasný jev. Něco podobného by měly být tresty a rozsudky. Musí být překonány rychle a neprodloužovat se nekonečně. Věznice by měly být místa, kde lidé pobývají jen dočasně, jako hosté. Neměly by se stát trvalými rezidencemi pro lidi."
+  },
+  {
+    "id": 57,
+    "nombre": "LO DÓCIL (To pronikavé, vítr)",
+    "trigramas": {
+      "superior": "Slunce, Lo Suave, vítr, les",
+      "inferior": "Slunce, Lo Suave, vítr, les"
+    },
+    "juicio": "Poddajné. Úspěch skrze malé věci. Je výhodné mít místo, kam jít. Je výhodné vidět velkého muže. Pronikání produkuje postupné a nenápadné účinky. Nesmí se dosahovat násilnými prostředky, ale nepřetržitým vlivem. Tyto účinky méně zaujmou zrak než ty získané překvapením, ale jsou trvalejší a úplnější. Aby bylo možné jednat takto, je třeba mít jasně stanovený cíl, protože jen pronikavý vliv působící vždy stejným směrem dosáhne výsledku. Slabá síla může vyvolat účinek pouze tehdy, když se podřídí autoritě vysoce postaveného muže, schopného vytvořit pořádek.",
+    "imagen": "Větry, které následují. Obraz toho, co proniká jemně. Tak ušlechtilý člověk šíří své rozkazy všude a uskutečňuje své podniky. Penetrační vlastnost větru spočívá v jeho nepřetržité povaze. Proto se vítr stává mocným. Využívá čas jako prostředek k jednání. Stejně tak myšlení vládce musí proniknout duší lidu. Kromě toho je vyžadována trvalá činnost v oblasti vysvětlování a udílení rozkazů. Pouze když rozkaz pronikne duší lidu, je možné počítat s jejich podporou. Nepřipravené jednání vyvolává pouze strach a odpudivost."
+  },
+  {
+    "id": 58,
+    "nombre": "TO PŘÍJEMNÉ, JEZERO",
+    "trigramas": {
+      "superior": "Tui, To radostné, Jezero",
+      "inferior": "Tui, To radostné, Jezero"
+    },
+    "juicio": "Radostné. Úspěch. Vytrvalost je příznivá. Radostná nálada je nakažlivá a sdílná, a proto vede k úspěchu. Ale je nutné, aby radost byla založena na pevnosti, aby nepřerostla v něco nekontrolovatelného. Pravda a síla musí přebývat v srdci, zatímco sladkost se projevuje ve vztazích s ostatními. Tímto způsobem se přijímá správný postoj k Bohu a k našim bližním, který vede k určitému výsledku. V některých okolnostech se dají dosáhnout okamžité účinky zastrašováním bez sladkosti, ale ty nejsou trvalé. Naopak, pokud se srdce našich bližních získají přátelstvím, dosáhne se toho, že budou ochotně přijímat obtížné věci a dokonce se budou moci postavit smrti bez strachu. Tak velká je moc radosti nad lidmi.",
+    "imagen": "Jezera odpočívající jedno nad druhým. Obraz radosti. Tak postupuje ušlechtilý člověk, když shromažďuje své přátele, aby se radili a jednali. Jedno jezero se postupně odpařuje a vysychá. Ale když jsou dvě jezera vzájemně propojena, nevysychají tak snadno, protože se navzájem obohacují. Totéž se děje v oblasti poznání. Vědění by mělo být osvěžující a obnovující silou. Toho lze dosáhnout pouze prostřednictvím podnětné výměny s přáteli, se kterými lze diskutovat a praktikovat životní pravdy. Vědění se tak stává záležitostí výměny a je obdařeno radostnou jemností, zatímco věda samouka má vždy něco jednostranného a těžkopádného."
+  },
+  {
+    "id": 59,
+    "nombre": "ROZTOK (Rozptýlení)",
+    "trigramas": {
+      "superior": "Slunce Jemně, Vítr",
+      "inferior": "Kan El Abismo, Voda."
+    },
+    "juicio": "Rozpuštění. Úspěch. Král se přibližuje ke svému chrámu. Je výhodné překročit velké vody. Vytrvalost je výhodná. Text hexagramu se podobá textu T'sui, „shromáždění, ústraní, ...“ (č. 45). Tam šlo o shromáždění toho, co bylo odděleno, jako se voda hromadí v jezerech na zemi. Zde se jedná o rozptýlení a rozpuštění sobectví, které odděluje. Hexagram „rozpuštění“ ukazuje nějakým způsobem cestu, která vede k shromáždění, k ústraní. To vysvětluje analogii textů. K překonání sobectví, které rozděluje, člověk potřebuje náboženskou sílu. Společné slavení slavnostních obětí a božských obřadů, které zároveň vyjadřují soudržnost a sociální strukturu rodiny a státu, bylo prostředkem, který velcí panovníci používali k tomu, aby srdce sjednotili stejnými emocemi díky vytvořené hudbě a pompě obřadů a aby je učinili si vědomými společného původu všech bytostí. Tak byla překonávána odloučení a všechny tvrdosti se spojovaly. Další formou byla společná práce na velkých kolektivních podnicích, které kladly velký cíl vůli; soustředění na tento cíl odstraňovalo vše, co rozděluje, stejně jako loď, která překonává velkou řeku a všichni pasažéři jsou spojeni v společném úsilí. Každopádně je schopen tát tvrdost a sobectví pouze ten, kdo je osvobozen od parazitického sobectví a zůstává ve spravedlnosti a pevnosti.",
+    "imagen": "Vítr fouká nad vodou: obraz rozpuštění. Takto starověcí králové obětovali Pánu a stavěli chrámy. Na podzim a v zimě voda tuhne a mrzne. Když přijdou jemné jarní vánek, tuhost ustupuje a to, co bylo rozptýlené v kramflecích, se spojí a shromáždí. Je to stejné ve duchu lidu. Tvrdost a sobectví tvrdí srdce a tato tuhost ho odděluje od všeho ostatního. Hamižnost a sobectví izolují lidi; proto je potřebný náboženský cit, který ovládne srdce. Musí se rozplynout, naplněni posvátným strachem před věčností, cítit se ovládáni dojmem při přítomnosti tušeného tvůrce všech bytostí a zažít jednotu díky síle pocitu společenství vnímaného během uctívání božstva."
+  },
+  {
+    "id": 60,
+    "nombre": "OMEZENÍ",
+    "trigramas": {
+      "superior": "K'an El propast, voda",
+      "inferior": "Tui Lo příjemné, jezero"
+    },
+    "juicio": "Omezení. Úspěch. Hořké omezení by nemělo být praktikováno vytrvalostí. Limity jsou bolestivé, ale vedou k úspěchu. Šetřením peněz v každodenním životě se připravujeme na čelení období nedostatku. Při odchodu do důchodu se vyhneme ponížení. Limity jsou také nezbytné pro harmonii vztahů ve světě. Příroda má konkrétní limity pro léto a zimu, pro den a noc, a tyto limity dávají smysl roku. Podobně ekonomika, když stanoví přesné limity výdajů, zajišťuje uchování majetku a zabraňuje újmu lidem. Přesto je nutné pozorovat míru i v omezení. Pokud by člověk chtěl uvalit příliš přísná omezení na svou vlastní přirozenost, trpěla by tím. Pokud by člověk chtěl přílišně omezit druhé, vzbouřili by se. Proto jsou i při omezení hranice nutné.",
+    "imagen": "Nad jezerem je voda: obraz omezení. Tak šlechetný člověk vytváří číslo a míru a zkoumá, co jsou ctnost a správné chování. Jezero je něco konečného; voda je nevyčerpatelná. Jezero může pojmout jen určité množství nekonečné vody. Zde spočívá jeho vlastnost. Také stanovením a vytyčením hranic v životě jedinec získává svůj význam. Proto jde o to, stanovit tyto hranice velmi jasně, protože jsou jako páteř morálky. Neomezené možnosti nejsou pro člověka vhodné. Jeho život by se pak pouze spojil s neurčitem. Aby se stal silným, potřebuje hranice volně stanovené, které představují povinnost. Jedinec nabývá svého významu jakožto svobodný duch až tehdy, když se obklopí hranicemi a svobodně se ustanoví k tomu, aby odpovídal na rozkaz povinnosti."
+  },
+  {
+    "id": 61,
+    "nombre": "VNITŘNÍ PRAVDA",
+    "trigramas": {
+      "superior": "Slunce Jemně, Vítr",
+      "inferior": "Tui Lo Gozoso, Jezero"
+    },
+    "juicio": "Vnitřní pravda. Prasata a ryby. Dobré štěstí. Bude užitečné přeplout velký proud. Vytrvalost je vhodná. Prasata a ryby jsou nejméně duchovními tvory stvoření, a proto jsou nejtěžší k ovlivnění. Síla vnitřní pravdy musí dosáhnout vysokého stupně, než svou působnost rozšíří na bytosti tohoto druhu. Při jednání s tvrdohlavými lidmi, těžko ovlivnitelnými jako prasata a ryby, spočívá tajemství úspěchu v nalezení správného způsobu, jak se k nim přiblížit. Nejprve je nutné se vnitřně osvobodit od všech předsudků a prakticky nechat psychiku druhé osoby proniknout do nás bez omezení. Jen tak se můžeme vnitřně přiblížit k našemu partnerovi, porozumět mu a získat nad ním moc. Když byla takto otevřena nějaká dveře, může na ně působit síla vlastní osobnosti. Tímto způsobem neexistují nepřekonatelné překážky a lze se pustit do nebezpečnějších činů, jako je překročení velkého proudu, a uspět. Co je podstatné pochopit, je základ vnitřní pravdy. Není totožný s pouhou intimitou nebo tajnou solidaritou. Taková intimní solidarita může existovat také mezi zloději. Bezpochyby i v tomto případě představuje sílu. Ale nevede k štěstí, protože není nepřemožitelná. Všechna spojenectví založená na společném zájmu jsou platná do určité míry. Kde končí společenství, končí i spojenectví, a nejsvážnější přátelství se často mění v nenávist. Pouze když je základ založen na spravedlnosti a pevnosti, zůstává pouto dostatečně silné, aby překonalo vše.",
+    "imagen": "Vítr nad jezerem: obraz vnitřní pravdy. Tak ušlechtilý člověk debatuje o trestných záležitostech, aby oddálil vykonání trestů. Vítr vlní vodu, protože může proniknout do jejích mezer. Ušlechtilý člověk, když má soudit chyby druhých, se snaží proniknout do jejich vnitřního porozumění, aby získal hodnocení podle okolností. Ve staré Číně byla celá správa spravedlnosti vedena tímto principem. Hluboké porozumění, které dokáže odpouštět, bylo považováno za nejvyšší spravedlnost. Takový přístup nebyl neplodný, protože měl vyvolat silný morální dojem a lidé se báli zneužít takovou laskavost. Nevycházel ze slabosti, ale z vyššího morálního citu."
+  },
+  {
+    "id": 62,
+    "nombre": "PŘEVÁHA MALÉHO",
+    "trigramas": {
+      "superior": "Chen Co Vzbudí, Hrom",
+      "inferior": "Ken V Nehybnosti, Hora"
+    },
+    "juicio": "Převaha malého. Úspěch. Vytrvalost je výhodná. Lze dělat malé věci, nelze dělat velké věci. Pták, který létá, přináší zprávu. Není dobře usilovat o vzestup, je dobře zůstat v nízkém. Velké štěstí. Výjime Humility a jemná svědomí budou jistě odměněny úspěchem. Hlavní je přesto, aby tyto schopnosti nepředstavovaly prázdný formalismus a aby nevycházely z podřízené povahy; ale aby zůstaly spojeny s důstojností, která patří k osobnímu chování, tak, aby se člověk nezneuctil. Je třeba pochopit požadavky okamžiku a najít správné doplňky k nedostatkům a škodlivým aspektům času. V každém případě by člověk neměl podlehnout iluzi o velkém úspěchu, protože k tomu chybí energie. Proto je třeba věnovat zvláštní pozornost přiložené zprávě, aby se neusilovalo o vysoké reality, ale stačilo se těm nejnižším. Skutečnost, že zprávu přináší pták, vyplývá z tvaru znaku. Čtyři silné a těžké tahy uvnitř, které v hexagramu Ta Kuo „Převažování velkého“ (č. 28) jsou podepřeny pouze dvěma slabými tahy venku, vytvářejí obraz hřebene krovu. Zde jsou lehké podpůrné tahy na vnější straně a je jich více, to dává obraz ptáka, který klouže vzduchem. Každopádně pták by se neměl ukazovat domýšlivý a létat výše než Slunce, ale měl by se snést na zem, kde je jeho hnízdo. Tak předává poselství vyhlášené hexagramem.",
+    "imagen": "Hrom na hoře. Obraz převahy malého. Ve svém chování dává ušlechtilý člověk převahu úctě; v truchlení převahu zármutku; ve svých výdajích převahu hospodárnosti. Hrom na hoře je odlišný od hromu na rovině. Na hoře jsou hromy mnohem bližší; zatímco mimo hornaté oblasti jsou hromy obyčejné bouřky méně slyšitelné. Ušlechtilý člověk si z tohoto obrazu bere požadavek mít svou povinnost na paměti nade vše a způsobem přímějším a okamžitějším než běžný člověk, i když jeho chování se všem může jevit jako malicherné. Musí být výjimečně přesný ve svých činech. V duelu by skutečné soucitování mělo mít pro něj větší hodnotu než zevnější formy a pokud jde o výdaje týkající se jeho vlastní osoby, měl by být extrémně jednoduchý a nenáročný. To se může zdát obyčejnému člověku jako vzácný jev. Ale podstata tohoto postoje spočívá v tom, že pokud je zvažován zvenčí, mohl by být posuzován jako něco průměrného."
+  },
+  {
+    "id": 63,
+    "nombre": "PO UKONČENÍ",
+    "trigramas": {
+      "superior": "K'an Abys, Voda",
+      "inferior": "Li Lo Kmitající, Oheň"
+    },
+    "juicio": "Po dokončení. Úspěch v malých záležitostech. Vytrvalost je výhodná. Nejprve štěstí, na konci narušení. Přechod ze starého do nového období je již dokončen. V zásadě je vše již v pořádku a jen v detailech úspěch ještě nebyl dosažen. Vše je na správné cestě a jde dál samo od sebe. To snadno vede k uvolnění a nechání věcí jít podle sebe bez detailních starostí. Tato nedbalost je kořenem všeho zla. Nutně způsobuje objevení příznaků úpadku. Zde máme pravidlo, které řídí běžný běh dějin. Ale ten, kdo mu rozumí, se může vyhnout následkům díky neomylné vytrvalosti a opatrnosti.",
+    "imagen": "Voda nad ohněm: obraz situace po ukončení. Tak ušlechtilý člověk uvažuje o neštěstí a připravuje se na něj předem. Když je voda v konvici nad ohněm, oba prvky jsou mezi sebou ve vztahu a z nich vzniká tvorba energie (produkce páry). Každopádně napětí, které z toho vyplývá, vyžaduje bdělost. Pokud voda přeteče, oheň zhasne a energie se ztratí. Pokud je teplo příliš velké, voda se odpaří a energie se ztratí do vzduchu. Prvky zde uvedené do vzájemného vztahu jsou mezi sebou nepřátelé. Pouze velká opatrnost může předejít škodám. Totéž platí ve všech životních situacích, kde se síly vyrovnávají a působí harmonicky a kde je v důsledku toho vše zdánlivě v dokonalém pořádku. Za těchto okolností může jen moudrý rozpoznat okamžiky, které skrývají nebezpečí, a umí je odvrátit díky opatřením přijatým včas."
+  },
+  {
+    "id": 64,
+    "nombre": "PŘED UKONČENÍM",
+    "trigramas": {
+      "superior": "Li Lo Kmitající, Plamen",
+      "inferior": "K'an Abys, Voda"
+    },
+    "juicio": "Před dokončením. Úspěch. Ale pokud malá liška strčí svůj ocas do vody před tím, než dokončí přechod, není nic výhodného. Podmínky jsou těžké. Úkol je veliký a plný odpovědnosti. Nejedná se o nic menšího než přivést svět zmatku k řádu. Ale je to úkol, který slibuje úspěch, protože jeho cílem je spojit síly, které jsou nyní rozptýleny různými směry. Aby se toho dosáhlo, je třeba se pohybovat opatrně, jako mladá liška překračující led. V Číně je opatrnost lišky kráčející po ledu příslovečná. Její uši jsou neustále bdělé na praskání ledu a se vším opatrně hledá nejbezpečnější místa. Mladý lišák, který tuto obezřetnost ještě nezná, kráčí neohroženě a může se stát, že spadne do vody, když už téměř dokončil přechod, a namočí si ocas. Samozřejmě, veškeré úsilí bude zbytečné. Stejně tak v okamžicích bezprostředně před splněním úkolu jsou reflexe a opatrnost základními podmínkami úspěchu.",
+    "imagen": "Oheň nad vodou. Obraz podmínek před naplněním. Ušlechtilý člověk je opatrný při rozlišování věcí, aby každá našla své místo. Když je oheň, který má tendenci stoupat, nahoře a voda, která má tendenci klesat, dole, jejich účinky směřují různě a zůstávají oba bez vztahu. Pokud chceme něčeho dosáhnout, musíme nejprve prozkoumat povahu daných sil a potom každé přiřadit vhodné místo. Když je umístíme na správné místo, vyvolají požadovaný účinek a naplnění bude realizováno. Ale abychom mohli vhodně disponovat vnějšími silami, je nejprve nutné přijmout správný pohled sami na sebe. Pouze od toho okamžiku bude možné jednat správně."
+  }
+]

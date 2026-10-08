@@ -1,0 +1,54 @@
+{
+  "app": {
+    "themeToggleLight": "Skift til lys tilstand",
+    "themeToggleDark": "Skift til mørk tilstand",
+    "themeToggleAria": "Skift mellem lyst og mørkt tema",
+    "title": "I Ching Ur"
+  },
+  "clock": {
+    "ariaLabel": "Analog ur",
+    "currentTime": "Aktuel tid:"
+  },
+  "oracle": {
+    "title": "I Ching-oraklet",
+    "subtitle": "Vær venlig at bruge denne orakel med respekt og forsigtighed.",
+    "note": "Formuler dit spørgsmål med oprigtighed.",
+    "clearReadings": "Rense læsninger",
+    "historyAria": "Forespørgselsoversigt",
+    "loading": "Konsulterer oraklet...",
+    "historyTitle": "Konsultationshistorik",
+    "clearConfirmation": "Historik ryddet"
+  },
+  "form": {
+    "questionLabel": "Spørgsmål til oraklet",
+    "placeholder": "Hvad er det, der bekymrer dig?",
+    "submit": "Konsultere",
+    "errorRequired": "Spørgsmål kan ikke være tomt"
+  },
+  "reading": {
+    "readingFor": "Læse for: \"{{question}}\"",
+    "initialHexagram": "Start Hexagram",
+    "primaryHexagram": "Hovedheksagram",
+    "mutatesTo": "Skift til"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Overlegen",
+    "inferior": "Inferiør",
+    "judgment": "Retten",
+    "image": "Billedet"
+  },
+  "languages": {
+    "es": "Spansk",
+    "gl": "Galicisk",
+    "eu": "Baskisk",
+    "ca": "Katalansk",
+    "en": "Engelsk",
+    "fr": "Fransk",
+    "it": "Italiensk",
+    "ro": "Rumænsk"
+  },
+  "notifications": {
+    "localeLoadError": "Kunne ikke indlæse sprogfiler. Kontroller venligst din forbindelse."
+  }
+}

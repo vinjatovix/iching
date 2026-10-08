@@ -1,43 +1,36 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import iChing from 'i-ching';
+import { localizationService } from '../services/localizationService';
 
+// Fallback synchronous load to guarantee fast initial render for 'es'
 import hexagramsEs from '../db/hexagrams_es.json';
-import hexagramsGl from '../db/hexagrams_gl.json';
-import hexagramsEu from '../db/hexagrams_eu.json';
-import hexagramsCa from '../db/hexagrams_ca.json';
-import hexagramsEn from '../db/hexagrams_en.json';
-import hexagramsFr from '../db/hexagrams_fr.json';
-import hexagramsIt from '../db/hexagrams_it.json';
-import hexagramsRo from '../db/hexagrams_ro.json';
-import hexagramsPt from '../db/hexagrams_pt.json';
-import hexagramsDe from '../db/hexagrams_de.json';
-import hexagramsEl from '../db/hexagrams_el.json';
-import hexagramsNl from '../db/hexagrams_nl.json';
-import hexagramsPl from '../db/hexagrams_pl.json';
-import hexagramsSv from '../db/hexagrams_sv.json';
-
-const HEXAGRAMS_MAP = {
-  es: hexagramsEs,
-  gl: hexagramsGl,
-  eu: hexagramsEu,
-  ca: hexagramsCa,
-  en: hexagramsEn,
-  fr: hexagramsFr,
-  it: hexagramsIt,
-  ro: hexagramsRo,
-  pt: hexagramsPt,
-  de: hexagramsDe,
-  el: hexagramsEl,
-  nl: hexagramsNl,
-  pl: hexagramsPl,
-  sv: hexagramsSv,
-};
 
 export function useIChing(question, initialReading = null) {
   const { i18n } = useTranslation();
   const lang = (i18n.resolvedLanguage || i18n.language || 'es').split('-')[0];
-  const currentHexagrams = HEXAGRAMS_MAP[lang] || hexagramsEs;
+  
+  const [asyncHexagrams, setAsyncHexagrams] = useState(null);
+
+  useEffect(() => {
+    let isCancelled = false;
+    if (!localizationService.hexagramCache.has(lang)) {
+      localizationService.loadHexagramCatalog(lang).then((data) => {
+        if (!isCancelled) {
+          setAsyncHexagrams(data);
+        }
+      }).catch(() => {
+        if (!isCancelled) {
+          setAsyncHexagrams(localizationService.hexagramCache.get('es') || hexagramsEs);
+        }
+      });
+    }
+    return () => {
+      isCancelled = true;
+    };
+  }, [lang]);
+
+  const currentHexagrams = localizationService.hexagramCache.get(lang) || asyncHexagrams || hexagramsEs;
 
   const [prevQuestion, setPrevQuestion] = useState(question);
   const [reading, setReading] = useState(() => {

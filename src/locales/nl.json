@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Overschakelen naar lichte modus",
     "themeToggleDark": "Overschakelen naar donkere modus",
-    "themeToggleAria": "Schakelen tussen licht en donker thema"
+    "themeToggleAria": "Schakelen tussen licht en donker thema",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Analoge klok",
@@ -14,12 +15,15 @@
     "note": "Stel uw vraag met oprechtheid.",
     "clearReadings": "Lezingen wissen",
     "historyAria": "Geschiedenis van raadplegingen",
-    "loading": "Het orakel raadplegen..."
+    "loading": "Het orakel raadplegen...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Vraag voor het orakel",
     "placeholder": "Wat houdt u bezig?",
-    "submit": "Raadplegen"
+    "submit": "Raadplegen",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Lezing voor: \"{{question}}\"",
@@ -49,5 +53,8 @@
     "nl": "Nederlands",
     "pl": "Polski",
     "sv": "Svenska"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

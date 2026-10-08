@@ -1,0 +1,54 @@
+{
+  "app": {
+    "themeToggleLight": "Přepnout na světlý režim",
+    "themeToggleDark": "Přepnout na tmavý režim",
+    "themeToggleAria": "Přepnout světlé a tmavé téma",
+    "title": "Hodiny I Ching"
+  },
+  "clock": {
+    "ariaLabel": "Analogové hodiny",
+    "currentTime": "Aktuální hodina:"
+  },
+  "oracle": {
+    "title": "I-ťingův orákulum",
+    "subtitle": "Prosím, používejte tento orákulum s respektem a opatrností.",
+    "note": "Polož svou otázku upřímně.",
+    "clearReadings": "Vyčistit čtení",
+    "historyAria": "Historie dotazů",
+    "loading": "Konzultuji věštce...",
+    "historyTitle": "Historie konzultací",
+    "clearConfirmation": "Historie vymazána"
+  },
+  "form": {
+    "questionLabel": "Otázka pro orákulum",
+    "placeholder": "Co tě znepokojuje?",
+    "submit": "Konzultovat",
+    "errorRequired": "Otázka nesmí být prázdná"
+  },
+  "reading": {
+    "readingFor": "Čtení pro: \"{{question}}\"",
+    "initialHexagram": "Počáteční hexagram",
+    "primaryHexagram": "Hlavní hexagram",
+    "mutatesTo": "Mutace v"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Nadřízený",
+    "inferior": "Horší",
+    "judgment": "Soud",
+    "image": "Obrázek"
+  },
+  "languages": {
+    "es": "Španělština",
+    "gl": "Galicijský",
+    "eu": "Baskičtina",
+    "ca": "Katalánština",
+    "en": "angličtina",
+    "fr": "Francouzština",
+    "it": "Italština",
+    "ro": "Rumunština"
+  },
+  "notifications": {
+    "localeLoadError": "Nepodařilo se načíst jazyková data. Zkontrolujte prosím své připojení."
+  }
+}

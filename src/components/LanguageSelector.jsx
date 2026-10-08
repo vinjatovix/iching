@@ -1,27 +1,51 @@
+import { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import { SUPPORTED_LANGUAGES } from '../i18n';
+import { localizationService } from '../services/localizationService';
 
 export function LanguageSelector() {
-  const { i18n } = useTranslation();
+  const { i18n, t } = useTranslation();
+  const [isPending, setIsPending] = useState(false);
 
-  // Normalize language code to two characters if e.g. "es-ES"
   const currentLang = (i18n.resolvedLanguage || i18n.language || 'es').split('-')[0];
 
-  const handleChange = (e) => {
-    i18n.changeLanguage(e.target.value);
+  const handleChange = async (e) => {
+    const targetLang = e.target.value;
+    setIsPending(true);
+    
+    const result = await localizationService.changeLanguageSafely(targetLang);
+    setIsPending(false);
+    
+    if (!result.success) {
+      if (result.error === 'CONCURRENT_LOAD_IN_PROGRESS') return;
+
+      const event = new CustomEvent('app-notification', {
+        detail: {
+          id: Date.now().toString(),
+          message: t('notifications.localeLoadError', 'Could not load language data. Please check your connection.'),
+          politeness: 'assertive',
+          timestamp: Date.now()
+        }
+      });
+      window.dispatchEvent(event);
+    }
   };
+
+  const selectLabel = t('languages.selectLanguage', 'Seleccionar idioma');
 
   return (
     <div className="language-selector-wrapper">
       <label htmlFor="language-select" className="sr-only">
-        Idioma
+        {selectLabel}
       </label>
       <select
         id="language-select"
         className="language-selector"
         value={currentLang}
         onChange={handleChange}
-        aria-label="Seleccionar idioma / Select language"
+        disabled={isPending}
+        aria-label={selectLabel}
+        aria-busy={isPending}
       >
         {SUPPORTED_LANGUAGES.map((lang) => (
           <option key={lang.code} value={lang.code}>

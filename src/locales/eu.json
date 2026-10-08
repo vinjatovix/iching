@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Modu argira aldatu",
     "themeToggleDark": "Modu ilunera aldatu",
-    "themeToggleAria": "Modu argi eta iluna txandakatu"
+    "themeToggleAria": "Modu argi eta iluna txandakatu",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Erloju analogikoa",
@@ -14,12 +15,15 @@
     "note": "Egin zure galdera zintzotasunez.",
     "clearReadings": "Garbitu irakurketak",
     "historyAria": "Kontsulten historia",
-    "loading": "Orakuluari galdetzen..."
+    "loading": "Orakuluari galdetzen...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Orakuluarentzako galdera",
     "placeholder": "Zerk kezkatzen zaitu?",
-    "submit": "Kontsultatu"
+    "submit": "Kontsultatu",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Irakurketa honetarako: \"{{question}}\"",
@@ -43,5 +47,8 @@
     "fr": "Français",
     "it": "Italiano",
     "ro": "Română"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

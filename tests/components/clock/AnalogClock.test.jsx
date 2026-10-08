@@ -1,30 +1,49 @@
-import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
+import { describe, it, expect, vi } from 'vitest';
 import { AnalogClock } from '../../../src/components/clock/AnalogClock';
 
-describe('AnalogClock', () => {
-  it('renders analog clock with img role and accessibility label', () => {
+// Mock hook
+vi.mock('../../../src/hooks/useAnalogClock', () => ({
+  useAnalogClock: () => ({
+    hourDegrees: 90,
+    minuteDegrees: 180,
+    secondDegrees: 270,
+    timeString: '3:30:45 PM'
+  })
+}));
+
+// Mock translation
+vi.mock('react-i18next', () => ({
+  useTranslation: () => ({
+    t: (key) => {
+      const keys = {
+        'clock.ariaLabel': 'Analog clock',
+        'clock.currentTime': 'Current time:'
+      };
+      return keys[key] || key;
+    }
+  })
+}));
+
+describe('AnalogClock component', () => {
+  it('renders clock with correct aria-label and role', () => {
     render(<AnalogClock />);
-
-    const clockElement = screen.getByRole('img', { name: /reloj analógico/i });
-
-    expect(clockElement).toBeInTheDocument();
+    const clock = screen.getByRole('img', { name: 'Analog clock: 3:30:45 PM' });
+    expect(clock).toBeInTheDocument();
   });
 
-  it('renders accessible time element for screen readers', () => {
-    const { container } = render(<AnalogClock />);
-
-    const timeElement = container.querySelector('time');
-
-    expect(timeElement).toBeInTheDocument();
-    expect(timeElement?.textContent).toMatch(/\d{1,2}:\d{2}:\d{2}/);
+  it('renders visually hidden time string for screen readers', () => {
+    render(<AnalogClock />);
+    const hiddenText = screen.getByText('Current time:');
+    expect(hiddenText).toHaveClass('sr-only');
+    const timeElement = screen.getByText('3:30:45 PM');
+    expect(timeElement.tagName.toLowerCase()).toBe('time');
+    expect(timeElement.parentElement).toHaveClass('sr-only');
   });
 
-  it('hides visual clock needles from assistive technology', () => {
+  it('hides decorative clock body from assistive technology', () => {
     const { container } = render(<AnalogClock />);
-
-    const needlesContainer = container.querySelector('.analog-clock-body');
-
-    expect(needlesContainer).toHaveAttribute('aria-hidden', 'true');
+    const clockBody = container.querySelector('.analog-clock-body');
+    expect(clockBody).toHaveAttribute('aria-hidden', 'true');
   });
 });

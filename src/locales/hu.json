@@ -1,0 +1,54 @@
+{
+  "app": {
+    "themeToggleLight": "Átváltás világos módra",
+    "themeToggleDark": "Átváltás sötét módra",
+    "themeToggleAria": "Világos és sötét téma váltása",
+    "title": "I Ching óra"
+  },
+  "clock": {
+    "ariaLabel": "Analóg óra",
+    "currentTime": "Aktuális idő:"
+  },
+  "oracle": {
+    "title": "I Cseng jóskönyve",
+    "subtitle": "Kérlek, használd ezt az orákulumot tisztelettel és óvatossággal.",
+    "note": "Tedd fel a kérdésedet őszintén.",
+    "clearReadings": "Olvasatok tisztítása",
+    "historyAria": "Lekérdezési előzmények",
+    "loading": "Az orákulumhoz fordulva...",
+    "historyTitle": "Konzultáció története",
+    "clearConfirmation": "Történelem törölve"
+  },
+  "form": {
+    "questionLabel": "Kérdés az orákulumnak",
+    "placeholder": "Mi aggaszt téged?",
+    "submit": "Konzultálni",
+    "errorRequired": "A kérdés nem lehet üres"
+  },
+  "reading": {
+    "readingFor": "Olvasmány ide: \"{{question}}\"",
+    "initialHexagram": "Kezdő hexagram",
+    "primaryHexagram": "Fő Hexagram",
+    "mutatesTo": "Mutass neki"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Felsőbbrendű",
+    "inferior": "Alsóbbrendű",
+    "judgment": "Az Ítélet",
+    "image": "A kép"
+  },
+  "languages": {
+    "es": "Spanyol",
+    "gl": "Galíciai",
+    "eu": "Baszk",
+    "ca": "Katalán",
+    "en": "angol",
+    "fr": "Francia",
+    "it": "Olasz",
+    "ro": "Román"
+  },
+  "notifications": {
+    "localeLoadError": "Nem lehet betölteni a nyelvi adatokat. Kérjük, ellenőrizze a kapcsolatát."
+  }
+}

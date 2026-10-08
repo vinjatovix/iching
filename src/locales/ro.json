@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Comută la modul luminos",
     "themeToggleDark": "Comută la modul întunecat",
-    "themeToggleAria": "Comută între tema luminoasă și întunecată"
+    "themeToggleAria": "Comută între tema luminoasă și întunecată",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Ceas analogic",
@@ -14,12 +15,15 @@
     "note": "Formulați-vă întrebarea cu sinceritate.",
     "clearReadings": "Șterge citirile",
     "historyAria": "Istoricul consultărilor",
-    "loading": "Se consultă oracolul..."
+    "loading": "Se consultă oracolul...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Întrebare pentru oracol",
     "placeholder": "Ce te frământă?",
-    "submit": "Consultă"
+    "submit": "Consultă",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Citire pentru: \"{{question}}\"",
@@ -43,5 +47,8 @@
     "fr": "Français",
     "it": "Italiano",
     "ro": "Română"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

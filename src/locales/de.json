@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Zum hellen Modus wechseln",
     "themeToggleDark": "Zum dunklen Modus wechseln",
-    "themeToggleAria": "Helles und dunkles Thema umschalten"
+    "themeToggleAria": "Helles und dunkles Thema umschalten",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Analoge Uhr",
@@ -14,12 +15,15 @@
     "note": "Stellen Sie Ihre Frage mit Aufrichtigkeit.",
     "clearReadings": "Lesungen löschen",
     "historyAria": "Verlauf der Abfragen",
-    "loading": "Das Orakel wird befragt..."
+    "loading": "Das Orakel wird befragt...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Frage an das Orakel",
     "placeholder": "Was beunruhigt Sie?",
-    "submit": "Befragen"
+    "submit": "Befragen",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Lesung für: \"{{question}}\"",
@@ -49,5 +53,8 @@
     "nl": "Nederlands",
     "pl": "Polski",
     "sv": "Svenska"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

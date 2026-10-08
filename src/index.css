@@ -23,10 +23,10 @@
   --bg-card: #f6f4f0;
   --bg-card-glass: rgba(254, 252, 246, 0.72);
   --text-primary: #28231d;
-  --text-secondary: #635a4d;
-  --accent-gold: #9e7111;
+  --text-secondary: #5a5144;
+  --accent-gold: #855b00;
   --accent-gold-hover: #835c0a;
-  --accent-red: #c42626;
+  --accent-red: #b81d1d;
   --border-color: rgba(90, 75, 55, 0.14);
   --input-bg: rgba(250, 245, 235, 0.92);
   --input-border: rgba(90, 75, 55, 0.22);
@@ -39,6 +39,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent-gold);
+  outline-offset: 2px;
 }
 
 body {

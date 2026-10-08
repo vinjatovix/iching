@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Växla till ljust läge",
     "themeToggleDark": "Växla till mörkt läge",
-    "themeToggleAria": "Växla ljust och mörkt tema"
+    "themeToggleAria": "Växla ljust och mörkt tema",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Analog klocka",
@@ -14,12 +15,15 @@
     "note": "Ställ din fråga med uppriktighet.",
     "clearReadings": "Rensa läsningar",
     "historyAria": "Konsultationshistorik",
-    "loading": "Konsulterar oraklet..."
+    "loading": "Konsulterar oraklet...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Fråga till oraklet",
     "placeholder": "Vad oroar dig?",
-    "submit": "Konsultera"
+    "submit": "Konsultera",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Läsning för: \"{{question}}\"",
@@ -49,5 +53,8 @@
     "nl": "Nederlands",
     "pl": "Polski",
     "sv": "Svenska"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

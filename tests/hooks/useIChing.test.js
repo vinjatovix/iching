@@ -1,11 +1,13 @@
 import { describe, it, expect, beforeEach } from 'vitest';
 import { renderHook, act } from '@testing-library/react';
 import { useIChing } from '../../src/hooks/useIChing';
-import i18n from '../../src/i18n';
+import { localizationService } from '../../src/services/localizationService';
 
 describe('useIChing', () => {
-  beforeEach(() => {
-    i18n.changeLanguage('es');
+  beforeEach(async () => {
+    await act(async () => {
+      await localizationService.changeLanguageSafely('es');
+    });
   });
 
   it('returns null data when question is empty', () => {
@@ -35,12 +37,12 @@ describe('useIChing', () => {
     expect(result.current.reading.hexagram.number).toBe(result.current.primaryHexagram.id);
   });
 
-  it('preserves the same hexagram id when language changes', () => {
+  it('preserves the same hexagram id when language changes', async () => {
     const { result, rerender } = renderHook(() => useIChing('¿Cómo irá el proyecto?'));
     const initialHexagramId = result.current.primaryHexagram.id;
 
-    act(() => {
-      i18n.changeLanguage('en');
+    await act(async () => {
+      await localizationService.changeLanguageSafely('en');
     });
     rerender();
 
@@ -56,18 +58,26 @@ describe('useIChing', () => {
     { lang: 'fr', expectedFirstHexName: 'LE CRÉATEUR' },
     { lang: 'it', expectedFirstHexName: 'IL CREATORE' },
     { lang: 'ro', expectedFirstHexName: 'CREATORUL' },
-    { lang: 'pt', expectedFirstHexName: 'O CRIATIVO' },
+    { lang: 'pt', expectedFirstHexName: 'O CRIADOR' },
     { lang: 'de', expectedFirstHexName: 'DAS SCHÖPFERISCHE' },
-    { lang: 'el', expectedFirstHexName: 'ΤΟ ΔΗΜΙΟΥΡΓΙΚΟ' },
-    { lang: 'nl', expectedFirstHexName: 'HET SCHEPPENDE' },
-    { lang: 'pl', expectedFirstHexName: 'TWÓRCZOŚĆ (NIEBO)' },
-    { lang: 'sv', expectedFirstHexName: 'DET SKAPANDE (HIMLEN)' },
-  ])('provides localized primary hexagram data for language "$lang"', ({ lang }) => {
-    i18n.changeLanguage(lang);
+    { lang: 'el', expectedFirstHexName: 'Ο ΔΗΜΙΟΥΡΓΟΣ' },
+    { lang: 'nl', expectedFirstHexName: 'DE SCHEPPER' },
+    { lang: 'pl', expectedFirstHexName: 'TWÓRCA' },
+    { lang: 'sv', expectedFirstHexName: 'SKAPAREN' },
+  ])('provides localized primary hexagram data for language "$lang"', async ({ lang, expectedFirstHexName }) => {
+    await act(async () => {
+      await localizationService.changeLanguageSafely(lang);
+    });
 
-    const { result } = renderHook(() => useIChing('Life purpose and path'));
+    const fixedReading = {
+      hexagram: { number: 1, character: '䷀' },
+      change: null
+    };
+
+    const { result } = renderHook(() => useIChing('Life purpose and path', fixedReading));
 
     expect(result.current.primaryHexagram).toBeDefined();
+    expect(result.current.primaryHexagram.nombre.toUpperCase()).toContain(expectedFirstHexName);
     expect(result.current.primaryHexagram.juicio).toBeTruthy();
     expect(result.current.primaryHexagram.imagen).toBeTruthy();
   });

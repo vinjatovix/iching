@@ -2,7 +2,8 @@
   "app": {
     "themeToggleLight": "Passa alla modalità chiara",
     "themeToggleDark": "Passa alla modalità scura",
-    "themeToggleAria": "Alterna tema chiaro e scuro"
+    "themeToggleAria": "Alterna tema chiaro e scuro",
+    "title": "I Ching Clock"
   },
   "clock": {
     "ariaLabel": "Orologio analogico",
@@ -14,12 +15,15 @@
     "note": "Formula la tua domanda con sincerità.",
     "clearReadings": "Cancella letture",
     "historyAria": "Cronologia delle consultazioni",
-    "loading": "Consultazione dell'oracolo..."
+    "loading": "Consultazione dell'oracolo...",
+    "historyTitle": "Consultation History",
+    "clearConfirmation": "History cleared"
   },
   "form": {
     "questionLabel": "Domanda per l'oracolo",
     "placeholder": "Cosa ti preoccupa?",
-    "submit": "Consulta"
+    "submit": "Consulta",
+    "errorRequired": "Question cannot be empty"
   },
   "reading": {
     "readingFor": "Lettura per: \"{{question}}\"",
@@ -43,5 +47,8 @@
     "fr": "Français",
     "it": "Italiano",
     "ro": "Română"
+  },
+  "notifications": {
+    "localeLoadError": "Could not load language data. Please check your connection."
   }
 }

@@ -1,0 +1,54 @@
+{
+  "app": {
+    "themeToggleLight": "Aydınlık moda geç",
+    "themeToggleDark": "Koyu moda geç",
+    "themeToggleAria": "Açık ve koyu temayı değiştir",
+    "title": "I Ching Saati"
+  },
+  "clock": {
+    "ariaLabel": "Analog saat",
+    "currentTime": "Şu anki saat:"
+  },
+  "oracle": {
+    "title": "I Ching Kehaneti",
+    "subtitle": "Lütfen bu kehaneti saygıyla ve dikkatle kullan.",
+    "note": "Sorunu içtenlikle formüle et.",
+    "clearReadings": "Verileri temizle",
+    "historyAria": "Sorgu geçmişi",
+    "loading": "Kehaneti danışıyorum...",
+    "historyTitle": "Danışma Geçmişi",
+    "clearConfirmation": "Geçmişi temizledi"
+  },
+  "form": {
+    "questionLabel": "Kehanet için soru",
+    "placeholder": "Seni ne endişelendiriyor?",
+    "submit": "Danışmak",
+    "errorRequired": "Soru boş olamaz"
+  },
+  "reading": {
+    "readingFor": "Okuma için: \"{{question}}\"",
+    "initialHexagram": "Başlangıç Heksagramı",
+    "primaryHexagram": "Ana Hexagram",
+    "mutatesTo": "Sessiz ol"
+  },
+  "card": {
+    "hexagram": "Hezagram",
+    "superior": "Üst",
+    "inferior": "Alt",
+    "judgment": "Mahkeme",
+    "image": "Görüntü"
+  },
+  "languages": {
+    "es": "İspanyolca",
+    "gl": "Galce",
+    "eu": "Bask dili",
+    "ca": "Katalanca",
+    "en": "İngilizce",
+    "fr": "Fransızca",
+    "it": "İtalyanca",
+    "ro": "Romence"
+  },
+  "notifications": {
+    "localeLoadError": "Dil verileri yüklenemedi. Lütfen bağlantınızı kontrol edin."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "app": {
+    "themeToggleLight": "Bytt til lys modus",
+    "themeToggleDark": "Bytt til mørk modus",
+    "themeToggleAria": "Bytt mellom lyst og mørkt tema",
+    "title": "I Ching-klokke"
+  },
+  "clock": {
+    "ariaLabel": "Analog klokke",
+    "currentTime": "Aktuell tid:"
+  },
+  "oracle": {
+    "title": "I Ching-orakelet",
+    "subtitle": "Vennligst bruk denne orakelen med respekt og forsiktighet.",
+    "note": "Formuler spørsmålet ditt ærlig.",
+    "clearReadings": "Rengjøre avlesninger",
+    "historyAria": "Spørsmålshistorikk",
+    "loading": "Konsulterer oraklet...",
+    "historyTitle": "Konsultasjonshistorikk",
+    "clearConfirmation": "Historikk ryddet"
+  },
+  "form": {
+    "questionLabel": "Spørsmål til oraklet",
+    "placeholder": "Hva er det som bekymrer deg?",
+    "submit": "Konsultere",
+    "errorRequired": "Spørsmål kan ikke være tomt"
+  },
+  "reading": {
+    "readingFor": "Lesing for: \"{{question}}\"",
+    "initialHexagram": "Startheksagram",
+    "primaryHexagram": "Hovedheksagram",
+    "mutatesTo": "Muter den"
+  },
+  "card": {
+    "hexagram": "Hexagram",
+    "superior": "Overlegen",
+    "inferior": "Inferiør",
+    "judgment": "Retten",
+    "image": "Bildet"
+  },
+  "languages": {
+    "es": "Spansk",
+    "gl": "Galicisk",
+    "eu": "Baskisk",
+    "ca": "Katalansk",
+    "en": "Engelsk",
+    "fr": "Fransk",
+    "it": "Italiensk",
+    "ro": "Rumensk"
+  },
+  "notifications": {
+    "localeLoadError": "Kunne ikke laste språkdata. Vennligst sjekk forbindelsen din."
+  }
+}

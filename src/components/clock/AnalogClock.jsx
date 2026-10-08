@@ -25,7 +25,7 @@ export function AnalogClock() {
         <Needle type="analog-hours" degrees={hourDegrees} />
         <Needle type="analog-minutes" degrees={minuteDegrees} />
         <Needle type="analog-seconds" degrees={secondDegrees} color="var(--accent-red)" />
-        <div className="analog-clock-center" />
+        <div className="analog-clock-center" aria-hidden="true" />
       </div>
     </div>
   );
